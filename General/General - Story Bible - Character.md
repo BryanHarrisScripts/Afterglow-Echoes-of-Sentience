@@ -23,3 +23,5 @@ When creating a story Bible, characters are indeed a crucial element to include.
 * **Character Relationships with Setting**: Consider how your characters interact with the story's setting. How does their environment influence their actions, values, or beliefs? Ensure that the characters are grounded in their world and respond to it accordingly.
 
 Remember, a story Bible is a reference guide that helps maintain consistency and coherence throughout the narrative. Building well-rounded, relatable, and consistent characters is essential for engaging storytelling.
+
+---
