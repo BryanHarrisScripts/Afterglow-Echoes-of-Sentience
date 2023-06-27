@@ -39,9 +39,7 @@ AI's role in the process was purely facilitative. As per current legal and ethic
 
 This space is for exploring the use of AI in creativity and sharing resources and experiences. Whether you choose to incorporate AI into your creative process is entirely your decision. Consider your personal comfort, creative needs, and ethical viewpoints. As this field is novel and constantly evolving, legal consultation or intellectual property rights expertise may be required.
 
-**Note**: The outcomes of using AI in screenwriting are not guaranteed. Any losses or damages incurred due to your use of AI technology are
-
- your responsibility.
+**Note**: The outcomes of using AI in screenwriting are not guaranteed. Any losses or damages incurred due to your use of AI technology are your responsibility.
 
 Join me as we journey into this new creative frontier, with open minds, critical thinking, and a spirit of collaboration. Let's tell compelling stories and bring them to life, with or without the aid of AI.
 
