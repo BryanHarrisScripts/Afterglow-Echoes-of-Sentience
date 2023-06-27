@@ -33,4 +33,4 @@ Sure, here's the list in the format you've asked for, sorted by age with just on
 - David Lynch, 77 years old, Known for: Mulholland Drive @DAVID_LYNCH
 - Terry Gilliam, 82 years old, Known for: Brazil @TerryGilliam
 
-Please note that the list has been sorted from the youngest to the oldest.
+---
