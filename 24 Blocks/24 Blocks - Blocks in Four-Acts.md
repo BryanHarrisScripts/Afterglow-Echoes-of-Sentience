@@ -13,7 +13,7 @@ The four-act structure is a storytelling tool used in novels, plays, films, and 
 
 In the context of a screenplay, the four-act structure divides each act into six blocks, which could be approximately five minutes in screen time. Below is a template using this structure:
 
-#### The Four-Act Structure in Blocks
+### The Four-Act Structure in Blocks
 
 **Act 1: Setup**
 
