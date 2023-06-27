@@ -15,3 +15,5 @@ You, the user, generate prompts pertinent to the specific narrative block you're
 This combined methodology encourages an iterative process. You can revisit each block independently, experimenting with, refining, and perfecting each narrative element until you achieve the desired outcome. This approach ensures each narrative aspect receives the necessary attention and refinement. The AI, guided by your prompts, assists you in this iterative process, helping you attain narrative coherence and depth.
 
 In conclusion, the marriage of the 24 Blocks Process and ChatGPT's dynamic response generation creates a novel, interactive, and iterative approach to scriptwriting. It leverages the best of artificial intelligence, allowing you to refine and enhance your vision for the screen. This user-guided methodology promotes precision, emotional resonance, and narrative depth in storytelling, creating a comprehensive tool that can benefit both novices and seasoned screenwriters.
+
+---
