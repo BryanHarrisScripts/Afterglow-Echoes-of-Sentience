@@ -19,3 +19,5 @@ Regardless of the type of license you choose, the common factor is attribution. 
 ### Conclusion
 
 The world of screenplay writing is ripe for innovation. By open-sourcing your screenplay and using platforms like GitHub, you can become a part of this revolutionary shift towards greater collaboration, inclusivity, and creativity in storytelling. Open-source licensing protects your rights as an author while allowing you to benefit from the collective wisdom and talent of the global writing community. It's a brave new world out there for screenwriters, and we're excited to see the amazing stories that will come from this open-source revolution in screenwriting.
+
+---
