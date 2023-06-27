@@ -78,3 +78,4 @@ Act 4 | Block19 | Block20 | Block21 | Block22 | Block23 | Block24
 - Block 23: The Resolution - Defeating the Antagonist (Pages 111-115)
 - Block 24: The New Normal - Returning to a Transformed World (Pages 116-120)
 
+---
