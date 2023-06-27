@@ -42,7 +42,7 @@ Despite its potential limitations, this method's strengths in offering a clear, 
 
 ### Streamlining Narrative Progression 
 
-#### Example 1
+#### Example 1:
 
 Act/Block | Block | Block | Block | Block | Block | Block
 --- | --- | --- | --- | --- | --- | ---
@@ -51,7 +51,7 @@ Act 2 | Block07 | Block08 | Block09 | Block10 | Block11 | Block12
 Act 3 | Block13 | Block14 | Block15 | Block16 | Block17 | Block18
 Act 4 | Block19 | Block20 | Block21 | Block22 | Block23 | Block24
 
-#### Example 2
+#### Example 2:
 
 - Block 1: The Beginning - Introducing the Protagonist (Pages 1-5)
 - Block 2: New Opportunity - A Life-Changing Event (Pages 6-10)
