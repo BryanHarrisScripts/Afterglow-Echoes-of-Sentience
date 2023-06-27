@@ -1,7 +1,9 @@
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 1em; margin: 4em 0;">
 
-Links 🔗 – <a href="https://twitter.com/BryanHarrisTech" target="_blank">BryanHarrisTech</a> · <a href="https://twitter.com/iBryAi" target="_blank">iBryAi</a> · <a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/discussions">Discussions</a> · <a href="https://docs.github.com/en/site-policy/github-terms/github-community-guidelines">Guidelines</a>
+Links 🔗 – <a href="https://twitter.com/BryanHarrisTech" target="_blank">BryanHarrisTech</a> · <a href="https://twitter.com/iBryAi" target="_blank">iBryAi</a> · <a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/discussions">Discussions</a> · <a href="https://docs.github.com/en/site-policy/github-terms/github-community-guidelines">Guidelines</a>
+
+https://github.com/BryanHarrisScripts/
 
 </div>
 
