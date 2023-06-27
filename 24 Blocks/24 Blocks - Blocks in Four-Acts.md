@@ -1,6 +1,6 @@
 # Screenwriting in Blocks: A Four-Act Structure Guide
 
-## Introduction
+### Introduction
 
 Screenwriting often adheres to the conventional three-act format. This guide introduces an alternative approach, the four-act structure. This method divides each act into six blocks, each designed to propel the story and cultivate character development. This adaptable structure can cater to a wide range of genres and narratives, resulting in a well-structured and engaging screenplay.
 
@@ -13,7 +13,7 @@ The four-act structure is a storytelling tool used in novels, plays, films, and 
 
 In the context of a screenplay, the four-act structure divides each act into six blocks, which could be approximately five minutes in screen time. Below is a template using this structure:
 
-## The Four-Act Structure in Blocks
+#### The Four-Act Structure in Blocks
 
 **Act 1: Setup**
 
@@ -55,6 +55,6 @@ In the context of a screenplay, the four-act structure divides each act into six
 
 's specific needs. Block titles provide a rough guide and can be tailored to fit different genres or storylines.
 
-## Summary
+#### Summary
 
 The "Screenwriting in Blocks: A Four-Act Structure Guide" presents an innovative scripting approach. This guide deconstructs the traditional narrative arc into four distinctive acts, each containing six blocks, to create a dynamic and engaging story. These blocks provide a clear roadmap for consistent pacing and smooth narrative unfolding. While useful, not all stories will fit perfectly into this structure. It's a flexible tool meant to be adapted to a story's specific needs. As a guide, it should serve as a foundation, not a strict rule, for creating compelling screenplays.
