@@ -37,3 +37,5 @@ Pull requests are a way to propose changes that others can review. This feature 
 ### Wrapping Up
 
 Collaborative writing can be a rewarding journey, brimming with shared creativity and collective wisdom. With the right strategies and tools, such as GitHub, the process can be smooth and productive. Remember, effective collaboration hinges on open communication, respect for diverse perspectives, and a willingness to embrace and resolve conflicts. So as you embark on your collaborative writing project, keep these strategies in mind, leverage the power of GitHub, and let your collective narratives unfold.
+
+---
