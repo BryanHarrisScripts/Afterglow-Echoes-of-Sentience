@@ -26,3 +26,5 @@ When pitching a project, whether it's a book, film, TV series, or any creative e
 * **Call to Action**: Conclude your pitch with a clear call to action. State what you are seeking—whether it's funding, representation, collaboration, or further discussions—and how interested parties can get in touch with you.
 
 Remember, a comprehensive pitch should be well-prepared, concise, and engaging. Practice delivering your pitch with confidence and enthusiasm, adapting it to different time constraints and audience preferences. Be open to feedback and be ready to answer questions or address concerns. A strong pitch showcases your project's potential and your passion as a creator, increasing the chances of attracting interest and support.
+
+---
