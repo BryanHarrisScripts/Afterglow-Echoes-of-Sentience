@@ -38,7 +38,7 @@ The "24 Blocks" approach simplifies screenwriting, making it accessible while pr
 
 Despite its potential limitations, this method's strengths in offering a clear, structured, and flexible guide to crafting a narrative make it a valuable resource for screenwriters.
 
-# Screenwriting: 24 Blocks in 5-Minutes 
+## 24 Blocks in 5-Minutes - Examples
 
 ### Streamlining Narrative Progression 
 
