@@ -1,4 +1,4 @@
-# 24 Blocks with Artificial Intelligence: A Screenwriting Guide
+# 24 Blocks with AI: A Screenwriting Guide
 
 This guide is designed to bridge the gap between traditional screenwriting techniques and innovative artificial intelligence technology. It's a valuable resource for a diverse audience - from educators, film students, and professional screenwriters to anyone interested in the filmmaking process. Regardless of your technological know-how, prior experience with AI, or screenwriting prowess, this guide offers a fresh, dynamic method to hone your scripts.
 
