@@ -71,3 +71,5 @@ There isn't a one-size-fits-all solution, and that's okay. The goal is to find a
 The script is set, the characters are ready - let's start this adventure together. As we experiment, we look forward to hearing your experiences and insights. After all, collaboration extends beyond the script - it's integral to our creative community.
 
 Happy writing and collaborating!
+
+---
