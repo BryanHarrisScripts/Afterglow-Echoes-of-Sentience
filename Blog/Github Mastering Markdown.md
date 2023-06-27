@@ -49,3 +49,5 @@ For instance, with task lists, you can break down your writing process into mana
 ### Wrapping Up
 
 As you step into the world of collaborative screenwriting on GitHub, mastering Markdown and GFM can provide you with a valuable skill set. While it may seem challenging at first, over time you will find these tools to be straightforward and highly beneficial to your writing process. They not only bring structure and readability to your scripts but also open up avenues for seamless collaboration and creative discussions. So embrace the power of Markdown and GFM, and let your scripts tell compelling stories in a space that fosters collaborative creativity.
+
+---
