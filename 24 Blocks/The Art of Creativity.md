@@ -1,23 +1,7 @@
 # 24 Blocks - The Art of Creativity
 When I wrote the script for 'Afterglow' back in 2017, I was blissfully unaware that this creative adventure would later serve the exploration of Artificial Intelligence (AI) and its interplay with screenwriting. This exploration, which evolved into the 'Afterglow Project,' was aimed at unearthing how AI (editing) could be seamlessly woven into the art of creating captivating screen narratives. In this endeavour, I chose to leverage my narrative framework known as 'Blocks.'
 
-### Goals (52 Days later...)
-
-- Expand outline/draft: 85+ pages from 40, wow!
-- Open-source on Github: Goes public July 4th.
-- Twitter sharing: Complete (Version 8 Released.)
-- Screenplay published on Twitter only: Done.
-- Used ChatGPT AI: Achieved, love it!
-- Grew profile to 500+ followers: Done - thank you!!
-- $5 Twitter Subscriptions: Pending approval.
-- AI Prompts documentation: Complete & building.
-- Shared journey on Twitter: Done and ongoing.
-- Make @batemanjason laugh: Still trying...(smile)
-- Relearned screenwriting in 30 days: Done, I think...
-- Started May 4th: 80 pages edited by June 25th. 
-- May 4th of course... @MarkHamill
- 
-### Introduction: Exploring the 'Blocks' System
+ ### Introduction: Exploring the 'Blocks' System
 
 Welcome, we dive into the 'Blocks' system, an approach to screenwriting. This technique stands as a blueprint for narrative sequencing and pacing, providing a strategy for both amateur and seasoned writers. Operating in a field where an equilibrium between imagination and structure is crucial, this method offers an enticing solution. The Blocks system dissects the screenplay into 24 distinct blocks, with each block approximately representing five minutes or five pages of the script. This method presents a visual and segmented lens for crafting a story, emphasizing the tempo and sequence of events rather than being solely focused on character development.
 
