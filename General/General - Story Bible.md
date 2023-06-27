@@ -31,3 +31,5 @@ While there's no standard format for a show bible, it typically contains the fol
 In addition to the bible, Hollywood also reviews scripts and pitch documents. A pitch is a verbal (and sometimes visual) presentation where you propose the idea for the show or movie to potential buyers. 
 
 Remember, the goal of these documents is not just to explain the story but to sell it. You need to demonstrate why your story is unique and why an audience would want to watch it.
+
+---
