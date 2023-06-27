@@ -51,9 +51,7 @@ In the context of a screenplay, the four-act structure divides each act into six
 - Block 5: The Resolution - Antagonist is defeated.
 - Block 6: The New Normal - Protagonist returns to a transformed world.
 
-"A Life-Changing Event" describes a critical moment significantly altering the protagonist's life, propelling them into the story's main plot. Depending on the story, this event can vary greatly. This four-act structure, with six blocks per act, can be adjusted to your screenplay
-
-'s specific needs. Block titles provide a rough guide and can be tailored to fit different genres or storylines.
+"A Life-Changing Event" describes a critical moment significantly altering the protagonist's life, propelling them into the story's main plot. Depending on the story, this event can vary greatly. This four-act structure, with six blocks per act, can be adjusted to your screenplay's specific needs. Block titles provide a rough guide and can be tailored to fit different genres or storylines.
 
 ### Summary
 
