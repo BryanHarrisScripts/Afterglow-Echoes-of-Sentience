@@ -56,3 +56,5 @@ Open-source culture in screenplay writing could also lead to the democratization
 Finally, consider the potential for learning and teaching. An open-source screenplay can act as a living document, serving as a teaching tool for other aspiring writers. They can observe the development process, learn from the changes and decisions made, and perhaps even participate in its evolution. 
 
 In a rapidly digitizing world, the open-source movement is just one example of how we can use technology to push boundaries, foster collaboration, and drive innovation. By opening up our creative processes, we're not just creating better screenplays; we're also creating a more inclusive, collaborative, and dynamic creative culture. So, why not give open-sourcing a try? It could change the way you write — and the way the world tells stories.of collective
+
+---
