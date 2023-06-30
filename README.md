@@ -4,7 +4,7 @@
 
 Links 🔗 – <a href="https://twitter.com/BryanHarrisTech" target="_blank">BryanHarrisTech</a> · <a href="https://twitter.com/iBryAi" target="_blank">iBryAi</a> · <a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/discussions">Discussions</a> · <a href="https://docs.github.com/en/site-policy/github-terms/github-community-guidelines">Guidelines</a>
 
-🤖 <a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/Afterglow/Afterglow%20on%20Twitter.md">Afterglow Menu</a> 🤖
+🤖 <a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/Afterglow/Afterglow%20Menu.md">Afterglow Menu</a> 🤖
 
 
 
