@@ -9,7 +9,7 @@
 
 # Table of Contents
 
-1. [24 Blocks - Architecture Process a Tool for Writers](/24%20Blocks/)
+1. [24 Blocks - Architecture Process a Tool for Writers](/24%20Blocks/README.md)
 2. [AI Prompts - AI Prompts for Editing Written Works](/AI%20Prompts/)
 3. [AI Twitter - Twitter links to Great Threads and Resources](/AI%20Twitter/)
 4. [Afterglow - A Menu with links to Twitter](/Afterglow/Afterglow%20Menu.md)
