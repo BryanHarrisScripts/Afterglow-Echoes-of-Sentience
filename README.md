@@ -6,10 +6,18 @@ Links 🔗 – <a href="https://twitter.com/BryanHarrisTech" target="_blank">Bry
 
 🤖 <a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/Afterglow/Afterglow%20Menu.md">Afterglow Menu</a> 🤖
 
-
-
-
 </div>
+
+# Table of Contents
+
+1. [24 Blocks - Architecture Process a Tool for Writers](/24_Blocks/)
+2. [AI Prompts - AI Prompts for Editing Written Works](/AI_Prompts/)
+3. [AI Twitter - Twitter links to Great Threads and Resources](/AI_Twitter/)
+4. [Afterglow - A Menu with links to Twitter](/Afterglow/)
+5. [Blog - Random BLOG's How to's](/Blog/)
+6. [General - General Screenwriting Terms](/General/)
+7. [Images - Images used](/Images/)
+
 
 # Welcome to the 'Afterglow' Journey
 
