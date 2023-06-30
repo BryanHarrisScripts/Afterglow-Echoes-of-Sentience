@@ -13,7 +13,7 @@ Links 🔗 – <a href="https://twitter.com/BryanHarrisTech" target="_blank">Bry
 1. [24 Blocks - Architecture Process a Tool for Writers](/24%20Blocks/)
 2. [AI Prompts - AI Prompts for Editing Written Works](/AI%20Prompts/)
 3. [AI Twitter - Twitter links to Great Threads and Resources](/AI%20Twitter/)
-4. [Afterglow - A Menu with links to Twitter](/Afterglow/)
+4. [Afterglow - A Menu with links to Twitter](/Afterglow/Afterglow%20Menu.md)
 5. [Blog - Random BLOG's How to's](/Blog/)
 6. [General - General Screenwriting Terms](/General/)
 7. [Images - Images used](/Images/)
