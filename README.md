@@ -38,7 +38,7 @@ The script is adaptable to various genres such as comedy, horror, or drama. You'
 
 This work is under the Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) license. It allows you to remix, adapt, and build upon this work, even for commercial purposes. However, you should give appropriate credit to the original author, include a link to the license, and note any modifications made. Any derivative work you make must also be licensed under the same license.
 
-- **Attribution**: State that the work was originally created by Bryan Harris.
+- **Attribution**: State that the work was originally created by Bryan E. Harris.
 - **License link**: Include a link to the Creative Commons Attribution-ShareAlike 4.0 International License, available [here](https://creativecommons.org/licenses/by-sa/4.0/).
 - **Indicate modifications**: Note if you've made changes to the original work.
 - **Link to original work**: Include a link to the original GitHub repository for Bryan Harris' scripts, which can be found [here](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience).
