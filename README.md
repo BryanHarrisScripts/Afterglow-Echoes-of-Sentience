@@ -11,11 +11,10 @@
 
 1. [24 Blocks - Architecture Process a Tool for Writers](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/24%20Blocks)
 2. [AI Prompts - AI Prompts for Editing Written Works](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/AI%20Prompts)
-3. [AI Twitter - Twitter links to Great Threads and Resources](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/AI%20Twitter)
-4. [Afterglow - A Menu with links to Twitter](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/Afterglow/Afterglow%20Menu.md)
-5. [Blog - Random BLOG's How to's](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/Blog)
-6. [General - General Screenwriting Terms](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/General)
-7. [Images - Images used](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/Images)
+3. [Afterglow - A Menu with links to Twitter](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/Afterglow/Afterglow%20Menu.md)
+4. [Blog - Random BLOG's How to's](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/Blog)
+5. [General - General Screenwriting Terms](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/General)
+6. [Images - Images used](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/Images)
 
 
 # Welcome to the 'Afterglow' Journey
