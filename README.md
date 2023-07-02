@@ -3,15 +3,15 @@
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 1em; margin: 4em 0;">
 
 🔗 <a href="https://twitter.com/BryanHarrisTech" target="_blank">BryanHarrisTech</a> · <a href="https://twitter.com/iBryAi" target="_blank">iBryAi</a> · <a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/discussions">Discussions</a> · <a href="https://docs.github.com/en/site-policy/github-terms/github-community-guidelines">Guidelines</a> ·
-<a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/Afterglow/Afterglow%20Menu.md">Afterglow Menu</a> · <a href="https://twitter.com/i/communities/1669222125591318528">ScreenCraft Twitter Community</a>
+<a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/Afterglow/Afterglow%20Menu.md">Afterglow Menu</a> · <a href="https://twitter.com/i/communities/1669222125591318528">ScreenCraft Twitter</a>
 
 </div>
 
 # Table of Contents
 
-1. [24 Blocks - Architecture Process a Tool for Writers](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/24%20Blocks)
-2. [AI Prompts - AI Prompts for Editing Written Works](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/AI%20Prompts)
-3. [Afterglow - A Menu with links to Twitter](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/Afterglow/Afterglow%20Menu.md)
+1. [24 Blocks - Architecture Process](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/24%20Blocks)
+2. [AI Prompts - Prompts for Editing](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/AI%20Prompts)
+3. [Afterglow - Story Menu (Links to Twitter)](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/Afterglow/Afterglow%20Menu.md)
 4. [Blog - Random BLOG's How to's](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/Blog)
 5. [General - General Screenwriting Terms](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/General)
 6. [Images - Images used](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/Images)
