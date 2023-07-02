@@ -73,3 +73,5 @@ Film and television storytelling employ a host of different structures:
 It's worth noting that this list is not exhaustive. Many films and TV shows integrate elements from different structures, creating a composite narrative format. Additionally, structures can significantly vary across cultures and filmmaking styles, attesting to the infinite versatility and adaptability of storytelling. 
 
 In conclusion, whether you are an educator looking for ways to explain the structures of storytelling, a student studying the art and science of narrative, or a hobbyist interested in the ways stories are told across different media, understanding the formats and structures of storytelling can provide valuable insights. The myriad formats, from the stage to the screen, from written prose to improv theatre, contribute to the richness of narrative traditions. As we continue to create and consume stories, these structures serve as guideposts, helping us navigate the boundless landscapes of human imagination.
+
+---
