@@ -2,7 +2,13 @@
 
 # Screenwriting: 24 Blocks in 5-Minutes 
 
-### Streamlining Narrative Progression
+# Table of Contents
+
+1. [24 Blocks - A New Spin](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/24%20Blocks/24%20Blocks%20-%20A%20New%20Spin.md)
+2. [24 Blocks - Blocks in Four-Acts](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/24%20Blocks/24%20Blocks%20-%20Blocks%20in%20Four-Acts.md)
+3. [24 Blocks - Blocks with AI](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/24%20Blocks/24%20Blocks%20-%20Blocks%20with%20AI.md)
+
+## Streamlining Narrative Progression
 
 #### The Blueprint: The "24 Blocks" Approach
 
@@ -24,6 +30,13 @@ Each block represents a key story beat or event, creating an interconnected cine
 
 The 24 blocks can theoretically span 5 pages each, based on a standard 120-page script. However, the actual page count for each plot point may vary depending on the specific story and writing style.
 
+Act/Block | Block | Block | Block | Block | Block | Block
+--- | --- | --- | --- | --- | --- | ---
+Act 1 | Block01 | Block02 | Block03 | Block04 | Block05 | Block06
+Act 2 | Block07 | Block08 | Block09 | Block10 | Block11 | Block12
+Act 3 | Block13 | Block14 | Block15 | Block16 | Block17 | Block18
+Act 4 | Block19 | Block20 | Block21 | Block22 | Block23 | Block24
+
 #### Maintaining Narrative Flow
 
 The "24 Blocks" technique provides a solution for scriptwriters to ensure a steady narrative pace throughout a standard feature film. By segmenting the script into 24 significant story beats or events, writers can construct a compelling narrative with a clear trajectory. 
@@ -43,17 +56,6 @@ Despite its potential limitations, this method's strengths in offering a clear, 
 ## 24 Blocks in 5-Minutes - Examples
 
 ### Streamlining Narrative Progression 
-
-#### Example 1:
-
-Act/Block | Block | Block | Block | Block | Block | Block
---- | --- | --- | --- | --- | --- | ---
-Act 1 | Block01 | Block02 | Block03 | Block04 | Block05 | Block06
-Act 2 | Block07 | Block08 | Block09 | Block10 | Block11 | Block12
-Act 3 | Block13 | Block14 | Block15 | Block16 | Block17 | Block18
-Act 4 | Block19 | Block20 | Block21 | Block22 | Block23 | Block24
-
-#### Example 2:
 
 - Block 1: The Beginning - Introducing the Protagonist (Pages 1-5)
 - Block 2: New Opportunity - A Life-Changing Event (Pages 6-10)
