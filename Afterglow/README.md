@@ -1,7 +1,3 @@
----
-layout: my_layout
-title: My Page Title
----
 
 <table>
 <tr>
