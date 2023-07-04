@@ -11,7 +11,7 @@
 
 1. [24 Blocks - Architecture Process](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/24%20Blocks)
 2. [AI Prompts - Prompts for Editing](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/AI%20Prompts)
-3. [Afterglow - Story Menu (Twitter Links)](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/Afterglow/Afterglow%20Menu.md)
+3. [Afterglow - Story Menu (Twitter Links)](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/Afterglow/README.md)
 4. [General - General Screenwriting Terms](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/General)
 5. [Blog - Random BLOG's How to's](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/Blog)
 6. [Images - Images used](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/Images)
