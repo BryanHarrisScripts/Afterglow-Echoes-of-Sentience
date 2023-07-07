@@ -29,6 +29,18 @@
 
 Hello, fellow creators! Welcome to 'Afterglow'. Whether you're a screenwriter, an educator, a student, a hobbyist, or just a curious soul, you're in the right place. I'm Bryan Harris, an independent writer with a background in film studies. This space is an open-source repository for screenwriters. It's a place where we can collaborate, share ideas, and transform a passion for writing into captivating stories. 
 
+This space is for exploring the use of AI in creativity and sharing resources and experiences. Whether you choose to incorporate AI into your creative process is entirely your decision.
+
+## AI in Screenwriting: A New Tool, Not a Co-Author
+
+The ChatGPT-4 language model served as an integral tool during the development process of 'Afterglow'. Its primary function was not to generate independent ideas, but to aid in language optimization, text refinement, and the articulation of existing concepts.
+
+Consider it akin to the role of a skilled editor: enhancing clarity, eliminating redundancy, and presenting ideas in a more coherent and engaging manner. Yet, unlike a human editor, AI does not bring its own ideas or creative inputs. All original thought, from core narrative decisions to thematic development, character creation, and plot structuring, originated from me.
+
+The contributions of ChatGPT-4 should be viewed as a rephrasing and restructuring of my original ideas - a way to present my thoughts using better linguistic structure without altering the core essence. Its role was to elevate the communication of my narrative, much like how Robert Kearns improved the windshield wiper without changing its original function.
+
+As per current legal and ethical considerations (as of September 2021), AI systems cannot be attributed with authorship rights, nor can they be credited or held accountable for the content they assist in producing. AI's involvement is purely facilitative, acting as a sophisticated tool to enhance the writer's original creative vision.
+
 ## About 'Afterglow: Echoes of Sentience'
 
 Set in a future where AI and humans coexist, 'Afterglow: Echoes of Sentience' explores the intertwined journeys of Ren and Summer. As they traverse their life paths and past traumas in self-driving cars Rocket and Joy, they evaluate AI-human coexistence, culminating in an unprecedented victory and hopeful promises.
@@ -46,15 +58,10 @@ This work is under the Creative Commons Attribution-ShareAlike 4.0 International
 - **Indicate modifications**: Note if you've made changes to the original work.
 - **Link to original work**: Include a link to the original GitHub repository for Bryan Harris' scripts, which can be found [here](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience).
 
-## AI in Screenwriting: A New Tool, Not a Co-Author
-
-The ChatGPT-4 language model was used as a tool during the development process of 'Afterglow'. Its function was to assist in language generation, text refinement, and idea brainstorming. However, all creative aspects, including core narrative decisions, thematic development, character creation, and plot structuring, were handled solely by me. 
-
-AI's role in the process was purely facilitative. As per current legal and ethical considerations (as of September 2021), AI systems cannot be attributed with authorship rights, nor can they be credited or held accountable for the content they assist in producing.
 
 ## AI in Creativity: A Disclaimer
 
-This space is for exploring the use of AI in creativity and sharing resources and experiences. Whether you choose to incorporate AI into your creative process is entirely your decision. Consider your personal comfort, creative needs, and ethical viewpoints. As this field is novel and constantly evolving, legal consultation or intellectual property rights expertise may be required.
+Consider your personal comfort, creative needs, and ethical viewpoints. As this field is novel and constantly evolving, legal consultation or intellectual property rights expertise may be required.
 
 **Note**: The outcomes of using AI in screenwriting are not guaranteed. Any losses or damages incurred due to your use of AI technology are your responsibility.
 
@@ -63,5 +70,3 @@ Join me as we journey into this new creative frontier, with open minds, critical
 Welcome aboard the 'Afterglow' journey!
 
 --- 
-
-
