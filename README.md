@@ -27,8 +27,15 @@
 **Author**: Bryan Elgin Harris  
 **Assisted by**: OpenAI's language model, ChatGPT-4
 
-Hello, fellow creators! Welcome to 'Afterglow'. Whether you're a screenwriter, an educator, a student, a hobbyist, or just a curious soul, you're in the right place. I'm Bryan Harris, an independent writer with a background in film studies. This space is an open-source repository for screenwriters. It's a place where we can collaborate, share ideas, and transform a passion for writing into captivating stories. 
+Hello, fellow creators! Welcome to 'Afterglow'. Whether you're a screenwriter, an educator, a student, a hobbyist, or just a curious soul, you're in the right place. I'm Bryan Harris, an independent writer with a background in film studies.
 
+'Afterglow' started as a project to understand how a screenplay could thrive on a platform like Twitter, and to gauge interest in the story. It quickly evolved into more than that, turning into an open-source endeavor that invites collaboration, sharing of ideas, and creative exploration. This space is more than just a repository for screenwriters—it's a place where we can join forces to transform a passion for writing into captivating narratives.
+
+In the process of this experiment, I also employed AI tools to rewrite and refine the original screenplay. The objective was not to replace the human touch, but to understand how artificial intelligence can assist in enhancing and structuring our creative thoughts.
+
+This space is also for exploring the use of AI in creativity, sharing resources, and learning from our collective experiences. The decision to incorporate AI into your creative process is entirely up to you. Remember, it's not about AI creating, but about AI helping us create more effectively.
+
+Join me on this journey of exploration, innovation, and creative collaboration. Welcome aboard the 'Afterglow' journey!
 This space is for exploring the use of AI in creativity and sharing resources and experiences. Whether you choose to incorporate AI into your creative process is entirely your decision.
 
 ## AI in Screenwriting: A New Tool, Not a Co-Author
