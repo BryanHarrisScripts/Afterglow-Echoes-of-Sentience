@@ -10,6 +10,7 @@
 # Table of Contents
 
 1. [Afterglow - Plot](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/Afterglow/Afterglow%20Plot.md)
+2. [Afterglow - Loglines](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/Afterglow/Afterglow%20Loglines.md)
 
 <h3 align="center">Act 1: Setup - Establishes Characters, Their Objectives, And The Setting</h3>
 
