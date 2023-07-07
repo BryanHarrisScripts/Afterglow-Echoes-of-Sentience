@@ -31,7 +31,7 @@ Hello, fellow creators! Welcome to 'Afterglow'. Whether you're a screenwriter, a
 
 'Afterglow' started as a project to understand how a screenplay could thrive on a platform like Twitter, and to gauge interest in the story. It quickly evolved into more than that, turning into an open-source endeavor that invites collaboration, sharing of ideas, and creative exploration. This space is more than just a repository for screenwriters—it's a place where we can join forces to transform a passion for writing into captivating narratives.
 
-In the process of this experiment, I also employed AI tools to rewrite and refine the original screenplay. The objective was not to replace the human touch, but to understand how artificial intelligence can assist in enhancing and structuring our creative thoughts.
+In the process of this experiment, I also employed AI tools to refine the original screenplay. The objective was not to replace the human touch, but to understand how artificial intelligence can assist in enhancing and structuring our creative thoughts.
 
 This space is also for exploring the use of AI in creativity, sharing resources, and learning from our collective experiences. The decision to incorporate AI into your creative process is entirely up to you. Remember, it's not about AI creating, but about AI helping us create more effectively.
 
@@ -69,6 +69,12 @@ This work is under the Creative Commons Attribution-ShareAlike 4.0 International
 ## AI in Creativity: A Disclaimer
 
 Consider your personal comfort, creative needs, and ethical viewpoints. As this field is novel and constantly evolving, legal consultation or intellectual property rights expertise may be required.
+
+**Note**: As per legal and ethical considerations up until September 2021, AI systems, such as ChatGPT-4, do not possess authorship rights or assume responsibility for the content they aid in generating. Their function is akin to that of a sophisticated editorial tool, aiding in language optimization and text refinement without contributing original ideas or themes.
+
+- In this context, the primary authorship of 'Afterglow' remains under my name, Bryan Harris. The utilization of AI in this project does not imply a co-authorship situation but rather an advanced tool assisting in the creative process. Hence, despite the engagement of AI, this does not constitute plagiarism but a modern approach to enhancing original work.
+
+- Current guidelines dictate that AI does not have authorship rights. Therefore, while it is instrumental in the process of creation, it does not bear the role of a co-creator or independent author. Consequently, the ultimate ownership and credit of the final work rest with the human author.
 
 **Note**: The outcomes of using AI in screenwriting are not guaranteed. Any losses or damages incurred due to your use of AI technology are your responsibility.
 
