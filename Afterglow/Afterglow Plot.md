@@ -1,3 +1,5 @@
+<td><a href="https://twitter.com/BryanHarrisTech/status/1674174661343543297?s=20" target="_blank"><img src="../Images/AfterglowPlot.png" alt="Image1" width="1200"/></a></td>
+
 # Plot: Afterglow: Echoes of Sentience
 
 The narrative begins with Amy, an AI assistant developed by Ren, a visionary co-founder of BBT Technologies. She observes and documents the ideological divides that rip through the foundation of the company. Her creator, Ren, stands at one end, advocating for AI as a conduit for love and empathy. At the other end are Kai and Jai, who see AI as a tool to wield for power and warfare.
