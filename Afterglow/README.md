@@ -10,10 +10,11 @@
 # Table of Contents
 
 1. [Afterglow - Plot](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/Afterglow/Afterglow%20Plot.md)
-2. [Afterglow - Music Inspirations](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/Afterglow/Music%20Inspirations.md)
-3. [Afterglow - Movie Inspirations](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/Afterglow/Movie%20Inspirations.md)
-4. [Afterglow - Software & Tools](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/Afterglow/Software%20and%20Tools.md)
-5. [Afterglow - Loglines](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/Afterglow/Afterglow%20Loglines.md)
+2. [Afterglow - Theme](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/Afterglow/Afterglow%20Theme.md)
+3. [Afterglow - Music Inspirations](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/Afterglow/Music%20Inspirations.md)
+4. [Afterglow - Movie Inspirations](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/Afterglow/Movie%20Inspirations.md)
+5. [Afterglow - Software & Tools](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/Afterglow/Software%20and%20Tools.md)
+6. [Afterglow - Loglines](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/Afterglow/Afterglow%20Loglines.md)
 ---
 
 <h3 align="center">Act 1: Setup - Establishes Characters, Their Objectives, And The Setting</h3>
