@@ -11,6 +11,7 @@
 
 1. [Afterglow - Plot](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/Afterglow/Afterglow%20Plot.md)
 2. [Afterglow - Theme](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/Afterglow/Afterglow%20Theme.md)
+3. [Afterglow - Overview](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/Afterglow/Afterglow%20Overview.md)
 3. [Afterglow - Music Inspirations](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/Afterglow/Music%20Inspirations.md)
 4. [Afterglow - Movie Inspirations](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/Afterglow/Movie%20Inspirations.md)
 5. [Afterglow - Software & Tools](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/Afterglow/Software%20and%20Tools.md)
