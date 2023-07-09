@@ -12,11 +12,11 @@
 1. [Afterglow - Plot](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/Afterglow/Afterglow%20Plot.md)
 2. [Afterglow - Theme](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/Afterglow/Afterglow%20Theme.md)
 3. [Afterglow - Overview](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/Afterglow/Afterglow%20Overview.md)
-3. [Afterglow - Music Inspirations](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/Afterglow/Music%20Inspirations.md)
-4. [Afterglow - Movie Inspirations](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/Afterglow/Movie%20Inspirations.md)
-5. [Afterglow - Software & Tools](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/Afterglow/Software%20and%20Tools.md)
-6. [Afterglow - Elevator Pitch](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/Afterglow/Elevator%20Pitch.md)
-6. [Afterglow - Loglines](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/Afterglow/Afterglow%20Loglines.md)
+4. [Afterglow - Music Inspirations](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/Afterglow/Music%20Inspirations.md)
+5. [Afterglow - Movie Inspirations](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/Afterglow/Movie%20Inspirations.md)
+6. [Afterglow - Software & Tools](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/Afterglow/Software%20and%20Tools.md)
+7. [Afterglow - Elevator Pitch](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/Afterglow/Elevator%20Pitch.md)
+8. [Afterglow - Loglines](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/Afterglow/Afterglow%20Loglines.md)
 ---
 
 <h3 align="center">Act 1: Setup - Establishes Characters, Their Objectives, And The Setting</h3>
@@ -49,7 +49,7 @@
 <table>
 <tr>
 <td><a href="https://twitter.com/BryanHarrisTech/status/1676938996084092928?s=20" target="_blank"><img src="../Images/Echoes of Familiarity.png" alt="Image4" width="2500"/></a></td>
-<td><a href="https://twitter.com/BryanHarrisTech/status/1674168495431360519?s=20" target="_blank"><img src="../Images/Banner.png" alt="Image5" width="2500"/></a></td>
+<td><a href="https://twitter.com/BryanHarrisTech/status/1674168495431360519?s=20" target="_blank"><img src="../Images/Reflections and Revelations.png" alt="Image5" width="2500"/></a></td>
 <td><a href="https://twitter.com/BryanHarrisTech/status/1674570061955178498?s=20" target="_blank"><img src="../Images/Banner.png" alt="Image6" width="2500"/></a></td>
 </tr>
 </table>
