@@ -14,6 +14,7 @@
 3. [Afterglow - Music Inspirations](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/Afterglow/Music%20Inspirations.md)
 4. [Afterglow - Movie Inspirations](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/Afterglow/Movie%20Inspirations.md)
 5. [Afterglow - Software & Tools](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/Afterglow/Software%20and%20Tools.md)
+6. [Afterglow - Elevator Pitch](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/Afterglow/Elevator%20Pitch.md)
 6. [Afterglow - Loglines](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/Afterglow/Afterglow%20Loglines.md)
 ---
 
