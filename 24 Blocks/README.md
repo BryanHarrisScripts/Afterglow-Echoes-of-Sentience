@@ -6,7 +6,8 @@
 
 1. [24 Blocks - A New Spin](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/24%20Blocks/24%20Blocks%20-%20A%20New%20Spin.md)
 2. [24 Blocks - Blocks in Four-Acts](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/24%20Blocks/24%20Blocks%20-%20Blocks%20in%20Four-Acts.md)
-3. [24 Blocks - Blocks with AI](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/24%20Blocks/24%20Blocks%20-%20Blocks%20with%20AI.md)
+3. [24 Blocks - Principle of Three](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/24%20Blocks/24%20Blocks%20-%20Principle%20of%20Three.md)
+4. [24 Blocks - Blocks with AI](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/24%20Blocks/24%20Blocks%20-%20Blocks%20with%20AI.md)
 
 ## Streamlining Narrative Progression
 
