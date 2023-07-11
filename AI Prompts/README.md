@@ -1,4 +1,4 @@
-<img src="./Images/AfterglowPrompts.png" />
+<img src="../Images/AfterglowPrompts.png" />
 
 # Table of Contents
 
