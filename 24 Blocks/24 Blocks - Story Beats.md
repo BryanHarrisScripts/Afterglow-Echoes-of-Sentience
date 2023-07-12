@@ -10,38 +10,37 @@ However, it's important to remember that every story is unique and might not con
 
 In essence, this 24-block structure is a tool that can help you build a cohesive, engaging screenplay. It can provide a roadmap from the inciting incident in Act One to the final resolution in Act Four, but it is up to you, the writer, to fill in the specifics. Your characters, their dialogue, the world they inhabit, and the unique twists and turns of your plot are what will truly bring your screenplay to life.
 
-
 # Story Beats: Act 1
 
-**Block 1** - Hook and Introduction
-- **Hook**: The script opens with an intriguing scene that captures the viewer's attention.
-- **Introduction**: The protagonist and their ordinary world are established.
+**Block 1** - Hook, Introduction, and Catalyst
+- **Hook**: The script opens with an engaging scene that captures the audience's attention and sets the tone of the story.
+- **Introduction**: The protagonist and their ordinary world are established, including key relationships and dynamics.
+- **Catalyst (Inciting Incident)**: A significant event happens that disrupts the protagonist's ordinary world and sets the story in motion.
 
-**Block 2** - Problem and Philosophical Conflict
-- **Problem**: A problem arises that disrupts the protagonist's ordinary world.
-- **Philosophical Conflict**: The problem raises deeper thematic questions or conflicts.
+**Block 2** - Problem, Stakes, and Philosophical Conflict
+- **Problem**: The protagonist is confronted with a major problem or challenge connected to the Catalyst.
+- **Stakes**: The potential losses and consequences the protagonist will face if they do not solve the problem are defined.
+- **Philosophical Conflict**: The problem introduces a thematic or philosophical question that challenges the protagonist's worldview.
 
-**Block 3** - Question, Stakes and Anti-Theme
-- **Question**: The philosophical conflict raises a critical question that the protagonist will need to answer by the end of the story.
-- **Stakes**: It becomes clear what the protagonist stands to lose if they do not solve the problem.
-- **Anti-Theme**: An opposing viewpoint to the main theme is introduced.
+**Block 3** - Anti-Theme, Want, and Choice
+- **Anti-Theme**: An opposing viewpoint or argument to the main theme of the story is presented.
+- **Want**: The protagonist identifies a goal or desire that they believe will solve their problem.
+- **Choice**: The protagonist makes a decision that pushes them out of their ordinary world and into a new, conflict-filled situation.
 
-**Block 4** - Want, Choice, and Initial Plan
-- **Want**: The protagonist formulates a desire or goal that they believe will solve the problem.
-- **Choice**: The protagonist makes a choice that propels them into a new situation.
-- **Plan**: The protagonist devises a plan to achieve their want.
+**Block 4** - Initial Plan, Action, and New Problem
+- **Plan**: The protagonist devises an initial strategy to achieve their goal.
+- **Action**: The protagonist begins to execute their plan.
+- **New Problem**: An unexpected obstacle or setback arises, complicating the protagonist's situation.
 
-**Block 5** - Initial Action, Problem and Therefore
-- **Action**: The protagonist starts to implement their plan.
-- **Problem**: However, they face a new, unexpected problem or obstacle.
-- **Therefore**: This problem forces them to adapt or modify their approach.
+**Block 5** - Adaptation, Revised Plan, and Raised Stakes
+- **Adaptation**: The protagonist adjusts or changes their approach in response to the new problem.
+- **Revised Plan**: The protagonist formulates a new plan based on their adaptation.
+- **Raised Stakes**: The consequences of failure become even greater, heightening the story's tension.
 
-**Block 6** - Choice, Revised Plan, Raised Stakes, Question and Action
-- **Choice**: The protagonist makes another choice in response to the new problem.
-- **Revised Plan**: The protagonist adjusts their plan based on the new choice.
-- **Raise the Stakes**: The stakes increase, adding more tension and urgency to the protagonist's situation.
-- **Question**: The raised stakes introduce a new question or deepen the existing question.
-- **Action**: The protagonist takes action according to their revised plan, ending Act One and launching into Act Two.
+**Block 6** - Choice, Action, and Antagonist Hint
+- **Choice**: The protagonist makes another crucial decision in response to the increased stakes.
+- **Action**: The protagonist takes action according to their revised plan, moving the story into Act Two.
+- **Antagonist** Hint: A hint or introduction to the primary antagonist or opposing force, providing a glimpse of the larger conflict to come.
 
 # Story Beats: Act 2
 
