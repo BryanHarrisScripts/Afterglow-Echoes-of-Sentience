@@ -1,4 +1,6 @@
-# Character Development Checklist: Navigating the Transformation in Act 1
+# Character Development Checklist: Act 1 
+
+### Navigating the Transformation 
 
 Here are some questions that a writer might consider for each of these beats:
 
