@@ -50,7 +50,7 @@
 <tr>
 <td><a href="https://twitter.com/BryanHarrisTech/status/1676938996084092928?s=20" target="_blank"><img src="../Images/Echoes of Familiarity.png" alt="Image4" width="2500"/></a></td>
 <td><a href="https://twitter.com/BryanHarrisTech/status/1678470433153097753?s=20" target="_blank"><img src="../Images/Reflections and Revelations.png" alt="Image5" width="2500"/></a></td>
-<td><a href="https://twitter.com/BryanHarrisTech/status/1679138324466761732?s=20" target="_blank"><img src="../Images/Uncharted Territories.png" alt="Image6" width="2500"/></a></td>
+<td><a href="https://twitter.com/BryanHarrisTech/status/1679144344496795649?s=20" target="_blank"><img src="../Images/Uncharted Territories.png" alt="Image6" width="2500"/></a></td>
 </tr>
 </table>
 
