@@ -1,4 +1,6 @@
-# Character Development Checklist: Navigating the Transformation in Act 2
+# Character Development Checklist: Act 2
+
+### Navigating the Transformation 
 
 A writer should consider the following questions to guide their understanding and development of the story, characters, internal and external influences, theme, and plot within the context of Act 2:
 
