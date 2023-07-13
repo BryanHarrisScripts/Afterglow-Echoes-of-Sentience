@@ -7,20 +7,17 @@
 
 <a href="https://twitter.com/i/communities/1669222125591318528">AI Screenwriting Community</a> · <a href="https://twitter.com/i/lists/1675490119095140352">AI Screenwriters List</a>
 
-
-
-
 </div>
 
 # Table of Contents
 
 1. [Afterglow - Story Menu](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/Afterglow/README.md)
-2. [24 Blocks - Architecture Process](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/24%20Blocks)
-3. [AI Prompts - Editing Prompts](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/AI%20Prompts/README.md)
-4. [General - Screenwriting Terms](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/General)
-5. [Blog - Random How To BLOG's](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/Blog)
-6. [Images - Images Used](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/Images)
-
+2. [AI Prompts - Editing Prompts](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/AI%20Prompts/README.md)
+3. [24 Blocks - Architecture Process](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/24%20Blocks)
+4. [Blog - Random How To BLOG's](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/Blog)
+5. [General - Screenwriting Terms](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/General)
+6. [Character - Development](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/Character)
+7. [Images - Images Used](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/Images)
 
 # Welcome to the 'Afterglow' Journey
 
