@@ -1,6 +1,6 @@
 # Fractal Storytelling: Principle of Three Meets 24 Blocks
 
-In the evolving field of narrative construction, we delve into two techniques which, when utilized together, provide a fascinating new approach to structuring screenplays. This paper explores the 'Principle of Three' and the '24 Blocks Technique', demonstrating their potential integration to create a resonant fractal narrative.
+In the evolving field of narrative construction, we delve into two techniques which, when utilized together, provide a fascinating new approach to structuring screenplays. This post explores the 'Principle of Three' and the '24 Blocks Technique', demonstrating their potential integration to create a resonant fractal narrative.
 
 **The Principle of Three: Promise, Progress, Payoff**
 
