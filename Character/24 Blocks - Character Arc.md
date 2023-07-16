@@ -1,4 +1,6 @@
-# The Evolution of Character: A Journey Through the Four-Act Structure
+# The Evolution of Character
+
+### A Journey Through the Four-Act Structure
 
 A character arc describes the transformation or inner journey of a character over the course of a narrative. The four-act structure can offer a nuanced, detailed progression for this character development. Here's a general idea of how the character arc might unfold in a four-act structure:
 
