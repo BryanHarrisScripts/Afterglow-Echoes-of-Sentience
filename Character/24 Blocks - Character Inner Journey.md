@@ -1,4 +1,4 @@
-# The Evolution of Character
+# Character Inner Journey
 
 ### A Journey Through the Four-Act Structure
 
