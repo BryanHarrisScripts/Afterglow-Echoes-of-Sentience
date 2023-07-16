@@ -1,4 +1,4 @@
-# Character Development Checklist: Act 3
+# Character Questions: Act 3
 
 ### Navigating the Transformation 
 
