@@ -9,6 +9,13 @@
 
 </div>
 
+# The Unseen Editor
+
+I've been rewriting a script with the assistance of AI. If this technology truly has merit, then why aren't studios knocking on my door or expressing interest in the script? I've made it open-source and have been continually refining it with AI; this is already the second rewrite. As James Cameron has said, even with AI assistance, real experience is required. Feel free to [check it out](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/AfterGlow%20v8%20Twitter%20Rewrite%20Bryan%20E.%20Harris%202023%20Github.pdf) - who knows, it might just be the best screenplay out there... lol.
+
+- [Afterglow Version 8](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/AfterGlow%20v8%20Twitter%20Rewrite%20Bryan%20E.%20Harris%202023%20Github.pdf)
+- [Afterglow Version 9](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/Afterglow/README.md)
+
 # Table of Contents
 
 1. [Afterglow - Story Menu](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/Afterglow/README.md)
