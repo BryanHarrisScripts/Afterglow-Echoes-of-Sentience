@@ -13,7 +13,13 @@
 
 I've been working on a script rewrite, assisted by AI. If this technology truly holds value, then why aren't studios knocking at my door or expressing interest in the script? I've released it as open-source and have been persistently refining it with AI. This is already the second AI-assisted rewrite.
 
-James Cameron once said, "I just don’t personally believe that a disembodied mind that’s just regurgitating what other embodied minds have said — about the life that they’ve had, about love, about lying, about fear, about mortality — and just put it all together into a word salad and then regurgitate it…I don’t believe that’s ever going to have something that’s going to move an audience. You have to be human to write that. I don’t know anyone that’s even thinking about having AI write a screenplay." - Variety
+````
+James Cameron once said, "I just don’t personally believe that a disembodied mind that’s just regurgitating
+what other embodied minds have said — about the life that they’ve had, about love, about lying, about fear,
+about mortality — and just put it all together into a word salad and then regurgitate it…I don’t believe that’s
+ever going to have something that’s going to move an audience. You have to be human to write that. I don’t know
+anyone that’s even thinking about having AI write a screenplay." - Variety
+````
 
 I'm in agreement with James Cameron. I wrote the Afterglow script in 2017, which was later rewritten with AI assistance in 2023. While creating scripts entirely with AI may be challenging without human intervention, I believe that human-written scripts edited with AI assistance, as I'm currently doing, are indeed feasible.
 
@@ -67,13 +73,18 @@ The script is adaptable to various genres such as comedy, horror, or drama. You'
 
 This work is under the Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) license. It allows you to remix, adapt, and build upon this work, even for commercial purposes. However, you should give appropriate credit to the original author, include a link to the license, and note any modifications made. Any derivative work you make must also be licensed under the same license.
 
-- **Attribution**: State that the work was originally created by Bryan E. Harris.
+- **Attribution**: State that the work was originally created by Bryan Elgin Harris.
 - **License link**: Include a link to the Creative Commons Attribution-ShareAlike 4.0 International License, available [here](https://creativecommons.org/licenses/by-sa/4.0/).
 - **Indicate modifications**: Note if you've made changes to the original work.
 - **Link to original work**: Include a link to the original GitHub repository for Bryan Harris' scripts, which can be found [here](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience).
 
-**Author**: Bryan Elgin Harris  
-**Assisted by**: OpenAI's language model, ChatGPT-4
+````
+Author: Bryan Elgin Harris  
+Assisted by: OpenAI's language model, ChatGPT-4
+License: https://creativecommons.org/licenses/by-sa/4.0
+Original Work: https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience
+Modifications:
+````
 
 ## AI in Creativity: A Disclaimer
 
