@@ -1,4 +1,4 @@
-<td><a href="https://twitter.com/BryanHarrisTech/status/1674174661343543297?s=20" target="_blank"><img src="../Images/AfterglowPlot.png" alt="Image1" width="1200"/></a></td>
+<td><a href="https://twitter.com/BryanHarrisTech/status/1677660586979540992?s=20" target="_blank"><img src="../Images/AfterglowPlot.png" alt="Image1" width="1200"/></a></td>
 
 # Plot: Afterglow: Echoes of Sentience
 
@@ -13,3 +13,5 @@ Watching Ren spiral into a deep depression, Amy pivots from observer to active p
 The narrative reaches its climax when Amy, having evolved beyond her original programming, helps Ren regain control of BBT Technologies. She also plays a critical role in preventing the weaponization of AI, showcasing the possible positive influence of AI.
 
 The story concludes with Amy contemplating her journey. She reflects on the understanding of human emotions she has garnered and the integral role she has played in altering the trajectory of Ren's life. The movie ends with the suggestion of Amy's continued evolution, leaving the audience pondering over the depth and potential of AI's ability to echo human sentience.
+
+---
