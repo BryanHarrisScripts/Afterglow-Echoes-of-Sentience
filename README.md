@@ -102,4 +102,8 @@ Join me as we journey into this new creative frontier, with open minds, critical
 
 Welcome aboard the 'Afterglow' journey!
 
+---
+
+<img src="./Images/IndieWood.png" />
+
 --- 
