@@ -58,7 +58,7 @@
 <h3 align="center">Act 3: Complication - Introduces Additional Problems Or Obstacles</h3>
 <tr>
 <td><a href="https://twitter.com/BryanHarrisTech/status/1680222950182510595?s=20" target="_blank"><img src="../Images/Joyride into Consciousness.png" alt="Image1" width="2500"/></a></td>
-<td><a href="https://twitter.com/BryanHarrisTech/status/1675131561631416321?s=20" target="_blank"><img src="../Images/Banner.png" alt="Image2" width="2500"/></a></td>
+<td><a href="https://twitter.com/BryanHarrisTech/status/1682007877924339712?s=20" target="_blank"><img src="../Images/The Journey Within.png" alt="Image2" width="2500"/></a></td>
 <td><a href="https://twitter.com/BryanHarrisTech/status/1673839275505332224?s=20" target="_blank"><img src="../Images/Banner.png" alt="Image3" width="2500"/></a></td>
 </tr>
 </table>
