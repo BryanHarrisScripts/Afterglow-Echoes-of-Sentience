@@ -9,6 +9,6 @@
 5. [24 Blocks - Redundancy and Streamlining](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/AI%20Prompts/24%20Blocks%20-%20Redundancy%20and%20Streamlining.md)
 6. [24 Blocks - Structure and Characters](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/AI%20Prompts/24%20Blocks%20-%20Structure%20and%20Characters.md)
 7. [24 Blocks - Suggested Additions](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/AI%20Prompts/24-Blocks%20-%20Suggested%20Additions.md)
-8. [24 Blocks - Principle of Three](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/AI%20Prompts/24%20Blocks%20-%20Principle%20of%20Three.md)
+8. [24 Blocks - Dialogue](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/AI%20Prompts/24%20Blocks%20-%20Dialogue.md)
 
 ---
