@@ -10,8 +10,9 @@
 </div>
 
 # The Unseen Editor
+### An AI-Assisted Adventure
 
-I've been working on a script rewrite, assisted by AI. If this technology truly holds value, then why aren't studios knocking at my door or expressing interest in the script? I've released it as open-source and have been persistently refining it with AI. This is already the second AI-assisted rewrite.
+In my current project, I've been rewriting a script with the help of artificial intelligence. If this technology truly holds value, why aren't studios knocking at my door or expressing interest in the script? I've released it as open-source and have been persistently refining it with AI, making this the second AI-assisted rewrite...
 
 ````
 James Cameron once said, "I just don’t personally believe that a disembodied mind that’s just regurgitating
