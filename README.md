@@ -1,8 +1,10 @@
+<a id="top"></a>
+
 <img src="./Images/AI ScreenCraft Hub Unleashedv1.png" />
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 1em; margin: 4em 0;">
 
-🔗 · <a href="https://twitter.com/BryanHarrisTech" target="_blank">BryanHarrisTech</a> · <a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/discussions">Discussions</a> · <a href="https://docs.github.com/en/site-policy/github-terms/github-community-guidelines">Guidelines</a> ·
+🔗  <a href="https://twitter.com/BryanHarrisTech" target="_blank">BryanHarrisTech</a> · <a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/discussions">Discussions</a> · <a href="https://docs.github.com/en/site-policy/github-terms/github-community-guidelines">Guidelines</a> ·
 <a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/Afterglow/README.md">Afterglow Story Menu</a> ·
 
 <a href="https://twitter.com/i/communities/1669222125591318528">AI Writers Room Community</a> · <a href="https://twitter.com/i/lists/1675490119095140352">AI Writers Room List</a>
@@ -51,6 +53,8 @@ This space is also for exploring the use of AI in creativity, sharing resources,
 
 Join me on this journey of exploration, innovation, and creative collaboration. Welcome aboard the 'Afterglow' journey!
 This space is for exploring the use of AI in creativity and sharing resources and experiences. Whether you choose to incorporate AI into your creative process is entirely your decision.
+
+[Back to Top](#top)
 
 ## AI in Screenwriting: A New Tool, Not a Co-Author
 
