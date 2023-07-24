@@ -66,6 +66,8 @@ The contributions of ChatGPT-4 should be viewed as a rephrasing and restructurin
 
 As per current legal and ethical considerations (as of September 2021), AI systems cannot be attributed with authorship rights, nor can they be credited or held accountable for the content they assist in producing. AI's involvement is purely facilitative, acting as a sophisticated tool to enhance the writer's original creative vision.
 
+<a href="#top">Back to Top</a>
+
 ## About 'Afterglow: Echoes of Sentience'
 
 Set in a future where AI and humans coexist, 'Afterglow: Echoes of Sentience' explores the intertwined journeys of Ren and Summer. As they traverse their life paths and past traumas in self-driving cars Rocket and Joy, they evaluate AI-human coexistence, culminating in an unprecedented victory and hopeful promises.
@@ -91,6 +93,8 @@ Original Work: https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentien
 Modifications:
 ````
 
+<a href="#top">Back to Top</a>
+
 ## AI in Creativity: A Disclaimer
 
 Consider your personal comfort, creative needs, and ethical viewpoints. As this field is novel and constantly evolving, legal consultation or intellectual property rights expertise may be required.
@@ -106,6 +110,8 @@ Consider your personal comfort, creative needs, and ethical viewpoints. As this 
 Join me as we journey into this new creative frontier, with open minds, critical thinking, and a spirit of collaboration. Let's tell compelling stories and bring them to life, with or without the aid of AI.
 
 Welcome aboard the 'Afterglow' journey!
+
+<a href="#top">Back to Top</a>
 
 ---
 
