@@ -54,7 +54,7 @@ This space is also for exploring the use of AI in creativity, sharing resources,
 Join me on this journey of exploration, innovation, and creative collaboration. Welcome aboard the 'Afterglow' journey!
 This space is for exploring the use of AI in creativity and sharing resources and experiences. Whether you choose to incorporate AI into your creative process is entirely your decision.
 
-[Back to Top](#top)
+<a href="#top">Back to Top</a>
 
 ## AI in Screenwriting: A New Tool, Not a Co-Author
 
