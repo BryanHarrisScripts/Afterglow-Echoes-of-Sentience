@@ -1,9 +1,13 @@
 <a id="top"></a>
 
-# The Art of Character Development: A Comprehensive Guide
+# The Art of Character Development
 
 ## Table of Contents
 
+<table>
+  <tr>
+    <td valign="top">
+      
 ### Part I: Individual Character Development
 1. [Crafting Unique Character Voices](#24-blocks---crafting-unique-character-voices)
 2. [Creating Complex Antagonists](#24-blocks---creating-complex-antagonists)
@@ -17,7 +21,8 @@
 10. [Motivations: The Drive Behind Characters](#24-blocks---motivations-the-drive-behind-characters)
 11. [Writing Realistic Dialogue for Characters](#24-blocks---writing-realistic-dialogue-for-characters)
 12. [Characters' Moral Dilemmas](#24-blocks---characters-moral-dilemmas)
-
+    </td>
+    <td valign="top">
 ### Part II: Characters Within the Story
 13. [The Impact of Setting on Character](#24-blocks---the-impact-of-setting-on-character)
 14. [Character's Role in Plot Development](#24-blocks---characters-role-in-plot-development)
@@ -31,6 +36,11 @@
 22. [How Characters Impact Theme](#24-blocks---how-characters-impact-theme)
 23. [Writing Non-Human Characters](#24-blocks---writing-non-human-characters)
 24. [Creating a Cast of Characters: Balancing Personalities](#24-blocks---creating-a-cast-of-characters-balancing-personalities)
+    </td>
+  </tr>
+</table>
+
+# A Comprehensive Guide
 
 # 24 Blocks - Crafting Unique Character Voices
 
