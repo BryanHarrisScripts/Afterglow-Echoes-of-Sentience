@@ -7,12 +7,13 @@
 1. [24 Blocks - A New Spin](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/24%20Blocks/24%20Blocks%20-%20A%20New%20Spin.md)
 2. [24 Blocks - Blocks with AI](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/24%20Blocks/24%20Blocks%20-%20Blocks%20with%20AI.md)
 3. [24 Blocks - Dynamic Scenes](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/24%20Blocks/24%20Blocks%20-%20Dynamic%20Scenes.md)
-4. [24 Blocks - Blocks in Four-Acts](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/24%20Blocks/24%20Blocks%20-%20Blocks%20in%20Four-Acts.md)
-5. [24 Blocks - Diverse Structures](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/24%20Blocks/24%20Blocks%20-%20Diverse%20Structures.md)
-6. [24 Blocks - Principle of Three](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/24%20Blocks/24%20Blocks%20-%20Principle%20of%20Three.md)
-7. [24 Blocks - Story Beats](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/24%20Blocks/24%20Blocks%20-%20Story%20Beats.md)
-8. [24 Blocks - Reflection](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/24%20Blocks/24%20Blocks%20-%20Reflection.md)
-   
+4. [24 Blocks - Principle of Three](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/24%20Blocks/24%20Blocks%20-%20Principle%20of%20Three.md)
+5. [24 Blocks - Blocks in Four-Acts](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/24%20Blocks/24%20Blocks%20-%20Blocks%20in%20Four-Acts.md)
+6. [24 Blocks - Diverse Structures](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/24%20Blocks/24%20Blocks%20-%20Diverse%20Structures.md)
+7. [24 Blocks - Structures Role](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/24%20Blocks/24%20Blocks%20-%20Structures%20Role.md)
+8. [24 Blocks - Story Beats](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/24%20Blocks/24%20Blocks%20-%20Story%20Beats.md)
+9. [24 Blocks - Reflection](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/24%20Blocks/24%20Blocks%20-%20Reflection.md)
+
 ## Streamlining Narrative Progression
 
 #### The Blueprint: The "24 Blocks" Approach
