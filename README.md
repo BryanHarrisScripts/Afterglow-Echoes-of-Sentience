@@ -35,7 +35,7 @@ Feel free to check it out - who knows, it might just be the best screenplay out 
 
 1. [Afterglow - Story Menu](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/Afterglow/README.md)
 2. [AI Prompts - Editing Prompts](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/AI%20Prompts/README.md)
-3. [24 Blocks - Architecture Process](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/24%20Blocks/README.md)
+3. [24 Blocks - Structure & Process](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/24%20Blocks/README.md)
 4. [Blog - Random How To BLOG's](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/Blog/README.md)
 5. [General - Screenwriting Terms](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/General/README.md)
 6. [Character - Development](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/Character/README.md)
