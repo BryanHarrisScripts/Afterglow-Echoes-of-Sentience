@@ -10,7 +10,7 @@
 4. [24 Blocks - Principle of Three](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/24%20Blocks/24%20Blocks%20-%20Principle%20of%20Three.md)
 5. [24 Blocks - Blocks in Four-Acts](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/24%20Blocks/24%20Blocks%20-%20Blocks%20in%20Four-Acts.md)
 6. [24 Blocks - Diverse Structures](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/24%20Blocks/24%20Blocks%20-%20Diverse%20Structures.md)
-7. [24 Blocks - Structures Role](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/24%20Blocks/24%20Blocks%20-%20Structures%20Role.md)
+7. [24 Blocks - Structure's Role](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/24%20Blocks/24%20Blocks%20-%20Structures%20Role.md)
 8. [24 Blocks - Story Beats](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/24%20Blocks/24%20Blocks%20-%20Story%20Beats.md)
 9. [24 Blocks - Reflection](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/24%20Blocks/24%20Blocks%20-%20Reflection.md)
 
