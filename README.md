@@ -16,13 +16,11 @@
 
 In my current project, I've been rewriting a script with the help of artificial intelligence. If this technology truly holds value, why aren't studios knocking at my door or expressing interest in the script? I've released it as open-source and have been persistently refining it with AI, making this the second AI-assisted rewrite...
 
-````
-James Cameron once said, "I just don’t personally believe that a disembodied mind that’s just regurgitating
+> James Cameron once said, "I just don’t personally believe that a disembodied mind that’s just regurgitating
 what other embodied minds have said — about the life that they’ve had, about love, about lying, about fear,
 about mortality — and just put it all together into a word salad and then regurgitate it…I don’t believe that’s
 ever going to have something that’s going to move an audience. You have to be human to write that. I don’t know
 anyone that’s even thinking about having AI write a screenplay." - Variety
-````
 
 I'm in agreement with James Cameron. I wrote the Afterglow script in 2017, which was later rewritten with AI assistance in 2023. While creating scripts entirely with AI may be challenging without human intervention, I believe that human-written scripts edited with AI assistance, as I'm currently doing, are indeed feasible.
 
@@ -39,7 +37,8 @@ Feel free to check it out - who knows, it might just be the best screenplay out 
 4. [Blog - Random How To BLOG's](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/Blog/README.md)
 5. [General - Screenwriting Terms](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/General/README.md)
 6. [Character - Development](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/Character/README.md)
-7. [Images - Images Used](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/Images)
+7. [Dialogue - Development](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/Character/README.md)
+8. [Images - Images Used](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/Images)
 
 # Welcome to the 'Afterglow' Journey
 
