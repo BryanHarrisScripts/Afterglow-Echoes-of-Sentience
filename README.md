@@ -37,7 +37,7 @@ Feel free to check it out - who knows, it might just be the best screenplay out 
 4. [Blog - Random How To BLOG's](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/Blog/README.md)
 5. [General - Screenwriting Terms](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/General/README.md)
 6. [Character - Development](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/Character/README.md)
-7. [Dialogue - Development](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/Character/README.md)
+7. [Dialogue - Development](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Dialogue/README.md)
 8. [Images - Images Used](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/Images)
 
 # Welcome to the 'Afterglow' Journey
