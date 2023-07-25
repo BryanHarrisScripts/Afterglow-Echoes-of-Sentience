@@ -13,5 +13,6 @@
 11. [General - The Film Industry](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/General/General%20-%20The%20Film%20Industry.md)
 12. [General - Concept to Draft](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/General/General%20-%20Concept%20to%20Draft.md)
 13. [General - The Vomit Draft](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/General/General%20-%20The%20Vomit%20Draft.md)
+14. [General - World Building](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/General/General%20-%20World%20Building.md)
 
 ---
