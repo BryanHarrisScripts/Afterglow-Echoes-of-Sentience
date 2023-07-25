@@ -1,3 +1,17 @@
+# Table of Contents
+
+1. [24 Blocks - Conflict](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Dialogue/24%20Blocks%20-%20Conflict.md)
+2. [24 Blocks - Art of Silence](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Dialogue/24%20Blocks%20-%20Art%20of%20Silence.md)
+3. [24 Blocks - Dialogue Pitfalls](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Dialogue/24%20Blocks%20-%20Dialogue%20Pitfalls.md)
+4. [24 Blocks - Different Genres](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Dialogue/24%20Blocks%20-%20Different%20Genres.md)
+5. [24 Blocks - Balancing Action](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Dialogue/24%20Blocks%20-%20Balancing%20Action.md)
+6. [24 Blocks - Distinctive Voices](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Dialogue/24%20Blocks%20-%20Distinctive%20Voices.md)
+7. [24 Blocks - Realistic Dialogue](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Dialogue/24%20Blocks%20-%20Realistic%20Dialogue.md)
+8. [24 Blocks - Refining Dialogue](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Dialogue/24%20Blocks%20-%20Refining%20Dialogue.md)
+9. [24 Blocks - Reveal Character](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Dialogue/24%20Blocks%20-%20Reveal%20Character.md)
+10. [24 Blocks - Tags and Beats](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Dialogue/24%20Blocks%20-%20Tags%20and%20Beats.md)
+11. [24 Blocks - Subtext](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Dialogue/24%20Blocks%20-%20Subtext.md)
+
 # Basics of Dialogue Writing
 
 Welcome to the start of our comprehensive guide on dialogue writing. This first post will introduce you to the basics of dialogue writing. Dialogue, the spoken words between characters, is a key aspect of scripts that can breathe life into your characters, propel the plot forward, and immerse your audience in your story.
