@@ -21,4 +21,22 @@
 19. "The Complete Idiot's Guide to Screenwriting, 2nd Edition" by Skip Press
 20. "Writing the Romantic Comedy: The Art and Craft of Writing Screenplays That Sell" by Billy Mernit
 
+# Popular Sites for Movie Scripts
+
+There are several online resources where you can download screenplays for free. Here are some of them:
+
+- IMSDB (Internet Movie Script Database): http://www.imsdb.com/ - This site is one of the oldest and largest collections of movie scripts available on the internet.
+
+- Simply Scripts: http://www.simplyscripts.com/ - This website offers a wide variety of movie, television, and even radio scripts, as well as some original works by budding screenwriters.
+
+- The Daily Script: http://www.dailyscript.com/ - The Daily Script provides a collection of movie scripts and screenplays to serve as a resource for writers and actors and those who simply enjoy reading movie scripts.
+
+- Script Slug: https://www.scriptslug.com/ - This website offers a large collection of TV and movie scripts.
+
+- AwesomeFilm: http://www.awesomefilm.com/ - This site features a number of scripts, mainly from blockbuster movies.
+
+- Drew's Script-O-Rama: http://www.script-o-rama.com/ - This website has a large selection of scripts, including a mix of drafts and final versions.
+
+Remember to respect copyright and the hard work of the creators when downloading and using screenplays. They're mainly provided for educational purposes.
+
 ---
