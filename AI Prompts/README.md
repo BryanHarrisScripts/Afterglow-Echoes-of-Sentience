@@ -12,10 +12,12 @@
 4. [24 Blocks - Copywriting and Marketing](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/AI%20Prompts/24%20Blocks%20-%20Copywriting%20and%20Marketing.md)
     </td>
     <td valign="top">
-5. [24 Blocks - Redundancy and Streamlining](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/AI%20Prompts/24%20Blocks%20-%20Redundancy%20and%20Streamlining.md)
-6. [24 Blocks - Structure and Characters](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/AI%20Prompts/24%20Blocks%20-%20Structure%20and%20Characters.md)
-7. [24 Blocks - Suggested Additions](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/AI%20Prompts/24-Blocks%20-%20Suggested%20Additions.md)
-8. [24 Blocks - Dialogue](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/AI%20Prompts/24%20Blocks%20-%20Dialogue.md)
+<ol start="5">
+<li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/AI%20Prompts/24%20Blocks%20-%20Redundancy%20and%20Streamlining.md">24 Blocks - Redundancy and Streamlining</a></li>
+<li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/AI%20Prompts/24%20Blocks%20-%20Structure%20and%20Characters.md">24 Blocks - Structure and Characters</a></li>
+<li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/AI%20Prompts/24-Blocks%20-%20Suggested%20Additions.md">24 Blocks - Suggested Additions</a></li>
+<li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/AI%20Prompts/24%20Blocks%20-%20Dialogue.md">24 Blocks - Dialogue</a></li>
+</ol>
     </td>
   </tr>
 </table>
