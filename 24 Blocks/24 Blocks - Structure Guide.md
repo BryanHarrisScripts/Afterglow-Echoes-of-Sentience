@@ -1,4 +1,5 @@
-# Screenwriting in Blocks: A Four-Act Structure Guide
+
+# Structure Guide: Blocks in Four-Acts
 
 ### Introduction
 
@@ -15,12 +16,12 @@ In the context of a screenplay, the four-act structure divides each act into six
 
 <table>
   <tr>
-    <th align="center">Block 1</th>
-    <th align="center">Block 2</th>
-    <th align="center">Block 3</th>
-    <th align="center">Block 4</th>
-    <th align="center">Block 5</th>
-    <th align="center">Block 6</th>
+    <th align="center">B1: Act 1</th>
+    <th align="center">B2</th>
+    <th align="center">B3</th>
+    <th align="center">B4</th>
+    <th align="center">B5</th>
+    <th align="center">B6: TP</th>
   </tr>
   <tr>
     <td align="center">The Beginning - Introduce the protagonist. <br> (External Plot A, Internal Subplot B)</td>
@@ -31,12 +32,12 @@ In the context of a screenplay, the four-act structure divides each act into six
     <td align="center">The First Test - Protagonist faces challenges. <br> (Plot Point 1 / Act 1 / First Major Turn, External Plot A)</td>
   </tr>
   <tr>
-    <th align="center">Block 7</th>
-    <th align="center">Block 8</th>
-    <th align="center">Block 9</th>
-    <th align="center">Block 10</th>
-    <th align="center">Block 11</th>
-    <th align="center">Block 12</th>
+    <th align="center">B7: Act2</th>
+    <th align="center">B8</th>
+    <th align="center">B9</th>
+    <th align="center">B10</th>
+    <th align="center">B11</th>
+    <th align="center">B12: TP</th>
   </tr>
   <tr>
     <td align="center">Allies and Enemies - New relationships emerge. <br> (External Plot A, Relationship Subplot C)</td>
@@ -47,12 +48,12 @@ In the context of a screenplay, the four-act structure divides each act into six
     <td align="center">The Midpoint Twist - A surprise revelation occurs. <br> (Plot Point 2 / Act 2 / Major Turn, External Plot A)</td>
   </tr>
   <tr>
-    <th align="center">Block 13</th>
-    <th align="center">Block 14</th>
-    <th align="center">Block 15</th>
-    <th align="center">Block 16</th>
-    <th align="center">Block 17</th>
-    <th align="center">Block 18</th>
+    <th align="center">B13: Act 3</th>
+    <th align="center">B14</th>
+    <th align="center">B15: DNS</th>
+    <th align="center">B16</th>
+    <th align="center">B17</th>
+    <th align="center">B18: TP</th>
   </tr>
   <tr>
     <td align="center">Raising the Stakes - Conflict intensifies. <br> (External Plot A)</td>
@@ -63,12 +64,12 @@ In the context of a screenplay, the four-act structure divides each act into six
     <td align="center">Rallying the Troops - Protagonist inspires others. <br> (Plot Point 3 / Act 3 / Major Turn, External Plot A)</td>
   </tr>
   <tr>
-    <th align="center">Block 19</th>
-    <th align="center">Block 20</th>
-    <th align="center">Block 21</th>
-    <th align="center">Block 22</th>
-    <th align="center">Block 23</th>
-    <th align="center">Block 24</th>
+    <th align="center">B19: Act 4</th>
+    <th align="center">B20</th>
+    <th align="center">B21</th>
+    <th align="center">B22: TP</th>
+    <th align="center">B23</th>
+    <th align="center">B24</th>
   </tr>
   <tr>
     <td align="center">The Climax Begins - Protagonist confronts the antagonist. <br> (Plot Point 3 / Act 3 / Major Turn, External Plot A)</td>
@@ -80,7 +81,40 @@ In the context of a screenplay, the four-act structure divides each act into six
   </tr>
 </table>
 
-### The Four-Act Structure in Blocks
+### Agenda
+
+<table>
+  <tr>
+    <td>B2: Status Quo (SQ)<br>
+        B3: Inciting Incident (II)<br>
+        B4: Call to Adventure (CA)<br>
+        B5: Refusal of the Call (RC)<br>
+        B6: Meeting the Mentor (MM)<br>
+        B7: Crossing the Threshold (CT)<br>
+        B8: Tests, Allies, and Enemies (TAE)<br>
+        B9: Approach to Inmost Cave (AIC)</td>
+    <td>B10: Midpoint / First Culmination (MP)<br>
+        B11: Reaction / Aftermath (RA)<br>
+        B12: Second Act Break (SAB)<br>
+        B13: Complications (CMP)<br>
+        B14: Major Setback (MS)<br>
+        B15: Dark Night of the Soul (DNS)<br>
+        B16: Revelation (RV)<br>
+        B17: Final Preparations (FP)</td>
+    <td>B18: Turning Point (TP)<br>
+        B19: Climax Begins (CB)<br>
+        B20: Climax Continues (CC)<br>
+        B21: Hero's Sacrifice (HS)<br>
+        B22: Climax Resolution (CR)<br>
+        B23: Falling Action (FA)<br>
+        B24: New Normal (NN)<br>
+        </td>
+  </tr>
+</table>
+
+---
+
+# The Four-Act Structure in Blocks
 
 **Act 1: Setup**
 
