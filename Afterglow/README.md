@@ -9,14 +9,24 @@
 
 # Table of Contents
 
+<table>
+  <tr>
+    <td valign="top">
+      
 1. [Afterglow - Plot](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/Afterglow/Afterglow%20Plot.md)
 2. [Afterglow - Theme](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/Afterglow/Afterglow%20Theme.md)
 3. [Afterglow - Overview](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/Afterglow/Afterglow%20Overview.md)
 4. [Afterglow - Music Inspirations](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/Afterglow/Music%20Inspirations.md)
+    </td>
+    <td valign="top">
 5. [Afterglow - Movie Inspirations](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/Afterglow/Movie%20Inspirations.md)
 6. [Afterglow - Software & Tools](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/Afterglow/Software%20and%20Tools.md)
 7. [Afterglow - Elevator Pitch](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/Afterglow/Elevator%20Pitch.md)
 8. [Afterglow - Loglines](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/Afterglow/Afterglow%20Loglines.md)
+    </td>
+  </tr>
+</table>
+
 ---
 
 <h3 align="center">Act 1: Setup - Establishes Characters, Their Objectives, And The Setting</h3>
