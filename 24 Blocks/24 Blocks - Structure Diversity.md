@@ -1,4 +1,4 @@
-# Diverse Structures 
+# Structure Diversity 
 
 Storytelling, in its essence, is the art of communicating events and experiences in a structured manner. While stories traditionally followed a linear progression, an increasing number of narratives today experiment with different structures, including nonlinear ones. This post will explore several story structures and delve into the intricacies of nonlinear narratives, providing useful insights for hobbyists and writers.
 
