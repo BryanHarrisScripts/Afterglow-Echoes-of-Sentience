@@ -24,21 +24,35 @@ anyone that’s even thinking about having AI write a screenplay." - Variety
 
 I'm in agreement with James Cameron. I wrote the Afterglow script in 2017, which was later rewritten with AI assistance in 2023. While creating scripts entirely with AI may be challenging without human intervention, I believe that human-written scripts edited with AI assistance, as I'm currently doing, are indeed feasible.
 
-Feel free to check it out - who knows, it might just be the best screenplay out there... lol.
-
 - [Afterglow Version 8](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/AfterGlow%20v8%20Twitter%20Rewrite%20Bryan%20E.%20Harris%202023%20Github.pdf) (PDF/FDX Versions)
 - [Afterglow Version 9](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/Afterglow/README.md) (Twitter)
 
+---
+
 # Table of Contents
 
-1. [Afterglow - Story Menu](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/Afterglow/README.md)
-2. [AI Prompts - Editing Prompts](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/AI%20Prompts/README.md)
-3. [24 Blocks - Structure & Process](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/24%20Blocks/README.md)
-4. [Blog - Random How To BLOG's](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/Blog/README.md)
-5. [General - Screenwriting Terms](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/General/README.md)
-6. [Character - Development](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/Character/README.md)
-7. [Dialogue - Development](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Dialogue/README.md)
-8. [Images - Images Used](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/Images)
+<table>
+  <tr>
+    <td valign="top"> 
+      <ol start="1">
+        <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/Afterglow/README.md">Afterglow - Story Menu</a></li>
+        <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/AI%20Prompts/README.md">AI Prompts - Editing Prompts</a></li>
+        <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/24%20Blocks/README.md">24 Blocks - Structure & Process</a></li>
+        <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/Blog/README.md">Blog - Random How To BLOG's</a></li>
+      </ol>
+    </td>
+    <td valign="top">
+      <ol start="5">
+        <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/Character/README.md">Character - Development</a></li>
+        <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Dialogue/README.md">Dialogue - Development</a></li> 
+        <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/General/README.md">General - Screenwriting Terms</a></li>
+        <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/Images">Images - Images Used</a></li>
+      </ol>
+    </td>
+  </tr>
+</table>
+
+---
 
 # Welcome to the 'Afterglow' Journey
 
