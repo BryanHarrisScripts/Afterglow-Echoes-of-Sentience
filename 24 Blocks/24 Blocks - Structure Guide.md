@@ -17,10 +17,10 @@ In the context of a screenplay, the four-act structure divides each act into six
 <table>
   <tr>
     <th align="center">B1: Act 1</th>
-    <th align="center">B2</th>
-    <th align="center">B3</th>
-    <th align="center">B4</th>
-    <th align="center">B5</th>
+    <th align="center">B2: SQ</th>
+    <th align="center">B3: II</th>
+    <th align="center">B4: CA</th>
+    <th align="center">B5: RC</th>
     <th align="center">B6: TP</th>
   </tr>
   <tr>
@@ -33,10 +33,10 @@ In the context of a screenplay, the four-act structure divides each act into six
   </tr>
   <tr>
     <th align="center">B7: Act2</th>
-    <th align="center">B8</th>
-    <th align="center">B9</th>
-    <th align="center">B10</th>
-    <th align="center">B11</th>
+    <th align="center">B8: TAE</th>
+    <th align="center">B9: AIC</th>
+    <th align="center">B10: MP</th>
+    <th align="center">B11: RA</th>
     <th align="center">B12: TP</th>
   </tr>
   <tr>
@@ -49,10 +49,10 @@ In the context of a screenplay, the four-act structure divides each act into six
   </tr>
   <tr>
     <th align="center">B13: Act 3</th>
-    <th align="center">B14</th>
+    <th align="center">B14: MS</th>
     <th align="center">B15: DNS</th>
-    <th align="center">B16</th>
-    <th align="center">B17</th>
+    <th align="center">B16: RV</th>
+    <th align="center">B17: FP</th>
     <th align="center">B18: TP</th>
   </tr>
   <tr>
@@ -65,11 +65,11 @@ In the context of a screenplay, the four-act structure divides each act into six
   </tr>
   <tr>
     <th align="center">B19: Act 4</th>
-    <th align="center">B20</th>
-    <th align="center">B21</th>
+    <th align="center">B20: CC</th>
+    <th align="center">B21: HS</th>
     <th align="center">B22: TP</th>
-    <th align="center">B23</th>
-    <th align="center">B24</th>
+    <th align="center">B23: FA</th>
+    <th align="center">B24: NN</th>
   </tr>
   <tr>
     <td align="center">The Climax Begins - Protagonist confronts the antagonist. <br> (Plot Point 3 / Act 3 / Major Turn, External Plot A)</td>
