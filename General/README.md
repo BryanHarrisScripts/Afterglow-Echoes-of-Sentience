@@ -14,5 +14,7 @@
 12. [General - Concept to Draft](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/General/General%20-%20Concept%20to%20Draft.md)
 13. [General - The Vomit Draft](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/General/General%20-%20The%20Vomit%20Draft.md)
 14. [General - World Building](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/General/General%20-%20World%20Building.md)
+15. [General - Popular Books](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/General/General%20-%20Popular%20Books.md)
+
 
 ---
