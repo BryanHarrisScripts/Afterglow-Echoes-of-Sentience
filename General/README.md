@@ -21,7 +21,7 @@
 <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/General/General%20-%20Concept%20to%20Draft.md">General - Concept to Draft</a></li>
 <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/General/General%20-%20The%20Vomit%20Draft.md">General - The Vomit Draft</a></li>
 <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/General/General%20-%20World%20Building.md">General - World Building</a></li>
-<li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/General/General%20-%20Popular%20Books.md">General - Popular Books</a></li>
+<li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/General/General%20-%20Popular%20Books.md">General - Books & Scripts*</a></li>
 </ol>
     </td>
   </tr>
