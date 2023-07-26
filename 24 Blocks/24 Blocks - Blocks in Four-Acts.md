@@ -12,6 +12,72 @@ The four-act structure is a storytelling tool used in novels, plays, films, and 
 - Act 4: Resolution - Concludes the storyline, resolves main conflicts, and provides an ending to the characters' journeys.
 
 In the context of a screenplay, the four-act structure divides each act into six blocks, which could be approximately five minutes in screen time. Below is a template using this structure:
+<table>
+  <tr>
+    <th align="center">Block 1</th>
+    <th align="center">Block 2</th>
+    <th align="center">Block 3</th>
+    <th align="center">Block 4</th>
+    <th align="center">Block 5</th>
+    <th align="center">Block 6</th>
+  </tr>
+  <tr>
+    <td align="center">The Beginning - Introduce the protagonist.</td>
+    <td align="center">New Opportunity - Present a life-changing event.</td>
+    <td align="center">The Reluctant Hero - Display the protagonist's hesitation.</td>
+    <td align="center">Crossing the Threshold - Enter a new world.</td>
+    <td align="center">Meeting the Mentor - Protagonist receives guidance and wisdom.</td>
+    <td align="center">The First Test - Protagonist faces challenges.</td>
+  </tr>
+  <tr>
+    <th align="center">Block 7</th>
+    <th align="center">Block 8</th>
+    <th align="center">Block 9</th>
+    <th align="center">Block 10</th>
+    <th align="center">Block 11</th>
+    <th align="center">Block 12</th>
+  </tr>
+  <tr>
+    <td align="center">Allies and Enemies - New relationships emerge.</td>
+    <td align="center">The Training Montage - Protagonist prepares for the journey.</td>
+    <td align="center">The Plan - Protagonist formulates a strategy.</td>
+    <td align="center">The First Setback - Protagonist encounters unexpected obstacles.</td>
+    <td align="center">Regrouping - Protagonist learns from failure.</td>
+    <td align="center">The Midpoint Twist - A surprise revelation occurs.</td>
+  </tr>
+  <tr>
+    <th align="center">Block 13</th>
+    <th align="center">Block 14</th>
+    <th align="center">Block 15</th>
+    <th align="center">Block 16</th>
+    <th align="center">Block 17</th>
+    <th align="center">Block 18</th>
+  </tr>
+  <tr>
+    <td align="center">Raising the Stakes - Conflict intensifies.</td>
+    <td align="center">The Second Test - Protagonist overcomes doubts.</td>
+    <td align="center">The Darkest Hour - Protagonist faces the ultimate crisis.</td>
+    <td align="center">A Glimmer of Hope - New insights and ideas emerge.</td>
+    <td align="center">The Final Preparation - Protagonist gathers resources.</td>
+    <td align="center">Rallying the Troops - Protagonist inspires others.</td>
+  </tr>
+  <tr>
+    <th align="center">Block 19</th>
+    <th align="center">Block 20</th>
+    <th align="center">Block 21</th>
+    <th align="center">Block 22</th>
+    <th align="center">Block 23</th>
+    <th align="center">Block 24</th>
+  </tr>
+  <tr>
+    <td align="center">The Climax Begins - Protagonist confronts the antagonist.</td>
+    <td align="center">The Battle Rages - High-stakes action takes place.</td>
+    <td align="center">The Hero's Sacrifice - Protagonist pays a personal cost.</td>
+    <td align="center">The Turning Point - Protagonist gains the upper hand.</td>
+    <td align="center">The Resolution - Antagonist is defeated.</td>
+    <td align="center">The New Normal - Protagonist returns to a transformed world.</td>
+  </tr>
+</table>
 
 ### The Four-Act Structure in Blocks
 
