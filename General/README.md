@@ -19,7 +19,7 @@
 <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/General/Script%20Formatting.md">General - Script Formatting</a></li>
 <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/General/General%20-%20Essential%20Aspects%201.md">General - Essential Aspects 1</a></li>
 <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/General/General%20-%20Essential%20Aspects%202.md">General - Essential Aspects 2</a></li>
-<li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/General/General%20-%20Books%20%26%20Scripts.md">General - Books & Scripts*</a></li>
+<li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/General/General%20-%20Popular%20Book">General - Books & Scripts*</a></li>
 <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/General/Screenplay%20Challenges%20Guide.md">General - Challenges Guide*</a></li>
 <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/General/General%20-%20The Film Industry.md">General - The Film Industry</a></li>
 <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/General/General%20-%20AI Framework Ideas.md">General - AI Framework Ideas</a></li>
