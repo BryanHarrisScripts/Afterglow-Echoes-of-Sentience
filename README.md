@@ -24,8 +24,8 @@ anyone that’s even thinking about having AI write a screenplay." - Variety
 
 I'm in agreement with James Cameron. I wrote the Afterglow script in 2017, which was later rewritten with AI assistance in 2023. While creating scripts entirely with AI may be challenging without human intervention, I believe that human-written scripts edited with AI assistance, as I'm currently doing, are indeed feasible.
 
-- [Afterglow Version 8](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/AfterGlow%20v8%20Twitter%20Rewrite%20Bryan%20E.%20Harris%202023%20Github.pdf) (PDF/FDX Versions)
-- [Afterglow Version 9](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/Afterglow/README.md) (Twitter)
+- [Afterglow Version 8**](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/AfterGlow%20v8%20Twitter%20Rewrite%20Bryan%20E.%20Harris%202023%20Github.pdf) (PDF/FDX Versions)
+- [Afterglow Version 9**](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/Afterglow/README.md) (Twitter)
 
 ---
 
@@ -35,9 +35,9 @@ I'm in agreement with James Cameron. I wrote the Afterglow script in 2017, which
   <tr>
     <td valign="top"> 
       <ol start="1">
-        <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/Afterglow/README.md">Afterglow - Story Menu</a></li>
+        <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/Afterglow/README.md">Afterglow - Story Menu**</a></li>
         <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/General/README.md">Fundamentals - Key Concepts</a></li>
-        <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/24%20Blocks/README.md">Structure & Process - 24 Blocks</a></li>
+        <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/24%20Blocks/README.md">Structure & Process - 24 Blocks**</a></li>
         <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Narrative/README.md">Narrative - Tone, Pacing</a></li>
         <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/Character/README.md">Character - Development</a></li>
       </ol>
@@ -45,13 +45,15 @@ I'm in agreement with James Cameron. I wrote the Afterglow script in 2017, which
     <td valign="top">
       <ol start="6">
         <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Dialogue/README.md">Dialogue - Development</a></li>
-        <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/AI%20Prompts/README.md">Editing - AI Prompts</a></li>
+        <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/AI%20Prompts/README.md">Editing - AI Prompts**</a></li>
         <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/Blog/README.md">Blog - Random How To BLOG's</a></li>
         <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/Images">Images - Images Used</a></li>
       </ol>
     </td>
   </tr>
 </table>
+
+- [Developed by a Human: Bryan Harris**](#licensing-and-attribution)
 
 ---
 
