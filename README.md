@@ -36,16 +36,17 @@ I'm in agreement with James Cameron. I wrote the Afterglow script in 2017, which
     <td valign="top"> 
       <ol start="1">
         <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/Afterglow/README.md">Afterglow - Story Menu</a></li>
-        <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/AI%20Prompts/README.md">Editing - AI Prompts</a></li>
+        <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/General/README.md">Fundamentals - Key Concepts</a></li>
         <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/24%20Blocks/README.md">Structure & Process - 24 Blocks</a></li>
-        <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/Blog/README.md">Blog - Random How To BLOG's</a></li>
+        <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Narrative/README.md">Narrative - Tone, Pacing</a></li>
+        <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/Character/README.md">Character - Development</a></li>
       </ol>
     </td>
     <td valign="top">
-      <ol start="5">
-        <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/Character/README.md">Character - Development</a></li>
-        <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Dialogue/README.md">Dialogue - Development</a></li> 
-        <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/General/README.md">Fundamentals - Key Concepts</a></li>
+      <ol start="6">
+        <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Dialogue/README.md">Dialogue - Development</a></li>
+        <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/AI%20Prompts/README.md">Editing - AI Prompts</a></li>
+        <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/Blog/README.md">Blog - Random How To BLOG's</a></li>
         <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/Images">Images - Images Used</a></li>
       </ol>
     </td>
