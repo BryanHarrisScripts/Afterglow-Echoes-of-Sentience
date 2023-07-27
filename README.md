@@ -1,4 +1,3 @@
-<a id="top"></a>
 
 <img src="./Images/AI ScreenCraft Hub Unleashedv1.png" />
 
@@ -10,6 +9,8 @@
 <a href="https://twitter.com/i/communities/1669222125591318528">AI Writers Room Community</a> · <a href="https://twitter.com/i/lists/1675490119095140352">AI Writers Room List</a>
 
 </div>
+
+<a id="top"></a>
 
 # The Unseen Editor
 ### An AI-Assisted Adventure
