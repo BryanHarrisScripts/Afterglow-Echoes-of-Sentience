@@ -2,6 +2,7 @@
 
 # Screenwriting: 24 Blocks in 5-Minutes 
 
+
 # Table of Contents
 
 <table>
@@ -9,17 +10,17 @@
     <td valign="top">
       
 1. [24 Blocks - A New Spin](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/24%20Blocks/24%20Blocks%20-%20A%20New%20Spin.md)
-2. [24 Blocks - Blocks with AI](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/24%20Blocks/24%20Blocks%20-%20Blocks%20with%20AI.md)
-3. [24 Blocks - Dynamic Scenes](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/24%20Blocks/24%20Blocks%20-%20Dynamic%20Scenes.md)
-4. [24 Blocks - Principle of Three](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/24%20Blocks/24%20Blocks%20-%20Principle%20of%20Three.md)
-5. [24 Blocks - Structure Guide*](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/24%20Blocks/24%20Blocks%20-%20Structure%20Guide.md)
+2. [24 Blocks - Structure Guide*](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/24%20Blocks/24%20Blocks%20-%20Structure%20Guide.md)
+3. [24 Blocks - Structure's Role](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/24%20Blocks/24%20Blocks%20-%20Structures%20Role.md)
+4. [24 Blocks - Story Beats](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/24%20Blocks/24%20Blocks%20-%20Story%20Beats.md)
+5. [24 Blocks - Principle of Three](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/24%20Blocks/24%20Blocks%20-%20Principle%20of%20Three.md)
     </td>
     <td valign="top">
 <ol start="6">
 <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/24%20Blocks/24%20Blocks%20-%20Structure%20Diversity.md">24 Blocks - Structure Diversity</a></li>
-<li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/24%20Blocks/24%20Blocks%20-%20Structures%20Role.md">24 Blocks - Structure's Role</a></li>
-<li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/24%20Blocks/24%20Blocks%20-%20Story%20Beats.md">24 Blocks - Story Beats</a></li>
 <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/24%20Blocks/24%20Blocks%20-%20Reflection.md">24 Blocks - Reflection</a></li>
+<li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/24%20Blocks/24%20Blocks%20-%20Blocks%20with%20AI.md">24 Blocks - Blocks with AI</a></li>
+<li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/24%20Blocks/24%20Blocks%20-%20Dynamic%20Scenes.md">24 Blocks - Dynamic Scenes</a></li>
 </ol>
     </td>
   </tr>
