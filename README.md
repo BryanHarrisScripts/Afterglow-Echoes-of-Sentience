@@ -23,7 +23,11 @@ about mortality — and just put it all together into a word salad and then regu
 ever going to have something that’s going to move an audience. You have to be human to write that. I don’t know
 anyone that’s even thinking about having AI write a screenplay." - Variety
 
-I'm in agreement with James Cameron. I wrote the Afterglow script in 2017, which was later rewritten with AI assistance in 2023. While creating scripts entirely with AI may be challenging without human intervention, I believe that human-written scripts edited with AI assistance, as I'm currently doing, are indeed feasible.
+I'm in agreement with James Cameron. 
+
+**I wrote the Afterglow script in 2017**, which was later rewritten with AI assistance in 2023. 
+
+While creating scripts entirely with AI may be challenging without human intervention, I believe that **human-written scripts** edited with AI assistance, as I'm currently doing, are indeed feasible.
 
 - [Afterglow Version 8**](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/AfterGlow%20v8%20Twitter%20Rewrite%20Bryan%20E.%20Harris%202023%20Github.pdf) (PDF/FDX Versions)
 - [Afterglow Version 9**](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/Afterglow/README.md) (Twitter)
