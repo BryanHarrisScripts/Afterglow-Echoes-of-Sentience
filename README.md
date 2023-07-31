@@ -52,6 +52,7 @@ While creating scripts entirely with AI may be challenging without human interve
         <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Dialogue/README.md">Dialogue - Development</a></li>
         <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/AI%20Prompts/README.md">Editing - AI Prompts**</a></li>
         <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/Blog/README.md">Blog - Random How To BLOG's</a></li>
+        <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/Open Source Collaboration.md">Open Source - Global Collaboration</a></li>
         <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/Images">Images - Images Used</a></li>
       </ol>
     </td>
