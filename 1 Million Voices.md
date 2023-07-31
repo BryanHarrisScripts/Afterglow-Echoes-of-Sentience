@@ -40,6 +40,12 @@ This project is about more than just amassing followers; it's about building a c
 
 While the experiment focuses on a screenplay, the principles and strategies can apply to any creative work, from novels and music to art and digital media. It's an exploration of new ways of creating and sharing in a digitally connected world, and a demonstration of the potential power of open-source principles in creative fields.
 
+**Join 1 Million Voices in an Open Source Revolution:**  
+**Your Creativity, Your Brand, Our Impact Together!**  
+**Discover, Connect, Create - Rewrite the Future!**
+
+[Join 1 Million Voices](https://twitter.com/BryanHarrisTech)
+
 ### Disclaimer
 
 This experiment is hypothetical and theoretical. It's an exploration of possibilities and doesn't guarantee success. It's essential to bear in mind that open-source licensing has both benefits and potential pitfalls, and it's crucial to consult with a legal professional before deciding to adopt an open-source model for managing creative works.
