@@ -16,11 +16,11 @@ Original Work: [Link to the original work]
 Modifications:
 ````
 
-### The Goal: Your Name, Your Brand, Your Creativity!
+### The Goal: Connect, Grow, Impact!
 
 The overarching aim is to gather a community of 1 million followers around the project. The underlying assumption here is that if the project can attract a significant following, it can help not just in promoting the original work, but also to provide a framework and a method to grow and impact a vast audience. The process of garnering this following will entail reaching out, connecting, collaborating, and creating together.
 
-### The Process: Connect, Grow, Impact!
+### The Process
 
 1. **Release the Work Under an Open-Source License:** The first step involves releasing a screenplay under the CC-BY-SA-4.0 license, which fosters creativity and collaboration, ensuring the author's recognition and continued sharing and collaboration through all versions of the work.
 
