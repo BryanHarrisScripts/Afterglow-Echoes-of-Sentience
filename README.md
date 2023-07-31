@@ -18,7 +18,7 @@
 
 <div align="center">
   
-### [README FIRST >> 1 Million Voices: An Open Source Experiment in Screenwriting](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/1%20Million%20Voices.md)
+  <h3><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/1%20Million%20Voices.md">README FIRST >> 1 Million Voices: An Open Source Experiment in Screenwriting</a></h3>
 
 </div>
 
