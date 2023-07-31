@@ -1,3 +1,5 @@
+<img src="./Images/TwitterBanner6.png" />
+
 # 1 Million Voices: Your Name, Your Brand, Your Creativity!
 
 ### An Open Source Experiment 
