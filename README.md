@@ -38,7 +38,16 @@ While creating scripts entirely with AI may be challenging without human interve
 
 <table>
   <tr>
-    <td valign="top"> 
+    <td valign="top">
+      <ol start="1">
+        <li><a href="#welcome-to-the-afterglow-journey">Welcome to the 'Afterglow' Journey</a></li>
+        <li><a href="#ai-in-screenwriting-a-new-tool-not-a-co-author">AI in Screenwriting</a></li>
+        <li><a href="#about-afterglow-echoes-of-sentience">About 'Afterglow: Echoes of Sentience'</a></li>
+        <li><a href="#licensing-and-attribution">Licensing and Attribution</a></li>
+        <li><a href="#ai-in-creativity-a-disclaimer">AI in Creativity: A Disclaimer</a></li>
+      </ol>
+    </td>
+    <td valign="top">
       <ol start="1">
         <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/Afterglow/README.md">Afterglow - Story Menu**</a></li>
         <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/General/README.md">Fundamentals - Key Concepts</a></li>
