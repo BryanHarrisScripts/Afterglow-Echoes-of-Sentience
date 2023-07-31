@@ -1,8 +1,6 @@
 
 <img src="./Images/AI ScreenCraft Hub Unleashedv1.png" />
 
-<a id="top"></a>
-
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 1em; margin: 4em 0;">
 
 🔗  <a href="https://twitter.com/BryanHarrisTech" target="_blank">BryanHarrisTech</a> · <a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/discussions">Discussions</a> · <a href="https://docs.github.com/en/site-policy/github-terms/github-community-guidelines">Guidelines</a> ·
@@ -33,6 +31,7 @@ While creating scripts entirely with AI may be challenging without human interve
 - [Afterglow Version 9**](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/Afterglow/README.md) (Twitter)
 
 ---
+<a id="top"></a>
 
 # Table of Contents
 
