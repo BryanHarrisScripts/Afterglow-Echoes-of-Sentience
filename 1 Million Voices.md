@@ -59,7 +59,7 @@ Open-source principles have already been applied successfully in numerous projec
 
 Open-source projects often raise questions about recognition, copyright, and conflict resolution. The CC-BY-SA-4.0 license ensures that all contributors receive appropriate credit for their work. The project also fosters an inclusive, respectful environment and encourages open dialogue to resolve any potential conflicts.
 
-### Join 1 Million Voices
+### Join 1 Million Creators, Collaborators, Voices
 
 **Your Creativity, Your Brand, Our Impact Together!**  
 **Discover, Connect, Create - Rewrite the Future!**
