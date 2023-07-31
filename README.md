@@ -10,6 +10,51 @@
 
 </div>
 
+---
+
+<a id="top"></a>
+
+# Table of Contents
+
+<table>
+  <tr>
+    <td valign="top">
+      <h4>Menu</h4>
+      <ol start="1">
+        <li><a href="#the-unseen-editor">The Unseen Editor</a></li>
+        <li><a href="#welcome-to-the-afterglow-journey">Welcome to the 'Afterglow' Journey</a></li>
+        <li><a href="#ai-in-screenwriting-a-new-tool-not-a-co-author">AI in Screenwriting</a></li>
+        <li><a href="#about-afterglow-echoes-of-sentience">About 'Afterglow: Echoes of Sentience'</a></li>
+        <li><a href="#licensing-and-attribution">Licensing and Attribution</a></li>
+        <li><a href="#ai-in-creativity-a-disclaimer">AI in Creativity: A Disclaimer</a></li>
+      </ol>
+    </td>
+    <td valign="top">
+      <h4>Afterglow & Resources</h4>
+      <ol start="1">
+        <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/Afterglow/README.md">Afterglow - Story Menu**</a></li>
+        <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/General/README.md">Fundamentals - Key Concepts</a></li>
+        <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/24%20Blocks/README.md">Structure & Process - 24 Blocks**</a></li>
+        <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Narrative/README.md">Narrative - Tone, Pacing</a></li>
+        <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/Character/README.md">Character - Development</a></li>
+        <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Dialogue/README.md">Dialogue - Development</a></li>
+      </ol>
+    </td>
+    <td valign="top">
+      <h4>More Screenplay Resources</h4>
+      <ol start="7">
+        <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/AI%20Prompts/README.md">Editing - AI Prompts**</a></li>
+        <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/Blog/README.md">Blog - Random How To BLOG's</a></li>
+        <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/Open Source Collaboration.md">Open Source - Global Collaboration</a></li>
+        <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/Images">Images - Images Used</a></li>
+      </ol>
+    </td>
+  </tr>
+</table>
+
+- [Developed by a Human: Bryan Harris**](#licensing-and-attribution)
+
+---
 # The Unseen Editor
 ### An AI-Assisted Adventure
 
@@ -29,47 +74,6 @@ While creating scripts entirely with AI may be challenging without human interve
 
 - [Afterglow Version 8**](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/AfterGlow%20v8%20Twitter%20Rewrite%20Bryan%20E.%20Harris%202023%20Github.pdf) (PDF/FDX Versions)
 - [Afterglow Version 9**](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/Afterglow/README.md) (Twitter)
-
----
-<a id="top"></a>
-
-# Table of Contents
-
-<table>
-  <tr>
-    <td valign="top">
-      <ol start="1">
-        <li><a href="#welcome-to-the-afterglow-journey">Welcome to the 'Afterglow' Journey</a></li>
-        <li><a href="#ai-in-screenwriting-a-new-tool-not-a-co-author">AI in Screenwriting</a></li>
-        <li><a href="#about-afterglow-echoes-of-sentience">About 'Afterglow: Echoes of Sentience'</a></li>
-        <li><a href="#licensing-and-attribution">Licensing and Attribution</a></li>
-        <li><a href="#ai-in-creativity-a-disclaimer">AI in Creativity: A Disclaimer</a></li>
-      </ol>
-    </td>
-    <td valign="top">
-      <ol start="1">
-        <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/Afterglow/README.md">Afterglow - Story Menu**</a></li>
-        <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/General/README.md">Fundamentals - Key Concepts</a></li>
-        <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/24%20Blocks/README.md">Structure & Process - 24 Blocks**</a></li>
-        <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Narrative/README.md">Narrative - Tone, Pacing</a></li>
-        <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/Character/README.md">Character - Development</a></li>
-      </ol>
-    </td>
-    <td valign="top">
-      <ol start="6">
-        <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Dialogue/README.md">Dialogue - Development</a></li>
-        <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/AI%20Prompts/README.md">Editing - AI Prompts**</a></li>
-        <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/Blog/README.md">Blog - Random How To BLOG's</a></li>
-        <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/Open Source Collaboration.md">Open Source - Global Collaboration</a></li>
-        <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/Images">Images - Images Used</a></li>
-      </ol>
-    </td>
-  </tr>
-</table>
-
-- [Developed by a Human: Bryan Harris**](#licensing-and-attribution)
-
----
 
 # Welcome to the 'Afterglow' Journey
 
