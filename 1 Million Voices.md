@@ -1,4 +1,4 @@
-# 1 Million Voices
+# 1 Million Voices: Your Name, Your Brand, Your Creativity!
 
 ### An Open Source Experiment 
 
@@ -16,7 +16,7 @@ Original Work: [Link to the original work]
 Modifications:
 ````
 
-### The Goal
+### The Goal: Your Name, Your Brand, Your Creativity!
 
 The overarching aim is to gather a community of 1 million followers around the project. The underlying assumption here is that if the project can attract a significant following, it can help not just in promoting the original work, but also to provide a framework and a method to grow and impact a vast audience. The process of garnering this following will entail reaching out, connecting, collaborating, and creating together.
 
