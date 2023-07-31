@@ -75,6 +75,8 @@ While creating scripts entirely with AI may be challenging without human interve
 - [Afterglow Version 8**](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/AfterGlow%20v8%20Twitter%20Rewrite%20Bryan%20E.%20Harris%202023%20Github.pdf) (PDF/FDX Versions)
 - [Afterglow Version 9**](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/Afterglow/README.md) (Twitter)
 
+<a href="#top">Back to Top</a>
+
 # Welcome to the 'Afterglow' Journey
 
 Hello, fellow creators! Welcome to 'Afterglow'. Whether you're a screenwriter, an educator, a student, a hobbyist, or just a curious soul, you're in the right place. I'm Bryan Harris, an independent writer with a background in film studies.
