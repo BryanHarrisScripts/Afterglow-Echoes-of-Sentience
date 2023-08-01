@@ -18,7 +18,7 @@
 
 <div align="center">
   
-  <h3><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/1%20Million%20Voices.md">README FIRST >> 1 Million Voices: An Open Source Experiment in Screenwriting</a></h3>
+  <h3><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/OpenSource/1%20Million%20Voices.md">README FIRST >> 1 Million Voices: An Open Source Experiment in Screenwriting</a></h3>
 
 </div>
 
@@ -51,7 +51,8 @@
       <ol start="7">
         <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/AI%20Prompts/README.md">Editing - AI Prompts**</a></li>
         <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/Blog/README.md">Blog - Random How To BLOG's</a></li>
-        <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/Open Source Collaboration.md">Open Source - Global Collaboration</a></li>
+        <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/OpenSource/Open Source Collaboration.md">Open Source - Global Collaboration</a></li>
+        <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/Loglines/Loglines.md">Loglines - Guide & Prompt</a></li>
         <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/Images">Images - Images Used</a></li>
       </ol>
     </td>
