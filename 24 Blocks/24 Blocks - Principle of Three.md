@@ -11,6 +11,13 @@ In the evolving field of narrative construction, we delve into two techniques wh
 
 - Transforming the 'and then' narrative connector into 'therefore' or 'but' creates a sense of causation, resulting in a series of interconnected moments rather than a sequence of random occurrences.
 
+| Level of Narrative | 'Promise' Application | 'Progress' Application | 'Payoff' Application |
+|---|---|---|---|
+| Act Level | The act introduces the stakes or poses a central question for that portion of the narrative. | The act illustrates advancement towards a resolution of the posed stakes or question. | The act embodies the climax, where the promise of the act is fulfilled or the question answered. |
+| Block Level | Each block introduces a miniature promise or question that contributes to the overall act's stakes. | Each block shows progress towards the resolution of its specific promise or question. | Each block provides a payoff where its promise is fulfilled or question answered, contributing to the overarching act climax. |
+| Scene Level | Each scene within a block poses a minor promise or question contributing to the block's overall promise. | Each scene shows progress towards answering its promise or question. | The climax of each scene where its promise is fulfilled or question answered contributes to the payoff of the block. |
+| Beat Level | Each beat poses a tiny promise or question contributing to the scene's overall promise. | Each beat makes a small advancement towards resolving its own promise or question. | The resolution or payoff of each beat's promise or question contributes to the climax of the scene. |
+
 **The 24 Blocks Technique: Structuring the Narrative**
 
 - The 24 Blocks technique presents a strategy for organizing your narrative. Although initially designed for screenplays, it can be adapted to other narrative forms.
@@ -44,7 +51,14 @@ In the evolving field of narrative construction, we delve into two techniques wh
     - **Act Level**: Each act might have its own promise, progress, and payoff, echoing the overall narrative structure.
     - **Block Level**: Each block within an act could also follow this cycle, reflecting the act structure on a smaller scale.
     - **Scene Level**: Scenes within a block could contain their own miniature narrative arcs, aligning with the block's structure.
-    - **Beat Level**: Even individual beats can adhere to this structure, each beat reflecting the structure of the scene in which it resides.
+    - **Beat Level**: Even individual beats can adhere to this structure, each beat reflecting the structure of the scene in which it resides. 
+      
+| Level of Narrative | Application of Principle of Three | Application of 24 Blocks Technique |
+|---|---|---|
+| Act Level | Each act has its own promise, progress, and payoff, echoing the overall narrative structure. | The narrative is divided into four acts, with each act containing six blocks. |
+| Block Level | Each block within an act could follow this cycle, reflecting the act structure on a smaller scale. | Each block symbolizes a vital story beat or event, contributing to the overarching narrative and character development. |
+| Scene Level | Scenes within a block could contain their own miniature narrative arcs, aligning with the block's structure. | Although not directly mentioned, the blocks could be further divided into scenes, each serving a particular purpose in the narrative. |
+| Beat Level | Even individual beats can adhere to this structure, each beat reflecting the structure of the scene in which it resides. | The beats within a scene contribute to the respective block, further enhancing the narrative's structure and pacing. |
 
 In summary, this layered application of the Principle of Three and the 24 Blocks technique can potentially yield a richly intricate narrative, echoing its key themes and conflicts at every level. These tools, however, require careful planning and execution to prevent narratives from becoming confusing or repetitious. The balance between repetition and variation remains crucial to compelling storytelling.
 
