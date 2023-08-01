@@ -1,3 +1,9 @@
+<div align="right" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 1em; margin: 4em 0;">
+
+<a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/README.md">Home</a>
+
+<div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 1em; margin: 4em 0;">
+
 # The Art of Crafting Loglines: A Comprehensive Guide with Examples
 
 Every script begins with a single line: the logline. This is a concise, compelling summary of your screenplay's plot in one to two sentences. It is a screenwriter's first opportunity to grab the reader's attention and, as such, it can make or break a script's chance at success. Today, we'll delve into the art of crafting loglines, providing a 20-step guide to perfecting your own, along with examples from top box office hits for a clearer understanding.
