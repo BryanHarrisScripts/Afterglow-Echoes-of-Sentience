@@ -27,9 +27,13 @@
 <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Character/24%20Blocks%20-%20Questions%20Act%203.md">24 Blocks - Questions Act 3</a></li>
 <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Character/24%20Blocks%20-%20Questions%20Act%204.md">24 Blocks - Questions Act 4</a></li>
 <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Character/24%20Blocks%20-%20Dialectical%20Triad.md">24 Blocks - Dialectical Triad</a></li>
+<li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Character/24%20Blocks%20-%20Man%20vs%20Himself.md">24 Blocks - Man vs Himself</a></li>
+
 </ol>
     </td>
   </tr>
 </table>
+
+
 
 ---
