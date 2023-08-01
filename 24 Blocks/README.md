@@ -1,3 +1,9 @@
+<div align="right" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 1em; margin: 4em 0;">
+
+<a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/README.md">Home</a>
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 1em; margin: 4em 0;">
+
 <td><a href="https://twitter.com/BryanHarrisTech/status/1674801994698231809?s=20" target="_blank"><img src="../Images/ScreenwritingBlocks.png" alt="Image1" width="1200"/></a></td>
 
 # Screenwriting: 24 Blocks in 5-Minutes 
@@ -25,6 +31,8 @@
     </td>
   </tr>
 </table>
+
+<div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 1em; margin: 4em 0;">
 
 ## Streamlining Narrative Progression
 
