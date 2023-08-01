@@ -23,8 +23,6 @@
 <ol start="9">
 <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/General/General%20-%20The Vomit Draft.md">General - The Vomit Draft</a></li>
 <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/General/Script%20Formatting.md">General - Script Formatting</a></li>
-<li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/General/General%20-%20Essential%20Aspects%201.md">General - Essential Aspects 1</a></li>
-<li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/General/General%20-%20Essential%20Aspects%202.md">General - Essential Aspects 2</a></li>
 <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/General/General%20-%20Popular%20Books.md">General - Books & Scripts*</a></li>
 <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/General/Screenplay%20Challenges%20Guide.md">General - Challenges Guide*</a></li>
 <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/General/General%20-%20The Film Industry.md">General - The Film Industry</a></li>
