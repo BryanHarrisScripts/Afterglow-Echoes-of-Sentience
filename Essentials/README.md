@@ -10,10 +10,10 @@
   <tr>
     <td valign="top">
 <ol>
-<li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Narrative/Storytelling%20Dynamics.md">Storytelling Dynamics</a></li>
-<li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Narrative/Symbolic%20Techniques.md">Symbolic Techniques</a></li>
-<li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Narrative/Thematic%20Components.md">Thematic Components</a></li>
-<li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Narrative/Beyond%20Sluglines.md">Beyond Sluglines</a></li>
+<li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Essentials/Storytelling%20Dynamics.md">Storytelling Dynamics</a></li>
+<li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Essentials/Symbolic%20Techniques.md">Symbolic Techniques</a></li>
+<li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Essentials/Thematic%20Components.md">Thematic Components</a></li>
+<li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Essentials/Beyond%20Sluglines.md">Beyond Sluglines</a></li>
 </ol>
     </td>
   </tr>
