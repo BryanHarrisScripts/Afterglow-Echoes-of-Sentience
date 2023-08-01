@@ -6,17 +6,10 @@
 
 # Table of Contents
 
-<table>
-  <tr>
-    <td valign="top">
-<ol>
-<li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Essentials/Storytelling%20Dynamics.md">Storytelling Dynamics</a></li>
-<li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Essentials/Symbolic%20Techniques.md">Symbolic Techniques</a></li>
-<li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Essentials/Thematic%20Components.md">Thematic Components</a></li>
-<li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Essentials/Beyond%20Sluglines.md">Beyond Sluglines</a></li>
-</ol>
-    </td>
-  </tr>
-</table>
+| Beginner Stage                                                                                     | Advanced Stage                                                                                                     |
+|---------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|
+| [Storytelling Dynamics](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Essentials/Storytelling%20Dynamics.md) | [Symbolic Techniques](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Essentials/Symbolic%20Techniques.md) |
+| [Thematic Components](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Essentials/Thematic%20Components.md) | [Beyond Sluglines](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Essentials/Beyond%20Sluglines.md) |
+| [Essential Aspects 1](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Essentials/Essential%20Aspects%201.md) | [Essential Aspects 2](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Essentials/Essential%20Aspects%202.md) |
 
 ---
