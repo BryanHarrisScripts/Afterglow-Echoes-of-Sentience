@@ -59,13 +59,16 @@
   </tr>
 </table>
 
-- [Developed by a Human: Bryan Harris**](#licensing-and-attribution)
+<div align="center">
+  <a href="#licensing-and-attribution">**Developed by a Human: Bryan Harris</a>
+</div>
 
----
 # The Unseen Editor
 ### An AI-Assisted Adventure
 
 In my current project, I've been rewriting a script with the help of artificial intelligence. If this technology truly holds value, why aren't studios knocking at my door or expressing interest in the script? I've released it as open-source and have been persistently refining it with AI, making this the second AI-assisted rewrite...
+
+**I wrote the Afterglow script in 2017**, which was later rewritten with AI assistance in 2023.
 
 > James Cameron once said, "I just don’t personally believe that a disembodied mind that’s just regurgitating
 what other embodied minds have said — about the life that they’ve had, about love, about lying, about fear,
@@ -74,8 +77,6 @@ ever going to have something that’s going to move an audience. You have to be 
 anyone that’s even thinking about having AI write a screenplay." - Variety
 
 I'm in agreement with James Cameron. 
-
-**I wrote the Afterglow script in 2017**, which was later rewritten with AI assistance in 2023. 
 
 While creating scripts entirely with AI may be challenging without human intervention, I believe that **human-written scripts** edited with AI assistance, as I'm currently doing, are indeed feasible.
 
@@ -87,6 +88,8 @@ While creating scripts entirely with AI may be challenging without human interve
 | [Afterglow v8 - FDX**](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/AfterGlow%20v8%20Twitter%20Rewrite%20Bryan%20E.%20Harris%202023%20Github.fdx) | [The Passengers Pitch Package - Aug ‎07 ‎2017 - PDF**](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%202017/The%20Passengers%20Pitch%20Package%20-%20Aug%20%E2%80%8E07%20%E2%80%8E2017.pdf) |  |
 
 <a href="#top">Back to Top</a>
+
+---
 
 # Welcome to the 'Afterglow' Journey
 
