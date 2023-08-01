@@ -30,7 +30,7 @@ Modifications:
 
 ## Connect, Grow, Impact!
 
-The overarching aim is to gather a community of 1 million followers around the project. If the project can attract a significant following, it can help promote the original work and provide a framework to grow and impact a vast audience. 
+The overarching aim is to gather a ***community of 1 million followers*** around the project. If the project can attract a significant following, it can help promote the original work and provide a framework to grow and impact a vast audience. 
 
 ## Benefits for Collaborators
 
@@ -67,13 +67,13 @@ Open-source projects often raise questions about recognition, copyright, and con
 
 <div align="center">
 <br>
-<h2>Join 1 Million Creators, Collaborators, Voices</h2>
+<h2>1 Million Creators, Collaborators, Voices</h2>
 <br>
 <strong>Your name, your brand, your creativity!</strong><br>
 <br>
 <strong>Connect, grow, impact! - Rewrite the future!</strong><br>
 <br>
-<a href="https://twitter.com/BryanHarrisTech"><strong>Join 1 Million Voices</strong></a>
+<a href="https://twitter.com/BryanHarrisTech"><strong>👉🏼 Join 1 Million Voices</strong></a>
 <br><br>
 </div>
 
