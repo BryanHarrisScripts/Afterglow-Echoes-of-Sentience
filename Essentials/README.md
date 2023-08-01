@@ -11,5 +11,6 @@
 | [Storytelling Dynamics](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Essentials/Storytelling%20Dynamics.md) | [Symbolic Techniques](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Essentials/Symbolic%20Techniques.md) |
 | [Thematic Components](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Essentials/Thematic%20Components.md) | [Beyond Sluglines](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Essentials/Beyond%20Sluglines.md) |
 | [Essential Aspects 1](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Essentials/Essential%20Aspects%201.md) | [Essential Aspects 2](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Essentials/Essential%20Aspects%202.md) |
+| [Scene Writing](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Essentials/Scene%20Writing.md) |   |
 
 ---
