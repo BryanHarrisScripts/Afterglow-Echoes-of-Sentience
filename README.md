@@ -1,27 +1,26 @@
-<a id="top"></a>
 
 <img src="./Images/AI ScreenCraft Hub Unleashedv1.png" />
 
-<p align="center">
-  
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 1em; margin: 4em 0;">
 
-# Table of Contents
+<a id="top"></a>
 
-### [README FIRST 👉🏼 1 MILLION VOICES: AN OPEN SOURCE EXPERIMENT](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/OpenSource/1%20Million%20Voices.md)
+🔗  <a href="https://twitter.com/BryanHarrisTech" target="_blank">BryanHarrisTech</a> · <a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/discussions">Discussions</a> · <a href="https://docs.github.com/en/site-policy/github-terms/github-community-guidelines">Guidelines</a> ·
+<a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/Afterglow/README.md">Afterglow Story Menu</a> ·
 
-<div align="center">
-
-[Discussions](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/discussions) |
-[Afterglow Story Menu](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/Afterglow/README.md) |
-[BryanHarrisTech](https://twitter.com/BryanHarrisTech) |
-[Guidelines](https://docs.github.com/en/site-policy/github-terms/github-community-guidelines) |
-[AI Writers Room Community](https://twitter.com/i/communities/1669222125591318528) |
-[AI Writers Room List](https://twitter.com/i/lists/1675490119095140352)
+<a href="https://twitter.com/i/communities/1669222125591318528">AI Writers Room Community</a> · <a href="https://twitter.com/i/lists/1675490119095140352">AI Writers Room List</a>
 
 </div>
 
-</p>
+---
+
+# Table of Contents
+
+<div align="center">
+  
+  <h3><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/OpenSource/1%20Million%20Voices.md">README FIRST >> 1 Million Voices: An Open Source Experiment in Screenwriting</a></h3>
+
+</div>
 
 <table>
   <tr>
@@ -42,7 +41,7 @@
         <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/Afterglow/README.md">Afterglow - Story Menu**</a></li>
         <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/General/README.md">Fundamentals - Key Concepts</a></li>
         <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/24%20Blocks/README.md">Structure & Process - 24 Blocks**</a></li>
-        <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Essentials/README.md">Essentials - Tone, Pacing</a></li>
+        <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Narrative/README.md">Narrative - Tone, Pacing</a></li>
         <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/Character/README.md">Character - Development</a></li>
         <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Dialogue/README.md">Dialogue - Development</a></li>
       </ol>
@@ -60,9 +59,7 @@
   </tr>
 </table>
 
-  <a href="#licensing-and-attribution">**Developed by a Human: Bryan Harris</a>
-</div>
-
+- [Developed by a Human: Bryan Harris**](#licensing-and-attribution)
 # The Unseen Editor
 ### An AI-Assisted Adventure
 
