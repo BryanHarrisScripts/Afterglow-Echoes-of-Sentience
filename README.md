@@ -53,7 +53,7 @@
         <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/Blog/README.md">Blog - Random How To BLOG's</a></li>
         <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/OpenSource/Open Source Collaboration.md">Open Source - Global Collaboration</a></li>
         <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/Loglines/Loglines.md">Loglines - Guide & Prompt</a></li>
-        <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/Images">Images - Images Used</a></li>
+        <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/Images">Images - Images Used**</a></li>
       </ol>
     </td>
   </tr>
@@ -79,12 +79,12 @@ I'm in agreement with James Cameron.
 
 While creating scripts entirely with AI may be challenging without human intervention, I believe that **human-written scripts** edited with AI assistance, as I'm currently doing, are indeed feasible.
 
-| 2023 Rewrite with AI ChatGPT | 2017 Original Beatsheet / Pitch |
-|----------|----------|
-| [Afterglow Version 8.pdf**](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/AfterGlow%20v8%20Twitter%20Rewrite%20Bryan%20E.%20Harris%202023%20Github.pdf) (PDF/FDX Versions) | [AfterglowFiles.png](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%202017/AfterglowFiles.png) |
-| [Afterglow Version 9**](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/Afterglow/README.md) (Twitter) | [The Passenger - Jul ‎16 ‎2017.pdf](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%202017/The%20Passenger%20-%20Jul%20%E2%80%8E16%20%E2%80%8E2017.pdf) |
-|  | [The Passengers Beats v2 - Aug ‎20 ‎2017.pdf](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%202017/The%20Passengers%20Beats%20v2%20-%20Aug%20%E2%80%8E20%20%E2%80%8E2017.pdf) |
-|  | [The Passengers Pitch Package - Aug ‎07 ‎2017.pdf](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%202017/The%20Passengers%20Pitch%20Package%20-%20Aug%20%E2%80%8E07%20%E2%80%8E2017.pdf) |
+| 2023 Rewrite with AI ChatGPT | 2017 Original Beatsheet / Pitch | 2017 Additional Files |
+|------------------------|---------------------------|--------------------|
+| [Afterglow Version 8.pdf**](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/AfterGlow%20v8%20Twitter%20Rewrite%20Bryan%20E.%20Harris%202023%20Github.pdf) | [AfterglowFiles.png**](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%202017/AfterglowFiles.png) | [Afterglow v5 Outline - Sept 10 2017.fdx**](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%202017/Afterglow%20v5%20Outline%20-%20Sept%2010%202017.fdx) |
+| [Afterglow Version 9**](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/Afterglow/README.md) | [The Passenger - Jul ‎16 ‎2017.pdf**](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%202017/The%20Passenger%20-%20Jul%20%E2%80%8E16%20%E2%80%8E2017.pdf) | [Afterglow v5 Outline - Sept 10 ‎2017.pdf**](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%202017/Afterglow%20v5%20Outline%20-%20Sept%2010%20%E2%80%8E2017.pdf**) |
+|  | [The Passengers Beats v2 - Aug ‎20 ‎2017.pdf**](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%202017/The%20Passengers%20Beats%20v2%20-%20Aug%20%E2%80%8E20%20%E2%80%8E2017.pdf) |  |
+|  | [The Passengers Pitch Package - Aug ‎07 ‎2017.pdf**](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%202017/The%20Passengers%20Pitch%20Package%20-%20Aug%20%E2%80%8E07%20%E2%80%8E2017.pdf) |  |
 
 <a href="#top">Back to Top</a>
 
