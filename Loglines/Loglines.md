@@ -78,10 +78,15 @@ The Stakes: What's at risk for your protagonist?
 The Unique Aspect: What sets your screenplay apart?
 Tone of the Script: Is it a thriller, a comedy, or something else?
 
+Is that too long for a logline? Can you deconstruct it with a shorter logline?
+
 **Example Output**
 
 **Logline**:
 When Ren, a passionate AI developer, faces devastating loss due to corporate rivalry, his creation, Amy—an evolving AI—embarks on a journey exploring human emotions, leading her to intervene and save both Ren's psyche and the fate of AI technology from being weaponized.
+
+**Logline**:
+In a future tech company, Amy, an evolving AI, grapples with human-like emotions to save her creator from despair and prevent the weaponization of her kind.
 
 **Deconstruction**:
 
