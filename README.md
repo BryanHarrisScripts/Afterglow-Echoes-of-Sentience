@@ -2,15 +2,26 @@
 
 <img src="./Images/AI ScreenCraft Hub Unleashedv1.png" />
 
+<p align="center">
+  
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 1em; margin: 4em 0;">
 
 # Table of Contents
 
-<h3><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/OpenSource/1%20Million%20Voices.md">README FIRST 👉🏼 1 MILLION VOICES: AN OPEN SOURCE EXPERIMENT</a></h3>
+### [README FIRST 👉🏼 1 MILLION VOICES: AN OPEN SOURCE EXPERIMENT](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/OpenSource/1%20Million%20Voices.md)
 
-· <a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/discussions">Discussions</a> · <a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/Afterglow/README.md">Afterglow Story Menu</a> · <a href="https://twitter.com/BryanHarrisTech" target="_blank">BryanHarrisTech</a> · <a href="https://docs.github.com/en/site-policy/github-terms/github-community-guidelines">Guidelines</a> · <a href="https://twitter.com/i/communities/1669222125591318528">AI Writers Room Community</a> · <a href="https://twitter.com/i/lists/1675490119095140352">AI Writers Room List</a> · 
+<div align="center">
+
+[Discussions](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/discussions) |
+[Afterglow Story Menu](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/Afterglow/README.md) |
+[BryanHarrisTech](https://twitter.com/BryanHarrisTech) |
+[Guidelines](https://docs.github.com/en/site-policy/github-terms/github-community-guidelines) |
+[AI Writers Room Community](https://twitter.com/i/communities/1669222125591318528) |
+[AI Writers Room List](https://twitter.com/i/lists/1675490119095140352)
 
 </div>
+
+</p>
 
 <table>
   <tr>
@@ -49,7 +60,6 @@
   </tr>
 </table>
 
-<div align="left">
   <a href="#licensing-and-attribution">**Developed by a Human: Bryan Harris</a>
 </div>
 
