@@ -32,7 +32,7 @@
       <h4>Afterglow & Resources</h4>
       <ol start="1">
         <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/Afterglow/README.md">👉🏼Afterglow - Story Menu**</a></li>
-        <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/General/README.md">📚Fundamentals - Concepts</a></li>
+        <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/General/README.md">📚Foundations - Storytelling</a></li>
         <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/24%20Blocks/README.md">📚Structure - 24 Blocks**</a></li>
         <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Essentials/README.md">📚Essentials - Tone, Pacing etc.</a></li>
         <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/Character/README.md">📚Character - Development</a></li>
@@ -42,12 +42,12 @@
     <td valign="top">
       <h4>AI Editing & Resources</h4>
       <ol start="7">
+        <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/Collaborators/README.md">👉🏼Collaborators Guide**</a></li>        
         <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/AI%20Prompts/README.md">📚Editing - AI Prompts**</a></li>
+        <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/Loglines/Loglines.md">📚Loglines - Guide & Prompt</a></li>
         <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/Blog/README.md">📚Blogs - How To's & Info</a></li>
         <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/OpenSource/Open Source Collaboration.md">🤝Global Collaboration</a></li>
-        <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/Loglines/Loglines.md">📚Loglines - Guide & Prompt</a></li>
         <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/Images">🖼️Images - Images Used**</a></li>
-        <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/Collaborators/README.md">👉🏼Collaborators Guide**</a></li>
       </ol>
     </td>
   </tr>
