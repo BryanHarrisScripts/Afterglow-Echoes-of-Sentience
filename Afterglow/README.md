@@ -51,7 +51,7 @@ Afterglow is structured into four acts, each made up of 'blocks', which are like
 
 If you're eager to contribute to Afterglow and wondering about what happens after you share your ideas, or if you're seeking inspiration about the kind of questions you should contemplate for each block and act, we've got you covered. Follow the link below to our collaborator's guide, where you'll find: 
 
-Your Role and Key Questions Guide: [Click Here](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Collaborators/README.md)
+Your Role and Key Questions Guide: [👉🏼Click Here](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Collaborators/README.md)
 
 # 🚀 Afterglow 
 
