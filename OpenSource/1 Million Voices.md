@@ -8,13 +8,13 @@
 
 <div align="center">
 
-  ## 1 MILLION VOICES: YOUR NAME, YOUR BRAND, YOUR CREATIVITY!
+## 1 MILLION CREATORS, COLLABORATORS, VOICES
 
 ### An Open Source Experiment 
 
 </div>
 
-## Introduction
+### Introduction
 
 This experiment seeks to explore an innovative and potentially powerful strategy for managing intellectual property (IP) in the digital age - particularly for IPs like screenplays. By applying an open-source licensing model, it's possible to foster collaborative creativity while preserving the recognition of the original author. This approach presents unique opportunities for a vibrant, shared creative space. 
 
@@ -28,11 +28,15 @@ Original Work: [Link to the original work]
 Modifications:
 ````
 
-## Connect, Grow, Impact!
+## Connect, Grow, Impact
 
 The overarching aim is to gather a ***community of 1 million followers*** around the project. If the project can attract a significant following, it can help promote the original work and provide a framework to grow and impact a vast audience. 
 
-## Benefits for Collaborators
+If successful, this experiment could demonstrate a potential method for managing and promoting creative work in the digital age. It could provide a blueprint for artists to grow their audience, impact a broad community, and foster collaborative creativity.
+
+This project is about more than just amassing followers; it's about building a community around a shared creative endeavour. The larger the community, the greater the collective creativity, the more significant the impact.
+
+### Benefits for Collaborators
 
 The experiment offers unique benefits for all collaborators:
 
@@ -54,10 +58,7 @@ The experiment offers unique benefits for all collaborators:
 
 5. **Monitor and Adapt:** Continually assess the growth and impact of the project, adapting strategies as necessary based on the feedback and trends.
 
-## The Impact
-If successful, this experiment could demonstrate a potential method for managing and promoting creative work in the digital age. It could provide a blueprint for artists to grow their audience, impact a broad community, and foster collaborative creativity.
-
-This project is about more than just amassing followers; it's about building a community around a shared creative endeavor. The larger the community, the greater the collective creativity, the more significant the impact.
+### The Impact
 
 While the experiment focuses on a screenplay, the principles and strategies can apply to any creative work, from novels and music to art and digital media. It's an exploration of new ways of creating and sharing in a digitally connected world, and a demonstration of the potential power of open-source principles in creative fields.
 
@@ -65,21 +66,16 @@ Open-source principles have already been applied successfully in numerous projec
 
 Open-source projects often raise questions about recognition, copyright, and conflict resolution. The CC-BY-SA-4.0 license ensures that all contributors receive appropriate credit for their work. The project also fosters an inclusive, respectful environment and encourages open dialogue to resolve any potential conflicts.
 
-<div align="center">
-<br>
-<h2>1 Million Creators, Collaborators, Voices</h2>
-<br>
-<strong>Your name, your brand, your creativity!</strong><br>
-<br>
-<strong>Connect, grow, impact! - Rewrite the future!</strong><br>
-<br>
-<a href="https://twitter.com/BryanHarrisTech"><strong>👉🏼 Join 1 Million Voices</strong></a>
-<br><br>
-</div>
-
-
-## Disclaimer
+### Disclaimer
 
 This experiment is hypothetical and theoretical. It's an exploration of possibilities and doesn't guarantee success. It's crucial to consult with a legal professional before deciding to adopt an open-source model for managing creative works.
+#
 
----
+<div align="center">
+<h3>1 MILLION CREATORS, COLLABORATORS, VOICES</h3>
+<h4>YOUR NAME, YOUR BRAND, YOUR CREATIVITY!</h4>
+<h4>REWRITE THE FUTURE!</h4>
+<h4><a href="https://twitter.com/BryanHarrisTech">👉🏼 JOIN 1 MILLION VOICES</a></h4>
+</div>
+
+------
