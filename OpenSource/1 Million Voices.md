@@ -40,8 +40,6 @@ If you have an idea that you believe would improve the screenplay, we would love
 
 - **Fountain Format:** If you're unfamiliar with such software, don't worry! We also have a process where you can contribute using the `.fountain` plain text markup format for writing screenplays.
 
-Certainly, we can include the provided link. Here is the revised section:
-
 ### Collaborative Process on X
 In the spirit of collaboration, I'll create a Post on [X](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow/README.md), where you can join the dialogue around the screenplay's development. Here, you can provide your suggestions, ideas, and feedback on each chapter of the project, fostering a more in-depth, interactive collaborative process.
 
