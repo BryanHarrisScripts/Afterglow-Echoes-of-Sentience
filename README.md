@@ -13,9 +13,10 @@
 
 </div>
 
+<div align="center">
 
-<table>
-  <tr>
+  <table>
+    <tr>
     <td valign="top">
       <h4>Menu</h4>
       <ol start="1">
@@ -51,6 +52,8 @@
   </tr>
 </table>
 
+</div>
+
 <div align="center">
   <a href="#licensing-and-attribution">**Developed by a Human: Bryan Harris</a>
 </div>
@@ -72,7 +75,7 @@ I'm in agreement with James Cameron.
 
 While creating scripts entirely with AI may be challenging without human intervention, I believe that **human-written scripts** edited with AI assistance, as I'm currently doing, are indeed feasible.
 
-### 🚀 Afterglow Files 
+## 🚀 Afterglow Files 
 
 | 2023 Rewrite with AI ChatGPT | 2017 Original Beatsheet / Pitch | 2017 Additional Files |
 |------------------------|---------------------------|--------------------|
@@ -82,8 +85,6 @@ While creating scripts entirely with AI may be challenging without human interve
 | [Afterglow v8 - FDX**](https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/AfterGlow%20v8%20Twitter%20Rewrite%20Bryan%20E.%20Harris%202023%20Github.fdx) | [The Passengers Pitch Package - Aug ‎07 ‎2017 - PDF**](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%202017/The%20Passengers%20Pitch%20Package%20-%20Aug%20%E2%80%8E07%20%E2%80%8E2017.pdf) |  |
 
 <a href="#top">Back to Top</a>
-
----
 
 # Welcome to the 'Afterglow' Journey
 
