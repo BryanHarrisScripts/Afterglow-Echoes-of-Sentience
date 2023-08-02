@@ -49,6 +49,10 @@ Afterglow is structured into four acts, each made up of 'blocks', which are like
 - **Provide Your Input:** Share your thoughts on the selected block. You could propose changes to amplify its impact, suggest alternatives, or offer any other constructive feedback that could enhance the narrative. Remember, your objective is to aid in the development of the narrative, so ensure your suggestions are constructive, clear, and concise.
 - **Acknowledgement:** If your contribution is incorporated, you will be acknowledged and credited as a collaborator for the submission on the Github project page.
 
+If you're eager to contribute to Afterglow and wondering about what happens after you share your ideas, or if you're seeking inspiration about the kind of questions you should contemplate for each block and act, we've got you covered. Follow the link below to our collaborator's guide, where you'll find: 
+
+Your Role and Key Questions Guide: [Click Here](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Collaborators/README.md)
+
 # 🚀 Afterglow 
 
 <h3 align="center">Act 1: Setup - Establishes Characters, Their Objectives, And The Setting</h3>
