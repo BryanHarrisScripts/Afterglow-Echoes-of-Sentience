@@ -41,11 +41,11 @@ If you have an idea that you believe would improve the screenplay, we would love
 - **Fountain Format:** If you're unfamiliar with such software, don't worry! We also have a process where you can contribute using the `.fountain` plain text markup format for writing screenplays.
 
 ### Collaborative Process on X
-In the spirit of collaboration, I'll create a Post on [X](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow/README.md), where you can join the dialogue around the screenplay's development. Here, you can provide your suggestions, ideas, and feedback on each chapter of the project, fostering a more in-depth, interactive collaborative process.
+In the spirit of collaboration, this link [👉🏼 To Afterglow on X](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow/README.md), is where you can join the dialogue around the screenplay's development. Here, you can provide your suggestions, ideas, and feedback on each chapter of the project, fostering a more in-depth, interactive collaborative process.
 
 If you're interested in the project, we encourage you to use this platform to voice your thoughts and suggestions. Should your input shape a particular sequence, you will be credited for your contribution. This process is not only an opportunity to influence a screenplay but also a fantastic chance to become part of a vibrant community and contribute to a potentially game-changing experiment in open-source creativity. Let's shape this journey together!
 
-Now, `"X"` in the text is replaced with a clickable link that takes the reader directly to the GitHub page where they can add their input.
+Now, `"👉🏼 To Afterglow on X"` is a clickable link that takes the reader directly to the GitHub page where you can collaborate.
 
 ### Create Your Own Version
 For those of you who would like to express your creativity more freely, we provide an option for you to create your own adaptation of the screenplay. You can put your unique spin on the story and submit it to our 'Contributors' directory on Github.
