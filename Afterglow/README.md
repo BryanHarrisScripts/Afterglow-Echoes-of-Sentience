@@ -47,7 +47,7 @@ Afterglow is structured into four acts, each made up of 'blocks', which are like
 - **Select a Block:** Choose a block that you would like to provide feedback on or contribute to.
 - **Examine the Block:** Reflect on the role this block plays within the narrative. Assess its effectiveness in contributing to the overarching storyline and its cohesiveness within the genre or narrative style.
 - **Provide Your Input:** Share your thoughts on the selected block. You could propose changes to amplify its impact, suggest alternatives, or offer any other constructive feedback that could enhance the narrative. Remember, your objective is to aid in the development of the narrative, so ensure your suggestions are constructive, clear, and concise.
-- **Acknowledgement:** If your contribution is incorporated, you will be acknowledged and credited as a collaborators for the submission on the Github project page.
+- **Acknowledgement:** If your contribution is incorporated, you will be acknowledged and credited as a collaborator for the submission on the Github project page.
 
 # 🚀 Afterglow 
 
