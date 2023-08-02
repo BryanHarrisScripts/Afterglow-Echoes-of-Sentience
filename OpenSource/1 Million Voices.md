@@ -30,7 +30,7 @@ Original Work: [Link to the original work]
 Modifications:
 ````
 
-## Connect, Grow, Impact
+### Connect, Grow, Impact
 
 The overarching aim is to gather a ***community of 1 million followers*** around the project. If the project can attract a significant following, it can help promote the original work and provide a framework to grow and impact a vast audience. 
 
@@ -48,7 +48,15 @@ The experiment offers unique benefits for all collaborators:
 
 3. **Learning and Growing:** Working on a global platform with diverse collaborators provides a unique learning experience and a chance to grow professionally.
 
-## The Process
+### The Impact
+
+While the experiment focuses on a screenplay, the principles and strategies can apply to any creative work, from novels and music to art and digital media. It's an exploration of new ways of creating and sharing in a digitally connected world, and a demonstration of the potential power of open-source principles in creative fields.
+
+Open-source principles have already been applied successfully in numerous projects, such as [Project Gutenberg](https://www.gutenberg.org/). This project has demonstrated the potential of open-source for creating a vast, shared repository of literary works.
+
+Open-source projects often raise questions about recognition, copyright, and conflict resolution. The CC-BY-SA-4.0 license ensures that all contributors receive appropriate credit for their work. The project also fosters an inclusive, respectful environment and encourages open dialogue to resolve any potential conflicts.
+
+### The Process
 
 1. **Release the Work Under an Open-Source License:** The first step involves releasing a screenplay under the CC-BY-SA-4.0 license.
 
@@ -60,14 +68,8 @@ The experiment offers unique benefits for all collaborators:
 
 5. **Monitor and Adapt:** Continually assess the growth and impact of the project, adapting strategies as necessary based on the feedback and trends.
 
-### The Impact
 
-While the experiment focuses on a screenplay, the principles and strategies can apply to any creative work, from novels and music to art and digital media. It's an exploration of new ways of creating and sharing in a digitally connected world, and a demonstration of the potential power of open-source principles in creative fields.
-
-Open-source principles have already been applied successfully in numerous projects, such as [Project Gutenberg](https://www.gutenberg.org/). This project has demonstrated the potential of open-source for creating a vast, shared repository of literary works.
-
-Open-source projects often raise questions about recognition, copyright, and conflict resolution. The CC-BY-SA-4.0 license ensures that all contributors receive appropriate credit for their work. The project also fosters an inclusive, respectful environment and encourages open dialogue to resolve any potential conflicts.
-
+#
 ### Disclaimer
 
 This experiment is hypothetical and theoretical. It's an exploration of possibilities and doesn't guarantee success. It's crucial to consult with a legal professional before deciding to adopt an open-source model for managing creative works.
