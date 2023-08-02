@@ -12,6 +12,8 @@
 
 ### An Open Source Experiment 
 
+<h4><a href="https://twitter.com/BryanHarrisTech">👉🏼 JOIN 1 MILLION VOICES</a></h4>
+
 </div>
 
 ### Introduction
@@ -74,8 +76,6 @@ This experiment is hypothetical and theoretical. It's an exploration of possibil
 <div align="center">
 <h3>1 MILLION CREATORS, COLLABORATORS, VOICES</h3>
 <h4>YOUR NAME, YOUR BRAND, YOUR CREATIVITY!</h4>
-<h4>REWRITE THE FUTURE!</h4>
-<h4><a href="https://twitter.com/BryanHarrisTech">👉🏼 JOIN 1 MILLION VOICES</a></h4>
 </div>
 
 ------
