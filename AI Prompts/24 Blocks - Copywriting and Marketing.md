@@ -24,3 +24,5 @@ The document introduces various copywriting formulas, each with unique character
 
 Why you'd choose one over another depends on the specific goal of your message, your audience, and the medium in which you're communicating. You might choose AIDA for a marketing email campaign, BAB for a product landing page, or FAB for a product datasheet. Experimenting with different approaches will also help you find what works best in your context.
 
+---
+
