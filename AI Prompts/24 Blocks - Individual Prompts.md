@@ -184,7 +184,7 @@ make these introductions more engaging and informative."
 
 <a href="#top">Back to Top</a>
 
-10. **(Prompts) Audience Engagement and Perspective**
+<h2 id="43-prompts-audience-engagement-and-perspective">(Prompts) Audience Engagement and Perspective</h2>
 
     - "Considering the target demographic, how might elements of this script be altered to better resonate with this audience? Provide specific examples."
 
