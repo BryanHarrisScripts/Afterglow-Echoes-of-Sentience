@@ -41,3 +41,5 @@ Here are some questions that a writer might consider for each of these beats:
 18. Antagonist Hint: What hints or introduction are given about the primary antagonist or opposing force? How does this foreshadow the larger conflict to come?
 
 These questions are not exhaustive, and additional questions might arise based on the specifics of the story. They serve as a starting point to ensure key aspects of the story, characters, internal and external influences, theme, and plot are well developed and consistent.
+
+---
