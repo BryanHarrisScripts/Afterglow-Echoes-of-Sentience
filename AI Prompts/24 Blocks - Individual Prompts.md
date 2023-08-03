@@ -1,5 +1,3 @@
-# Individual Prompts for Screenwriting
-
 ### 24 Blocks Summary:
 
 This resource, powered by OpenAI's ChatGPT, is designed to assist in the detailed refinement of screenplays, navigating through the AI's token limit. It segments the editing process into Most Critical Elements, Intermediate Elements, and Fine-Tuning Elements, covering a wide spectrum from structure, character development, and dialogue enhancement to scene analysis and sensory details.
@@ -9,6 +7,30 @@ Specific prompts are provided under each topic, facilitating a methodical dissec
 Intermediate elements explore distinctive aspects of screenplay writing such as genre-specific elements, symbolism, humor, and cultural context. The fine-tuning elements attend to minor yet significant aspects like script formatting, editing, voiceovers, and pacing.
 
 Overall, this resource equips writers with the necessary tools to effectively harness AI in screenplay editing, leading to engaging, polished scripts that connect with audiences and appeal to producers.
+
+
+| **Most Critical Elements** | **Intermediate Elements** | **Fine-Tuning Elements** |
+|----------------------------|--------------------------|--------------------------|
+| [**Story Outline and Structure (Prompts)**](#Story-Outline-and-Structure-Prompts) | [**Scene Analysis and Narrative Arc (Prompts)**](#Scene-Analysis-and-Narrative-Arc-Prompts) | [**Pacing and Rhythm**](#Pacing-and-Rhythm) |
+| [**Emotion and Conflict (Prompts)**](#Emotion-and-Conflict-Prompts) | [**Exposition and Information Delivery**](#Exposition-and-Information-Delivery) | [**Voiceover and Narration**](#Voiceover-and-Narration) |
+| [**Conflict and Tension**](#Conflict-and-Tension) | [**Genre-Specific Elements & World-Building (Prompts)**](#Genre-Specific-Elements-&-World-Building-Prompts) | [**Fine-Tuning Elements (Prompts)**](#Fine-Tuning-Elements-Prompts) |
+| [**Character Development (Prompts)**](#Character-Development-Prompts) | [**Motifs and Recurring Elements**](#Motifs-and-Recurring-Elements) | [**Script Formatting and Style**](#Script-Formatting-and-Style) |
+| [**Character Arc Consistency**](#Character-Arc-Consistency) | [**Symbolism and Setting (Prompts)**](#Symbolism-and-Setting-Prompts) | [**Rewriting and Editing**](#Rewriting-and-Editing) |
+| [**Dialogue Enhancement (Prompts)**](#Dialogue-Enhancement-Prompts) | [**Flashbacks and Non-linear Storytelling**](#Flashbacks-and-Non-linear-Storytelling) | [**Title Significance**](#Title-Significance) |
+| [**Script Analysis and Feedback (Prompts)**](#Script-Analysis-and-Feedback-Prompts) | [**Cinematic Language and Visual Storytelling**](#Cinematic-Language-and-Visual-Storytelling) | [**Action Description**](#Action-Description) |
+| [**Subplots**](#Subplots) | [**Screenplay Tone and Atmosphere**](#Screenplay-Tone-and-Atmosphere) | [**Diction and Language Style (Prompts)**](#Diction-and-Language-Style-Prompts) |
+| [**Thematic Exploration and Depth**](#Thematic-Exploration-and-Depth) | [**Humor and Surprise Elements (Prompts)**](#Humor-and-Surprise-Elements-Prompts) | [**Authenticity of Dialogue (Prompts)**](#Authenticity-of-Dialogue-Prompts) |
+| [**Theme, Irony, and Prose (Prompts)**](#Theme-Irony-and-Prose-Prompts) | [**Use of Sound**](#Use-of-Sound) | [**Diverse Representation (Prompts)**](#Diverse-Representation-Prompts) |
+| [**Inciting Incidents and Plot Twists**](#Inciting-Incidents-and-Plot-Twists) | [**Genre Conventions and Innovations**](#Genre-Conventions-and-Innovations) | [**Feedback and Revision Process (Prompts)**](#Feedback-and-Revision-Process-Prompts) |
+| [**Emotional Appeal (Prompts)**](#Emotional-Appeal-Prompts) | [**Pathos and Catharsis**](#Pathos-and-Catharsis) | [**Marketing and Pitching (Prompts)**](#Marketing-and-Pitching-Prompts) |
+| [**Resolution and Climax**](#Resolution-and-Climax) | [**Ensemble Cast Dynamics**](#Ensemble-Cast-Dynamics) | [**Audience Engagement and Perspective (Prompts)**](#Audience-Engagement-and-Perspective-Prompts) |
+| [**Visual Imagery (Prompts)**](#Visual-Imagery-Prompts) | [**Cultural and Time Aspects (Prompts)**](#Cultural-and-Time-Aspects-Prompts) | [**Characterization Techniques (Prompts)**](#Characterization-Techniques-Prompts) |
+| [**Antagonist Development**](#Antagonist-Development) | [**World Continuity (Prompts)**](#World-Continuity-Prompts) | [**Use of Color and Lighting**](#Use-of-Color-and-Lighting) |
+| [**Character Relationships and Dynamics**](#Character-Relationships-and-Dynamics) | [**Sensory Details (Prompts)**](#Sensory-Details-Prompts) | [**Setting and Mood Development (Prompts)**](#Setting-and-Mood-Development-Prompts) |
+| [**Character Introductions**](#Character-Introductions) | [**Foreshadowing (Prompts)**](#Foreshadowing-Prompts) | [**Dramatic Irony (Prompts)**](#Dramatic-Irony-Prompts) |
+| [**Character Motivations (Prompts)**](#Character-Motivations-Prompts) | [**Symbolic Meaning (Prompts)**](#Symbolic-Meaning-Prompts) | [**Genre Blending**](#Genre-Blending) |
+| [**Character Backstories (Prompts)**](#Character-Backstories-Prompts) | [**Subtext (Prompts)**](#Subtext-Prompts) | [**Tension Building Techniques (Prompts)**](#Tension-Building-Techniques-Prompts) |
+| | | [**Innovative Plot Structures (Prompts)**](#Innovative-Plot-Structures-Prompts) | 
 
 #### Optional Prompts:
 
@@ -89,7 +111,7 @@ Fine-Tuning Elements
 **Most Critical Elements**
 ---------------------------------------------
 
-1. **(Prompts) Story Outline and Structure**
+## Story Outline and Structure (Prompts)
 
    - "From the story elements we've discussed, construct a narrative outline using both Roman and Arabic numerals. Make sure it reflects the main plot points, character arcs, and the progression of the story."
 
