@@ -45,3 +45,5 @@ Writing effective dialogue for a screenplay is a skill that often takes time and
 Remember, there are no hard and fast rules in writing, only guidelines. What's most important is to find your own voice and tell the story you want to tell. The more you write, the better you'll get!
 
 These tips are starting points. You'll find your own style and voice as you practice writing more. It can be helpful to read successful screenplays to see how professional screenwriters handle dialogue. Remember, writing is subjective and there's always room for creativity and experimentation.
+
+---
