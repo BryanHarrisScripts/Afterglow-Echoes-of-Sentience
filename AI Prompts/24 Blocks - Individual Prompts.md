@@ -28,7 +28,7 @@ Overall, this resource equips writers with the necessary tools to effectively ha
 | [10. (Prompts) Theme, Irony, and Prose](#10-prompts-theme-irony-and-prose) | 25. Use of Sound | [40. (Prompts) Diverse Representation](#40-prompts-diverse-representation) |
 | 11. Inciting Incidents and Plot Twists | 26. Genre Conventions and Innovations | [41. (Prompts) Feedback and Revision Process](#41-prompts-feedback-and-revision-process) |
 | [12. (Prompts) Emotional Appeal](#12-prompts-emotional-appeal) | 27. Pathos and Catharsis | [42. (Prompts) Marketing and Pitching](#42-prompts-marketing-and-pitching) |
-| 13. Resolution and Climax | 28. Ensemble Cast Dynamics | [43. (Prompts) Audience Engagement and Perspective](#10-prompts-audience-engagement-and-perspective) |
+| 13. Resolution and Climax | 28. Ensemble Cast Dynamics | [43. (Prompts) Audience Engagement and Perspective](#prompts-audience-engagement-and-perspective) |
 | [14. (Prompts) Visual Imagery](#14-prompts-visual-imagery) | [29. (Prompts) Cultural and Time Aspects](#29-prompts-cultural-and-time-aspects) | [44. (Prompts) World Continuity](#44-prompts-world-continuity) |
 | 15. Antagonist Development | [30. (Prompts) Sensory Details](#30-prompts-sensory-details) | - |
 | - | [31. (Prompts) Foreshadowing](#31-prompts-foreshadowing) | - |
