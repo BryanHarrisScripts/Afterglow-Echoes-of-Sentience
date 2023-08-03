@@ -1,6 +1,6 @@
 <a id="top"></a>
 
-### 24 Blocks Summary:
+## 24 Blocks Summary:
 
 This resource, powered by OpenAI's ChatGPT, is designed to assist in the detailed refinement of screenplays, navigating through the AI's token limit. It segments the editing process into Most Critical Elements, Intermediate Elements, and Fine-Tuning Elements, covering a wide spectrum from structure, character development, and dialogue enhancement to scene analysis and sensory details.
 
@@ -45,70 +45,7 @@ Overall, this resource equips writers with the necessary tools to effectively ha
 - What additional additions would you suggest after this edit?
 - Show the character count of the original screenplay input, the revised screenplay output and the total difference.
 
-**Most Critical Elements**
----------------------------------------------
-
-
-
-- Conflict and Tension
-
-- Character Arc Consistency
-
-- (Prompts) Script Analysis and Feedback
-- Subplots
-- Thematic Exploration and Depth
-
-- Inciting Incidents and Plot Twists
-- (Prompts) Emotional Appeal
-- Resolution and Climax
-- (Prompts) Visual Imagery
-- Antagonist Development
-- Character Relationships and Dynamics
-- Character Introductions
-- (Prompts) Character Motivations
-- (Prompts) Character Backstories
-
-Intermediate Elements
----------------------------------------------
-
-- (Prompts) Scene Analysis and Narrative Arc
-- Exposition and Information Delivery
-- (Prompts) Genre-Specific Elements & World-Building
-- Motifs and Recurring Elements
-- (Prompts) Symbolism and Setting
-- Flashbacks and Non-linear Storytelling
-- Cinematic Language and Visual Storytelling
-- Screenplay Tone and Atmosphere
-- (Prompts) Humor and Surprise Elements
-- Use of Sound
-- Genre Conventions and Innovations
-- Pathos and Catharsis
-- Ensemble Cast Dynamics
-- (Prompts) Cultural and Time Aspects
-- (Prompts) World Continuity
-- (Prompts) Sensory Details
-- (Prompts) Foreshadowing
-- (Prompts) Symbolic Meaning
-- (Prompts) Subtext
-
-Fine-Tuning Elements
----------------------------------------------
-
-- Pacing and Rhythm
-- Voiceover and Narration
-- (Prompts) Fine-Tuning Elements
-- Script Formatting and Style
-- Rewriting and Editing
-- Title Significance
-- Action Description
-- (Prompts) Diction and Language Style
-- (Prompts) Authenticity of Dialogue
-- (Prompts) Diverse Representation
-- (Prompts) Feedback and Revision Process
-- (Prompts) Marketing and Pitching
-- (Prompts) Audience Engagement and Perspective
-
-#### Prompts: 
+### Prompts: 
 
 **Most Critical Elements**
 ---------------------------------------------
