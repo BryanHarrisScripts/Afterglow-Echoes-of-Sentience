@@ -24,3 +24,5 @@ Please provide as much detail as you feel is relevant.
 - Write a brief 500-character summary of the changes in this new version.
 - What additional additions would you suggest after this edit?
 - Show the character count of the original screenplay input, the revised screenplay output and the total difference.
+
+---
