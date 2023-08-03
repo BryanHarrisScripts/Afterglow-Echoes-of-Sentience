@@ -1,4 +1,3 @@
-
 | **Character Elements** | **Character Elements** | **Character Elements** |
 |-----------------------|----------------------|----------------------|
 | [1. Self-Sacrifice](#self-sacrifice) | [11. Overcoming Adversity](#overcoming-adversity) | [21. Unfamiliar Nomads](#unfamiliar-nomads) |
