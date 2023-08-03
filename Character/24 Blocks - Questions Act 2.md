@@ -42,3 +42,5 @@ A writer should consider the following questions to guide their understanding an
 19. How does the protagonist's action at the end of Act Two set up the events in Act Three?
 
 Throughout Act 2, the writer should also consider how the internal and external changes experienced by the protagonist are influencing their character arc, and how the story's themes are being explored and developed through the protagonist's actions, choices, and the consequences they face.
+
+---
