@@ -113,7 +113,8 @@ Fine-Tuning Elements
 
 #### Story Outline and Structure (Prompts)
 
-   - "From the story elements we've discussed, construct a narrative outline using both Roman and Arabic numerals. Make sure it reflects the main plot points, character arcs, and the progression of the story."
+"From the story elements we've discussed, construct a narrative outline using both Roman and Arabic numerals. Make sure it reflects the main plot points, character arcs, and the progression of the story."
+
 
 ####  Emotion and Conflict (Prompts)
 
