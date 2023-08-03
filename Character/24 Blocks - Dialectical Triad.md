@@ -20,8 +20,10 @@ Finally, the synthesis is the reconciliation of the conflict between the thesis 
 
 Understanding this concept can be very useful in creating a robust narrative for your screenplay. The thesis gives your characters and audience a familiar ground to stand on, the antithesis introduces the necessary conflict and growth catalyst, and the synthesis presents a satisfying conclusion and resolution to the plot and character arcs.
 
----
+#
 
 When used effectively, the dialectical triad can help create stories that are dynamic and engaging. It can serve as a basic framework for structuring your screenplay and help you ensure there's adequate conflict and growth throughout the story.
 
 In summary, the dialectical triad of thesis, antithesis, and synthesis can be a very effective tool for shaping and structuring your screenplay. It presents a fundamental model for understanding conflict and character development in storytelling. By incorporating these elements in your screenplay, you can create a compelling narrative that will engage and captivate your audience.
+
+---
