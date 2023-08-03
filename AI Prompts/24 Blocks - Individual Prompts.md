@@ -112,8 +112,10 @@ Overall, this resource equips writers with the necessary tools to effectively ha
 1. **(Prompts) Script Formatting and Style**
 
    - "Review this script excerpt. Are there any formatting errors or stylistic inconsistencies that need to be addressed to align with standard screenplay conventions?"
-
+   
    - "Analyze the transitions between the acts in this script. Are they smooth and impactful? Do they effectively contribute to the overall story? Offer suggestions for improvements if needed."
+
+<a href="#top">Back to Top</a>
 
 2. **(Prompts) Rewriting and Editing**
 
@@ -124,6 +126,8 @@ make these introductions more engaging and informative."
 
    - "Evaluate the development of the antagonist. Is their motivation clear and compelling? How might their character arc be improved to create a more dynamic conflict with the protagonist?"
 
+<a href="#top">Back to Top</a>
+
 3. **(Prompts) Feedback and Revision Process**
 
    - "Examine the script's character interactions. Do they feel authentic and compelling? Suggest improvements to enhance character dynamics and contribute to each character's overall arc."
@@ -131,6 +135,8 @@ make these introductions more engaging and informative."
    - "Identify a secondary theme in the script that isn't fully developed. How might the story explore this theme more deeply without detracting from the primary focus?"
 
    - "Given the script's overall theme, suggest ways to further weave this theme into the characters' actions, dialogue, and development. How can we make the theme more resonant throughout the screenplay?"
+
+<a href="#top">Back to Top</a>
 
 4. **(Prompts) Detailed Scene Analysis**
 
@@ -140,15 +146,21 @@ make these introductions more engaging and informative."
 
    - "Analyze this scene for its contribution to the overall story. Suggest specific changes to strengthen character motivations, enhance the emotional impact, or improve the setting description."
 
+<a href="#top">Back to Top</a>
+
 5. **(Prompts) Plot Development and Surprises**
 
    - "Does the script include any surprising plot twists? If not, suggest a potential plot twist that could add intrigue and complexity to the story."
 
    - "Review the script's inciting incident. Does it effectively propel the narrative and engage the audience? If not, suggest changes to enhance its impact and relevance to the story."
 
+<a href="#top">Back to Top</a>
+
 6. **(Prompts) Thematic Complexity**
 
    - "Evaluate the use of setting in the script. Are there opportunities to make the setting more symbolic or more deeply intertwined with the plot or character arcs?"
+
+<a href="#top">Back to Top</a>
 
 7. **(Prompts) Narrative Arcs and Resolution**
 
@@ -156,15 +168,21 @@ make these introductions more engaging and informative."
 
    - "Evaluate the script's resolution. Does it provide a satisfying conclusion to the narrative arcs and themes? If not, what changes would you recommend to improve its effect and audience satisfaction?"
 
+<a href="#top">Back to Top</a>
+
 8. **(Prompts) Time Management and Tension Building**
 
    - "Consider the use of time in the script. Are there any instances where time could be used more effectively to build tension, develop characters, or explore themes?"
 
    - "Identify a sequence in the script where suspense could be built more effectively. How might the pacing, sequence of events, or character decisions be adjusted to heighten tension?"
 
+<a href="#top">Back to Top</a>
+
 9. **(Prompts) Genre and World-Building Refinements**
 
     - "Examine the world-building in this script. Is the setting vivid, unique, and well-realized? Suggest ways to make the world of the story more engaging and immersive."
+
+<a href="#top">Back to Top</a>
 
 10. **(Prompts) Audience Engagement and Perspective**
 
@@ -174,4 +192,10 @@ make these introductions more engaging and informative."
 
     - "Given the tone and content of this script, what rating would you anticipate it receiving (G, PG, PG-13, R)? Are there any modifications that could make it more appropriate for a broader or specific age group without compromising its essence?" 
 
-    - "Identify any cultural, social, or historical references in the script. How might these be perceived by international audiences or those unfamiliar with the context? Provide suggestions to improve clarity or inclusivity."
+    - "Identify any cultural, social, or historical references in the script. How might these be
+
+ clarified or expanded upon to increase their relevance and impact for the audience?"
+
+<a href="#top">Back to Top</a>
+
+---
