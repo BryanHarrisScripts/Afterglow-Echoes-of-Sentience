@@ -15,18 +15,18 @@ Overall, this resource equips writers with the necessary tools to effectively ha
 |----------------------------|--------------------------|--------------------------|
 | [**Story Outline and Structure (P)**](#Story-Outline-and-Structure-Prompts) | [**Scene Analysis and Narrative Arc**](#Scene-Analysis-and-Narrative-Arc-Prompts) | [**Pacing and Rhythm**](#Pacing-and-Rhythm) |
 | [**Emotion and Conflict (P)**](#Emotion-and-Conflict-Prompts) | [**Exposition and Information Delivery**](#Exposition-and-Information-Delivery) | [**Voiceover and Narration**](#Voiceover-and-Narration) |
-| [**Conflict and Tension**](#Conflict-and-Tension) | [**Genre-Specific Elements & World-Building**](#Genre-Specific-Elements-&-World-Building-Prompts) | [**Fine-Tuning Elements**](#Fine-Tuning-Elements-Prompts) |
-| [**Character Development (P)**](#Character-Development-Prompts) | [**Motifs and Recurring Elements**](#Motifs-and-Recurring-Elements) | [**Script Formatting and Style**](#Script-Formatting-and-Style) |
-| [**Character Arc Consistency**](#Character-Arc-Consistency) | [**Symbolism and Setting**](#Symbolism-and-Setting-Prompts) | [**Rewriting and Editing**](#Rewriting-and-Editing) |
+| [**Conflict and Tension**](#Conflict-and-Tension) | [**Genre-Specific & World-Building (P)**](#Genre-Specific-Elements-&-World-Building-Prompts) | [**Fine-Tuning Elements**](#Fine-Tuning-Elements-Prompts) |
+| [**Character Development (P)**](#Character-Development-Prompts) | [**Motifs and Recurring Elements**](#Motifs-and-Recurring-Elements) | [**Script Formatting and Style (P)**](#Script-Formatting-and-Style) |
+| [**Character Arc Consistency**](#Character-Arc-Consistency) | [**Symbolism and Setting (P)**](#Symbolism-and-Setting-Prompts) | [**Rewriting and Editing (P)**](#Rewriting-and-Editing) |
 | [**Dialogue Enhancement (P)**](#Dialogue-Enhancement-Prompts) | [**Flashbacks and Non-linear Storytelling**](#Flashbacks-and-Non-linear-Storytelling) | [**Title Significance**](#Title-Significance) |
-| [**Script Analysis and Feedback**](#Script-Analysis-and-Feedback-Prompts) | [**Cinematic Language and Visual Storytelling**](#Cinematic-Language-and-Visual-Storytelling) | [**Action Description**](#Action-Description) |
+| [**Script Analysis and Feedback (P)**](#Script-Analysis-and-Feedback-Prompts) | [**Cinematic Language and Visual Storytelling**](#Cinematic-Language-and-Visual-Storytelling) | [**Action Description**](#Action-Description) |
 | [**Subplots**](#Subplots) | [**Screenplay Tone and Atmosphere**](#Screenplay-Tone-and-Atmosphere) | [**Diction and Language Style**](#Diction-and-Language-Style-Prompts) |
-| [**Thematic Exploration and Depth**](#Thematic-Exploration-and-Depth) | [**Humor and Surprise Elements**](#Humor-and-Surprise-Elements-Prompts) | [**Authenticity of Dialogue (Prompts)**](#Authenticity-of-Dialogue-Prompts) |
+| [**Thematic Exploration and Depth**](#Thematic-Exploration-and-Depth) | [**Humor and Surprise Elements (P)**](#Humor-and-Surprise-Elements-Prompts) | [**Authenticity of Dialogue (Prompts)**](#Authenticity-of-Dialogue-Prompts) |
 | [**Theme, Irony, and Prose (P)**](#Theme-Irony-and-Prose-Prompts) | [**Use of Sound**](#Use-of-Sound) | [**Diverse Representation**](#Diverse-Representation-Prompts) |
-| [**Inciting Incidents and Plot Twists**](#Inciting-Incidents-and-Plot-Twists) | [**Genre Conventions and Innovations**](#Genre-Conventions-and-Innovations) | [**Feedback and Revision Process**](#Feedback-and-Revision-Process-Prompts) |
+| [**Inciting Incidents and Plot Twists**](#Inciting-Incidents-and-Plot-Twists) | [**Genre Conventions and Innovations**](#Genre-Conventions-and-Innovations) | [**Feedback and Revision Process (P)**](#Feedback-and-Revision-Process-Prompts) |
 | [**Emotional Appeal**](#Emotional-Appeal-Prompts) | [**Pathos and Catharsis**](#Pathos-and-Catharsis) | [**Marketing and Pitching**](#Marketing-and-Pitching-Prompts) |
 | [**Resolution and Climax**](#Resolution-and-Climax) | [**Ensemble Cast Dynamics**](#Ensemble-Cast-Dynamics) | [**Audience Engagement and Perspective**](#Audience-Engagement-and-Perspective-Prompts) |
-| [**Visual Imagery**](#Visual-Imagery-Prompts) | [**Cultural and Time Aspects**](#Cultural-and-Time-Aspects-Prompts) | [**Characterization Techniques**](#Characterization-Techniques-Prompts) |
+| [**Visual Imagery (P)**](#Visual-Imagery-Prompts) | [**Cultural and Time Aspects (P)**](#Cultural-and-Time-Aspects-Prompts) | [**Characterization Techniques**](#Characterization-Techniques-Prompts) |
 | [**Antagonist Development**](#Antagonist-Development) | [**World Continuity**](#World-Continuity-Prompts) | [**Use of Color and Lighting**](#Use-of-Color-and-Lighting) |
 | [**Character Relationships and Dynamics**](#Character-Relationships-and-Dynamics) | [**Sensory Details**](#Sensory-Details-Prompts) | [**Setting and Mood Development**](#Setting-and-Mood-Development-Prompts) |
 | [**Character Introductions**](#Character-Introductions) | [**Foreshadowing**](#Foreshadowing-Prompts) | [**Dramatic Irony**](#Dramatic-Irony-Prompts) |
@@ -150,42 +150,42 @@ Fine-Tuning Elements
 **Intermediate Elements**
 ---------------------------------------------
 
-1. **(Prompts) Script Analysis and Feedback**
+#### Script Analysis and Feedback (Prompts)
 
    - "Review this screenplay scene and provide a critique of its structure, pacing, and character consistency. Note any repeated words or phrases, and give specific examples of where action lines might be overly descriptive."
 
    - "Identify any redundant scenes, dialogue, or action in this script. Provide suggestions for removing or consolidating these elements to improve the script's efficiency and readability."
 
-2. **(Prompts) Genre-Specific Elements & World-Building**
+#### Genre-Specific Elements & World-Building (Prompts)
 
    - "This is a sci-fi screenplay. What genre-specific elements or tropes are missing or underused? Provide suggestions for their inclusion to enhance the genre feel of the script."
 
-3. **(Prompts) Symbolism and Setting**
+#### Symbolism and Setting (Prompts)
 
    - "Can you identify any recurring motifs or symbols in the script? If not, suggest a few that could add depth and complexity to the story."
 
-4. **(Prompts) Humor and Surprise Elements**
+#### Humor and Surprise Elements (Prompts)
 
    - "Does the script make effective use of humor? Identify a scene that could benefit from the inclusion of humor to lighten the tone or add depth to a character."
 
-5. **(Prompts) Cultural and Time Aspects**
+#### Cultural and Time Aspects (Prompts)
 
    - "Analyze the cultural context of the script. How well does the story incorporate the culture of its characters or setting? Provide suggestions to enhance cultural representation and authenticity."
 
-6. **(Prompts) Visual Imagery**
+#### Visual Imagery (Prompts)
 
    - "This scene lacks clear visual direction. How can we rewrite it to better utilize visual storytelling elements, enhancing both readability and cinematic impact?"
 
 **Fine-Tuning Elements**
 ---------------------------------------------
 
-1. **(Prompts) Script Formatting and Style**
+#### Script Formatting and Style (Prompts)
 
    - "Review this script excerpt. Are there any formatting errors or stylistic inconsistencies that need to be addressed to align with standard screenplay conventions?"
 
    - "Analyze the transitions between the acts in this script. Are they smooth and impactful? Do they effectively contribute to the overall story? Offer suggestions for improvements if needed."
 
-2. **(Prompts) Rewriting and Editing**
+#### Rewriting and Editing (Prompts)
 
    - "Choose a dialogue exchange in the script. How might it be rewritten to include more subtext and nuanced character expression?"
 
@@ -194,7 +194,7 @@ make these introductions more engaging and informative."
 
    - "Evaluate the development of the antagonist. Is their motivation clear and compelling? How might their character arc be improved to create a more dynamic conflict with the protagonist?"
 
-3. **(Prompts) Feedback and Revision Process**
+#### Feedback and Revision Process (Prompts)
 
    - "Examine the script's character interactions. Do they feel authentic and compelling? Suggest improvements to enhance character dynamics and contribute to each character's overall arc."
 
@@ -202,7 +202,7 @@ make these introductions more engaging and informative."
 
    - "Given the script's overall theme, suggest ways to further weave this theme into the characters' actions, dialogue, and development. How can we make the theme more resonant throughout the screenplay?"
 
-4. **(Prompts) Detailed Scene Analysis**
+#### Detailed Scene Analysis (Prompts)
 
    - "Identify three key scenes in the script with the most potential for cinematic impact. How can we enhance these scenes visually and emotionally to create memorable moments on screen?"
 
@@ -210,33 +210,33 @@ make these introductions more engaging and informative."
 
    - "Analyze this scene for its contribution to the overall story. Suggest specific changes to strengthen character motivations, enhance the emotional impact, or improve the setting description."
 
-5. **(Prompts) Plot Development and Surprises**
+#### Plot Development and Surprises (Prompts)
 
    - "Does the script include any surprising plot twists? If not, suggest a potential plot twist that could add intrigue and complexity to the story."
 
    - "Review the script's inciting incident. Does it effectively propel the narrative and engage the audience? If not, suggest changes to enhance its impact and relevance to the story."
 
-6. **(Prompts) Thematic Complexity**
+#### Thematic Complexity (Prompts)
 
    - "Evaluate the use of setting in the script. Are there opportunities to make the setting more symbolic or more deeply intertwined with the plot or character arcs?"
 
-7. **(Prompts) Narrative Arcs and Resolution**
+#### Narrative Arcs and Resolution (Prompts)
 
    - "Looking at the screenplay as a whole, do the main plot and subplots have satisfying progressions and resolutions? What changes would you suggest to improve the narrative arcs?"
 
    - "Evaluate the script's resolution. Does it provide a satisfying conclusion to the narrative arcs and themes? If not, what changes would you recommend to improve its effect and audience satisfaction?"
 
-8. **(Prompts) Time Management and Tension Building**
+#### Time Management and Tension Building (Prompts)
 
    - "Consider the use of time in the script. Are there any instances where time could be used more effectively to build tension, develop characters, or explore themes?"
 
    - "Identify a sequence in the script where suspense could be built more effectively. How might the pacing, sequence of events, or character decisions be adjusted to heighten tension?"
 
-9. **(Prompts) Genre and World-Building Refinements**
+#### Genre and World-Building Refinements (Prompts)
 
     - "Examine the world-building in this script. Is the setting vivid, unique, and well-realized? Suggest ways to make the world of the story more engaging and immersive."
 
-10. **(Prompts) Audience Engagement and Perspective**
+#### Audience Engagement and Perspective (Prompts)
 
     - "Considering the target demographic, how might elements of this script be altered to better resonate with this audience? Provide specific examples."
 
