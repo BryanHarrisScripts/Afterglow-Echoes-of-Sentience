@@ -133,5 +133,5 @@ In essence, this 24-block structure is a tool that can help you build a cohesive
 - **Final Reflections**: The story's themes are further explored or reflected upon. This could involve a final decision or a lesson that the protagonist has learned.
 - **Closing Image**: The script ends with a closing image or scene that typically mirrors or contrasts with the opening image, emphasizing how much the protagonist and the world have changed.
 
-
+---
 
