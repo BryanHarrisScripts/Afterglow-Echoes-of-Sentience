@@ -15,7 +15,7 @@
 
 Creating compelling characters is at the heart of screenwriting. From minor narratives to grand tales, emotional depth to cultural contexts, and family relationships, numerous elements contribute to the art of character crafting. Here's a list of character elements, arranged by the profitability of the films they are exemplified in.
 
-**1. Self-Sacrifice**
+### **1. Self-Sacrifice**
 
 Self-sacrifice, where characters showcase their selflessness and dedication, can create truly heroic moments. 
 
