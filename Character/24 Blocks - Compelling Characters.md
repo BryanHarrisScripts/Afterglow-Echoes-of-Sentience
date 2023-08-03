@@ -1,6 +1,6 @@
 | **Character Elements** | **Character Elements** | **Character Elements** |
 |-----------------------|----------------------|----------------------|
-| [1. Self-Sacrifice](#self-sacrifice) | [11. Overcoming Adversity](#overcoming-adversity) | [21. Unfamiliar Nomads](#unfamiliar-nomads) |
+| [1. Self-Sacrifice](#1-self-sacrifice) | [11. Overcoming Adversity](#overcoming-adversity) | [21. Unfamiliar Nomads](#unfamiliar-nomads) |
 | [2. Juxtaposed Motivations](#juxtaposed-motivations) | [12. Evolution and Transformation](#evolution-and-transformation) | [22. Forbidden Love](#forbidden-love) |
 | [3. The Antihero](#the-antihero) | [13. Quest for Identity](#quest-for-identity) | [23. The Outsider](#the-outsider) |
 | [4. Wisdom through Suffering](#wisdom-through-suffering) | [14. Inner Demons and Redemption](#inner-demons-and-redemption) | [24. Survival Instincts](#survival-instincts) |
