@@ -7,3 +7,5 @@ Can you identify instances where the 'Promise, Progress, Payoff' strategy is uti
 Are the events in the story a series of interconnected 'but / because / therefore' moments rather than a collection of random occurrences?
 Do the terms 'And,' 'But,' and 'Therefore' serve their intended roles in the narrative structure - 'And' for continuation, 'But' for conflict introduction, and 'Therefore' for progress indication?
 Is the prose purposefully structured with each event building upon the previous one, as opposed to being merely decorative?"
+
+---
