@@ -71,3 +71,5 @@ The largest exhibition trade organization in the world, representing more than 3
 The entertainment industry's only organization representing the full breadth of visual effects practitioners, from artists, technologists, model makers, educators, studio executives, supervisors, PR/marketing specialists, and producers in all areas of entertainment from film, television, and commercials to music videos and games.
 
 In conclusion, these organizations offer a necessary support structure for film industry professionals, ensuring their rights are protected and their voices are heard. As viewers, understanding the role of these organizations provides us with a deeper appreciation of the complex industry that delivers our beloved film and television content.
+
+---
