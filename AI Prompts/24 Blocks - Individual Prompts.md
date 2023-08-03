@@ -111,17 +111,17 @@ Fine-Tuning Elements
 **Most Critical Elements**
 ---------------------------------------------
 
-## Story Outline and Structure (Prompts)
+#### Story Outline and Structure (Prompts)
 
    - "From the story elements we've discussed, construct a narrative outline using both Roman and Arabic numerals. Make sure it reflects the main plot points, character arcs, and the progression of the story."
 
-2. **(Prompts) Emotion and Conflict**
+####  Emotion and Conflict (Prompts)
 
    - "Looking at this scene, how could the emotional journey of the main character be amplified? Suggest specific script changes to increase the audience's emotional connection to the character."
 
    - "Critique the conflict and resolution in this section of the script. What would you suggest to increase the tension and make the resolution more satisfying?"
 
-3. **(Prompts) Character Development**
+#### Character Development (Prompts) 
 
    - "Let's build out our protagonist further. Given their background and the story's context, what would be their immediate reaction to a personal crisis? Please build on their characteristics and evolve their profile accordingly."
 
