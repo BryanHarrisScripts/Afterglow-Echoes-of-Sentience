@@ -44,7 +44,7 @@ Overall, this resource equips writers with the necessary tools to effectively ha
 - What additional additions would you suggest after this edit?
 - Show the character count of the original screenplay input, the revised screenplay output and the total difference.
 
-### Prompts: 
+#### Prompts: 
 
 **Most Critical Elements**
 ---------------------------------------------
@@ -52,8 +52,6 @@ Overall, this resource equips writers with the necessary tools to effectively ha
 1. **(Prompts) Story Outline and Structure**
 
    - "From the story elements we've discussed, construct a narrative outline using both Roman and Arabic numerals. Make sure it reflects the main plot points, character arcs, and the progression of the story."
-
-<a href="#top">Back to Top</a>
 
 2. **(Prompts) Emotion and Conflict**
 
@@ -173,5 +171,3 @@ make these introductions more engaging and informative."
     - "Given the tone and content of this script, what rating would you anticipate it receiving (G, PG, PG-13, R)? Are there any modifications that could make it more appropriate for a broader or specific age group without compromising its essence?" 
 
     - "Identify any cultural, social, or historical references in the script. How might these be perceived by international audiences or those unfamiliar with the context? Provide suggestions to improve clarity or inclusivity."
-      
-    ---
