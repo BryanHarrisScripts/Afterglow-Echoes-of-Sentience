@@ -84,6 +84,90 @@ Overall, this resource equips writers with the necessary tools to effectively ha
 
 <a href="#top">Back to Top</a>
 
+#### Script Analysis and Feedback (Prompts) 
+
+   - "Examine this script and provide an analysis. Focus on structure, character development, pacing, and dialogue. What are its strengths and weaknesses? Provide specific suggestions for improvement."
+
+<a href="#top">Back to Top</a>
+
+#### Subplots (Prompts)
+
+   - "Consider the main plot of the story. How might we introduce a subplot that adds depth to a secondary character while also supporting and adding tension to the main plot?"
+
+<a href="#top">Back to Top</a>
+
+#### Thematic Exploration and Depth (Prompts)
+
+   - "Reflect on the themes explored in the screenplay. Do you think they are explored with sufficient depth? Suggest ways to deepen the exploration of these themes within the narrative."
+
+<a href="#top">Back to Top</a>
+
+#### Inciting Incidents and Plot Twists (Prompts) 
+
+   - "Identify the inciting incident in this script. What motivates the protagonist to action? How might we introduce an unexpected plot twist later in the story to keep the audience engaged?"
+
+<a href="#top">Back to Top</a>
+
+#### Emotional Appeal (Prompts)
+
+   - "Evaluate the emotional appeal of the screenplay. Which scenes elicited a strong emotional response? Why? Suggest ways to heighten the emotional impact of less affecting scenes."
+
+<a href="#top">Back to Top</a>
+
+#### Resolution and Climax (Prompts)
+
+   - "Examine the climax and resolution of the story. Are they satisfying? If not, how might they be improved? Do they tie back to the inciting incident and the main theme of the screenplay?"
+
+<a href="#top">Back to Top</a>
+
+#### Visual Imagery (Prompts)
+
+   - "Looking at the script, how does it utilise visual imagery? Suggest a scene that could be enhanced by more vivid and cinematic description."
+
+<a href="#top">Back to Top</a>
+
+#### Antagonist Development (Prompts)
+
+   - "Analyze the antagonist in the script. What are their motivations? How do they pose a credible threat to the protagonist? Suggest ways to deepen their character or make them more compelling."
+
+<a href="#top">Back to Top</a>
+
+#### Character Relationships and Dynamics (Prompts)
+
+   - "Assess the character relationships and dynamics within the script. How do these relationships evolve over the course of the narrative? Suggest ways to enrich these dynamics and make them more complex."
+
+<a href="#top">Back to Top</a>
+
+#### Character Introductions (Prompts)
+
+   - "Review the introduction of the main characters. Do they capture the reader's attention? Do they clearly convey the character's role and personality? Suggest changes for more effective character introductions."
+
+<a href="#top">Back to Top</a>
+
+#### Character Motivations (Prompts)
+
+   - "Consider each character's motivations in the story. Are they clear and believable? Suggest ways to refine these motivations or reveal them more effectively to the audience."
+
+<a href="#top">Back to Top</a>
+
+#### Character Backstories (Prompts)
+
+   - "Examine the backstories provided for each character. Are they compelling and relevant to the plot? Propose ways to deepen these backstories or weave them more effectively into the narrative."
+
+<a href="#top">Back to Top</a>
+
+#### Conflict and Tension (Prompts)
+
+   - "Identify areas in the screenplay where the conflict or tension lags. How could these areas be rewritten to keep the reader's interest and push the narrative forward?"
+
+<a href="#top">Back to Top</a>
+
+#### Character Arc Consistency (Prompts)
+
+   - "Review the character arcs in the script. Are they consistent and satisfying? Suggest ways to better demonstrate the characters' growth or changes over the course of the story."
+
+<a href="#top">Back to Top</a>
+
 **Intermediate Elements**
 ---------------------------------------------
 
