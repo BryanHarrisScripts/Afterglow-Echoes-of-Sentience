@@ -41,3 +41,5 @@ As you draft Act 3, here are some guiding questions to consider about your story
 18. How does the immediate result of the climax resolve or set up the main conflict?
 
 These questions can help you ensure that your Act 3 is effectively moving the story towards its climax, while also continuing to develop your characters and themes. Remember to also consider how both the internal and external changes that the protagonist is experiencing contribute to their overall character arc.
+
+---
