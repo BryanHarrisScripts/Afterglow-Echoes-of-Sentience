@@ -37,3 +37,5 @@ A character arc describes the transformation or inner journey of a character ove
 3. **New Normal**: The character returns to their world or moves onto a new one, showing how they're adapting to the consequences of their journey and changes.
 
 Remember, not all characters undergo drastic transformations. Some characters might resist change or revert to their old selves. The nature of your character's arc will depend on your story's theme and your creative vision.
+
+---
