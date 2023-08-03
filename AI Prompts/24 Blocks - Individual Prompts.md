@@ -10,7 +10,28 @@ Intermediate elements explore distinctive aspects of screenplay writing such as 
 
 Overall, this resource equips writers with the necessary tools to effectively harness AI in screenplay editing, leading to engaging, polished scripts that connect with audiences and appeal to producers.
 
-#### Optional Prompts:
+| Most Critical Elements | Intermediate Elements | Fine-Tuning Elements |
+|------------------------|-----------------------|----------------------|
+| 1. (Prompts) Story Outline and Structure | 16. (Prompts) Scene Analysis and Narrative Arc | 31. Pacing and Rhythm |
+| 2. (Prompts) Emotion and Conflict | 17. Exposition and Information Delivery | 32. Voiceover and Narration |
+| 3. Conflict and Tension | 18. (Prompts) Genre-Specific Elements & World-Building | 33. (Prompts) Fine-Tuning Elements |
+| 4. (Prompts) Character Development | 19. Motifs and Recurring Elements | 34. Script Formatting and Style |
+| 5. Character Arc Consistency | 20. (Prompts) Symbolism and Setting | 35. Rewriting and Editing |
+| 6. (Prompts) Dialogue Enhancement | 21. Flashbacks and Non-linear Storytelling | 36. Title Significance |
+| 7. (Prompts) Script Analysis and Feedback | 22. Cinematic Language and Visual Storytelling | 37. Action Description |
+| 8. Subplots | 23. Screenplay Tone and Atmosphere | 38. (Prompts) Diction and Language Style |
+| 9. Thematic Exploration and Depth | 24. (Prompts) Humor and Surprise Elements | 39. (Prompts) Authenticity of Dialogue |
+| 10. (Prompts) Theme, Irony, and Prose | 25. Use of Sound | 40. (Prompts) Diverse Representation |
+| 11. Inciting Incidents and Plot Twists | 26. Genre Conventions and Innovations | 41. (Prompts) Feedback and Revision Process |
+| 12. (Prompts) Emotional Appeal | 27. Pathos and Catharsis | 42. (Prompts) Marketing and Pitching |
+| 13. Resolution and Climax | 28. Ensemble Cast Dynamics | 43. (Prompts) Audience Engagement and Perspective |
+| 14. (Prompts) Visual Imagery | 29. (Prompts) Cultural and Time Aspects | 44. (Prompts) World Continuity |
+| 15. Antagonist Development | 30. (Prompts) Sensory Details | - |
+| - | 31. (Prompts) Foreshadowing | - |
+| - | 32. (Prompts) Symbolic Meaning | - |
+| - | 33. (Prompts) Subtext | - |
+
+### Optional Prompts:
 
 - Don't use the copy code boxes just write them out. Please. 
 - Write a 1500-character summary of this screenplay.
@@ -21,70 +42,7 @@ Overall, this resource equips writers with the necessary tools to effectively ha
 - What additional additions would you suggest after this edit?
 - Show the character count of the original screenplay input, the revised screenplay output and the total difference.
 
-**Most Critical Elements**
----------------------------------------------
-
-- (Prompts) Story Outline and Structure
-- (Prompts) Emotion and Conflict
-- Conflict and Tension
-- (Prompts) Character Development
-- Character Arc Consistency
-- (Prompts) Dialogue Enhancement
-- (Prompts) Script Analysis and Feedback
-- Subplots
-- Thematic Exploration and Depth
-- (Prompts) Theme, Irony, and Prose
-- Inciting Incidents and Plot Twists
-- (Prompts) Emotional Appeal
-- Resolution and Climax
-- (Prompts) Visual Imagery
-- Antagonist Development
-- Character Relationships and Dynamics
-- Character Introductions
-- (Prompts) Character Motivations
-- (Prompts) Character Backstories
-
-Intermediate Elements
----------------------------------------------
-
-- (Prompts) Scene Analysis and Narrative Arc
-- Exposition and Information Delivery
-- (Prompts) Genre-Specific Elements & World-Building
-- Motifs and Recurring Elements
-- (Prompts) Symbolism and Setting
-- Flashbacks and Non-linear Storytelling
-- Cinematic Language and Visual Storytelling
-- Screenplay Tone and Atmosphere
-- (Prompts) Humor and Surprise Elements
-- Use of Sound
-- Genre Conventions and Innovations
-- Pathos and Catharsis
-- Ensemble Cast Dynamics
-- (Prompts) Cultural and Time Aspects
-- (Prompts) World Continuity
-- (Prompts) Sensory Details
-- (Prompts) Foreshadowing
-- (Prompts) Symbolic Meaning
-- (Prompts) Subtext
-
-Fine-Tuning Elements
----------------------------------------------
-
-- Pacing and Rhythm
-- Voiceover and Narration
-- (Prompts) Fine-Tuning Elements
-- Script Formatting and Style
-- Rewriting and Editing
-- Title Significance
-- Action Description
-- (Prompts) Diction and Language Style
-- (Prompts) Authenticity of Dialogue
-- (Prompts) Diverse Representation
-- (Prompts) Feedback and Revision Process
-- (Prompts) Marketing and Pitching
-- (Prompts) Audience Engagement and Perspective
-
-#### Prompts: 
+### Prompts: 
 
 **Most Critical Elements**
 ---------------------------------------------
