@@ -1,4 +1,16 @@
-# The Art of Profitable Compelling Characters
+
+| **Character Elements** | **Character Elements** | **Character Elements** |
+|-----------------------|----------------------|----------------------|
+| [1. Self-Sacrifice](#self-sacrifice) | [11. Overcoming Adversity](#overcoming-adversity) | [21. Unfamiliar Nomads](#unfamiliar-nomads) |
+| [2. Juxtaposed Motivations](#juxtaposed-motivations) | [12. Evolution and Transformation](#evolution-and-transformation) | [22. Forbidden Love](#forbidden-love) |
+| [3. The Antihero](#the-antihero) | [13. Quest for Identity](#quest-for-identity) | [23. The Outsider](#the-outsider) |
+| [4. Wisdom through Suffering](#wisdom-through-suffering) | [14. Inner Demons and Redemption](#inner-demons-and-redemption) | [24. Survival Instincts](#survival-instincts) |
+| [5. Grand Tale / Minor Narrative](#grand-tale--minor-narrative) | [15. Loyalty and Betrayal](#loyalty-and-betrayal) | [25. Parental and Sibling Dynamics](#parental-and-sibling-dynamics) |
+| [6. Humor and Wit](#humor-and-wit) | [16. Power Dynamics](#power-dynamics) | [26. Pursuit of Power](#pursuit-of-power) |
+| [7. The Everyman](#the-everyman) | [17. The Mentor's Shadow](#the-mentors-shadow) | [27. Themes of Freedom and Oppression](#themes-of-freedom-and-oppression) |
+| [8. Mentor-Pupil Relationships](#mentor-pupil-relationships) | [18. Pursuit of Justice](#pursuit-of-justice) | [28. The Hero’s Fall and Rise](#the-heros-fall-and-rise) |
+| [9. The Villain's Redemption](#the-villains-redemption) | [19. Tragic Flaws](#tragic-flaws) | [29. Companionship and Rivalry](#companionship-and-rivalry) |
+| [10. The Reluctant Hero](#the-reluctant-hero) | [20. Distinctive Microcosm](#distinctive-microcosm) | [30. Intellectualism and Absurdity](#intellectualism-and-absurdity) |
 
 ### Leveraging Narrative, Culture, and Emotion in Screenwriting
 
