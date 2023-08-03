@@ -127,11 +127,11 @@ Fine-Tuning Elements
 
    - "Evaluate the relationships between characters in this script. Are they believable and complex? How do they evolve over the course of the story? Suggest any improvements you see fit."
 
-4. **(Prompts) Dialogue Enhancement**
+#### Dialogue Enhancement (Prompts)
 
    - "This dialogue seems unvaried and lacks depth. Please rewrite it, enhancing its subtext and authenticity while preserving its original meaning."
 
-5. **(Prompts) Theme, Irony, and Prose**
+#### Theme, Irony, and Prose (Prompts)
 
    - "Review these screenplay pages and provide a summary focusing on the theme. Can you identify any instances of dramatic irony? Also, note any parts that seem overly verbose and suggest how they might be made more concise."
 
