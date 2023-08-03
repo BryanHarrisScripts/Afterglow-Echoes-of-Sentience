@@ -1,5 +1,3 @@
-<a id="top"></a>
-
 # Individual Prompts for Screenwriting
 
 ### 24 Blocks Summary:
@@ -12,30 +10,7 @@ Intermediate elements explore distinctive aspects of screenplay writing such as 
 
 Overall, this resource equips writers with the necessary tools to effectively harness AI in screenplay editing, leading to engaging, polished scripts that connect with audiences and appeal to producers.
 
-## Table of Contents
-
-| Most Critical Elements | Intermediate Elements | Fine-Tuning Elements |
-|------------------------|-----------------------|----------------------|
-| [1. (Prompts) Story Outline and Structure](#1-prompts-story-outline-and-structure) | [16. (Prompts) Scene Analysis and Narrative Arc](#16-prompts-scene-analysis-and-narrative-arc) | [31. Pacing and Rhythm](#31-pacing-and-rhythm) |
-| [2. (Prompts) Emotion and Conflict](#2-prompts-emotion-and-conflict) | 17. Exposition and Information Delivery | [32. Voiceover and Narration](#32-voiceover-and-narration) |
-| 3. Conflict and Tension | 18. (Prompts) Genre-Specific Elements & World-Building | [33. (Prompts) Fine-Tuning Elements](#33-prompts-fine-tuning-elements) |
-| [4. (Prompts) Character Development](#4-prompts-character-development) | 19. Motifs and Recurring Elements | 34. Script Formatting and Style |
-| 5. Character Arc Consistency | [20. (Prompts) Symbolism and Setting](#20-prompts-symbolism-and-setting) | 35. Rewriting and Editing |
-| [6. (Prompts) Dialogue Enhancement](#6-prompts-dialogue-enhancement) | 21. Flashbacks and Non-linear Storytelling | 36. Title Significance |
-| [7. (Prompts) Script Analysis and Feedback](#7-prompts-script-analysis-and-feedback) | 22. Cinematic Language and Visual Storytelling | 37. Action Description |
-| 8. Subplots | 23. Screenplay Tone and Atmosphere | [38. (Prompts) Diction and Language Style](#38-prompts-diction-and-language-style) |
-| [9. Thematic Exploration and Depth](#9-thematic-exploration-and-depth) | [24. (Prompts) Humor and Surprise Elements](#24-prompts-humor-and-surprise-elements) | [39. (Prompts) Authenticity of Dialogue](#39-prompts-authenticity-of-dialogue) |
-| [10. (Prompts) Theme, Irony, and Prose](#10-prompts-theme-irony-and-prose) | 25. Use of Sound | [40. (Prompts) Diverse Representation](#40-prompts-diverse-representation) |
-| 11. Inciting Incidents and Plot Twists | 26. Genre Conventions and Innovations | [41. (Prompts) Feedback and Revision Process](#41-prompts-feedback-and-revision-process) |
-| [12. (Prompts) Emotional Appeal](#12-prompts-emotional-appeal) | 27. Pathos and Catharsis | [42. (Prompts) Marketing and Pitching](#42-prompts-marketing-and-pitching) |
-| 13. Resolution and Climax | 28. Ensemble Cast Dynamics | [43. (Prompts) Audience Engagement and Perspective](#prompts-audience-engagement-and-perspective) |
-| [14. (Prompts) Visual Imagery](#14-prompts-visual-imagery) | [29. (Prompts) Cultural and Time Aspects](#29-prompts-cultural-and-time-aspects) | [44. (Prompts) World Continuity](#44-prompts-world-continuity) |
-| 15. Antagonist Development | [30. (Prompts) Sensory Details](#30-prompts-sensory-details) | - |
-| - | [31. (Prompts) Foreshadowing](#31-prompts-foreshadowing) | - |
-| - | [32. (Prompts) Symbolic Meaning](#32-prompts-symbolic-meaning) | - |
-| - | [33. (Prompts) Subtext](#33-prompts-subtext) | -
-
-### Optional Prompts:
+#### Optional Prompts:
 
 - Don't use the copy code boxes just write them out. Please. 
 - Write a 1500-character summary of this screenplay.
@@ -46,6 +21,69 @@ Overall, this resource equips writers with the necessary tools to effectively ha
 - What additional additions would you suggest after this edit?
 - Show the character count of the original screenplay input, the revised screenplay output and the total difference.
 
+**Most Critical Elements**
+---------------------------------------------
+
+- (Prompts) Story Outline and Structure
+- (Prompts) Emotion and Conflict
+- Conflict and Tension
+- (Prompts) Character Development
+- Character Arc Consistency
+- (Prompts) Dialogue Enhancement
+- (Prompts) Script Analysis and Feedback
+- Subplots
+- Thematic Exploration and Depth
+- (Prompts) Theme, Irony, and Prose
+- Inciting Incidents and Plot Twists
+- (Prompts) Emotional Appeal
+- Resolution and Climax
+- (Prompts) Visual Imagery
+- Antagonist Development
+- Character Relationships and Dynamics
+- Character Introductions
+- (Prompts) Character Motivations
+- (Prompts) Character Backstories
+
+Intermediate Elements
+---------------------------------------------
+
+- (Prompts) Scene Analysis and Narrative Arc
+- Exposition and Information Delivery
+- (Prompts) Genre-Specific Elements & World-Building
+- Motifs and Recurring Elements
+- (Prompts) Symbolism and Setting
+- Flashbacks and Non-linear Storytelling
+- Cinematic Language and Visual Storytelling
+- Screenplay Tone and Atmosphere
+- (Prompts) Humor and Surprise Elements
+- Use of Sound
+- Genre Conventions and Innovations
+- Pathos and Catharsis
+- Ensemble Cast Dynamics
+- (Prompts) Cultural and Time Aspects
+- (Prompts) World Continuity
+- (Prompts) Sensory Details
+- (Prompts) Foreshadowing
+- (Prompts) Symbolic Meaning
+- (Prompts) Subtext
+
+Fine-Tuning Elements
+---------------------------------------------
+
+- Pacing and Rhythm
+- Voiceover and Narration
+- (Prompts) Fine-Tuning Elements
+- Script Formatting and Style
+- Rewriting and Editing
+- Title Significance
+- Action Description
+- (Prompts) Diction and Language Style
+- (Prompts) Authenticity of Dialogue
+- (Prompts) Diverse Representation
+- (Prompts) Feedback and Revision Process
+- (Prompts) Marketing and Pitching
+- (Prompts) Audience Engagement and Perspective
+
 #### Prompts: 
 
 **Most Critical Elements**
@@ -54,8 +92,6 @@ Overall, this resource equips writers with the necessary tools to effectively ha
 1. **(Prompts) Story Outline and Structure**
 
    - "From the story elements we've discussed, construct a narrative outline using both Roman and Arabic numerals. Make sure it reflects the main plot points, character arcs, and the progression of the story."
-
-<a href="#top">Back to Top</a>
 
 2. **(Prompts) Emotion and Conflict**
 
@@ -112,10 +148,8 @@ Overall, this resource equips writers with the necessary tools to effectively ha
 1. **(Prompts) Script Formatting and Style**
 
    - "Review this script excerpt. Are there any formatting errors or stylistic inconsistencies that need to be addressed to align with standard screenplay conventions?"
-   
-   - "Analyze the transitions between the acts in this script. Are they smooth and impactful? Do they effectively contribute to the overall story? Offer suggestions for improvements if needed."
 
-<a href="#top">Back to Top</a>
+   - "Analyze the transitions between the acts in this script. Are they smooth and impactful? Do they effectively contribute to the overall story? Offer suggestions for improvements if needed."
 
 2. **(Prompts) Rewriting and Editing**
 
@@ -126,8 +160,6 @@ make these introductions more engaging and informative."
 
    - "Evaluate the development of the antagonist. Is their motivation clear and compelling? How might their character arc be improved to create a more dynamic conflict with the protagonist?"
 
-<a href="#top">Back to Top</a>
-
 3. **(Prompts) Feedback and Revision Process**
 
    - "Examine the script's character interactions. Do they feel authentic and compelling? Suggest improvements to enhance character dynamics and contribute to each character's overall arc."
@@ -135,8 +167,6 @@ make these introductions more engaging and informative."
    - "Identify a secondary theme in the script that isn't fully developed. How might the story explore this theme more deeply without detracting from the primary focus?"
 
    - "Given the script's overall theme, suggest ways to further weave this theme into the characters' actions, dialogue, and development. How can we make the theme more resonant throughout the screenplay?"
-
-<a href="#top">Back to Top</a>
 
 4. **(Prompts) Detailed Scene Analysis**
 
@@ -146,21 +176,15 @@ make these introductions more engaging and informative."
 
    - "Analyze this scene for its contribution to the overall story. Suggest specific changes to strengthen character motivations, enhance the emotional impact, or improve the setting description."
 
-<a href="#top">Back to Top</a>
-
 5. **(Prompts) Plot Development and Surprises**
 
    - "Does the script include any surprising plot twists? If not, suggest a potential plot twist that could add intrigue and complexity to the story."
 
    - "Review the script's inciting incident. Does it effectively propel the narrative and engage the audience? If not, suggest changes to enhance its impact and relevance to the story."
 
-<a href="#top">Back to Top</a>
-
 6. **(Prompts) Thematic Complexity**
 
    - "Evaluate the use of setting in the script. Are there opportunities to make the setting more symbolic or more deeply intertwined with the plot or character arcs?"
-
-<a href="#top">Back to Top</a>
 
 7. **(Prompts) Narrative Arcs and Resolution**
 
@@ -168,23 +192,17 @@ make these introductions more engaging and informative."
 
    - "Evaluate the script's resolution. Does it provide a satisfying conclusion to the narrative arcs and themes? If not, what changes would you recommend to improve its effect and audience satisfaction?"
 
-<a href="#top">Back to Top</a>
-
 8. **(Prompts) Time Management and Tension Building**
 
    - "Consider the use of time in the script. Are there any instances where time could be used more effectively to build tension, develop characters, or explore themes?"
 
    - "Identify a sequence in the script where suspense could be built more effectively. How might the pacing, sequence of events, or character decisions be adjusted to heighten tension?"
 
-<a href="#top">Back to Top</a>
-
 9. **(Prompts) Genre and World-Building Refinements**
 
     - "Examine the world-building in this script. Is the setting vivid, unique, and well-realized? Suggest ways to make the world of the story more engaging and immersive."
 
-<a href="#top">Back to Top</a>
-
-<h2 id="43-prompts-audience-engagement-and-perspective">(Prompts) Audience Engagement and Perspective</h2>
+10. **(Prompts) Audience Engagement and Perspective**
 
     - "Considering the target demographic, how might elements of this script be altered to better resonate with this audience? Provide specific examples."
 
@@ -192,8 +210,4 @@ make these introductions more engaging and informative."
 
     - "Given the tone and content of this script, what rating would you anticipate it receiving (G, PG, PG-13, R)? Are there any modifications that could make it more appropriate for a broader or specific age group without compromising its essence?" 
 
-    - "Identify any cultural, social, or historical references in the script. How might these be clarified or expanded upon to increase their relevance and impact for the audience?"
-
-<a href="#top">Back to Top</a>
-
----
+    - "Identify any cultural, social, or historical references in the script. How might these be perceived by international audiences or those unfamiliar with the context? Provide suggestions to improve clarity or inclusivity."
