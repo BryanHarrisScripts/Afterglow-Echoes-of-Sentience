@@ -1,3 +1,5 @@
+<a id="top"></a>
+
 ### 24 Blocks Summary:
 
 This resource, powered by OpenAI's ChatGPT, is designed to assist in the detailed refinement of screenplays, navigating through the AI's token limit. It segments the editing process into Most Critical Elements, Intermediate Elements, and Fine-Tuning Elements, covering a wide spectrum from structure, character development, and dialogue enhancement to scene analysis and sensory details.
