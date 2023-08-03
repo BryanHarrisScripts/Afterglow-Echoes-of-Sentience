@@ -37,3 +37,5 @@ Each scene within these blocks follows a particular structure and serves a speci
 Understanding this structure provides a useful framework for crafting compelling scenes. However, it's important to remember that not all scenes must strictly adhere to this structure. More experimental or non-linear narratives might intentionally subvert these conventions, but the key to an engaging narrative is ensuring each scene contributes to the story's advancement and character development. 
 
 As you construct your scenes within the 24-block structure, this understanding will guide you in creating an immersive world and compelling narrative that captivates your audience.
+
+---
