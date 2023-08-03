@@ -39,3 +39,5 @@
 **Audience and Revision**
 - Audience Consideration: A screenplay should also be aware of its target demographic. It should anticipate what the intended viewers might enjoy or expect from the film.
 - Revision: An integral part of screenplay writing, revision involves revisiting the script multiple times, modifying dialogue, adjusting pacing, and making other amendments to perfect the final draft.
+
+---
