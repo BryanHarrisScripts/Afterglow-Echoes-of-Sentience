@@ -18,11 +18,11 @@ Overall, this resource equips writers with the necessary tools to effectively ha
 | [**Conflict and Tension**](#Conflict-and-Tension) | [**Genre-Specific Elements & World-Building**](#Genre-Specific-Elements-&-World-Building-Prompts) | [**Fine-Tuning Elements**](#Fine-Tuning-Elements-Prompts) |
 | [**Character Development (P)**](#Character-Development-Prompts) | [**Motifs and Recurring Elements**](#Motifs-and-Recurring-Elements) | [**Script Formatting and Style**](#Script-Formatting-and-Style) |
 | [**Character Arc Consistency**](#Character-Arc-Consistency) | [**Symbolism and Setting**](#Symbolism-and-Setting-Prompts) | [**Rewriting and Editing**](#Rewriting-and-Editing) |
-| [**Dialogue Enhancement**](#Dialogue-Enhancement-Prompts) | [**Flashbacks and Non-linear Storytelling**](#Flashbacks-and-Non-linear-Storytelling) | [**Title Significance**](#Title-Significance) |
+| [**Dialogue Enhancement (P)**](#Dialogue-Enhancement-Prompts) | [**Flashbacks and Non-linear Storytelling**](#Flashbacks-and-Non-linear-Storytelling) | [**Title Significance**](#Title-Significance) |
 | [**Script Analysis and Feedback**](#Script-Analysis-and-Feedback-Prompts) | [**Cinematic Language and Visual Storytelling**](#Cinematic-Language-and-Visual-Storytelling) | [**Action Description**](#Action-Description) |
 | [**Subplots**](#Subplots) | [**Screenplay Tone and Atmosphere**](#Screenplay-Tone-and-Atmosphere) | [**Diction and Language Style**](#Diction-and-Language-Style-Prompts) |
 | [**Thematic Exploration and Depth**](#Thematic-Exploration-and-Depth) | [**Humor and Surprise Elements**](#Humor-and-Surprise-Elements-Prompts) | [**Authenticity of Dialogue (Prompts)**](#Authenticity-of-Dialogue-Prompts) |
-| [**Theme, Irony, and Prose**](#Theme-Irony-and-Prose-Prompts) | [**Use of Sound**](#Use-of-Sound) | [**Diverse Representation**](#Diverse-Representation-Prompts) |
+| [**Theme, Irony, and Prose (P)**](#Theme-Irony-and-Prose-Prompts) | [**Use of Sound**](#Use-of-Sound) | [**Diverse Representation**](#Diverse-Representation-Prompts) |
 | [**Inciting Incidents and Plot Twists**](#Inciting-Incidents-and-Plot-Twists) | [**Genre Conventions and Innovations**](#Genre-Conventions-and-Innovations) | [**Feedback and Revision Process**](#Feedback-and-Revision-Process-Prompts) |
 | [**Emotional Appeal**](#Emotional-Appeal-Prompts) | [**Pathos and Catharsis**](#Pathos-and-Catharsis) | [**Marketing and Pitching**](#Marketing-and-Pitching-Prompts) |
 | [**Resolution and Climax**](#Resolution-and-Climax) | [**Ensemble Cast Dynamics**](#Ensemble-Cast-Dynamics) | [**Audience Engagement and Perspective**](#Audience-Engagement-and-Perspective-Prompts) |
