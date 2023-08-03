@@ -53,6 +53,8 @@ Overall, this resource equips writers with the necessary tools to effectively ha
 
    - "From the story elements we've discussed, construct a narrative outline using both Roman and Arabic numerals. Make sure it reflects the main plot points, character arcs, and the progression of the story."
 
+<a href="#top">Back to Top</a>
+
 2. **(Prompts) Emotion and Conflict**
 
    - "Looking at this scene, how could the emotional journey of the main character be amplified? Suggest specific script changes to increase the audience's emotional connection to the character."
