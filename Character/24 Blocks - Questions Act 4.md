@@ -36,3 +36,5 @@ In crafting Act 4, it's essential to address your story's resolution and conclud
 13. What is the final image or scene of your script, and how does it mirror or contrast with the opening image to emphasize the change over the course of the story?
 
 These questions should help you wrap up your story effectively, offering satisfying resolutions for your characters and conflicts while also reinforcing your story's themes.
+
+---
