@@ -46,5 +46,5 @@ Let's reduce or increase the character count by 10%
 - What additional additions would you suggest after this edit?
 - Show the character count of the original screenplay input, the revised screenplay output and the total difference.
 
-
+---
 
