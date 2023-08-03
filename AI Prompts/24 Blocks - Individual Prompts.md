@@ -13,26 +13,26 @@ Overall, this resource equips writers with the necessary tools to effectively ha
 
 | **Most Critical Elements** | **Intermediate Elements** | **Fine-Tuning Elements** |
 |----------------------------|--------------------------|--------------------------|
-| [**Story Outline and Structure (Prompts)**](#Story-Outline-and-Structure-Prompts) | [**Scene Analysis and Narrative Arc (Prompts)**](#Scene-Analysis-and-Narrative-Arc-Prompts) | [**Pacing and Rhythm**](#Pacing-and-Rhythm) |
-| [**Emotion and Conflict (Prompts)**](#Emotion-and-Conflict-Prompts) | [**Exposition and Information Delivery**](#Exposition-and-Information-Delivery) | [**Voiceover and Narration**](#Voiceover-and-Narration) |
-| [**Conflict and Tension**](#Conflict-and-Tension) | [**Genre-Specific Elements & World-Building (Prompts)**](#Genre-Specific-Elements-&-World-Building-Prompts) | [**Fine-Tuning Elements (Prompts)**](#Fine-Tuning-Elements-Prompts) |
-| [**Character Development (Prompts)**](#Character-Development-Prompts) | [**Motifs and Recurring Elements**](#Motifs-and-Recurring-Elements) | [**Script Formatting and Style**](#Script-Formatting-and-Style) |
-| [**Character Arc Consistency**](#Character-Arc-Consistency) | [**Symbolism and Setting (Prompts)**](#Symbolism-and-Setting-Prompts) | [**Rewriting and Editing**](#Rewriting-and-Editing) |
-| [**Dialogue Enhancement (Prompts)**](#Dialogue-Enhancement-Prompts) | [**Flashbacks and Non-linear Storytelling**](#Flashbacks-and-Non-linear-Storytelling) | [**Title Significance**](#Title-Significance) |
-| [**Script Analysis and Feedback (Prompts)**](#Script-Analysis-and-Feedback-Prompts) | [**Cinematic Language and Visual Storytelling**](#Cinematic-Language-and-Visual-Storytelling) | [**Action Description**](#Action-Description) |
-| [**Subplots**](#Subplots) | [**Screenplay Tone and Atmosphere**](#Screenplay-Tone-and-Atmosphere) | [**Diction and Language Style (Prompts)**](#Diction-and-Language-Style-Prompts) |
-| [**Thematic Exploration and Depth**](#Thematic-Exploration-and-Depth) | [**Humor and Surprise Elements (Prompts)**](#Humor-and-Surprise-Elements-Prompts) | [**Authenticity of Dialogue (Prompts)**](#Authenticity-of-Dialogue-Prompts) |
-| [**Theme, Irony, and Prose (Prompts)**](#Theme-Irony-and-Prose-Prompts) | [**Use of Sound**](#Use-of-Sound) | [**Diverse Representation (Prompts)**](#Diverse-Representation-Prompts) |
-| [**Inciting Incidents and Plot Twists**](#Inciting-Incidents-and-Plot-Twists) | [**Genre Conventions and Innovations**](#Genre-Conventions-and-Innovations) | [**Feedback and Revision Process (Prompts)**](#Feedback-and-Revision-Process-Prompts) |
-| [**Emotional Appeal (Prompts)**](#Emotional-Appeal-Prompts) | [**Pathos and Catharsis**](#Pathos-and-Catharsis) | [**Marketing and Pitching (Prompts)**](#Marketing-and-Pitching-Prompts) |
-| [**Resolution and Climax**](#Resolution-and-Climax) | [**Ensemble Cast Dynamics**](#Ensemble-Cast-Dynamics) | [**Audience Engagement and Perspective (Prompts)**](#Audience-Engagement-and-Perspective-Prompts) |
-| [**Visual Imagery (Prompts)**](#Visual-Imagery-Prompts) | [**Cultural and Time Aspects (Prompts)**](#Cultural-and-Time-Aspects-Prompts) | [**Characterization Techniques (Prompts)**](#Characterization-Techniques-Prompts) |
-| [**Antagonist Development**](#Antagonist-Development) | [**World Continuity (Prompts)**](#World-Continuity-Prompts) | [**Use of Color and Lighting**](#Use-of-Color-and-Lighting) |
-| [**Character Relationships and Dynamics**](#Character-Relationships-and-Dynamics) | [**Sensory Details (Prompts)**](#Sensory-Details-Prompts) | [**Setting and Mood Development (Prompts)**](#Setting-and-Mood-Development-Prompts) |
-| [**Character Introductions**](#Character-Introductions) | [**Foreshadowing (Prompts)**](#Foreshadowing-Prompts) | [**Dramatic Irony (Prompts)**](#Dramatic-Irony-Prompts) |
-| [**Character Motivations (Prompts)**](#Character-Motivations-Prompts) | [**Symbolic Meaning (Prompts)**](#Symbolic-Meaning-Prompts) | [**Genre Blending**](#Genre-Blending) |
-| [**Character Backstories (Prompts)**](#Character-Backstories-Prompts) | [**Subtext (Prompts)**](#Subtext-Prompts) | [**Tension Building Techniques (Prompts)**](#Tension-Building-Techniques-Prompts) |
-| | | [**Innovative Plot Structures (Prompts)**](#Innovative-Plot-Structures-Prompts) | 
+| [**Story Outline and Structure (P)**](#Story-Outline-and-Structure-Prompts) | [**Scene Analysis and Narrative Arc**](#Scene-Analysis-and-Narrative-Arc-Prompts) | [**Pacing and Rhythm**](#Pacing-and-Rhythm) |
+| [**Emotion and Conflict (P)**](#Emotion-and-Conflict-Prompts) | [**Exposition and Information Delivery**](#Exposition-and-Information-Delivery) | [**Voiceover and Narration**](#Voiceover-and-Narration) |
+| [**Conflict and Tension**](#Conflict-and-Tension) | [**Genre-Specific Elements & World-Building**](#Genre-Specific-Elements-&-World-Building-Prompts) | [**Fine-Tuning Elements**](#Fine-Tuning-Elements-Prompts) |
+| [**Character Development (P)**](#Character-Development-Prompts) | [**Motifs and Recurring Elements**](#Motifs-and-Recurring-Elements) | [**Script Formatting and Style**](#Script-Formatting-and-Style) |
+| [**Character Arc Consistency**](#Character-Arc-Consistency) | [**Symbolism and Setting**](#Symbolism-and-Setting-Prompts) | [**Rewriting and Editing**](#Rewriting-and-Editing) |
+| [**Dialogue Enhancement**](#Dialogue-Enhancement-Prompts) | [**Flashbacks and Non-linear Storytelling**](#Flashbacks-and-Non-linear-Storytelling) | [**Title Significance**](#Title-Significance) |
+| [**Script Analysis and Feedback**](#Script-Analysis-and-Feedback-Prompts) | [**Cinematic Language and Visual Storytelling**](#Cinematic-Language-and-Visual-Storytelling) | [**Action Description**](#Action-Description) |
+| [**Subplots**](#Subplots) | [**Screenplay Tone and Atmosphere**](#Screenplay-Tone-and-Atmosphere) | [**Diction and Language Style**](#Diction-and-Language-Style-Prompts) |
+| [**Thematic Exploration and Depth**](#Thematic-Exploration-and-Depth) | [**Humor and Surprise Elements**](#Humor-and-Surprise-Elements-Prompts) | [**Authenticity of Dialogue (Prompts)**](#Authenticity-of-Dialogue-Prompts) |
+| [**Theme, Irony, and Prose**](#Theme-Irony-and-Prose-Prompts) | [**Use of Sound**](#Use-of-Sound) | [**Diverse Representation**](#Diverse-Representation-Prompts) |
+| [**Inciting Incidents and Plot Twists**](#Inciting-Incidents-and-Plot-Twists) | [**Genre Conventions and Innovations**](#Genre-Conventions-and-Innovations) | [**Feedback and Revision Process**](#Feedback-and-Revision-Process-Prompts) |
+| [**Emotional Appeal**](#Emotional-Appeal-Prompts) | [**Pathos and Catharsis**](#Pathos-and-Catharsis) | [**Marketing and Pitching**](#Marketing-and-Pitching-Prompts) |
+| [**Resolution and Climax**](#Resolution-and-Climax) | [**Ensemble Cast Dynamics**](#Ensemble-Cast-Dynamics) | [**Audience Engagement and Perspective**](#Audience-Engagement-and-Perspective-Prompts) |
+| [**Visual Imagery**](#Visual-Imagery-Prompts) | [**Cultural and Time Aspects**](#Cultural-and-Time-Aspects-Prompts) | [**Characterization Techniques**](#Characterization-Techniques-Prompts) |
+| [**Antagonist Development**](#Antagonist-Development) | [**World Continuity**](#World-Continuity-Prompts) | [**Use of Color and Lighting**](#Use-of-Color-and-Lighting) |
+| [**Character Relationships and Dynamics**](#Character-Relationships-and-Dynamics) | [**Sensory Details**](#Sensory-Details-Prompts) | [**Setting and Mood Development**](#Setting-and-Mood-Development-Prompts) |
+| [**Character Introductions**](#Character-Introductions) | [**Foreshadowing**](#Foreshadowing-Prompts) | [**Dramatic Irony**](#Dramatic-Irony-Prompts) |
+| [**Character Motivations**](#Character-Motivations-Prompts) | [**Symbolic Meaning**](#Symbolic-Meaning-Prompts) | [**Genre Blending**](#Genre-Blending) |
+| [**Character Backstories**](#Character-Backstories-Prompts) | [**Subtext**](#Subtext-Prompts) | [**Tension Building Techniques**](#Tension-Building-Techniques-Prompts) |
+| | | [**Innovative Plot Structures**](#Innovative-Plot-Structures-Prompts) | 
 
 #### Optional Prompts:
 
@@ -48,16 +48,16 @@ Overall, this resource equips writers with the necessary tools to effectively ha
 **Most Critical Elements**
 ---------------------------------------------
 
-- (Prompts) Story Outline and Structure
-- (Prompts) Emotion and Conflict
+
+
 - Conflict and Tension
-- (Prompts) Character Development
+
 - Character Arc Consistency
-- (Prompts) Dialogue Enhancement
+
 - (Prompts) Script Analysis and Feedback
 - Subplots
 - Thematic Exploration and Depth
-- (Prompts) Theme, Irony, and Prose
+
 - Inciting Incidents and Plot Twists
 - (Prompts) Emotional Appeal
 - Resolution and Climax
@@ -117,6 +117,7 @@ Fine-Tuning Elements
 
 "From the story elements we've discussed, construct a narrative outline using both Roman and Arabic numerals. Make sure it reflects the main plot points, character arcs, and the progression of the story."
 
+<a href="#top">Back to Top</a>
 
 ####  Emotion and Conflict (Prompts)
 
@@ -124,19 +125,27 @@ Fine-Tuning Elements
 
    - "Critique the conflict and resolution in this section of the script. What would you suggest to increase the tension and make the resolution more satisfying?"
 
+<a href="#top">Back to Top</a>
+
 #### Character Development (Prompts) 
 
    - "Let's build out our protagonist further. Given their background and the story's context, what would be their immediate reaction to a personal crisis? Please build on their characteristics and evolve their profile accordingly."
 
    - "Evaluate the relationships between characters in this script. Are they believable and complex? How do they evolve over the course of the story? Suggest any improvements you see fit."
 
+<a href="#top">Back to Top</a>
+
 #### Dialogue Enhancement (Prompts)
 
    - "This dialogue seems unvaried and lacks depth. Please rewrite it, enhancing its subtext and authenticity while preserving its original meaning."
 
+<a href="#top">Back to Top</a>
+
 #### Theme, Irony, and Prose (Prompts)
 
    - "Review these screenplay pages and provide a summary focusing on the theme. Can you identify any instances of dramatic irony? Also, note any parts that seem overly verbose and suggest how they might be made more concise."
+
+<a href="#top">Back to Top</a>
 
 **Intermediate Elements**
 ---------------------------------------------
