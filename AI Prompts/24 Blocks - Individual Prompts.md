@@ -12,26 +12,28 @@ Intermediate elements explore distinctive aspects of screenplay writing such as 
 
 Overall, this resource equips writers with the necessary tools to effectively harness AI in screenplay editing, leading to engaging, polished scripts that connect with audiences and appeal to producers.
 
+## Table of Contents
+
 | Most Critical Elements | Intermediate Elements | Fine-Tuning Elements |
 |------------------------|-----------------------|----------------------|
-| 1. (Prompts) Story Outline and Structure | 16. (Prompts) Scene Analysis and Narrative Arc | 31. Pacing and Rhythm |
-| 2. (Prompts) Emotion and Conflict | 17. Exposition and Information Delivery | 32. Voiceover and Narration |
-| 3. Conflict and Tension | 18. (Prompts) Genre-Specific Elements & World-Building | 33. (Prompts) Fine-Tuning Elements |
-| 4. (Prompts) Character Development | 19. Motifs and Recurring Elements | 34. Script Formatting and Style |
-| 5. Character Arc Consistency | 20. (Prompts) Symbolism and Setting | 35. Rewriting and Editing |
-| 6. (Prompts) Dialogue Enhancement | 21. Flashbacks and Non-linear Storytelling | 36. Title Significance |
-| 7. (Prompts) Script Analysis and Feedback | 22. Cinematic Language and Visual Storytelling | 37. Action Description |
-| 8. Subplots | 23. Screenplay Tone and Atmosphere | 38. (Prompts) Diction and Language Style |
-| 9. Thematic Exploration and Depth | 24. (Prompts) Humor and Surprise Elements | 39. (Prompts) Authenticity of Dialogue |
-| 10. (Prompts) Theme, Irony, and Prose | 25. Use of Sound | 40. (Prompts) Diverse Representation |
-| 11. Inciting Incidents and Plot Twists | 26. Genre Conventions and Innovations | 41. (Prompts) Feedback and Revision Process |
-| 12. (Prompts) Emotional Appeal | 27. Pathos and Catharsis | 42. (Prompts) Marketing and Pitching |
-| 13. Resolution and Climax | 28. Ensemble Cast Dynamics | 43. (Prompts) Audience Engagement and Perspective |
-| 14. (Prompts) Visual Imagery | 29. (Prompts) Cultural and Time Aspects | 44. (Prompts) World Continuity |
-| 15. Antagonist Development | 30. (Prompts) Sensory Details | - |
-| - | 31. (Prompts) Foreshadowing | - |
-| - | 32. (Prompts) Symbolic Meaning | - |
-| - | 33. (Prompts) Subtext | - |
+| [1. (Prompts) Story Outline and Structure](#1-prompts-story-outline-and-structure) | [16. (Prompts) Scene Analysis and Narrative Arc](#16-prompts-scene-analysis-and-narrative-arc) | [31. Pacing and Rhythm](#31-pacing-and-rhythm) |
+| [2. (Prompts) Emotion and Conflict](#2-prompts-emotion-and-conflict) | 17. Exposition and Information Delivery | [32. Voiceover and Narration](#32-voiceover-and-narration) |
+| 3. Conflict and Tension | 18. (Prompts) Genre-Specific Elements & World-Building | [33. (Prompts) Fine-Tuning Elements](#33-prompts-fine-tuning-elements) |
+| [4. (Prompts) Character Development](#4-prompts-character-development) | 19. Motifs and Recurring Elements | 34. Script Formatting and Style |
+| 5. Character Arc Consistency | [20. (Prompts) Symbolism and Setting](#20-prompts-symbolism-and-setting) | 35. Rewriting and Editing |
+| [6. (Prompts) Dialogue Enhancement](#6-prompts-dialogue-enhancement) | 21. Flashbacks and Non-linear Storytelling | 36. Title Significance |
+| [7. (Prompts) Script Analysis and Feedback](#7-prompts-script-analysis-and-feedback) | 22. Cinematic Language and Visual Storytelling | 37. Action Description |
+| 8. Subplots | 23. Screenplay Tone and Atmosphere | [38. (Prompts) Diction and Language Style](#38-prompts-diction-and-language-style) |
+| [9. Thematic Exploration and Depth](#9-thematic-exploration-and-depth) | [24. (Prompts) Humor and Surprise Elements](#24-prompts-humor-and-surprise-elements) | [39. (Prompts) Authenticity of Dialogue](#39-prompts-authenticity-of-dialogue) |
+| [10. (Prompts) Theme, Irony, and Prose](#10-prompts-theme-irony-and-prose) | 25. Use of Sound | [40. (Prompts) Diverse Representation](#40-prompts-diverse-representation) |
+| 11. Inciting Incidents and Plot Twists | 26. Genre Conventions and Innovations | [41. (Prompts) Feedback and Revision Process](#41-prompts-feedback-and-revision-process) |
+| [12. (Prompts) Emotional Appeal](#12-prompts-emotional-appeal) | 27. Pathos and Catharsis | [42. (Prompts) Marketing and Pitching](#42-prompts-marketing-and-pitching) |
+| 13. Resolution and Climax | 28. Ensemble Cast Dynamics | [43. (Prompts) Audience Engagement and Perspective](#43-prompts-audience-engagement-and-perspective) |
+| [14. (Prompts) Visual Imagery](#14-prompts-visual-imagery) | [29. (Prompts) Cultural and Time Aspects](#29-prompts-cultural-and-time-aspects) | [44. (Prompts) World Continuity](#44-prompts-world-continuity) |
+| 15. Antagonist Development | [30. (Prompts) Sensory Details](#30-prompts-sensory-details) | - |
+| - | [31. (Prompts) Foreshadowing](#31-prompts-foreshadowing) | - |
+| - | [32. (Prompts) Symbolic Meaning](#32-prompts-symbolic-meaning) | - |
+| - | [33. (Prompts) Subtext](#33-prompts-subtext) | -
 
 ### Optional Prompts:
 
