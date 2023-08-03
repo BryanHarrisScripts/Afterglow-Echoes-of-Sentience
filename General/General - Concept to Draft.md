@@ -22,3 +22,4 @@ The order of writing a screenplay often follows these steps:
 
 10. **Polishing**: Finally, you'll proofread and polish your script, checking for typos, formatting issues, and making sure everything is as perfect as possible.
 
+---
