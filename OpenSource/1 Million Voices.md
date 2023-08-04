@@ -29,6 +29,17 @@ License: https://creativecommons.org/licenses/by-sa/4.0
 Original Work: [Link to the original work]
 Modifications:
 ````
+
+# Connect, Grow, Impact
+
+**The overarching aim is to gather a community of `1 million followers` around the project. If the project can attract a significant following, it can help promote the original work and provide a framework to grow and impact a vast audience.**
+
+**If successful, this experiment could demonstrate a potential method for managing and promoting creative work in the digital age. It could provide a `blueprint` for artists to grow their audience, impact a broad community, and foster collaborative creativity.**
+
+This project is about more than just amassing followers; it's about building a community around a shared creative endeavour. The larger the community, the greater the collective creativity, the more significant the impact.
+
+**`Every voice counts. Join us, and be one of the million!`**
+
 # How to Participate 
 
 Collaboration is at the heart of this project, and your involvement is invaluable. Whether you are a screenplay writer, an avid reader, or simply someone excited about the concept of open-source creativity, there's a place for you in this experiment. Here are some ways you can participate:
@@ -51,16 +62,6 @@ Now, `"👉🏼 To Afterglow on X"` is a clickable link that takes the reader di
 For those of you who would like to express your creativity more freely, we provide an option for you to create your own adaptation of the screenplay. You can put your unique spin on the story and submit it to our 'Contributors' directory on Github.
 
 Whichever method of participation suits you best, your involvement will help shape this experiment and contribute to the wider discussion on open-source creativity. Remember, this is not just about creating a screenplay - it's about exploring new ways of creating, collaborating, and sharing in the digital age. 
-
-# Connect, Grow, Impact
-
-The overarching aim is to gather a community of 1 million followers around the project. If the project can attract a significant following, it can help promote the original work and provide a framework to grow and impact a vast audience. 
-
-If successful, this experiment could demonstrate a potential method for managing and promoting creative work in the digital age. It could provide a blueprint for artists to grow their audience, impact a broad community, and foster collaborative creativity.
-
-This project is about more than just amassing followers; it's about building a community around a shared creative endeavour. The larger the community, the greater the collective creativity, the more significant the impact.
-
-`Every voice counts. Join us, and be one of the million!`
 
 ### Benefits for Collaborators
 
