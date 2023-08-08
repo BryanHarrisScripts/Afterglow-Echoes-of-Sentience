@@ -163,4 +163,6 @@ Welcome aboard the 'Afterglow' journey!
 
 <img src="./Images/IndieWood.png" />
 
+Disclaimer: This content has been generated using an AI language model. It may include information, phrases, or ideas that could resemble existing copyrighted material, even though the specific sources are unknown. The AI is used for creative and informational purposes. Any resemblance to other works is coincidental, and this content is not intended to infringe upon the rights of any copyright holders.
+
 --- 
