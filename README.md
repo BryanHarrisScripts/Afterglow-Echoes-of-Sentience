@@ -56,7 +56,7 @@
 </div>
 
 <div align="center">
-  <a href="#licensing-and-attribution">**Developed by a Human: Bryan Harris</a>
+  <a href="#licensing-and-attribution">**Developed by a Human: Bryan Harris (24 Blocks / Afterglow Screenplay / Prompts)</a>
 </div>
 
 # The Unseen Editor
