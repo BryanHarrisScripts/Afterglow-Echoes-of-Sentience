@@ -19,14 +19,20 @@
     <td valign="top">
       
 <ol>
+<li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/Afterglow/#collaborative-guide">Collaborative Guide</a></li>
+<li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/Afterglow/#-afterglow-">Afterglow Story</a></li>
+</ol>
+    </td>
+    <td valign="top">
+<ol start="3">
 <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/Afterglow/Afterglow%20Plot.md">Afterglow - Plot</a></li>
 <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/Afterglow/Afterglow%20Theme.md">Afterglow - Theme</a></li>
 <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/Afterglow/Afterglow%20Overview.md">Afterglow - Overview</a></li>
 <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/Afterglow/Music%20Inspirations.md">Afterglow - Music Inspirations</a></li>
 </ol>
     </td>
-    <td valign="top">
-<ol start="5">
+  <td valign="top">
+<ol start="7">
 <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/Afterglow/Movie%20Inspirations.md">Afterglow - Movie Inspirations</a></li>
 <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/Afterglow/Software%20and%20Tools.md">Afterglow - Software & Tools</a></li>
 <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/Afterglow/Elevator%20Pitch.md">Afterglow - Elevator Pitch</a></li>
