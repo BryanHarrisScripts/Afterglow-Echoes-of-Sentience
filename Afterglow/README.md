@@ -59,7 +59,7 @@ If you're eager to contribute to Afterglow and wondering about what happens afte
 
 Your Role and Key Questions Guide: [👉🏼Click Here](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Collaborators/README.md)
 
-# 🚀 Afterglow 
+# Afterglow 
 
 <h3 align="center">Act 1: Setup - Establishes Characters, Their Objectives, And The Setting</h3>
 
