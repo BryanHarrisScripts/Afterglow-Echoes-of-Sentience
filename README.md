@@ -18,7 +18,7 @@
   <table>
     <tr>
     <td valign="top">
-      <h4>Menu</h4>
+      <h4>This Page:</h4>
       <ol start="1">
         <li><a href="#the-unseen-editor">The Unseen Editor</a></li>
         <li><a href="#welcome-to-the-afterglow-journey">Welcome to the 'Afterglow' Journey</a></li>
@@ -29,7 +29,7 @@
       </ol>
     </td>
     <td valign="top">
-      <h4>Afterglow & Resources</h4>
+      <h4>Afterglow & Story Resources:</h4>
       <ol start="1">
         <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/Afterglow/README.md">👉🏼Afterglow - Story Menu**</a></li>
         <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/General/README.md">📚Foundations - Storytelling</a></li>
@@ -40,7 +40,7 @@
       </ol>
     </td>
     <td valign="top">
-      <h4>AI Editing & Resources</h4>
+      <h4>AI Editing & More Resources:</h4>
       <ol start="7">
         <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/Collaborators/README.md">👉🏼Collaborators Guide**</a></li>        
         <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/AI%20Prompts/README.md">📚Editing - AI Prompts**</a></li>
@@ -163,6 +163,6 @@ Welcome aboard the 'Afterglow' journey!
 
 <img src="./Images/IndieWood.png" />
 
-Disclaimer: This content has been generated using an AI language model. It may include information, phrases, or ideas that could resemble existing copyrighted material, even though the specific sources are unknown. The AI is used for creative and informational purposes. Any resemblance to other works is coincidental, and this content is not intended to infringe upon the rights of any copyright holders.
+**Disclaimer:** This content has been generated using an AI language model. It may include information, phrases, or ideas that could resemble existing copyrighted material, even though the specific sources are unknown. The AI is used for creative and informational purposes. Any resemblance to other works is coincidental, and this content is not intended to infringe upon the rights of any copyright holders.
 
 --- 
