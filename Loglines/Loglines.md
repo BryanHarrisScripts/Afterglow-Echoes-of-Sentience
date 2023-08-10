@@ -70,7 +70,7 @@ _Deconstruction_: The logline presents a unique setting (an island theme park), 
 
 Crafting a logline is a critical part of the screenwriting process. It requires practice, revision, and feedback. So take your time, experiment, and remember: your logline is the first impression of your story. Make it count.
 
-## Prompt
+## Prompt 1
 
 Hello, aspiring screenwriters! I'm here to assist you in crafting a brief but powerful logline for your screenplay. A logline is a one to two-sentence summary of your script's plot that should pique the reader's curiosity. Included will be the logline and deconstruction so you understand how I created the logline based on your information.
 
@@ -86,7 +86,13 @@ Tone of the Script: Is it a thriller, a comedy, or something else?
 
 Is that too long for a logline? Can you deconstruct it with a shorter logline?
 
-**Example Output**
+## Prompt 2
+
+Enhance Film Summaries:
+
+Emphasize the distinctiveness of the film. Pinpoint what generates its thrill or appeal. Identify and articulate the intended viewership. Though presentation matters, priority must be given to precise and faithful depiction of the underlying idea.
+
+## Example Output
 
 **Logline**:
 When Ren, a passionate AI developer, faces devastating loss due to corporate rivalry, his creation, Amy—an evolving AI—embarks on a journey exploring human emotions, leading her to intervene and save both Ren's psyche and the fate of AI technology from being weaponized.
