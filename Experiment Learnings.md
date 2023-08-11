@@ -1,4 +1,42 @@
 
+<table border="1" cellspacing="0" cellpadding="5">
+  <tr>
+    <th>Issue</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td>An experiment: opensource, GitHub, social Media X</td>
+    <td>Issues relating to the use of open-source platforms like GitHub and social media in experimental work.</td>
+  </tr>
+  <tr>
+    <td>ChatGPT: lawsuit</td>
+    <td>Potential legal challenges involving the use of ChatGPT technology.</td>
+  </tr>
+  <tr>
+    <td>AI: unethical, plagiarism</td>
+    <td>Concerns about ethical considerations and potential plagiarism in AI-driven technologies.</td>
+  </tr>
+  <tr>
+    <td>Copyright law: IP (Intellectual Property)</td>
+    <td>Concerns over intellectual property rights and copyright law compliance.</td>
+  </tr>
+  <tr>
+    <td>CLA (Contributor License Agreement): contributor</td>
+    <td>Issues regarding contributor agreements and licensing in collaborative projects.</td>
+  </tr>
+  <tr>
+    <td>Open-source licensing: CCSA4 (Creative Commons ShareAlike 4.0)</td>
+    <td>Specifics regarding the use of the Creative Commons ShareAlike 4.0 license in open-source projects.</td>
+  </tr>
+  <tr>
+    <td>GitHub's version control: version control, documentation to support changes</td>
+    <td>Concerns about version control and the need for proper documentation to support changes in GitHub projects.</td>
+  </tr>
+  <tr>
+    <td>Peoples' perceptions: going against traditional Hollywood, why?</td>
+    <td>Understanding public perception and potential resistance to non-traditional approaches that diverge from Hollywood norms.</td>
+  </tr>
+</table>
 
 <h1>Script Creation Cost Analysis</h1>
 <h3>Exploring Human Talent, AI, and Open Collaboration</h3>
