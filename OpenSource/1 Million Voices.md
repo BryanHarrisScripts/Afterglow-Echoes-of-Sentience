@@ -1,3 +1,4 @@
+
 <div align="right" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 1em; margin: 4em 0;">
 
 <a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/README.md">Home</a>
@@ -6,13 +7,43 @@
 
 <img src="../Images/1Million.png" />
 
+<a id="top"></a>
+
 <div align="center">
+  
+<table>
+  <tr>
+    <h3>Table of Contents</h3>
+    <td>
+      <ol>
+        <li><a href="#introduction">Introduction</a></li>
+        <li><a href="#connect-grow-impact">Connect, Grow, Impact</a></li>
+        <li>
+          <a href="#how-to-participate">How to Participate</a>
+          <ul>
+            <li><a href="#contribute-to-afterglow">Contribute to 'Afterglow'</a></li>
+            <li><a href="#collaborative-process-on-x">Collaborative Process on X</a></li>
+            <li><a href="#create-your-own-version">Create Your Own Version</a></li>
+          </ul>
+        </li>
+      </ol>
+    </td>
+    <td>
+      <ol start="4">
+        <li><a href="#benefits-for-collaborators">Benefits for Collaborators</a></li>
+        <li><a href="#the-impact">The Impact</a></li>
+        <li><a href="#the-open-source-process">The Open-source Process</a></li>
+        <li><a href="#traditional-production-vs-innovation">Traditional Production vs Innovation</a></li>
+        <li><a href="#disclaimer">Disclaimer</a></li>
+      </ol>
+    </td>
+  </tr>
+</table>
+  
 
 ## 1 MILLION CREATORS, COLLABORATORS, VOICES
 
 ### An Open Source Experiment 
-
-<h4><a href="https://twitter.com/BryanHarrisTech">👉🏼 JOIN 1 MILLION VOICES</a></h4>
 
 </div>
 
@@ -30,6 +61,8 @@ Original Work: [Link to the original work]
 Modifications:
 ````
 
+<a href="#top">Back to Top</a>
+
 # Connect, Grow, Impact
 
 **The overarching aim is to gather a community of `1 million followers` around the project. If the project can attract a significant following, it can help promote the original work and provide a framework to grow and impact a vast audience.**
@@ -39,6 +72,8 @@ Modifications:
 This project is about more than just amassing followers; it's about building a community around a shared creative endeavour. The larger the community, the greater the collective creativity, the more significant the impact.
 
 **`Every voice counts. Join us, and be one of the million!`**
+
+<a href="#top">Back to Top</a>
 
 # How to Participate 
 
@@ -63,6 +98,8 @@ For those of you who would like to express your creativity more freely, we provi
 
 Whichever method of participation suits you best, your involvement will help shape this experiment and contribute to the wider discussion on open-source creativity. Remember, this is not just about creating a screenplay - it's about exploring new ways of creating, collaborating, and sharing in the digital age. 
 
+<a href="#top">Back to Top</a>
+
 ### Benefits for Collaborators
 
 The experiment offers unique benefits for all collaborators:
@@ -73,6 +110,8 @@ The experiment offers unique benefits for all collaborators:
 
 - **Learning and Growing:** Working on a global platform with diverse collaborators provides a unique learning experience and a chance to grow professionally.
 
+<a href="#top">Back to Top</a>
+
 ### The Impact
 
 While the experiment focuses on a screenplay, the principles and strategies can apply to any creative work, from novels and music to art and digital media. It's an exploration of new ways of creating and sharing in a digitally connected world, and a demonstration of the potential power of open-source principles in creative fields.
@@ -80,6 +119,8 @@ While the experiment focuses on a screenplay, the principles and strategies can 
 Open-source principles have already been applied successfully in numerous projects, such as [Project Gutenberg](https://www.gutenberg.org/). This project has demonstrated the potential of open-source for creating a vast, shared repository of literary works.
 
 Open-source projects often raise questions about recognition, copyright, and conflict resolution. The CC-BY-SA-4.0 license ensures that all contributors receive appropriate credit for their work. The project also fosters an inclusive, respectful environment and encourages open dialogue to resolve any potential conflicts.
+
+<a href="#top">Back to Top</a>
 
 ### The Open-source Process
 
@@ -92,6 +133,24 @@ Open-source projects often raise questions about recognition, copyright, and con
 - **Foster Collaboration:** Encourage remixes, adaptations, and transformative works.
 
 - **Monitor and Adapt:** Continually assess the growth and impact of the project, adapting strategies as necessary based on the feedback and trends.
+
+<a href="#top">Back to Top</a>
+
+### Traditional Production vs Innovation
+
+| Aspect                         | Traditional Approach                                                                                                                                                     | Innovative Approach                                                                                                                                   |
+|--------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Script Development**         | Script developed by individual writers or a team, often with multiple rounds of edits and revisions. Writers are generally hired and paid for their work.                 | Open collaboration and use of AI for enhancing language. Version control through GitHub and collaborative inputs under a clear legal framework.      |
+| **Legal Agreements and IP**    | Comprehensive contracts governing rights, royalties, credit, and other legal aspects. Union guidelines must be adhered to.                                                 | Use of Creative Commons licenses and possibly a Contributor License Agreement (CLA) to manage collaboration and intellectual property.                 |
+| **Quality Control**            | Multiple rounds of review with producers, directors, and possibly studio executives.                                                                                      | Collaborative editing and use of AI for linguistic enhancement, with version control through GitHub.                                                   |
+| **Funding**                    | Typically financed through production companies, investors, or studios. Strict oversight on budget and timelines.                                                           | Potential use of crowdfunding, cryptocurrency, and community-driven funding approaches.                                                                |
+| **Community and Collaboration**| Hierarchical collaboration with well-defined roles and responsibilities. Writers, directors, producers, and other key players work in defined capacities.                  | Open collaboration, possibly with the wider community. Transparent and inclusive processes, managed through platforms like GitHub.                      |
+| **Monetization and Revenue**   | Revenue distributed through contracts, with unions potentially governing certain aspects.                                                                                 | Transparent revenue-sharing model, possibly automated through smart contracts.                                                                         |
+| **Technology and Innovation**  | Limited scope for leveraging AI and open-source collaboration. Technology used mainly in production and post-production.                                                  | Embracing AI for script refinement, utilizing open-source principles, and exploring technologies like blockchain for monetization.                       |
+| **Ethical and Regulatory**     | Adherence to union guidelines, industry standards, and legal regulations.                                                                                                 | Compliance with Creative Commons licensing, data protection laws, and development of ethical guidelines for collaboration.                               |
+| **Market Acceptance**          | Established pathways to market, distribution channels, and audience engagement.                                                                                          | Potential need to forge new pathways and gain acceptance for a non-traditional approach to content creation.                                            |
+
+<a href="#top">Back to Top</a>
 
 #
 ### Disclaimer
