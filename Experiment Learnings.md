@@ -1,21 +1,26 @@
  <h2>Table of Contents</h2>
 <table>
   <tr>
-    <td><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Experiment%20Learnings.md#introduction-one-million-voices-experiment">Introduction: One Million Voices Experiment</a></td>
-    <td><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Experiment%20Learnings.md#why-change-the-norms">Why Change the Norms?</a></td>
-    <td><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Experiment%20Learnings.md#integration-of-blockchain-and-smart-contracts">Integration of Blockchain and Smart Contracts</a></td>
+    <td>
+      1. <a href="#introduction-one-million-voices-experiment">Introduction: One Million Voices Experiment</a><br>
+      2. <a href="#why-change-the-norms">Why Change the Norms?</a><br>
+      3. <a href="#integration-of-blockchain-and-smart-contracts">Integration of Blockchain and Smart Contracts</a><br>
+      4. <a href="#implications-of-non-fungible-tokens-nfts">Implications of Non-Fungible Tokens (NFTs)</a><br>
+    </td>
+    <td>
+      5. <a href="#ai-and-copyright-considerations">AI and Copyright Considerations</a><br>
+      6. <a href="#comprehensive-creative-license-ccl-consideration">Comprehensive Creative License (CCL) Consideration</a><br>
+      7. <a href="#checklist-of-priority-items">Checklist of Priority Items</a><br>
+      8. <a href="#comparing-traditional-and-innovative-approaches">Comparing Traditional and Innovative Approaches</a><br>
+    </td>
+    <td>
+      9. <a href="#issues-in-one-million-voices-experiment">Issues in One Million Voices Experiment</a><br>
+      10. <a href="#cost-analysis-of-script-creation-methods">Cost Analysis of Script Creation Methods</a><br>
+      11. <a href="#risk-mitigation-strategies-for-script-creation">Risk Mitigation Strategies for Script Creation</a><br>
+      12. <a href="#areas-for-further-clarification">Areas for further clarification</a><br>
+      13. <a href="#additional-considerations">Additional Considerations</a>
+    </td>
   </tr>
-  <tr>
-    <td><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Experiment%20Learnings.md#implications-of-non-fungible-tokens-nfts">Implications of Non-Fungible Tokens (NFTs)</a></td>
-    <td><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Experiment%20Learnings.md#ai-and-copyright-considerations">AI and Copyright Considerations</a></td>
-    <td><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Experiment%20Learnings.md#comprehensive-creative-license-ccl-consideration">Comprehensive Creative License (CCL) Consideration</a></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Experiment%20Learnings.md#checklist-of-priority-items">Checklist of Priority Items</a></td>
-    <td><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Experiment%20Learnings.md#comparing-traditional-and-innovative-approaches">Comparing Traditional and Innovative Approaches</a></td>
-    <td><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Experiment%20Learnings.md#issues-in-one-million-voices-experiment">Issues in One Million Voices Experiment</a></td>
-  </tr>
-  <!-- Additional rows here -->
 </table>
 
 # Introduction: One Million Voices Experiment
