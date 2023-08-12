@@ -61,6 +61,8 @@ If you're eager to contribute to Afterglow and wondering about what happens afte
 
 Your Role and Key Questions Guide: [👉🏼Click Here](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Collaborators/README.md)
 
+**Note: No Specific Agreement** In the absence of a specific agreement or terms of service addressing the matter, this disclaimer shall apply. You retain your copyright, and nothing will be updated to the original screenplay for Afterglow without proper agreement. See here for more details [👉🏼Click Here](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/OpenSource/1%20Million%20Voices.md#collaborative-process-on-x)
+
 <a href="#top">Back to Top</a>
 
 # Afterglow 
