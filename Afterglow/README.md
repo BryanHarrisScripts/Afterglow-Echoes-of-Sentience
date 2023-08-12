@@ -12,6 +12,8 @@
 </tr>
 </table>
 
+<a id="top"></a> 
+
 # Table of Contents
 
 <table>
@@ -59,6 +61,8 @@ If you're eager to contribute to Afterglow and wondering about what happens afte
 
 Your Role and Key Questions Guide: [👉🏼Click Here](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Collaborators/README.md)
 
+<a href="#top">Back to Top</a>
+
 # Afterglow 
 
 <h3 align="center">Act 1: Setup - Establishes Characters, Their Objectives, And The Setting</h3>
@@ -79,6 +83,8 @@ Your Role and Key Questions Guide: [👉🏼Click Here](https://github.com/Bryan
 </tr>
 </table>
 
+<a href="#top">Back to Top</a>
+
 <h3 align="center">Act 2: Confrontation - Explores Main Conflicts, Often Increasing Challenges</h3>
 <table>
 <tr>
@@ -95,6 +101,8 @@ Your Role and Key Questions Guide: [👉🏼Click Here](https://github.com/Bryan
 <td><a href="https://twitter.com/BryanHarrisTech/status/1679144344496795649?s=20" target="_blank"><img src="../Images/Uncharted Territories.png" alt="Image6" width="2500"/></a><p align="center"><a href="https://twitter.com/BryanHarrisTech/status/1679144344496795649?s=20" target="_blank">Select this Block 6</a></p></td>
 </tr>
 </table>
+
+<a href="#top">Back to Top</a>
 
 <h3 align="center">Act 3: Complication - Introduces Additional Problems Or Obstacles</h3>
 <table>
@@ -113,6 +121,8 @@ Your Role and Key Questions Guide: [👉🏼Click Here](https://github.com/Bryan
 </tr>
 </table>
 
+<a href="#top">Back to Top</a>
+
 <h3 align="center">Act 4: Climax - High Point Of The Story, Maximum Conflict</h3>
 <table>
 <tr>
@@ -129,5 +139,7 @@ Your Role and Key Questions Guide: [👉🏼Click Here](https://github.com/Bryan
 <td><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/edit/main/Afterglow/README.md"><img src="../Images/Banner.png" alt="Image6" width="2500"/></a><p align="center"><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/edit/main/Afterglow/README.md">Select this Block 6</a></p></td>
 </tr>
 </table>
+
+<a href="#top">Back to Top</a>
 
 ---
