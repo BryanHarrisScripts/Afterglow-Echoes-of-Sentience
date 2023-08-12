@@ -112,16 +112,30 @@ Share your insights and improvements through:
 <a href="#top">Back to Top</a>
   
 ### Create Your Own Version
-Add your unique adaptation to the 'Contributors' directory on Github, following the attribution guidelines above.
-
-Your contributions, big or small, are key to the evolution of this project. Dive in and help redefine collaboration and creativity in the digital age!
+Add your unique adaptation to the 'Contributors' directory on Github, following the attribution guidelines above. Your contributions, big or small, are key to the evolution of this project. Dive in and help redefine collaboration and creativity in the digital age!
 
 <a href="#top">Back to Top</a>
 
-### Collaborative Process on X
-Join the interactive dialogue on [👉🏼 To Afterglow on X](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow/README.md) to share suggestions, ideas, and feedback.
+---
 
-Your involvement can shape this project and contribute to an innovative experiment in open-source creativity. 
+### Collaborative Process on X
+Join the interactive dialogue on [👉🏼 To Afterglow on X](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow/README.md) to share suggestions, ideas, and feedback. Your involvement can shape this project and contribute to an innovative experiment in open-source creativity. 
+
+### Disclaimer Regarding Contributions and Copyright
+
+This disclaimer governs the relationship between the parties regarding contributions and feedback on the specified social media platform X (exclusive to X).
+
+1. **Copyright Ownership**: The user contributing feedback or modifications on X retains the copyright to their specific contributions. The original owner of the screenplay for Afterglow maintains copyright over the entire work, including any derivative works created by incorporating the user's contributions.
+
+2. **Integration and Attribution**: By providing feedback or modifications to the screenplay for Afterglow, the user agrees that such contributions may be integrated into the original work, creating a derivative work. Attribution for such contributions will be handled in a manner agreed upon between the parties or as stated in the applicable license (e.g., naming in the credits, providing a link to the contributor's profile, monetization, etc.).
+
+3. **No Specific Agreement**: In the absence of a specific agreement or terms of service addressing the matter, this disclaimer shall apply. You retain your copyright, and nothing will be updated to the original screenplay for Afterglow without proper agreement.
+
+4. **Future Agreements**: Should the original owner of Afterglow decide to use the user's contributions in the original work, the parties will review a Contributor License Agreement (CLA) and mutually agree on the details concerning the usage of the contribution, including but not limited to, licensing, attribution, remuneration, and other relevant terms.
+
+5. **No Warranties**: The contributions are provided "as is" without warranty of any kind, either expressed or implied.
+
+By contributing to Afterglow, the user acknowledges and agrees to the terms set forth in this disclaimer.
 
 <a href="#top">Back to Top</a>
 
