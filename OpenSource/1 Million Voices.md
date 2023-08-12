@@ -96,10 +96,14 @@ This work falls under the [Creative Commons Attribution-ShareAlike 4.0 Internati
 - **Note Modifications:** Indicate any changes to the original work.
 - **Link to Original Work:** Provide a link to the original GitHub repository.
 
+<a href="#top">Back to Top</a>
+
 ### Contribute to 'Afterglow'
 Share your insights and improvements through:
 - **Professional Software:** Use tools like Final Draft if you're comfortable with them.
 - **Fountain Format:** Contribute using the `.fountain` plain text markup for screenplay writing.
+
+<a href="#top">Back to Top</a>
   
 ### Create Your Own Version
 Add your unique adaptation to the 'Contributors' directory on Github, following the attribution guidelines above.
@@ -113,10 +117,14 @@ Add your unique adaptation to the 'Contributors' directory on Github, following 
 
 Your contributions, big or small, are key to the evolution of this project. Dive in and help redefine collaboration and creativity in the digital age!
 
+<a href="#top">Back to Top</a>
+
 ### Collaborative Process on X
 Join the interactive dialogue on [👉🏼 To Afterglow on X](#) to share suggestions, ideas, and feedback.
 
 Your involvement can shape this project and contribute to an innovative experiment in open-source creativity. Let's redefine collaboration in the digital age, together! [👉🏼 To Afterglow on X](#)
+
+<a href="#top">Back to Top</a>
 
 ---
 
@@ -184,5 +192,7 @@ This experiment is hypothetical and theoretical. It's an exploration of possibil
 <h3>1 MILLION CREATORS, COLLABORATORS, VOICES</h3>
 <h4>YOUR NAME, YOUR BRAND, YOUR CREATIVITY!</h4>
 </div>
+
+<a href="#top">Back to Top</a>
 
 ------
