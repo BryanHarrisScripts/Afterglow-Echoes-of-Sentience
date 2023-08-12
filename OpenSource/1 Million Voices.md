@@ -120,9 +120,9 @@ Your contributions, big or small, are key to the evolution of this project. Dive
 <a href="#top">Back to Top</a>
 
 ### Collaborative Process on X
-Join the interactive dialogue on [👉🏼 To Afterglow on X](#) to share suggestions, ideas, and feedback.
+Join the interactive dialogue on [👉🏼 To Afterglow on X](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow/README.md) to share suggestions, ideas, and feedback.
 
-Your involvement can shape this project and contribute to an innovative experiment in open-source creativity. Let's redefine collaboration in the digital age, together! [👉🏼 To Afterglow on X](#)
+Your involvement can shape this project and contribute to an innovative experiment in open-source creativity. 
 
 <a href="#top">Back to Top</a>
 
