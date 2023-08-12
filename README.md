@@ -174,9 +174,7 @@ The key provisions of CC BY-SA 4.0 are:
 
 1. So, if someone modifies your work under this license, they own the copyright to the changes they made, but they must also license their derivative work under the same terms (CC BY-SA 4.0). This ensures that the derivative work remains open and accessible in the same way as the original, creating a collaborative chain where each contributor retains rights to their contributions while adhering to the shared principles of the license.
 
-2. The contributor does not have ownership over the entire updated work but retains copyright over their specific contribution. By integrating their change into your original work, you are essentially creating a derivative work, and you would usually attribute them in the way you both agree upon or as stated in the license (e.g., naming them in the credits, providing a link to their profile, etc.).
-
-It might be wise to communicate with the contributor to make sure you both understand and agree on how the contribution will be used and credited. If more formal arrangements are desired, you could consider a written agreement outlining the specifics of the collaboration.
+2. The contributor does not have ownership over the entire updated work but retains copyright over their specific contribution. By integrating their change into your original work, you are essentially creating a derivative work, and you would usually attribute them in the way you both agree upon or as stated in the license (e.g., naming them in the credits, providing a link to their profile, etc.). **Note:** I will communicate with the contributor to make sure we both understand and agree on how the contribution will be used and credited. 
 
 Please note that while this outlines general principles related to copyright and collaboration, it is not a substitute for legal advice. If you have specific legal concerns or require a tailored agreement, please consult with a legal professional specializing in intellectual property law in your jurisdiction.
 
