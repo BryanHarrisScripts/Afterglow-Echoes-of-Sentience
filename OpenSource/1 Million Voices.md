@@ -20,10 +20,10 @@
         <li><a href="#connect-grow-impact">Connect, Grow, Impact</a></li>
         <li>
           <a href="#how-to-participate">How to Participate</a>
-          <ul>
-            <li><a href="#create-your-own-afterglow-version">Create Your Own 'Afterglow' Version</a></li>
+          <ul>    
             <li><a href="#disclaimer-regarding-contributions-and-copyright">Contributions & Copyright</a></li>
             <li><a href="#contribute-to-the-original-afterglow">Contribute To The Original 'Afterglow'</a></li>
+            <li><a href="#create-your-own-afterglow-version">Create Your Own 'Afterglow' Version</a></li>
           </ul>
         </li>
       </ol>
@@ -31,8 +31,10 @@
     <td>
       <ol start="4">
         <li><a href="#benefits-for-collaborators">Benefits for Collaborators</a></li>
+        <ul>  
         <li><a href="#the-impact">The Impact</a></li>
         <li><a href="#the-open-source-process">The Open-source Process</a></li>
+         </ul>
         <li><a href="#traditional-vs-innovation">Traditional vs Innovation</a></li>
         <li><a href="#disclaimer">Disclaimer</a></li>
       </ol>
