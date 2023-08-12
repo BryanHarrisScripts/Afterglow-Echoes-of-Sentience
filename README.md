@@ -26,7 +26,8 @@
         <li><a href="#welcome-to-the-afterglow-journey">Welcome to the 'Afterglow' Journey</a></li>
         <li><a href="#ai-in-screenwriting-a-new-tool-not-a-co-author">AI in Screenwriting</a></li>
         <li><a href="#about-afterglow-echoes-of-sentience">About 'Afterglow: Echoes of Sentience'</a></li>
-        <li><a href="#licensing-and-attribution">Licensing and Attribution</a></li>
+        <li><a href="#licensing-and-attribution">Licensing and Attribution</a></li>  
+        <li><a href="#understanding-copyright">Understanding Copyright</a></li>
         <li><a href="#ai-in-creativity-a-disclaimer">AI in Creativity: A Disclaimer</a></li>
       </ol>
     </td>
@@ -141,13 +142,47 @@ Original Work: https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentien
 Modifications:
 ````
 
-Screenwriters typically have traditional copyrights for their works, which means they reserve all rights to the content they have created. This allows them to control how the work is used, distributed, and modified, often through legal agreements with studios and producers.
+<a href="#top">Back to Top</a>
 
-Open Source licensing, such as the Creative Commons ShareAlike 4.0 (CC BY-SA 4.0), is different. This type of license allows others to share, modify, and even build upon the work, provided they give proper attribution to the original author and license their new creations under the identical terms. It's a more permissive way of sharing creative works.
+---
+
+## Understanding Copyright 
+
+#### Traditional Copyright vs Open Source Licensing
+
+**Screenwriters typically have traditional copyrights for their works**, which means they reserve all rights to the content they have created. This allows them to control how the work is used, distributed, and modified, often through legal agreements with studios and producers.
+
+**Open Source licensing, such as the Creative Commons ShareAlike 4.0 (CC BY-SA 4.0), is different.** This type of license allows others to share, modify, and even build upon the work, provided they give proper attribution to the original author and license their new creations under the identical terms. It's a more permissive way of sharing creative works.
 
 In most professional screenwriting contexts, the traditional copyright model would be more common, while the open-source model would be more aligned with collaborative or community-driven projects. They serve different purposes and are used in different contexts based on the creator's intent and the nature of the project.
 
+#### User Contributions and Ownership
+
+If a user provides feedback, such as suggestions, ideas, or specific textual contributions, the ownership of the copyright for that material can vary based on the context and any agreements in place.
+
+1. **No Specific Agreement**: If there's no specific agreement or terms of service that address the issue, the user generally retains copyright of their original material.
+2. **Terms of Service Agreement**: Many platforms and services include clauses in their terms of service that users agree to upon participating. These may stipulate that any contributions, including feedback, become the property of the platform or may be used by the platform in various ways. In such cases, the user might relinquish some or all rights to their contributions.
+3. **Formal Collaboration or Contract**: If the feedback is part of a formal collaboration or under a specific contract, the ownership of the copyright would be defined by that agreement.
+
+#### Collaboration Under CC BY-SA 4.0
+
+If you update your original work with someone else's change and want to acknowledge them, they would typically be considered a contributor to that specific change or modification. Under the Creative Commons ShareAlike 4.0 (CC BY-SA 4.0) license, the new combined work would still be shared under the same license.
+
+The key provisions of CC BY-SA 4.0 are:
+- **Attribution**: Users must give appropriate credit, provide a link to the license, and indicate if changes were made.
+- **ShareAlike**: If a user remixes, transforms, or builds upon the material, they must distribute their contributions under the same license as the original.
+
+1. So, if someone modifies your work under this license, they own the copyright to the changes they made, but they must also license their derivative work under the same terms (CC BY-SA 4.0). This ensures that the derivative work remains open and accessible in the same way as the original, creating a collaborative chain where each contributor retains rights to their contributions while adhering to the shared principles of the license.
+
+2. The contributor does not have ownership over the entire updated work but retains copyright over their specific contribution. By integrating their change into your original work, you are essentially creating a derivative work, and you would usually attribute them in the way you both agree upon or as stated in the license (e.g., naming them in the credits, providing a link to their profile, etc.).
+
+It might be wise to communicate with the contributor to make sure you both understand and agree on how the contribution will be used and credited. If more formal arrangements are desired, you could consider a written agreement outlining the specifics of the collaboration.
+
+Please note that while this outlines general principles related to copyright and collaboration, it is not a substitute for legal advice. If you have specific legal concerns or require a tailored agreement, please consult with a legal professional specializing in intellectual property law in your jurisdiction.
+
 <a href="#top">Back to Top</a>
+
+---
 
 ## AI in Creativity: A Disclaimer
 
