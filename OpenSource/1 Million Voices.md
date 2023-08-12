@@ -96,6 +96,12 @@ This work falls under the [Creative Commons Attribution-ShareAlike 4.0 Internati
 - **Note Modifications:** Indicate any changes to the original work.
 - **Link to Original Work:** Provide a link to the original GitHub repository.
 
+Screenwriters typically have traditional copyrights for their works, which means they reserve all rights to the content they have created. This allows them to control how the work is used, distributed, and modified, often through legal agreements with studios and producers.
+
+Open Source licensing, such as the Creative Commons ShareAlike 4.0 (CC BY-SA 4.0), is different. This type of license allows others to share, modify, and even build upon the work, provided they give proper attribution to the original author and license their new creations under the identical terms. It's a more permissive way of sharing creative works.
+
+In most professional screenwriting contexts, the traditional copyright model would be more common, while the open-source model would be more aligned with collaborative or community-driven projects. They serve different purposes and are used in different contexts based on the creator's intent and the nature of the project.
+
 <a href="#top">Back to Top</a>
 
 ### Contribute to 'Afterglow'
