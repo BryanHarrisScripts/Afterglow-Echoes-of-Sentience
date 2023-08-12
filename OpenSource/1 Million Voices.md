@@ -21,9 +21,9 @@
         <li>
           <a href="#how-to-participate">How to Participate</a>
           <ul>
-            <li><a href="#create-your-own-version">Create Your Own Version</a></li>
+            <li><a href="#create-your-own-afterglow-version">Create Your Own 'Afterglow' Version</a></li>
             <li><a href="#disclaimer-regarding-contributions-and-copyright">Contributions & Copyright</a></li>
-            <li><a href="#contribute-to-afterglow">Contribute to 'Afterglow'</a></li>
+            <li><a href="#contribute-to-the-original-afterglow">Contribute To The Original 'Afterglow'</a></li>
           </ul>
         </li>
       </ol>
@@ -104,7 +104,7 @@ In most professional screenwriting contexts, the traditional copyright model wou
 
 <a href="#top">Back to Top</a>
   
-### Create Your Own Version
+### Create Your Own 'Afterglow' Version
 Add your unique adaptation to the 'Contributors' directory on Github, following the attribution guidelines above. Your contributions, big or small, are key to the evolution of this project. Dive in and help redefine collaboration and creativity in the digital age!
 
 Share your insights and improvements through:
@@ -129,7 +129,7 @@ This disclaimer governs the relationship between the parties regarding contribut
 
 5. **No Warranties**: The contributions are provided "as is" without warranty of any kind, either expressed or implied.
 
-### Contribute to 'Afterglow'
+### Contribute To The Original 'Afterglow'
 Join the interactive dialogue on [👉🏼 To Afterglow on X](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow/README.md) to share suggestions, ideas, and feedback. Your involvement can shape this project and contribute to an innovative experiment in open-source creativity. 
 
 By contributing to Afterglow, the user acknowledges and agrees to the terms set forth in this disclaimer.
