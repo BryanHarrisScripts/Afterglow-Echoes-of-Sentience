@@ -22,8 +22,8 @@
           <a href="#how-to-participate">How to Participate</a>
           <ul>
             <li><a href="#contribute-to-afterglow">Contribute to 'Afterglow'</a></li>
-            <li><a href="#collaborative-process-on-x">Collaborative Process on X</a></li>
             <li><a href="#create-your-own-version">Create Your Own Version</a></li>
+            <li><a href="#collaborative-process-on-x">Collaborative Process on X</a></li>
           </ul>
         </li>
       </ol>
