@@ -1,57 +1,22 @@
+ <h2>Table of Contents</h2>
 <table>
   <tr>
-    <td>Introduction: One Million Voices Experiment</td>
-    <td>Why Change the Norms?</td>
-    <td>Integration of Blockchain and Smart Contracts</td>
+    <td><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Experiment%20Learnings.md#introduction-one-million-voices-experiment">Introduction: One Million Voices Experiment</a></td>
+    <td><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Experiment%20Learnings.md#why-change-the-norms">Why Change the Norms?</a></td>
+    <td><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Experiment%20Learnings.md#integration-of-blockchain-and-smart-contracts">Integration of Blockchain and Smart Contracts</a></td>
   </tr>
   <tr>
-    <td>Implications of Non-Fungible Tokens (NFTs)</td>
-    <td>AI and Copyright Considerations</td>
-    <td>Comprehensive Creative License (CCL) Consideration</td>
+    <td><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Experiment%20Learnings.md#implications-of-non-fungible-tokens-nfts">Implications of Non-Fungible Tokens (NFTs)</a></td>
+    <td><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Experiment%20Learnings.md#ai-and-copyright-considerations">AI and Copyright Considerations</a></td>
+    <td><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Experiment%20Learnings.md#comprehensive-creative-license-ccl-consideration">Comprehensive Creative License (CCL) Consideration</a></td>
   </tr>
   <tr>
-    <td>Checklist of Priority Items</td>
-    <td>Define Legal Framework</td>
-    <td>Evaluate AI Tools</td>
+    <td><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Experiment%20Learnings.md#checklist-of-priority-items">Checklist of Priority Items</a></td>
+    <td><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Experiment%20Learnings.md#comparing-traditional-and-innovative-approaches">Comparing Traditional and Innovative Approaches</a></td>
+    <td><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Experiment%20Learnings.md#issues-in-one-million-voices-experiment">Issues in One Million Voices Experiment</a></td>
   </tr>
-  <tr>
-    <td>Create Collaboration Platforms</td>
-    <td>Develop Content Guidelines</td>
-    <td>Plan for Production</td>
-  </tr>
-  <tr>
-    <td>Market Analysis and Strategy</td>
-    <td>Risk Assessment and Mitigation</td>
-    <td>Distribution and Marketing Plan</td>
-  </tr>
-  <tr>
-    <td>Community Management</td>
-    <td>Monitoring and Evaluation</td>
-    <td>Comparing Traditional and Innovative Approaches</td>
-  </tr>
-  <tr>
-    <td>Issues in One Million Voices Experiment</td>
-    <td>Cost Analysis of Script Creation Methods</td>
-    <td>Risk Mitigation Strategies for Script Creation</td>
-  </tr>
-  <tr>
-    <td>Areas for further clarification:</td>
-    <td>Additional Considerations</td>
-    <td>More Specific Details on AI Tools</td>
-  </tr>
-  <tr>
-    <td>Community Engagement Strategies</td>
-    <td>Data Security and Privacy Considerations</td>
-    <td>Timeline and Milestones</td>
-  </tr>
-  <tr>
-    <td>Evaluation Metrics</td>
-    <td></td>
-    <td></td>
-  </tr>
+  <!-- Additional rows here -->
 </table>
-
-
 
 # Introduction: One Million Voices Experiment
 
