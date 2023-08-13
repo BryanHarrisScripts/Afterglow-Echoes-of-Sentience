@@ -37,8 +37,8 @@
         <li><a href="#welcome-to-the-afterglow-journey">Welcome to the 'Afterglow' Journey</a></li>
         <li><a href="#ai-in-screenwriting-a-new-tool-not-a-co-author">AI in Screenwriting</a></li>
         <li><a href="#about-afterglow-echoes-of-sentience">About 'Afterglow: Echoes of Sentience'</a></li>
-        <li><a href="#licensing-and-attribution">Licensing and Attribution</a></li>  
-        <li><a href="#understanding-copyright">Understanding Copyright</a></li>
+        <li><a href="#licensing-and-attribution">👉🏼 Licensing and Attribution</a></li>  
+        <li><a href="#understanding-copyright">👉🏼 Understanding Copyright</a></li>
         <li><a href="#ai-in-creativity-a-disclaimer">AI in Creativity: A Disclaimer</a></li>
       </ol>
       </td>
