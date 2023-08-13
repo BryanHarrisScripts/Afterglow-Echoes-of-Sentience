@@ -41,7 +41,6 @@
         <li><a href="#understanding-copyright">Understanding Copyright</a></li>
         <li><a href="#ai-in-creativity-a-disclaimer">AI in Creativity: A Disclaimer</a></li>
       </ol>
-    </td>
       </td>
     <td valign="top">
       <h4>Screenplay Resources:</h4>
