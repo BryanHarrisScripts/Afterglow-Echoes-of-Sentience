@@ -12,7 +12,7 @@
 </div>
 
 <div align="center">
-
+  
   <table>
     <tr>
         <td valign="top">
@@ -25,11 +25,12 @@
             <h4>Collaboration:</h4>
             <ol start="1">
                 <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/Afterglow/README.md">👉🏼 Afterglow - Story Menu**</a></li>
-                <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/Collaborators/README.md">👉🏼 Collaborators Guide**</a></li> 
+                <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/Collaborators/README.md">👉🏼 Collaborators Guide**</a></li>
                 <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/OpenSource/Open Source Collaboration.md">🤝 Global Collaboration</a></li>
                 <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/Blog/README.md">📚 Blogs - How To's & Info</a></li>
-        <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/Images">🖼️ Images - Images Used**</a></li>
+                <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/Images">🖼️ Images - Images Used**</a></li>
             </ol>
+        </td> 
     <td valign="top">
       <h4>This Page:</h4>
       <ol start="1">
