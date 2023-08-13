@@ -7,7 +7,7 @@
 
 <h1>Table of Contents</h1><br>
   
-👉🏼 <a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/Afterglow/README.md">Afterglow Story Menu</a>  | <a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/discussions">Discussions</a> | <a href="https://docs.github.com/en/site-policy/github-terms/github-community-guidelines">Guidelines</a> | <a href="https://twitter.com/i/communities/1669222125591318528">AI-X Community</a> | <a href="https://twitter.com/i/lists/1675490119095140352">AI-X List</a> | <a href="https://twitter.com/BryanHarrisTech" target="_blank">BryanHarrisTech</a> 👈🏼<br><br>
+👉🏼 <a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/Afterglow/README.md">Afterglow Story Menu</a>  | <a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/discussions">Discussions</a> | <a href="https://docs.github.com/en/site-policy/github-terms/github-community-guidelines">Guidelines</a> | <a href="https://twitter.com/i/communities/1669222125591318528">AI-X Community</a> | <a href="https://twitter.com/i/lists/1675490119095140352">AI-X List</a> | <a href="https://twitter.com/TheUnseenEditor" target="_blank">TheUnseenEditor</a> 👈🏼<br><br>
 
 </div>
 
