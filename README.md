@@ -19,7 +19,7 @@
             <h4>Read First:</h4>
             <ol start="1">
                 <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Experiment%20Learnings.md">Why Innovate?</a></li>
-                <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/OpenSource/1%20Million%20Voices.md">Why 1 Million Voices?</a></li>
+                <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/OpenSource/1%20Million%20Voices.md">Why 1 Million Voices</a></li>
                 <li><a href="#ai-in-screenwriting-a-new-tool-not-a-co-author">AI in Screenwriting</a></li>
             </ol>
             <h4>Collaboration:</h4>
