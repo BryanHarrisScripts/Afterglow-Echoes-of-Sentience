@@ -21,7 +21,7 @@
         <td valign="top">
             <h4>Read First:</h4>
             <ol start="1">
-                <li><a href="#the-unseen-editor">The Unseen Editor</a></li>
+                <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Experiment%20Learnings.md">Why Innovate?</a></li>
                 <li><a href="#welcome-to-the-afterglow-journey">Welcome to the 'Afterglow' Journey</a></li>
                 <li><a href="#ai-in-screenwriting-a-new-tool-not-a-co-author">AI in Screenwriting</a></li>
             </ol>
@@ -131,6 +131,8 @@ Set in a future where AI and humans coexist, 'Afterglow: Echoes of Sentience' ex
 The script is adaptable to various genres such as comedy, horror, or drama. You're free to transform any part of it to create your unique film - just remember to acknowledge the original work. By using the same open-source license, you can share your version with the world.
 
 **Remember**: Feel free to modify elements such as the dialogue or the ending. Your creative license is only limited by your imagination!
+
+<a href="#top">Back to Top</a>
 
 ## Licensing and Attribution
 
