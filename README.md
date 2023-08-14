@@ -184,6 +184,8 @@ Modifications:
 
 In most professional screenwriting contexts, the traditional copyright model would be more common, while the open-source model would be more aligned with collaborative or community-driven projects. They serve different purposes and are used in different contexts based on the creator's intent and the nature of the project.
 
+https://creativecommons.org/get-cc-savvy/copyright-creativecommons-are-friends/
+
 #### User Contributions and Ownership
 
 If a user provides feedback, such as suggestions, ideas, or specific textual contributions, the ownership of the copyright for that material can vary based on the context and any agreements in place.
