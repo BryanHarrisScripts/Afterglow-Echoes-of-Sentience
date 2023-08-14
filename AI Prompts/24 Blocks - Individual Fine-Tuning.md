@@ -21,52 +21,6 @@ Overall, this resource equips writers with the necessary tools to effectively ha
 - What additional additions would you suggest after this edit?
 - Show the character count of the original screenplay input, the revised screenplay output and the total difference.
 
-**Most Critical Elements**
----------------------------------------------
-
-- (Prompts) Story Outline and Structure
-- (Prompts) Emotion and Conflict
-- Conflict and Tension
-- (Prompts) Character Development
-- Character Arc Consistency
-- (Prompts) Dialogue Enhancement
-- (Prompts) Script Analysis and Feedback
-- Subplots
-- Thematic Exploration and Depth
-- (Prompts) Theme, Irony, and Prose
-- Inciting Incidents and Plot Twists
-- (Prompts) Emotional Appeal
-- Resolution and Climax
-- (Prompts) Visual Imagery
-- Antagonist Development
-- Character Relationships and Dynamics
-- Character Introductions
-- (Prompts) Character Motivations
-- (Prompts) Character Backstories
-
-Intermediate Elements
----------------------------------------------
-
-- (Prompts) Scene Analysis and Narrative Arc
-- Exposition and Information Delivery
-- (Prompts) Genre-Specific Elements & World-Building
-- Motifs and Recurring Elements
-- (Prompts) Symbolism and Setting
-- Flashbacks and Non-linear Storytelling
-- Cinematic Language and Visual Storytelling
-- Screenplay Tone and Atmosphere
-- (Prompts) Humor and Surprise Elements
-- Use of Sound
-- Genre Conventions and Innovations
-- Pathos and Catharsis
-- Ensemble Cast Dynamics
-- (Prompts) Cultural and Time Aspects
-- (Prompts) World Continuity
-- (Prompts) Sensory Details
-- (Prompts) Foreshadowing
-- (Prompts) Symbolic Meaning
-- (Prompts) Subtext
-
 Fine-Tuning Elements
 ---------------------------------------------
 
@@ -83,64 +37,6 @@ Fine-Tuning Elements
 - (Prompts) Feedback and Revision Process
 - (Prompts) Marketing and Pitching
 - (Prompts) Audience Engagement and Perspective
-
-#### Prompts: 
-
-**Most Critical Elements**
----------------------------------------------
-
-1. **(Prompts) Story Outline and Structure**
-
-   - "From the story elements we've discussed, construct a narrative outline using both Roman and Arabic numerals. Make sure it reflects the main plot points, character arcs, and the progression of the story."
-
-2. **(Prompts) Emotion and Conflict**
-
-   - "Looking at this scene, how could the emotional journey of the main character be amplified? Suggest specific script changes to increase the audience's emotional connection to the character."
-
-   - "Critique the conflict and resolution in this section of the script. What would you suggest to increase the tension and make the resolution more satisfying?"
-
-3. **(Prompts) Character Development**
-
-   - "Let's build out our protagonist further. Given their background and the story's context, what would be their immediate reaction to a personal crisis? Please build on their characteristics and evolve their profile accordingly."
-
-   - "Evaluate the relationships between characters in this script. Are they believable and complex? How do they evolve over the course of the story? Suggest any improvements you see fit."
-
-4. **(Prompts) Dialogue Enhancement**
-
-   - "This dialogue seems unvaried and lacks depth. Please rewrite it, enhancing its subtext and authenticity while preserving its original meaning."
-
-5. **(Prompts) Theme, Irony, and Prose**
-
-   - "Review these screenplay pages and provide a summary focusing on the theme. Can you identify any instances of dramatic irony? Also, note any parts that seem overly verbose and suggest how they might be made more concise."
-
-**Intermediate Elements**
----------------------------------------------
-
-1. **(Prompts) Script Analysis and Feedback**
-
-   - "Review this screenplay scene and provide a critique of its structure, pacing, and character consistency. Note any repeated words or phrases, and give specific examples of where action lines might be overly descriptive."
-
-   - "Identify any redundant scenes, dialogue, or action in this script. Provide suggestions for removing or consolidating these elements to improve the script's efficiency and readability."
-
-2. **(Prompts) Genre-Specific Elements & World-Building**
-
-   - "This is a sci-fi screenplay. What genre-specific elements or tropes are missing or underused? Provide suggestions for their inclusion to enhance the genre feel of the script."
-
-3. **(Prompts) Symbolism and Setting**
-
-   - "Can you identify any recurring motifs or symbols in the script? If not, suggest a few that could add depth and complexity to the story."
-
-4. **(Prompts) Humor and Surprise Elements**
-
-   - "Does the script make effective use of humor? Identify a scene that could benefit from the inclusion of humor to lighten the tone or add depth to a character."
-
-5. **(Prompts) Cultural and Time Aspects**
-
-   - "Analyze the cultural context of the script. How well does the story incorporate the culture of its characters or setting? Provide suggestions to enhance cultural representation and authenticity."
-
-6. **(Prompts) Visual Imagery**
-
-   - "This scene lacks clear visual direction. How can we rewrite it to better utilize visual storytelling elements, enhancing both readability and cinematic impact?"
 
 **Fine-Tuning Elements**
 ---------------------------------------------
@@ -207,6 +103,8 @@ make these introductions more engaging and informative."
     - "Considering the target demographic, how might elements of this script be altered to better resonate with this audience? Provide specific examples."
 
     - "Examine a key scene from the script. How might different audience groups interpret this scene? Discuss any possible revisions to make the scene more universally appealing."
+   
+---
 
     - "Given the tone and content of this script, what rating would you anticipate it receiving (G, PG, PG-13, R)? Are there any modifications that could make it more appropriate for a broader or specific age group without compromising its essence?" 
 
