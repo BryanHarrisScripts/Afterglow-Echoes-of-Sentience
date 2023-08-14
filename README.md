@@ -33,13 +33,14 @@
     <td valign="top">
       <h4>This Page:</h4>
       <ol start="1">
-        <li><a href="#the-unseen-editor">The Unseen Editor</a></li>
         <li><a href="#welcome-to-the-afterglow-journey">Welcome to the 'Afterglow' Journey</a></li>
-        <li><a href="#ai-in-screenwriting-a-new-tool-not-a-co-author">AI in Screenwriting</a></li>
         <li><a href="#about-afterglow-echoes-of-sentience">About 'Afterglow: Echoes of Sentience'</a></li>
+        <li><a href="#afterglow-files">'Afterglow' Script Files'</a></li>
+        <li><a href="#the-unseen-editor">The Unseen Editor</a></li>
+        <li><a href="#ai-in-screenwriting-a-new-tool-not-a-co-author">AI in Screenwriting</a></li>
+        <li><a href="#ai-in-creativity-a-disclaimer">AI in Creativity: A Disclaimer</a></li>  
         <li><a href="#licensing-and-attribution">👉🏼 Licensing and Attribution</a></li>  
-        <li><a href="#understanding-copyright">👉🏼 Understanding Copyright</a></li>
-        <li><a href="#ai-in-creativity-a-disclaimer">AI in Creativity: A Disclaimer</a></li>
+        <li><a href="#understanding-copyright">👉🏼 Understanding Copyright</a></li>   
       </ol>
       </td>
     <td valign="top">
@@ -80,7 +81,7 @@ I'm in agreement with James Cameron.
 
 While creating scripts entirely with AI may be challenging without human intervention, I believe that **human-written scripts** edited with AI assistance, as I'm currently doing, are indeed feasible.
 
-## 🚀 Afterglow Files 
+## Afterglow Files 
 
 | 2023 Rewrite with AI ChatGPT | 2017 Original Beatsheet / Pitch | 2017 Additional Files |
 |------------------------|---------------------------|--------------------|
