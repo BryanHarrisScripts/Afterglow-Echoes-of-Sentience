@@ -40,7 +40,7 @@
         <li><a href="#ai-in-screenwriting-a-new-tool-not-a-co-author">AI in Screenwriting</a></li>
         <li><a href="#ai-in-creativity-a-disclaimer">AI in Creativity: A Disclaimer</a></li>  
         <li><a href="#licensing-and-attribution">👉🏼 Licensing and Attribution</a></li>  
-        <li><a href="#understanding-copyright">👉🏼 Understanding Copyright</a></li>   
+        <li><a href="#understanding-copyright">👉🏼 Copyright vs Open Source</a></li>   
       </ol>
       </td>
     <td valign="top">
