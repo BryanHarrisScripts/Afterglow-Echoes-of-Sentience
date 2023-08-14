@@ -20,7 +20,7 @@
             <ol start="1">
                 <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Experiment%20Learnings.md">👉🏼 Why Innovate?</a></li>
               <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/OpenSource/Open Source Collaboration.md">👉🏼 Why Open-source?</a></li>
-                <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/OpenSource/1%20Million%20Voices.md">👉🏼 Why Collaboration?</a></li>
+                <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/OpenSource/1%20Million%20Voices.md">👉🏼 Why Open Collaboration?</a></li>
             </ol>
             <h4>Collaboration:</h4>
             <ol start="1">
