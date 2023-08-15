@@ -22,7 +22,7 @@
       
 <ol>
 <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow/#collaborative-guide">Collaborative Guide</a></li>
-<li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow/#afterglow">Afterglow Story</a></li>
+<li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow/#afterglow">👉🏼 Afterglow Story</a></li>
 </ol>
     </td>
     <td valign="top">
