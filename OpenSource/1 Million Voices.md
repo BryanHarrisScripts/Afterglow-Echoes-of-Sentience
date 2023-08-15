@@ -5,8 +5,6 @@
 
 <div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 1em; margin: 4em 0;">
 
-<img src="../Images/1Million.png" />
-
 <a id="top"></a>
 
 <div align="center">
