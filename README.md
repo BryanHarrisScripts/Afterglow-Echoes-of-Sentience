@@ -7,7 +7,7 @@
 
 <h1>Table of Contents</h1><br>
   
-👉🏼 <a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/Afterglow/README.md">Afterglow Story Menu</a>  | <a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/discussions">Discussions</a> | <a href="https://docs.github.com/en/site-policy/github-terms/github-community-guidelines">Guidelines</a> | <a href="https://twitter.com/i/communities/1669222125591318528">AI-X Community</a> | <a href="https://twitter.com/i/lists/1675490119095140352">AI-X List</a> | <a href="https://twitter.com/TheUnseenEditor" target="_blank">TheUnseenEditor</a> 👈🏼<br><br>
+👉🏼 <a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/Afterglow/README.md">Afterglow Menu</a>  | <a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/discussions">Discussions</a> | <a href="https://docs.github.com/en/site-policy/github-terms/github-community-guidelines">Guidelines</a> | <a href="https://twitter.com/i/communities/1669222125591318528">Community</a> | <a href="https://twitter.com/i/lists/1675490119095140352">List</a> | <a href="https://twitter.com/TheUnseenEditor" target="_blank">X</a> 👈🏼<br><br>
 
 </div>
 
@@ -24,7 +24,7 @@
             </ol>
             <h4>Collaboration:</h4>
             <ol start="1">
-                <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/Afterglow/README.md">👉🏼 Afterglow - Story Menu**</a></li>
+                <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/Afterglow/README.md">👉🏼 Afterglow - Menu**</a></li>
                 <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/Collaborators/README.md">👉🏼 Collaborators Guide**</a></li>   
                 <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/Blog/README.md">Blogs - How To's & Info</a></li>
                 <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/Images">Images - Images Used**</a></li>
