@@ -41,6 +41,7 @@
         <li><a href="#ai-in-creativity-a-disclaimer">AI in Creativity: A Disclaimer</a></li>  
         <li><a href="#licensing-and-attribution">👉🏼 Licensing and Attribution</a></li>  
         <li><a href="#understanding-copyright">👉🏼 Copyright vs Open Source</a></li>   
+        <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/tree/main/">🌳 Github Tree</a></li>
       </ol>
       </td>
     <td valign="top">
