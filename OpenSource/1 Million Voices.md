@@ -118,6 +118,8 @@ This disclaimer governs the relationship between the parties regarding contribut
 
 5. **No Warranties**: The contributions are provided "as is" without warranty of any kind, either expressed or implied.
 
+**Note:** While you retain copyright over your contribution, by contributing to this project, you agree to license your work under CC BY-SA 4.0. This allows others to remix, adapt, and build upon your contribution, even for commercial purposes, provided they give appropriate credit and license their derivative works under the same terms. Please ensure you understand the terms of this license before contributing.
+
 <a href="#top">Back to Top</a>
 
 ---
