@@ -30,6 +30,8 @@ Modifications:
 
 Applying the CC-BY-SA-4.0 license to IPs allows the author to maintain copyright, yet encourages innovative engagements with the work. This balancing act between protection and accessibility amplifies the creative impact and fosters communal creativity. 
 
+**Note:** While you retain copyright over your contribution, by contributing to this project, you agree to license your work under CC BY-SA 4.0. This allows others to remix, adapt, and build upon your contribution, even for commercial purposes, provided they give appropriate credit, and license their derivative works under the same terms. Please ensure you understand the terms of this license before contributing.
+
 ### Summary
 
 1. **Open-source Screenwriting:** An open-source model for screenwriting allows global creativity and collaboration. This approach broadens the influence and reach of original works.
@@ -42,7 +44,7 @@ Applying the CC-BY-SA-4.0 license to IPs allows the author to maintain copyright
 
 6. **Cultural Exchange and Global Reach:** Inviting worldwide adaptations and sharing of work promotes cultural exchange and broadens the original creator's global reach.
 
-Disclaimer: This summary highlights the potential benefits of using the open-source model and CC-BY-SA-4.0 license in screenwriting. It's recommended to consult with a legal professional before adopting this approach. 
+**Disclaimer**: This summary highlights the potential benefits of using the open-source model and CC-BY-SA-4.0 license in screenwriting. It's recommended to consult with a legal professional before adopting this approach. 
 
 Open-source licensing provides an alternative path for managing creative works, promoting shared creativity, wide exposure, and community building. However, it requires careful selection of the licensing terms to align with the creator's goals and protections for the original work.
 
