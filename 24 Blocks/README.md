@@ -23,6 +23,7 @@
     </td>
     <td valign="top">
 <ol start="6">
+<li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/24%20Blocks/24%20Blocks%20-%20Dramatic%20Question.md">24 Blocks - Dramatic Question</a></li>
 <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/24%20Blocks/24%20Blocks%20-%20Structure%20Diversity.md">24 Blocks - Structure Diversity</a></li>
 <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/24%20Blocks/24%20Blocks%20-%20Reflection.md">24 Blocks - Reflection</a></li>
 <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/24%20Blocks/24%20Blocks%20-%20Blocks%20with%20AI.md">24 Blocks - Blocks with AI</a></li>
