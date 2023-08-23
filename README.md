@@ -28,11 +28,13 @@
                 <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/Collaborators/README.md">👉🏼 Collaborators Guide**</a></li>   
                 <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/Blog/README.md">Blogs - How To's & Info</a></li>
                 <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/Images">Images - Images Used**</a></li>
+              <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/tree/main/">🌳 Github Tree</a></li>
             </ol>
         </td> 
     <td valign="top">
       <h4>This Page:</h4>
       <ol start="1">
+        <li><a href="#a-new-way">A New Way?</a></li>
         <li><a href="#welcome-to-the-afterglow-journey">Welcome to the 'Afterglow' Journey</a></li>
         <li><a href="#about-afterglow-echoes-of-sentience">About 'Afterglow: Echoes of Sentience'</a></li>
         <li><a href="#afterglow-files">'Afterglow' Script Files'</a></li>
@@ -41,7 +43,6 @@
         <li><a href="#ai-in-creativity-a-disclaimer">AI in Creativity: A Disclaimer</a></li>  
         <li><a href="#licensing-and-attribution">👉🏼 Licensing and Attribution</a></li>  
         <li><a href="#understanding-copyright">👉🏼 Copyright vs Open Source</a></li>   
-        <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/tree/main/">🌳 Github Tree</a></li>
       </ol>
       </td>
     <td valign="top">
@@ -67,11 +68,29 @@
 
 ---
 
+# A New Way
+
+I've been envisioning a platform tailored for open-source scripts, a fusion of Github's collaborative spirit with the nuances of screenwriting. Picture a realm where writers unite to enhance and refine their narratives. To realize this, a robust system is crucial. It should smoothly facilitate feedback, accurately track edits, safeguard intellectual property, and foster genuine collaboration.
+
+Now, envision adding a web3 layer to this.
+
+By harnessing web3 technology, the platform could be decentralized, offering writers true ownership of their content via cryptographic tokens. This ensures the protection of their intellectual property and opens doors for monetization. Feedback and contributions might be rewarded through token incentives, creating an engaged community. Additionally, using smart contracts, the platform can autonomously manage permissions, and rights, and even distribute profits for shared projects.
+
+With such an amalgamation of open-source collaboration and the decentralized benefits of web3, we stand at the cusp of a transformative shift in scriptwriting — one that reshapes how stories are crafted, disseminated, and perfected.
+
+### From Page to Screen
+
+In the bustling heart of Hollywood, where many dreams of cinematic fame, the path is challenging. Annually, over 50,000 screenplays are registered with the Writers Guild of America (WGA). In contrast, the U.S. produced only about 800 movies in a year like 2019, reflecting the steep competition.
+
+Assuming optimistically that each of these films was from a new screenplay that year, only 1.6% would see production. This is an overestimate as many films are sequels, novel adaptations, or long-shelved scripts. The 50,000 figure also doesn’t capture all screenplays, as countless scripts never reach the WGA, remaining in the shadows.
+
+But a screenplay's worth isn't just in its production. For many, it's a gateway to the film industry. A compelling script, even unproduced, can usher in other opportunities. For budding screenwriters, it's essential not just to play the numbers but to perfect their art, network, and persist. Despite the odds, every acclaimed screenwriter began with a single dream and a blank page.
+
 # Welcome to the 'Afterglow' Journey
 
 Hello, fellow creators! Welcome to 'Afterglow'. Whether you're a screenwriter, an educator, a student, a hobbyist, or just a curious soul, you're in the right place. I'm Bryan Harris, an independent writer with a background in film studies.
 
-'Afterglow' started as a project to understand how a screenplay could thrive on a platform like Twitter, and to gauge interest in the story. It quickly evolved into more than that, turning into an open-source endeavor that invites collaboration, sharing of ideas, and creative exploration. This space is more than just a repository for screenwriters—it's a place where we can join forces to transform a passion for writing into captivating narratives.
+'Afterglow' started as a project to understand how a screenplay could thrive on a platform like Twitter, and to gauge interest in the story. It quickly evolved into more than that, turning into an open-source endeavour that invites collaboration, sharing of ideas, and creative exploration. This space is more than just a repository for screenwriters—it's a place where we can join forces to transform a passion for writing into captivating narratives.
 
 In the process of this experiment, I also employed AI tools to refine the original screenplay. The objective was not to replace the human touch, but to understand how artificial intelligence can assist in enhancing and structuring our creative thoughts.
 
