@@ -12,11 +12,11 @@
 
 ---
 
-### Dramatic Question in Screenwriting
+## Dramatic Question in Screenwriting
 
 If you're a budding screenwriter, the craft may sometimes feel overwhelmingly vast. One foundational concept is the "dramatic question." This question essentially underpins the entire narrative: Will the hero save the day? Will the lovers unite? Will the detective solve the mystery?
 
-#### 24-Block Process
+### 24-Block Process
  
 When integrating the dramatic question into the 24-block process, where a screenplay is divided into 4 acts with 6 blocks per act and each block lasting approximately 5 minutes, it becomes a guiding light. Here's a breakdown:
 
