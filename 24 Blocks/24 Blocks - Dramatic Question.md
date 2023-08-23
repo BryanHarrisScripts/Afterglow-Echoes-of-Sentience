@@ -8,7 +8,6 @@
 6. [Act 4: Answering the Dramatic Question](#act-4-answering-the-dramatic-question)
 7. [Principle of Three](#principle-of-three)
 8. [Art of Storytelling](#art-of-storytelling)
-9. [For Instance](#for-instance)
 
 ---
 
