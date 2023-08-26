@@ -7,7 +7,7 @@
 
 <h1>Table of Contents</h1><br>
   
-👉🏼 <a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/Afterglow/README.md">Afterglow Menu</a>  | <a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/discussions">Discussions</a> | <a href="https://docs.github.com/en/site-policy/github-terms/github-community-guidelines">Guidelines</a> | <a href="https://twitter.com/i/communities/1669222125591318528">Community</a> | <a href="https://twitter.com/i/lists/1675490119095140352">List</a> | <a href="https://twitter.com/BryanRebooted" target="_blank">X</a> 👈🏼<br><br>
+👉🏼 <a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/discussions">Discussions</a> 👈🏼 👉🏼 <a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/Afterglow/README.md">Afterglow Menu</a> | <a href="https://docs.github.com/en/site-policy/github-terms/github-community-guidelines">Guidelines</a> | <a href="https://twitter.com/i/communities/1669222125591318528">Community</a> | <a href="https://twitter.com/i/lists/1675490119095140352">List</a> | <a href="https://twitter.com/BryanRebooted" target="_blank">X</a> 👈🏼<br><br>
 
 </div>
 
@@ -28,7 +28,7 @@
                 <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/Collaborators/README.md">👉🏼 Collaborators Guide**</a></li>   
                 <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/Blog/README.md">Blogs - How To's & Info</a></li>
                 <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/Images">Images - Images Used**</a></li>
-              <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/tree/main/">👉🏼🌳 Github Tree</a></li>
+              <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/tree/main/">👉🏼 🌳 Github Tree</a></li>
             </ol>
         </td> 
     <td valign="top">
@@ -37,7 +37,7 @@
         <li><a href="#a-new-way">👉🏼 A New Way?</a></li>
         <li><a href="#welcome-to-the-afterglow-journey">Welcome to the 'Afterglow' Journey</a></li>
         <li><a href="#about-afterglow-echoes-of-sentience">About 'Afterglow: Echoes of Sentience'</a></li>
-        <li><a href="#afterglow-files">'👉🏼 Afterglow' Script Files'</a></li>
+        <li><a href="#afterglow-files">👉🏼 'Afterglow' Script Files</a></li>
         <li><a href="#the-unseen-editor">The Unseen Editor</a></li>
         <li><a href="#ai-in-screenwriting-a-new-tool-not-a-co-author">AI in Screenwriting</a></li>
         <li><a href="#ai-in-creativity-a-disclaimer">AI in Creativity: A Disclaimer</a></li>  
