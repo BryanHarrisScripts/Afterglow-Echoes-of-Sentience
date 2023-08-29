@@ -9,7 +9,7 @@
   
 👉🏼 <a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/discussions">Discussions</a> 👈🏼 👉🏼 <a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/Afterglow/README.md">Afterglow Menu</a> | <a href="https://docs.github.com/en/site-policy/github-terms/github-community-guidelines">Guidelines</a> | <a href="https://twitter.com/i/communities/1669222125591318528">Community</a> | <a href="https://twitter.com/i/lists/1675490119095140352">List</a> | <a href="https://twitter.com/BryanRebooted" target="_blank">X</a> 👈🏼<br>
 
-<a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20v10%20X%20Rewrite%20Bryan%20E.%20Harris%202023.md">🟡 The Newest v10 Working Through The Edit! 🟡</a>
+<a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20v10%20X%20Rewrite%20Bryan%20E.%20Harris%202023.md">🟡 The Newest v10 Working Through The Edit! 🟡</a><br><br>
 
 </div>
 
