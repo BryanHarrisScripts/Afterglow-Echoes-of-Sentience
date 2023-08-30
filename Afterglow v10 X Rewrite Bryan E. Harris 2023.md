@@ -8,6 +8,8 @@ Block 1 - v10
 
 **EXT. BBT TECHNOLOGIES - MORNING**
 
+The sun casts a golden hue over the sprawling campus of BBT Technologies. Ultra-modern buildings, with their sleek glass facades, reflect the early morning light. Drone deliveries buzz overhead, while employees in futuristic attire chat and walk, their conversations a mix of business and the latest tech trends. The company's logo—a stylized 'BBT' in chrome—shines prominently at the entrance, symbolizing the cutting-edge innovations within.
+
 The hum of advanced technology surrounds the modern structure of BBT Technologies. AMY (35), with AR/VR glasses resting atop her head, faces REN (41) through a holographic screen.
 
 AMY:
