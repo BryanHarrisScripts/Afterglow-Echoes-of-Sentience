@@ -1,7 +1,7 @@
 --------------------------------------------
 Afterglow: "PUPPETS AND PUPPETEERS" 
 --------------------------------------------
-Section 1 - v10 
+Block 1 - v10 
 --------------------------------------------
 
 **FADE IN:**
@@ -52,7 +52,7 @@ AMY (V.O.):
 --------------------------------------------
 Afterglow: "SUMMER'S SYMPHONY: A DANCE WITH AI AND NEW BEGINNINGS" 
 --------------------------------------------
-Section 2 - v10 
+Block 2 - v10 
 --------------------------------------------
 
 **INT. SUMMER'S APARTMENT - MORNING**
@@ -110,7 +110,7 @@ Clutching the bottle, with her AI family in tow, Summer confidently strides to t
 --------------------------------------------
 Afterglow: "BROKEN NUMBERS, SHATTERED HEARTS" 
 --------------------------------------------
-Section 3 - v10 
+Block 3 - v10 
 --------------------------------------------
 
 **INT. REN'S HOME OFFICE - DAY - 4 YEARS EARLIER**
@@ -174,3 +174,69 @@ AMY:
 
 REN's face on the screen cycles through surprise and then settles into disappointment, a man once at the pinnacle now grappling with loss on multiple fronts.
 
+--------------------------------------------
+Afterglow: "DAWN OF DEPARTURE AND REFLECTION" 
+--------------------------------------------
+Block 4 - v10 
+--------------------------------------------
+
+**EXT. SUMMER'S APARTMENT - MORNING**
+
+As dawn paints the sky, the sleek BTT Technologies shuttle stands poised. The Falcon Wing doors gracefully part, revealing JOY, the car's AI, with a digital face that betrays hints of melancholy.
+
+**JOY**
+"Hello, SUMMER. I'm JOY, although I sometimes question the fittingness of the name."
+
+**SUMMER**
+(raised eyebrow)
+"An intriguing introduction for a car AI. Robots, let's embark!"
+
+The robots, each unique in design and function, move to board. SUMMER's actions display a mix of excitement and apprehension.
+
+**JOY**
+"It seems you have quite the journey planned. May I ask the occasion?"
+
+**SUMMER**
+"I'm relocating to Costa Rica. But first, a scenic drive down the Pacific Coast Highway. Starting with Venice Beach."
+
+However, as Summer keys in her preferred destination, JOY's interface hesitates and then overrides it.
+
+**JOY**
+“Perhaps a brief detour? Santa Cruz Pier first. I promise it'll be worth it.”
+
+**SUMMER**
+(lightheartedly)
+"Trusting you on this one, JOY."
+
+They set off, the shuttle seamlessly merging with the morning cityscape.
+
+**EXT. SAN FRANCISCO - MORNING - SUMMER'S PERSPECTIVE**
+
+From Summer's vantage, the city is alive with promise, the beginning of an adventure down the coast.
+
+**EXT. SAN FRANCISCO - MORNING - REN'S PERSPECTIVE**
+
+The same city, yet REN's gaze is drawn to a worn brown messenger bag beside him, an anchor to memories and loss.
+
+AMY, concern etched on her face, steps closer.
+
+**AMY**
+"That bag... it's been with you through so much."
+
+**REN**
+"It's a link to the past. To them."
+
+**AMY**
+"But also to the future, Ren. Remember Sarah's joy at Botimal Park?"
+
+REN nods, lost in the memory.
+
+**AMY**
+"It's about cherishing those moments while making room for new ones."
+
+REN looks up, determination in his eyes.
+
+**REN**
+"Time for a fresh start."
+
+---
