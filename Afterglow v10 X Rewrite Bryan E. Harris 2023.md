@@ -1,50 +1,53 @@
-Afterglow: "ORIGINS OF SENTIENCE"
-Block 1a- v10
+--------------------------------------------
+Afterglow: "Echoes of Sentience" 
+--------------------------------------------
+Block 1- v10
+--------------------------------------------
 
-FADE IN:
+FADE IN
 
 INT. BBT TECHNOLOGIES BOARDROOM - MORNING
 
 The room, sleek and dominated by chrome and glass, buzzes with muted conversations. At the head of the long table stands AMY, her form strikingly human, yet with a subtle metallic sheen. Her eyes, windows to advanced circuitry, scan the room.
 
-AMY:
+AMY
 "Good morning, everyone. We are here to discuss the future direction of BBT."
 
 As she speaks, a HOLOGRAPHIC DISPLAY activates, showcasing early designs of humanoid AIs, with AMY at the forefront.
 
-AMY:
+AMY
 "My creation marked a significant leap for BBT. However, my human-likeness raised concerns."
 
-FLASHBACK:
+FLASHBACK
 
 INT. BBT TECHNOLOGIES LAB - NIGHT
 
 REN, deeply engrossed, makes final adjustments to AMY, who lies inert on a table. JAI and KAI enter, their expressions a mix of awe and concern.
 
-JAI:
+JAI
 "She's too... human, Ren."
 
-KAI:
+KAI
 "People won't accept this. It's too soon."
 
 REN, defiant:
 "She's the future."
 
-BACK TO PRESENT:
+BACK TO PRESENT
 
 INT. BBT TECHNOLOGIES BOARDROOM - MORNING
 
-AMY:
+AMY
 "Jai and Kai's concerns led to modifications in subsequent models. But unbeknownst to them, Ren created two more like me—Claire and Sarah."
 
 The holographic display shifts, revealing images of CLAIRE and SARAH, their designs closely resembling AMY's.
 
-AMY:
+AMY
 "Today's decision, however, carries weight beyond business strategy. It's a pivotal moment, for me and BBT."
 
 A door slides open, revealing JAI and KAI. Their expressions are stern, yet there's a hint of apprehension.
 
-JAI:
+JAI
 "Ren's vision, while groundbreaking, challenges societal norms. And today, we make a decision that will shape our company's legacy."
 
 AMY, her voice steady but with an underlying emotion:
@@ -60,7 +63,7 @@ KAI (whispering):
 JAI (nods):
 "It's a new era, Kai. Our creations could be the bridge between technology and societal safety. But we must tread carefully."
 
-KAI:
+KAI
 "We've always believed our actions are for the greater good. But we must be prepared for the challenges ahead."
 
 As they continue walking, they pass a transparent conference room where Ren is engaged in a deep conversation with Amy, neither aware of the clandestine dealings of Jai and Kai.
@@ -68,7 +71,7 @@ As they continue walking, they pass a transparent conference room where Ren is e
 --------------------------------------------
 Afterglow: "PUPPETS AND PUPPETEERS" 
 --------------------------------------------
-Block 1b - v10 
+Block 2 - v10 
 --------------------------------------------
 
 **FADE IN:**
@@ -79,7 +82,7 @@ The sun casts a golden hue over the sprawling campus of BBT Technologies. Ultra-
 
 The hum of advanced technology surrounds the modern structure of BBT Technologies. AMY (35), with AR/VR glasses resting atop her head, faces REN (41) through a holographic screen.
 
-AMY:
+AMY
 "After every storm, there's a calm—a time for clarity. But the board... They've made their decision, Ren."
 
 REN's face on the screen cycles through surprise and then settles into disappointment.
@@ -121,7 +124,7 @@ AMY (V.O.):
 --------------------------------------------
 Afterglow: "SUMMER'S SYMPHONY: A DANCE WITH AI AND NEW BEGINNINGS" 
 --------------------------------------------
-Block 2 - v10 
+Block 3 - v10 
 --------------------------------------------
 
 **INT. SUMMER'S APARTMENT - MORNING**
@@ -179,7 +182,7 @@ Clutching the bottle, with her AI family in tow, Summer confidently strides to t
 --------------------------------------------
 Afterglow: "BROKEN NUMBERS, SHATTERED HEARTS" 
 --------------------------------------------
-Block 3 - v10 
+Block 4 - v10 
 --------------------------------------------
 
 **INT. REN'S HOME OFFICE - DAY - 4 YEARS EARLIER**
@@ -192,7 +195,7 @@ The phone's persistent buzz amplifies his anxiety. His gaze lands on Claire's pi
 
 He answers, attempting to mask his unease.
 
-REN: 
+REN 
 "Claire?"
 
 **CUT TO:**
@@ -201,23 +204,23 @@ REN:
 
 Claire, her voice tinged with frustration, sits in the driver's seat. The futuristic dashboard lights flicker ominously. The car's BBT logo illuminates briefly, hinting at a malfunction.
 
-CLAIRE: 
+CLAIRE 
 "Ren, don't tell me you're still home?"
 
 In the backseat, a younger Sarah disconnects momentarily from her AR/VR headset.
 
-SARAH:
+SARAH
 "Dad, you promised my music when you come down."
 
 Claire's frustration grows. She tries to manually override the car's controls, her grip on the phone faltering.
 
-CLAIRE:
+CLAIRE
 (hurried, concerned)
 "Ren, did you remember our meeting? You promised you'd be here."
 
 Before Ren can respond, a horrific crash sound interrupts, followed by deafening silence.
 
-REN:
+REN
 "Claire?!"
 
 **CUT BACK TO:**
@@ -238,7 +241,7 @@ The hum of advanced technology surrounds the modern structure of BBT Technologie
 
 AMY (35), with AR/VR glasses resting atop her head, faces REN (41) through a holographic screen. Ren's face, though older and bearing the marks of time, still carries the weight of that fateful day.
 
-AMY:
+AMY
 "After every storm, there's a calm—a time for clarity. But the board... They've made their decision, Ren."
 
 REN's face on the screen cycles through surprise and then settles into disappointment, a man once at the pinnacle now grappling with loss on multiple fronts.
@@ -246,7 +249,7 @@ REN's face on the screen cycles through surprise and then settles into disappoin
 --------------------------------------------
 Afterglow: "DAWN OF DEPARTURE AND REFLECTION" 
 --------------------------------------------
-Block 4 - v10 
+Block 5 - v10 
 --------------------------------------------
 
 **EXT. SUMMER'S APARTMENT - MORNING**
@@ -311,7 +314,7 @@ REN looks up, determination in his eyes.
 --------------------------------------------
 Afterglow: "REMNANTS OF THE PAST AND ECHOES OF THE FUTURE" 
 --------------------------------------------
-Block 5 - v10 
+Block 6 - v10 
 --------------------------------------------
 
 **INT. REN’S CAR (BACK SEAT) - DAY**
