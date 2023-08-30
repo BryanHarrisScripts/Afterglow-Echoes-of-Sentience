@@ -50,6 +50,21 @@ JAI:
 AMY, her voice steady but with an underlying emotion:
 "I understand the gravity of this moment. Let's proceed."
 
+INT. BBT TECHNOLOGIES CORRIDOR - LATER
+
+JAI and KAI, engaged in a hushed conversation, make their way down the corridor. Their path is lit by ambient blue lights, creating an atmosphere of secrecy.
+
+KAI (whispering):
+"The police and military see potential in our humanoid AIs. They're not just tools for society; they could be invaluable for surveillance and defense."
+
+JAI (nods):
+"It's a new era, Kai. Our creations could be the bridge between technology and societal safety. But we must tread carefully."
+
+KAI:
+"We've always believed our actions are for the greater good. But we must be prepared for the challenges ahead."
+
+As they continue walking, they pass a transparent conference room where Ren is engaged in a deep conversation with Amy, neither aware of the clandestine dealings of Jai and Kai.
+
 --------------------------------------------
 Afterglow: "PUPPETS AND PUPPETEERS" 
 --------------------------------------------
