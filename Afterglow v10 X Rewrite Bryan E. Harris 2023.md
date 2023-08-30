@@ -110,7 +110,7 @@ Clutching the bottle, with her AI family in tow, Summer confidently strides to t
 --------------------------------------------
 Afterglow: "BROKEN NUMBERS, SHATTERED HEARTS" 
 --------------------------------------------
-Section 2 - v10 
+Section 3 - v10 
 --------------------------------------------
 
 **INT. REN'S HOME OFFICE - DAY - 4 YEARS EARLIER**
