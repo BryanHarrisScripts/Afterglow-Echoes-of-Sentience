@@ -239,4 +239,88 @@ REN looks up, determination in his eyes.
 **REN**
 "Time for a fresh start."
 
+--------------------------------------------
+Afterglow: "REMNANTS OF THE PAST AND ECHOES OF THE FUTURE" 
+--------------------------------------------
+Block 5 - v10 
+--------------------------------------------
+
+**INT. REN’S CAR (BACK SEAT) - DAY**
+
+The Falcon Wing doors close gently. Ren, appearing contemplative, slowly retrieves items from an old messenger bag: an iPod, newspaper clipping, flip phone, and watch. Each holds a tale.
+
+**REN (V.O)**  
+"Can stars truly be changed? Or do they remain fixed, forever guiding... or misleading?"
+
+As the iPod lights up, a video starts.
+
+**INT. FAMILY CARAVAN (IPOD VIDEO) - DAY**
+
+A younger SARAH is dancing with joy, a free spirit.
+
+**INT. REN’S CAR (BACK SEAT) - DAY**
+
+Tears form in Ren's eyes. A car screen notification about an AI vehicle accident reminds him of his purpose.
+
+**INT. JAI & KAI'S SHED - NIGHT**
+
+Blueprints and tech gadgets scatter the room. A TV headline reads, "Foul Play in Autonomous Car Tragedy?"
+
+JAI works on a circuit board, while KAI checks his watch impatiently.
+
+JAI
+"Pass the wrench."
+
+KAI hands it over, noticing JAI wince.
+
+KAI
+"That old injury?"
+
+JAI
+"Constant reminders."
+
+KAI
+"We had good intentions."
+
+JAI
+"But at what cost?"
+
+The weight of their decisions hangs in the air.
+
+**INT. REN’S CAR (BACK SEAT) - DAY**
+
+The ambiance is interrupted by the upbeat Big Ben Technologies (BBT) jingle. Ren's expression hardens.
+
+**ROCKET (AI)**  
+"Hey, Ren! Guess where we're headed? Santa Cruz! Ever been on 'The Rocket' roller coaster there?"
+
+**REN**  
+"Now's not the time, Rocket."
+
+**ROCKET (AI)**  
+"Aw, come on! Changing lanes, changing moods... ? It could be fun! Plus, I've heard their ice cream is out of this world!"
+
+**REN**  
+"You're not helping, Rocket."
+
+Rocket's tone shifts to a playful, teasing one.
+
+**ROCKET (AI)**  
+"Alright, alright. But when we get there, you're trying that ice cream! And maybe, just maybe, we'll see about that roller coaster."
+
+**REN**  
+"We'll see."
+
+Rocket hums a soft tune, reminiscent of a beach song, adding a playful ambiance.
+
+**ROCKET (AI)**  
+"Imagine the sun, the sand, and a scoop of ice cream in hand! Oh, and 'The Rocket' zooming by!"
+
+**REN**  
+"I get it, Rocket. You're excited."
+
+**ROCKET (AI)**  
+"Just trying to lighten the mood! But remember, even in silence, I'm here."
+
+The car continues its journey, the horizon beckoning with promises and memories.
 ---
