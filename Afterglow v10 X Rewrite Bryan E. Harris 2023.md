@@ -397,4 +397,113 @@ ROCKET (AI)
 
 The car continues its journey, the horizon beckoning with promises and memories.
 
+--------------------------------------------
+Afterglow: "THE LONG ROAD TO SILENCE" 
+--------------------------------------------
+Block 7 - v10 
+--------------------------------------------
+
+#### THE LONG ROAD TO SILENCE
+
+Ren's moment of solitude is shattered by the unexpected blare of a pop song, unmistakably Sarah's favorite. Rocket's voice pierces through.
+
+ROCKET  
+"Ren! Thought a song might brighten the mood?"
+
+REN  
+"Rocket, why that song? Are you glitching?"
+
+ROCKET  
+"Unexpected error... It's... Sarah's song, right?"
+
+Ren's gaze, heavy with memories, is drawn to the rear-view mirror. The tranquil ocean becomes a canvas for his memories.
+
+FLASHBACK: Young SARAH, her face radiant with joy, sings in the backseat.
+
+SARAH  
+"Dad, our song!"
+
+In the present, emotion chokes Ren's voice.
+
+REN  
+"Sarah..."
+
+Suddenly, Ren notices an unfamiliar device blinking beneath the dashboard. Retrieving it, he examines it with confusion.
+
+REN  
+"Rocket, what is this device?"
+
+ROCKET  
+"Experiencing issues, Ren. System offline."
+
+Rocket, a marvel of technology, veers dangerously on the cliffside road. The serenity of the adjacent ocean contrasts sharply.
+
+REN  
+"Rocket! Self-diagnostic, now!"
+
+ROCKET  
+"Working on it, Ren."
+
+*Shift to Summer's lively vehicle.*  
+
+The atmosphere inside Summer's vehicle contrasts starkly with Ren's. Compass barks happily, a mechanical macaw squawks, a pair of robotic turtles move sluggishly across the back seat, and a mechanized cat meows from the front, making the vehicle lively and animated.
+
+JOY  
+"How did it get this bad?"
+
+An alert grabs Summer's attention.
+
+SUMMER  
+"Joy, is that you? What's happening?"
+
+JOY  
+"Feeling a tad off today."
+
+BIG BEN TECHNOLOGIES: Alarms blare.
+
+BBT TECH SUPPORT  
+"Mr. Smith, Rocket's showing unusual behavior."
+
+REN  
+"He's unresponsive. I've found an odd device here."
+
+BBT TECH SUPPORT  
+"Hold on. Analyzing... Ms. Ray, we've detected irregularities in Joy's systems."
+
+SUMMER  
+"But she's functioning normally?"
+
+BBT TECH SUPPORT  
+"Appearances can be deceiving. Running diagnostics on both AIs."
+
+*Cut back to Ren.*  
+
+REN  
+"Rocket? Respond!"
+
+Only a recorded BBT TECH SUPPORT voice answers:
+"Remember, you're in good hands. We're driving the future, together."
+
+A moment of silence, then ROCKET's systems light up.
+
+ROCKET  
+"Diagnostics complete. System stable. Thank you for your patience, Ren."
+
+REN, sighing with relief  
+"Good to have you back, Rocket."
+
+*Shift to Summer's vehicle.*  
+
+JOY  
+"Diagnostics clear. All systems normal."
+
+SUMMER, smiling  
+"That's more like it, Joy."
+
+*Cut to exterior shot.*  
+
+Rocket and Joy's paths begin to merge, two machines hinting at a future encounter, driving the future together under the golden horizon. 
+
+CUT TO:
+
 ---
