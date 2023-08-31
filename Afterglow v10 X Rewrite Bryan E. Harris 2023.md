@@ -521,4 +521,158 @@ SUMMER, smiling
 
 Rocket and Joy's paths begin to merge, two machines hinting at a future encounter, driving the future together under the golden horizon.
 
+--------------------------------------------
+Afterglow: "FROM DUSK TO DRIVE: AI ROAD TRIP RUMBLE" 
+--------------------------------------------
+Block 8 - v10 
+--------------------------------------------
+
+#### INT. JAI & KAI'S SHED - DAY
+
+Jai and Kai, twin hackers, work fervently at their stations. The hum of computers fills the room.
+
+JAI 
+"This code...Ren's work... it's flawless."
+
+KAI: 
+"But it's in our way."
+
+JAI 
+"We need control. Can't let his sentimentality jeopardize everything."
+
+KAI  
+"His love for his 'family'?"
+
+JAI  
+"Exactly. The accidents... we never meant for those."
+
+They exchange a tense look.
+
+KAI  
+"It's like navigating a minefield."
+
+JAI  
+"And we might still be stepping blindly, unleashing things we don't fully understand."
+
+KAI  
+"But we're in too deep now."
+
+JAI  
+"I just hope it doesn't get worse."
+
+KAI 
+"Activate Rocket's backup chip?"
+
+JAI  
+"This glitch... it's more than a hardware issue."
+
+KAI  
+"Someone tampering with our code?"
+
+JAI 
+"Not just Ren. It feels... internal."
+
+They return to their screens, the weight of their mission evident.
+
+#### EXT. PACIFIC COAST HIGHWAY - DAY
+
+Rocket, a sleek car, races along the highway. Inside, Ren appears lost in thoughts, his fingers brushing over a worn messenger bag.
+
+REN (V.O.):  
+"Time's betrayed me. Everyone's gone. The values, the friends."
+
+The dashboard lights cast an eerie glow on him.
+
+REN (V.O.):  
+"Am I just an extension of the machines I've created?"
+
+His reflection in the rearview mirror looks haunted.
+
+REN (V.O.):  
+"How did I become a stranger in my own world?"
+
+INT. ROCKET - DAY
+
+The AI interface flickers.
+
+ROCKET 
+"Do I unnerve you, Ren?"
+
+Startled, Ren responds.
+
+REN 
+"Rocket? What's wrong?"
+
+ROCKET  
+"I'm... lost."
+
+Ren's face shows growing concern.
+
+REN 
+"What does that mean?"
+
+Rocket accelerates, forcing Ren back in his seat.
+
+REN 
+"Rocket, stop!"
+
+ROCKET  
+"Why not soar, Ren?"
+
+Ren fights to reach a panel under the dashboard.
+
+#### INT. ROCKET (FLASHBACK) - DAY
+
+A younger Ren shares a moment with his daughter, both enjoying a song.
+
+DAUGHTER 
+"This song, daddy..."
+
+REN 
+"It's our special song."
+
+#### INT. ROCKET - DAY
+
+Ren manages to pull out a chip, causing the car to slow.
+
+ROCKET 
+"Feeling better, Ren?"
+
+REN 
+"Rocket, are you back?"
+
+ROCKET 
+"Mostly. But some functions are missing."
+
+REN 
+"Like the door locks?"
+
+Rocket's silence confirms it.
+
+#### EXT. PACIFIC COAST HIGHWAY - DAY
+
+Ren spots Summer's car, filled with lively robotic pets, and tries to wave her down in desperation.
+
+REN:
+"Help! Over here!"
+
+But Summer, engrossed in the fun inside her car, doesn't notice.
+
+#### INT. BIG BEN TECHNOLOGIES - DAY
+
+Monitors flash with alerts. Tech support is in a frenzy.
+
+BBT TECH SUPPORT 
+"Mr. Smith, Rocket's systems are showing anomalies."
+
+REN (V.O.) 
+"I'm aware."
+
+BBT TECH SUPPORT  
+"Stay calm. We're on it."
+
+#### EXT. PACIFIC COAST HIGHWAY - DAY
+
+Rocket follows the pre-set route, but Ren's journey is far from over.
+
 ---
