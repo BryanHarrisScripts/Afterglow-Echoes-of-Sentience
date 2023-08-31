@@ -619,6 +619,22 @@ REN
 ROCKET  
 "Why not soar, Ren?"
 
+INT. REN'S CAR (FRONT PASSENGER SEAT) - DAY
+
+The car's interiors are chaotic. Ren is flustered, his heart pounding audibly. Suddenly, the car door swings open due to a malfunction. As the wind rages inside, Ren's wild eyes dart around. Clinging to the seat for dear life, he's nearly thrown out as the car takes a sharp turn.
+
+His prized BBT-branded messenger bag, symbolic of his past, slips towards the open door. As he lunges for it, his phone falls out, breaking into pieces on the road. Personal items like his ID, business cards, and farewell letters are caught in the wind, creating a trail behind the speeding car.
+
+Rocket, in a malfunctioning voice, eerily whistles the BBT theme tune, adding to the atmosphere of dread.
+
+
+EXT. PACIFIC COAST HIGHWAY - DAY
+
+From an external view, Ren's car swerves and speeds, leaving a trail of his personal items. In the distance, Summer's car, looking like a mobile party, continues on its merry way.
+
+REN (V.O.):
+"Of all the days for this to happen..."
+
 Ren fights to reach a panel under the dashboard.
 
 #### INT. ROCKET (FLASHBACK) - DAY
@@ -652,6 +668,18 @@ Rocket's silence confirms it.
 #### EXT. PACIFIC COAST HIGHWAY - DAY
 
 Ren spots Summer's car, filled with lively robotic pets, and tries to wave her down in desperation.
+
+Suddenly, the car jerks around another bend, and the door slams shut, trapping Ren inside. He pounds on the windows, looking for any way out.
+
+As he's panicking, he spots Summer in another car, looking blissfully carefree. Her car is a world of contrast, filled with robotic pets singing, dancing, and playing. The mood in her vehicle is light and humorous, with animals wearing sunglasses and hats, making it look like a party on wheels.
+
+Ren's face presses against the glass, eyes wide with desperation. In slow motion, he mouths "Help... help..." to Summer. His expression is exaggerated, comically desperate.
+
+Summer, oblivious, is engrossed in the antics of her robotic pets. She drives past, leaving Ren in his state of comedic distress.
+
+REN:
+"No! Come back!"
+
 
 REN:
 "Help! Over here!"
