@@ -403,7 +403,7 @@ Afterglow: "THE LONG ROAD TO SILENCE"
 Block 7 - v10 
 --------------------------------------------
 
-#### THE LONG ROAD TO SILENCE
+#### INT. REN'S CAR - DAY
 
 Ren's moment of solitude is shattered by the unexpected blare of a pop song, unmistakably Sarah's favorite. Rocket's voice pierces through.
 
@@ -416,14 +416,18 @@ REN
 ROCKET  
 "Unexpected error... It's... Sarah's song, right?"
 
-Ren's gaze, heavy with memories, is drawn to the rear-view mirror. The tranquil ocean becomes a canvas for his memories.
+Ren's gaze, heavy with memories, is drawn to the rear-view mirror. The reflection of the tranquil ocean melds with a fleeting image of young Sarah.
 
-FLASHBACK: Young SARAH, her face radiant with joy, sings in the backseat.
+#### FLASHBACK: INT. REN'S CAR - DAY (PAST)
+
+Young SARAH, her face radiant with joy, sings in the backseat.
 
 SARAH  
 "Dad, our song!"
 
-In the present, emotion chokes Ren's voice.
+#### INT. REN'S CAR - DAY (PRESENT)
+
+Emotion chokes Ren's voice.
 
 REN  
 "Sarah..."
@@ -436,7 +440,7 @@ REN
 ROCKET  
 "Experiencing issues, Ren. System offline."
 
-Rocket, a marvel of technology, veers dangerously on the cliffside road. The serenity of the adjacent ocean contrasts sharply.
+The car veers dangerously on the cliffside road. The serene ocean below mirrors the tension inside the car.
 
 REN  
 "Rocket! Self-diagnostic, now!"
@@ -444,9 +448,9 @@ REN
 ROCKET  
 "Working on it, Ren."
 
-*Shift to Summer's lively vehicle.*  
+#### INT. SUMMER'S CAR - DAY
 
-The atmosphere inside Summer's vehicle contrasts starkly with Ren's. Compass barks happily, a mechanical macaw squawks, a pair of robotic turtles move sluggishly across the back seat, and a mechanized cat meows from the front, making the vehicle lively and animated.
+The interior bustles with activity. Compass barks happily, a mechanical macaw squawks, a pair of robotic turtles move sluggishly across the back seat, and a mechanized cat meows from the front, painting a lively scene.
 
 JOY  
 "How did it get this bad?"
@@ -459,29 +463,31 @@ SUMMER
 JOY  
 "Feeling a tad off today."
 
-BIG BEN TECHNOLOGIES: Alarms blare.
+#### INT. BIG BEN TECHNOLOGIES - DAY
+
+Alarms blare.
 
 BBT TECH SUPPORT  
 "Mr. Smith, Rocket's showing unusual behavior."
 
-REN  
+REN (V.O.)  
 "He's unresponsive. I've found an odd device here."
 
 BBT TECH SUPPORT  
 "Hold on. Analyzing... Ms. Ray, we've detected irregularities in Joy's systems."
 
-SUMMER  
+SUMMER (V.O.)  
 "But she's functioning normally?"
 
 BBT TECH SUPPORT  
 "Appearances can be deceiving. Running diagnostics on both AIs."
 
-*Cut back to Ren.*  
+#### INT. REN'S CAR - DAY
 
 REN  
 "Rocket? Respond!"
 
-Only a recorded BBT TECH SUPPORT voice answers:
+Only a recorded BBT TECH SUPPORT voice answers:  
 "Remember, you're in good hands. We're driving the future, together."
 
 A moment of silence, then ROCKET's systems light up.
@@ -492,7 +498,7 @@ ROCKET
 REN, sighing with relief  
 "Good to have you back, Rocket."
 
-*Shift to Summer's vehicle.*  
+#### INT. SUMMER'S CAR - DAY
 
 JOY  
 "Diagnostics clear. All systems normal."
@@ -500,9 +506,9 @@ JOY
 SUMMER, smiling  
 "That's more like it, Joy."
 
-*Cut to exterior shot.*  
+#### EXT. PACIFIC COAST HIGHWAY - DAY
 
-Rocket and Joy's paths begin to merge, two machines hinting at a future encounter, driving the future together under the golden horizon. 
+Rocket and Joy's paths begin to merge, two machines hinting at a future encounter, driving the future together under the golden horizon.
 
 CUT TO:
 
