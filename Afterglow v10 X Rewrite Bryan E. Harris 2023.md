@@ -636,6 +636,12 @@ Alarms blaze. Employees are in crisis mode.
 **REN (V.O.)**  
 "Tell me something I don't know."
 
+BBT EMPLOYEE
+"Mr. Smith. We have you, we're on it! Locks, breaks, windows, AC. Our apologies. Standby."
+
+REN
+"Wait, what..."
+
 **BBT TECH SUPPORT:**  
 "We're on it, sir."
 
