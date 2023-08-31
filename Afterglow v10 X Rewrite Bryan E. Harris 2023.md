@@ -482,6 +482,18 @@ SUMMER (V.O.)
 BBT TECH SUPPORT  
 "Appearances can be deceiving. Running diagnostics on both AIs."
 
+BBT TECH SUPPORT (CONT)
+"Mr. Smith, Rocket's diagnostic report shows no anomalies. We're trying to triangulate his cloud coordinates now."
+
+REN (V.O.)
+"Is he lost?"
+
+BBT TECH SUPPORT
+"We're having difficulty locating Rocket in the cloud. However, you're connected to BBT AIME and are completely safe. You can relax, Mr. Smith."
+
+REN
+"Wait, what?"
+
 #### INT. REN'S CAR - DAY
 
 REN  
@@ -492,11 +504,8 @@ Only a recorded BBT TECH SUPPORT voice answers:
 
 A moment of silence, then ROCKET's systems light up.
 
-ROCKET  
-"Diagnostics complete. System stable. Thank you for your patience, Ren."
-
-REN, sighing with relief  
-"Good to have you back, Rocket."
+A.I.M.E. 
+"Diagnostics complete. A.I.M.E. System stable. Thank you for your patience, Ren."
 
 #### INT. SUMMER'S CAR - DAY
 
@@ -509,7 +518,5 @@ SUMMER, smiling
 #### EXT. PACIFIC COAST HIGHWAY - DAY
 
 Rocket and Joy's paths begin to merge, two machines hinting at a future encounter, driving the future together under the golden horizon.
-
-CUT TO:
 
 ---
