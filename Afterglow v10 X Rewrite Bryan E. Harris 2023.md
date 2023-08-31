@@ -33,8 +33,6 @@ KAI
 REN, defiant:
 "She's the future."
 
-#### FLASHBACK TO (4 YEARS EARLIER)
-
 #### INT. BBT TECHNOLOGIES BOARDROOM - MORNING
 
 AMY
@@ -186,7 +184,9 @@ Afterglow: "BROKEN NUMBERS, SHATTERED HEARTS"
 Block 4 - v10 
 --------------------------------------------
 
-#### INT. REN'S HOME OFFICE - DAY - 4 YEARS EARLIER
+#### INT. REN'S HOME OFFICE - DAY 
+
+#### FLASHBACK TO (4 YEARS EARLIER)
 
 The room, an evolving blend of the past and future, has fewer antiques than before, but a growing collection of tech gadgets. Ren's fingers trace over the robotic dog, a connection to a simpler past. His computer screen displays a cascade of green — prosperity before the fall.
 
@@ -232,7 +232,7 @@ The weight of the silence is overwhelming. Ren's face pales, the enormity of the
 
 #### FADE TO BLACK.
 
-#### SUPER: "FOUR YEARS LATER"
+#### 4 YEARS LATER
 
 #### FADE IN:
 
