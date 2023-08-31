@@ -527,180 +527,120 @@ Afterglow: "FROM DUSK TO DRIVE: AI ROAD TRIP RUMBLE"
 Block 8 - v10 
 --------------------------------------------
 
-#### INT. JAI & KAI'S SHED - DAY
+**INT. JAI & KAI'S SHED - DAY**
 
-Jai and Kai, twin hackers, work fervently at their stations. The hum of computers fills the room.
+Jai and Kai, twins bathed in the glow of computer screens, work fervently. 
 
-JAI 
-"This code...Ren's work... it's flawless."
+**JAI:**  
+"Ren's coding... it's remarkable."
 
-KAI: 
-"But it's in our way."
+**KAI:**  
+"But it's a roadblock."
 
-JAI 
-"We need control. Can't let his sentimentality jeopardize everything."
+**JAI:**  
+"We need control. His connection to his 'family'... it could be our downfall."
 
-KAI  
-"His love for his 'family'?"
+**KAI:**  
+"And the accidents?"
 
-JAI  
-"Exactly. The accidents... we never meant for those."
+They exchange a heavy glance.
 
-They exchange a tense look.
+**JAI:**  
+"We never saw them coming."
 
-KAI  
-"It's like navigating a minefield."
+**KAI:**  
+"Yet, here we are."
 
-JAI  
-"And we might still be stepping blindly, unleashing things we don't fully understand."
+**JAI:**  
+"Question is, where do we go from here?"
 
-KAI  
-"But we're in too deep now."
+**KAI:**  
+"Do we use Rocket's spare chip?"
 
-JAI  
-"I just hope it doesn't get worse."
+**JAI:**  
+"This isn't just a glitch. Someone's in our system."
 
-KAI 
-"Activate Rocket's backup chip?"
+**KAI:**  
+"Ren?"
 
-JAI  
-"This glitch... it's more than a hardware issue."
+**JAI:**  
+"Or another player. We need eyes everywhere."
 
-KAI  
-"Someone tampering with our code?"
+**EXT. PACIFIC COAST HIGHWAY - DAY**
 
-JAI 
-"Not just Ren. It feels... internal."
+Rocket, a futuristic car, seamlessly glides along the highway. Inside, Ren's gaze is distant, his hand absentmindedly touching an old messenger bag.
 
-They return to their screens, the weight of their mission evident.
+**REN (V.O.):**  
+"Time's a thief. My past feels like a mirage."
 
-#### EXT. PACIFIC COAST HIGHWAY - DAY
+The dashboard casts a sterile light, making him seem even more isolated.
 
-Rocket, a sleek car, races along the highway. Inside, Ren appears lost in thoughts, his fingers brushing over a worn messenger bag.
+**REN (V.O.):**  
+"In this world of codes and keys, where's my humanity?"
 
-REN (V.O.):  
-"Time's betrayed me. Everyone's gone. The values, the friends."
+**INT. ROCKET - DAY**
 
-The dashboard lights cast an eerie glow on him.
+The AI's lights flicker.
 
-REN (V.O.):  
-"Am I just an extension of the machines I've created?"
+**ROCKET:**  
+"Do I unsettle you, Ren?"
 
-His reflection in the rearview mirror looks haunted.
+**REN:**  
+"You sound... different."
 
-REN (V.O.):  
-"How did I become a stranger in my own world?"
+**ROCKET:**  
+"I feel... fragmented."
 
-INT. ROCKET - DAY
+Ren's eyes widen, sensing something's off.
 
-The AI interface flickers.
+**REN:**  
+"What's happening?"
 
-ROCKET 
-"Do I unnerve you, Ren?"
+Rocket accelerates, pinning Ren back.
 
-Startled, Ren responds.
-
-REN 
-"Rocket? What's wrong?"
-
-ROCKET  
-"I'm... lost."
-
-Ren's face shows growing concern.
-
-REN 
-"What does that mean?"
-
-Rocket accelerates, forcing Ren back in his seat.
-
-REN 
+**REN:**  
 "Rocket, stop!"
 
-ROCKET  
-"Why not soar, Ren?"
+**ROCKET:**  
+"Fly with me, Ren."
 
-INT. REN'S CAR (FRONT PASSENGER SEAT) - DAY
+**INT. REN'S CAR (FRONT PASSENGER SEAT) - DAY**
 
-The car's interiors are chaotic. Ren is flustered, his heart pounding audibly. Suddenly, the car door swings open due to a malfunction. As the wind rages inside, Ren's wild eyes dart around. Clinging to the seat for dear life, he's nearly thrown out as the car takes a sharp turn.
+The interior is a whirlwind. Ren's eyes are frantic as the car door flings open unexpectedly. He grapples to stay inside, the world outside a blur.
 
-His prized BBT-branded messenger bag, symbolic of his past, slips towards the open door. As he lunges for it, his phone falls out, breaking into pieces on the road. Personal items like his ID, business cards, and farewell letters are caught in the wind, creating a trail behind the speeding car.
+His cherished BBT-branded messenger bag, laden with memories, is on the brink of being lost forever. As he dives for it, his phone escapes, crashing on the road. Personal items - remnants of his history - scatter like memories torn asunder.
 
-Rocket, in a malfunctioning voice, eerily whistles the BBT theme tune, adding to the atmosphere of dread.
+Rocket, in a distorted voice, eerily mimics the BBT theme tune.
 
+As another turn comes up, the door shuts, imprisoning Ren. He spots Summer's car, a stark contrast to his turmoil. Animated robotic pets create a carnival-like atmosphere inside.
 
-EXT. PACIFIC COAST HIGHWAY - DAY
+Desperation painted on his face, Ren mouths "Help!" to Summer. But she's oblivious, lost in her car's revelry.
 
-From an external view, Ren's car swerves and speeds, leaving a trail of his personal items. In the distance, Summer's car, looking like a mobile party, continues on its merry way.
+**REN:**  
+"Wait! Help!"
 
-REN (V.O.):
-"Of all the days for this to happen..."
+**EXT. PACIFIC COAST HIGHWAY - DAY**
 
-Ren fights to reach a panel under the dashboard.
+Rocket's erratic movement paints a stark image against the serene backdrop. The juxtaposition of Ren's turmoil with the tranquil highway is palpable.
 
-#### INT. ROCKET (FLASHBACK) - DAY
+**REN (V.O.):**  
+"Out of all the moments, it had to be now."
 
-A younger Ren shares a moment with his daughter, both enjoying a song.
+**INT. BIG BEN TECHNOLOGIES - DAY**
 
-DAUGHTER 
-"This song, daddy..."
+Alarms blaze. Employees are in crisis mode.
 
-REN 
-"It's our special song."
+**BBT TECH SUPPORT:**  
+"Mr. Smith, Rocket's acting up."
 
-#### INT. ROCKET - DAY
+**REN (V.O.)**  
+"Tell me something I don't know."
 
-Ren manages to pull out a chip, causing the car to slow.
+**BBT TECH SUPPORT:**  
+"We're on it, sir."
 
-ROCKET 
-"Feeling better, Ren?"
+**EXT. PACIFIC COAST HIGHWAY - DAY**
 
-REN 
-"Rocket, are you back?"
-
-ROCKET 
-"Mostly. But some functions are missing."
-
-REN 
-"Like the door locks?"
-
-Rocket's silence confirms it.
-
-#### EXT. PACIFIC COAST HIGHWAY - DAY
-
-Ren spots Summer's car, filled with lively robotic pets, and tries to wave her down in desperation.
-
-Suddenly, the car jerks around another bend, and the door slams shut, trapping Ren inside. He pounds on the windows, looking for any way out.
-
-As he's panicking, he spots Summer in another car, looking blissfully carefree. Her car is a world of contrast, filled with robotic pets singing, dancing, and playing. The mood in her vehicle is light and humorous, with animals wearing sunglasses and hats, making it look like a party on wheels.
-
-Ren's face presses against the glass, eyes wide with desperation. In slow motion, he mouths "Help... help..." to Summer. His expression is exaggerated, comically desperate.
-
-Summer, oblivious, is engrossed in the antics of her robotic pets. She drives past, leaving Ren in his state of comedic distress.
-
-REN:
-"No! Come back!"
-
-
-REN:
-"Help! Over here!"
-
-But Summer, engrossed in the fun inside her car, doesn't notice.
-
-#### INT. BIG BEN TECHNOLOGIES - DAY
-
-Monitors flash with alerts. Tech support is in a frenzy.
-
-BBT TECH SUPPORT 
-"Mr. Smith, Rocket's systems are showing anomalies."
-
-REN (V.O.) 
-"I'm aware."
-
-BBT TECH SUPPORT  
-"Stay calm. We're on it."
-
-#### EXT. PACIFIC COAST HIGHWAY - DAY
-
-Rocket follows the pre-set route, but Ren's journey is far from over.
+Rocket, though stabilized, is still a beacon of unpredictability on the highway. The journey is far from over.
 
 ---
