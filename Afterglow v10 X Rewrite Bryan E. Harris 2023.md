@@ -643,7 +643,7 @@ REN
 "Wait, what..."
 
 **BBT TECH SUPPORT:**  
-"We're on it, sir."
+"Remember, you're in good hands. Our Company personally ensures that we're driving the future, together."
 
 **EXT. PACIFIC COAST HIGHWAY - DAY**
 
