@@ -18,7 +18,7 @@ As she speaks, a HOLOGRAPHIC DISPLAY activates, showcasing early designs of huma
 AMY
 "My creation marked a significant leap for BBT. However, my human-likeness raised concerns."
 
-#### FLASHBACK
+#### FLASHBACK TO (4 YEARS EARLIER)
 
 #### INT. BBT TECHNOLOGIES LAB - NIGHT
 
@@ -33,7 +33,7 @@ KAI
 REN, defiant:
 "She's the future."
 
-#### BACK TO PRESENT
+#### FLASHBACK TO (4 YEARS EARLIER)
 
 #### INT. BBT TECHNOLOGIES BOARDROOM - MORNING
 
@@ -51,6 +51,7 @@ JAI
 "Ren's vision, while groundbreaking, challenges societal norms. And today, we make a decision that will shape our company's legacy."
 
 AMY, her voice steady but with an underlying emotion:
+
 "I understand the gravity of this moment. Let's proceed."
 
 #### INT. BBT TECHNOLOGIES CORRIDOR - LATER
@@ -92,6 +93,8 @@ REN's face on the screen cycles through surprise and then settles into disappoin
 REN enters, a stark contrast to the futuristic world outside. He glances at an old, motionless watch on his wrist, then scans aged newspaper clippings on the walls. The room's ambiance hints at past tragedies.
 
 #### CUT TO:
+
+#### 4 YEARS LATER
 
 #### INT. FUTURISTIC LIVING ROOM - DAY
 
