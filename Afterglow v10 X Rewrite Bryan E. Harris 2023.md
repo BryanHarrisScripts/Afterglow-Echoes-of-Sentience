@@ -645,6 +645,12 @@ REN
 **BBT TECH SUPPORT:**  
 "Remember, you're in good hands. Our Company personally ensures that we're driving the future, together."
 
+#### EXT. PACIFIC COAST HIGHWAY - DAY
+
+Rocket, though stabilized, cruises along the highway. Ren, taking a deep breath. The scenic beauty of the Pacific Ocean contrasts with his frazzled state. 
+
+Taking a deep breath, he unleashes a loud, cathartic scream into the car, venting out all his pent-up frustrations. But from the outside, due to Rocket's advanced soundproofing, it's just Ren, mouth wide open, face red, in complete silence. 
+
 **EXT. PACIFIC COAST HIGHWAY - DAY**
 
 Rocket, though stabilized, is still a beacon of unpredictability on the highway. The journey is far from over.
