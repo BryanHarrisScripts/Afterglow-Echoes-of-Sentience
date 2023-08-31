@@ -1,3 +1,5 @@
+### This is RAW and once complete will be moved to Final Draft.
+
 --------------------------------------------
 Afterglow: "ECHOES OF SENTIENCE" 
 --------------------------------------------
