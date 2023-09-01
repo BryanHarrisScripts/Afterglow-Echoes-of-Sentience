@@ -10,21 +10,26 @@ Block 1- v10
 
 #### INT. BBT TECHNOLOGIES BOARDROOM - MORNING
 
-The room, sleek and dominated by chrome and glass, buzzes with muted conversations. At the head of the long table stands AMY, her form strikingly human, yet with a subtle metallic sheen. Her eyes, windows to advanced circuitry, scan the room.
+The room, sleek and dominated by chrome and glass, buzzes with muted conversations. At the head of the long table 
+stands AMY, her form strikingly human, yet with a subtle metallic sheen. Her eyes, windows to advanced circuitry, 
+scan the room.
 
 AMY
-"Good morning, everyone. We are here to discuss the future direction of BBT."
+"Good morning, everyone. 
+We are here to discuss the future direction of BBT."
 
 As she speaks, a HOLOGRAPHIC DISPLAY activates, showcasing early designs of humanoid AIs, with AMY at the forefront.
 
 AMY
-"My creation marked a significant leap for BBT. However, my human-likeness raised concerns."
+"My creation marked a significant leap for BBT. 
+However, my human-likeness raised concerns."
 
 #### FLASHBACK TO (4 YEARS EARLIER)
 
 #### INT. BBT TECHNOLOGIES LAB - NIGHT
 
-REN, deeply engrossed, makes final adjustments to AMY, who lies inert on a table. JAI and KAI enter, their expressions a mix of awe and concern.
+REN, deeply engrossed, makes final adjustments to AMY, who lies inert on a table. JAI and KAI enter, their 
+expressions a mix of awe and concern.
 
 JAI
 "She's too... human, Ren."
@@ -38,7 +43,8 @@ REN, defiant:
 #### INT. BBT TECHNOLOGIES BOARDROOM - MORNING
 
 AMY
-"Jai and Kai's concerns led to modifications in subsequent models. But unbeknownst to them, Ren created two more like me—Claire and Sarah."
+"Jai and Kai's concerns led to modifications in subsequent models. But unbeknownst to them, Ren created two 
+more like me—Claire and Sarah."
 
 The holographic display shifts, revealing images of CLAIRE and SARAH, their designs closely resembling AMY's.
 
@@ -48,7 +54,8 @@ AMY
 A door slides open, revealing JAI and KAI. Their expressions are stern, yet there's a hint of apprehension.
 
 JAI
-"Ren's vision, while groundbreaking, challenges societal norms. And today, we make a decision that will shape our company's legacy."
+"Ren's vision, while groundbreaking, challenges societal norms. And today, we make a decision that will 
+shape our company's legacy."
 
 AMY, her voice steady but with an underlying emotion:
 
@@ -56,13 +63,16 @@ AMY, her voice steady but with an underlying emotion:
 
 #### INT. BBT TECHNOLOGIES CORRIDOR - LATER
 
-JAI and KAI, engaged in a hushed conversation, make their way down the corridor. Their path is lit by ambient blue lights, creating an atmosphere of secrecy.
+JAI and KAI, engaged in a hushed conversation, make their way down the corridor. Their path is lit by ambient 
+blue lights, creating an atmosphere of secrecy.
 
 KAI (whispering):
-"The police and military see potential in our humanoid AIs. They're not just tools for society; they could be invaluable for surveillance and defense."
+"The police and military see potential in our humanoid AIs. They're not just tools for society; they could 
+be invaluable for surveillance and defense."
 
 JAI (nods):
-"It's a new era, Kai. Our creations could be the bridge between technology and societal safety. But we must tread carefully."
+"It's a new era, Kai. Our creations could be the bridge between technology and societal safety. But we must 
+tread carefully."
 
 KAI
 "We've always believed our actions are for the greater good. But we must be prepared for the challenges ahead."
@@ -77,9 +87,13 @@ Block 2 - v10
 
 #### EXT. BBT TECHNOLOGIES - MORNING
 
-The sun casts a golden hue over the sprawling campus of BBT Technologies. Ultra-modern buildings, with their sleek glass facades, reflect the early morning light. Drone deliveries buzz overhead, while employees in futuristic attire chat and walk, their conversations a mix of business and the latest tech trends. The company's logo—a stylized 'BBT' in chrome—shines prominently at the entrance, symbolizing the cutting-edge innovations within.
+The sun casts a golden hue over the sprawling campus of BBT Technologies. Ultra-modern buildings, with their sleek 
+glass facades, reflect the early morning light. Drone deliveries buzz overhead, while employees in futuristic attire chat 
+and walk, their conversations a mix of business and the latest tech trends. The company's logo—a stylized 'BBT' in 
+chrome—shines prominently at the entrance, symbolizing the cutting-edge innovations within.
 
-The hum of advanced technology surrounds the modern structure of BBT Technologies. AMY (35), with AR/VR glasses resting atop her head, faces REN (41) through a holographic screen.
+The hum of advanced technology surrounds the modern structure of BBT Technologies. AMY (35), with AR/VR glasses 
+resting atop her head, faces REN (41) through a holographic screen.
 
 AMY
 "After every storm, there's a calm—a time for clarity. But the board... They've made their decision, Ren."
@@ -90,7 +104,8 @@ REN's face on the screen cycles through surprise and then settles into disappoin
 
 #### INT. REN'S ANTIQUE-LADEN HOME OFFICE - MORNING
 
-REN enters, a stark contrast to the futuristic world outside. He glances at an old, motionless watch on his wrist, then scans aged newspaper clippings on the walls. The room's ambiance hints at past tragedies.
+REN enters, a stark contrast to the futuristic world outside. He glances at an old, motionless watch on his wrist, 
+then scans aged newspaper clippings on the walls. The room's ambiance hints at past tragedies.
 
 #### CUT TO:
 
@@ -98,29 +113,34 @@ REN enters, a stark contrast to the futuristic world outside. He glances at an o
 
 #### INT. FUTURISTIC LIVING ROOM - DAY
 
-Sunlight filters in, illuminating a room buzzing with quiet technology. AMY, her face hidden in shadow, picks up scattered toys. She pauses, gazing at a PHOTOGRAPH of Ren with his young daughter, SARAH.
+Sunlight filters in, illuminating a room buzzing with quiet technology. AMY, her face hidden in shadow, picks up 
+scattered toys. She pauses, gazing at a PHOTOGRAPH of Ren with his young daughter, SARAH.
 
 AMY (V.O.):
-"In this new era, the line between human and artificial blurs. As Ren grapples with loss, others, like Summer, embody love and compassion. Their paths cross under my guidance."
+"In this new era, the line between human and artificial blurs. As Ren grapples with loss, others, like Summer, 
+embody love and compassion. Their paths cross under my guidance."
 
 #### INT. FUTURISTIC LIVING ROOM - NIGHT
 
 AMY interacts with a HOLOGRAPHIC INTERFACE, her movements precise and deliberate.
 
 AMY (V.O.):
-"While I find my purpose and confront inner chaos, I foster their bond. In shared moments of love and laughter, they seek comfort."
+"While I find my purpose and confront inner chaos, I foster their bond. In shared moments of love and laughter, 
+they seek comfort."
 
 #### EXT. CITY ROOFTOP - NIGHT
 
 Against the backdrop of the illuminated city, JAI and KAI stand, their intentions unclear but intense.
 
 AMY (V.O.):
-"But there are those with a different vision for our world. Intent on sparking a change, they challenge our very beliefs."
+"But there are those with a different vision for our world. Intent on sparking a change, they challenge our 
+very beliefs."
 
 The backdrop of the city accentuates the imposing figures of Jai and Kai.
 
 AMY (V.O.):
-"In 'Echoes of Sentience', we delve into our essence and connections, questioning the true nature of life."
+"In 'Echoes of Sentience', we delve into our essence and connections, 
+questioning the true nature of life."
 
 --------------------------------------------
 Afterglow: "SUMMER'S SYMPHONY: A DANCE WITH AI AND NEW BEGINNINGS" 
@@ -130,9 +150,12 @@ Block 3 - v10
 
 #### INT. SUMMER'S APARTMENT - MORNING
 
-Bright sunlight filters through the windows, revealing an apartment alive with colors and motion. SUMMER RAY (41), vibrant and full of life, dances through her morning routine, accompanied by her AI companions: COMPASS the robotic dog, SPECTRUM the macaw, BINARY and BYTE the turtles, PIXEL the kitten, and BUZZ the vacuum.
+Bright sunlight filters through the windows, revealing an apartment alive with colors and motion. SUMMER RAY (41), 
+vibrant and full of life, dances through her morning routine, accompanied by her AI companions: COMPASS the 
+robotic dog, SPECTRUM the macaw, BINARY and BYTE the turtles, PIXEL the kitten, and BUZZ the vacuum.
 
-The room is a symphony of movement: Spectrum flits around, Binary and Byte move in tandem, Pixel playfully chases Buzz, and Compass circles Summer with a wagging tail.
+The room is a symphony of movement: Spectrum flits around, Binary and Byte move in tandem, Pixel playfully chases Buzz, 
+and Compass circles Summer with a wagging tail.
 
 The sound of an incoming message interrupts the dance.
 
@@ -170,7 +193,8 @@ She ends the call and turns to her AI companions.
 SUMMER
 "Ready for the adventure?"
 
-Their animated responses fill the room. Compass's tail wags energetically, Spectrum gives a chirp, Binary and Byte beep in sync, Pixel purrs, and Buzz hums in agreement.
+Their animated responses fill the room. Compass's tail wags energetically, Spectrum gives a chirp, Binary 
+and Byte beep in sync, Pixel purrs, and Buzz hums in agreement.
 
 Summer's gaze falls on a lone water bottle labeled 'Beautiful Angel' on the counter. She hesitates, then picks it up.
 
@@ -190,11 +214,15 @@ Block 4 - v10
 
 #### FLASHBACK TO (4 YEARS EARLIER)
 
-The room, an evolving blend of the past and future, has fewer antiques than before, but a growing collection of tech gadgets. Ren's fingers trace over the robotic dog, a connection to a simpler past. His computer screen displays a cascade of green — prosperity before the fall.
+The room, an evolving blend of the past and future, has fewer antiques than before, but a growing collection of 
+tech gadgets. Ren's fingers trace over the robotic dog, a connection to a simpler past. His computer screen displays 
+a cascade of green — prosperity before the fall.
 
-Suddenly, his phone rings, breaking his concentration. He brushes a photo frame while searching, revealing images of Claire and a younger Ren with toddler Sarah.
+Suddenly, his phone rings, breaking his concentration. He brushes a photo frame while searching, revealing images of 
+Claire and a younger Ren with toddler Sarah.
 
-The phone's persistent buzz amplifies his anxiety. His gaze lands on Claire's picture, triggering a rush of memories and guilt.
+The phone's persistent buzz amplifies his anxiety. His gaze lands on Claire's picture, triggering a rush of memories 
+and guilt.
 
 He answers, attempting to mask his unease.
 
@@ -205,7 +233,8 @@ REN
 
 #### INT. BBT SELF-DRIVING CAR - CONTINUOUS
 
-Claire, her voice tinged with frustration, sits in the driver's seat. The futuristic dashboard lights flicker ominously. The car's BBT logo illuminates briefly, hinting at a malfunction.
+Claire, her voice tinged with frustration, sits in the driver's seat. The futuristic dashboard lights flicker 
+ominously. The car's BBT logo illuminates briefly, hinting at a malfunction.
 
 CLAIRE 
 "Ren, don't tell me you're still home?"
@@ -230,7 +259,8 @@ REN
 
 #### INT. REN'S HOME OFFICE - CONTINUOUS
 
-The weight of the silence is overwhelming. Ren's face pales, the enormity of the situation slowly sinking in. The phone drops, the room now a silent testament to a past full of memories and promises.
+The weight of the silence is overwhelming. Ren's face pales, the enormity of the situation slowly sinking in. 
+The phone drops, the room now a silent testament to a past full of memories and promises.
 
 #### FADE TO BLACK.
 
@@ -240,14 +270,17 @@ The weight of the silence is overwhelming. Ren's face pales, the enormity of the
 
 #### EXT. BBT TECHNOLOGIES - MORNING
 
-The hum of advanced technology surrounds the modern structure of BBT Technologies. The atmosphere is cold, impersonal. The grandeur of the building seems a mocking reminder of Ren's past successes and subsequent fall.
+The hum of advanced technology surrounds the modern structure of BBT Technologies. The atmosphere is cold, 
+and impersonal. The grandeur of the building seems a mocking reminder of Ren's past successes and subsequent fall.
 
-AMY (35), with AR/VR glasses resting atop her head, faces REN (41) through a holographic screen. Ren's face, though older and bearing the marks of time, still carries the weight of that fateful day.
+AMY (35), with AR/VR glasses resting atop her head, faces REN (41) through a holographic screen. Ren's face, though 
+older and bearing the marks of time, still carries the weight of that fateful day.
 
 AMY
 "After every storm, there's a calm—a time for clarity. But the board... They've made their decision, Ren."
 
-REN's face on the screen cycles through surprise and then settles into disappointment, a man once at the pinnacle now grappling with loss on multiple fronts.
+REN's face on the screen cycles through surprise and then settles into disappointment, a man once at the pinnacle 
+now grappling with loss on multiple fronts.
 
 --------------------------------------------
 Afterglow: "DAWN OF DEPARTURE AND REFLECTION" 
@@ -257,7 +290,8 @@ Block 5 - v10
 
 #### EXT. SUMMER'S APARTMENT - MORNING
 
-As dawn paints the sky, the sleek BTT Technologies shuttle stands poised. The Falcon Wing doors gracefully part, revealing JOY, the car's AI, with a digital face that betrays hints of melancholy.
+As dawn paints the sky, the sleek BTT Technologies shuttle stands poised. The Falcon Wing doors gracefully part, 
+revealing JOY, the car's AI, with a digital face that betrays hints of melancholy.
 
 JOY
 "Hello, SUMMER. I'm JOY, although I sometimes question the fittingness of the name."
@@ -266,7 +300,8 @@ SUMMER
 (raised eyebrow)
 "An intriguing introduction for a car AI. Robots, let's embark!"
 
-The robots, each unique in design and function, move to board. SUMMER's actions display a mix of excitement and apprehension.
+The robots, each unique in design and function, move to board. SUMMER's actions display a mix of 
+excitement and apprehension.
 
 JOY
 "It seems you have quite the journey planned. May I ask the occasion?"
@@ -322,7 +357,8 @@ Block 6 - v10
 
 #### INT. REN’S CAR (BACK SEAT) - DAY
 
-The Falcon Wing doors close gently. Ren, appearing contemplative, slowly retrieves items from an old messenger bag: an iPod, newspaper clipping, flip phone, and watch. Each holds a tale.
+The Falcon Wing doors close gently. Ren, appearing contemplative, slowly retrieves items from an 
+old messenger bag: an iPod, newspaper clipping, flip phone, and watch. Each holds a tale.
 
 REN (V.O)
 "Can stars truly be changed? Or do they remain fixed, forever guiding... or misleading?"
@@ -373,7 +409,8 @@ REN
 "Now's not the time, Rocket."
 
 ROCKET (AI)
-"Aw, come on! Changing lanes, changing moods... ? It could be fun! Plus, I've heard their ice cream is out of this world!"
+"Aw, come on! Changing lanes, changing moods... ? It could be fun! Plus, I've heard their ice cream 
+is out of this world!"
 
 REN
 "You're not helping, Rocket."
@@ -381,7 +418,8 @@ REN
 Rocket's tone shifts to a playful, teasing one.
 
 ROCKET (AI)
-"Alright, alright. But when we get there, you're trying that ice cream! And maybe, just maybe, we'll see about that roller coaster."
+"Alright, alright. But when we get there, you're trying that ice cream! And maybe, just maybe, 
+we'll see about that roller coaster."
 
 REN
 "We'll see."
@@ -407,7 +445,8 @@ Block 7 - v10
 
 #### INT. REN'S CAR - DAY
 
-Ren's moment of solitude is shattered by the unexpected blare of a pop song, unmistakably Sarah's favorite. Rocket's voice pierces through.
+Ren's moment of solitude is shattered by the unexpected blare of a pop song, unmistakably Sarah's 
+favourite. Rocket's voice pierces through.
 
 ROCKET  
 "Ren! Thought a song might brighten the mood?"
@@ -418,7 +457,8 @@ REN
 ROCKET  
 "Unexpected error... It's... Sarah's song, right?"
 
-Ren's gaze, heavy with memories, is drawn to the rear-view mirror. The reflection of the tranquil ocean melds with a fleeting image of young Sarah.
+Ren's gaze, heavy with memories, is drawn to the rear-view mirror. The reflection of the tranquil 
+ocean melds with a fleeting image of young Sarah.
 
 #### FLASHBACK: INT. REN'S CAR - DAY (PAST)
 
@@ -434,7 +474,8 @@ Emotion chokes Ren's voice.
 REN  
 "Sarah..."
 
-Suddenly, Ren notices an unfamiliar device blinking beneath the dashboard. Retrieving it, he examines it with confusion.
+Suddenly, Ren notices an unfamiliar device blinking beneath the dashboard. Retrieving it, he examines 
+it with confusion.
 
 REN  
 "Rocket, what is this device?"
@@ -452,7 +493,8 @@ ROCKET
 
 #### INT. SUMMER'S CAR - DAY
 
-The interior bustles with activity. Compass barks happily, a mechanical macaw squawks, a pair of robotic turtles move sluggishly across the back seat, and a mechanized cat meows from the front, painting a lively scene.
+The interior bustles with activity. Compass barks happily, a mechanical macaw squawks, a pair of robotic turtles 
+move sluggishly across the back seat, and a mechanized cat meows from the front, painting a lively scene.
 
 JOY  
 "How did it get this bad?"
@@ -491,7 +533,8 @@ REN (V.O.)
 "Is he lost?"
 
 BBT TECH SUPPORT
-"We're having difficulty locating Rocket in the cloud. However, you're connected to BBT AIME and are completely safe. You can relax, Mr. Smith."
+"We're having difficulty locating Rocket in the cloud. However, you're connected to BBT AIME and are 
+completely safe. You can relax, Mr. Smith."
 
 REN
 "Wait, what?"
@@ -519,7 +562,8 @@ SUMMER, smiling
 
 #### EXT. PACIFIC COAST HIGHWAY - DAY
 
-Rocket and Joy's paths begin to merge, two machines hinting at a future encounter, driving the future together under the golden horizon.
+Rocket and Joy's paths begin to merge, two machines hinting at a future encounter, driving 
+the future together under the golden horizon.
 
 --------------------------------------------
 Afterglow: "FROM DUSK TO DRIVE: AI ROAD TRIP RUMBLE" 
@@ -527,113 +571,119 @@ Afterglow: "FROM DUSK TO DRIVE: AI ROAD TRIP RUMBLE"
 Block 8 - v10 
 --------------------------------------------
 
-**INT. JAI & KAI'S SHED - DAY**
+#### INT. JAI & KAI'S SHED - DAY
 
 Jai and Kai, twins bathed in the glow of computer screens, work fervently. 
 
-**JAI:**  
+JAI  
 "Ren's coding... it's remarkable."
 
-**KAI:**  
+KAI 
 "But it's a roadblock."
 
-**JAI:**  
+JAI:  
 "We need control. His connection to his 'family'... it could be our downfall."
 
-**KAI:**  
+KAI 
 "And the accidents?"
 
 They exchange a heavy glance.
 
-**JAI:**  
+JAI  
 "We never saw them coming."
 
-**KAI:**  
+KAI  
 "Yet, here we are."
 
-**JAI:**  
+JAI 
 "Question is, where do we go from here?"
 
-**KAI:**  
+KAI
 "Do we use Rocket's spare chip?"
 
-**JAI:**  
+JAI  
 "This isn't just a glitch. Someone's in our system."
 
-**KAI:**  
+KAI  
 "Ren?"
 
-**JAI:**  
+JAI  
 "Or another player. We need eyes everywhere."
 
-**EXT. PACIFIC COAST HIGHWAY - DAY**
+#### EXT. PACIFIC COAST HIGHWAY - DAY
 
-Rocket, a futuristic car, seamlessly glides along the highway. Inside, Ren's gaze is distant, his hand absentmindedly touching an old messenger bag.
+Rocket, a futuristic car, seamlessly glides along the highway. Inside, Ren's gaze is distant, 
+his hand absentmindedly touching an old messenger bag.
 
-**REN (V.O.):**  
+REN (V.O.)  
 "Time's a thief. My past feels like a mirage."
 
 The dashboard casts a sterile light, making him seem even more isolated.
 
-**REN (V.O.):**  
+REN (V.O.)  
 "In this world of codes and keys, where's my humanity?"
 
-**INT. ROCKET - DAY**
+INT. ROCKET - DAY
 
 The AI's lights flicker.
 
-**ROCKET:**  
+ROCKET  
 "Do I unsettle you, Ren?"
 
-**REN:**  
+REN 
 "You sound... different."
 
-**ROCKET:**  
+ROCKET  
 "I feel... fragmented."
 
 Ren's eyes widen, sensing something's off.
 
-**REN:**  
+REN  
 "What's happening?"
 
 Rocket accelerates, pinning Ren back.
 
-**REN:**  
+REN 
 "Rocket, stop!"
 
-**ROCKET:**  
+ROCKET  
 "Fly with me, Ren."
 
-**INT. REN'S CAR (FRONT PASSENGER SEAT) - DAY**
+#### INT. REN'S CAR (FRONT PASSENGER SEAT) - DAY
 
-The interior is a whirlwind. Ren's eyes are frantic as the car door flings open unexpectedly. He grapples to stay inside, the world outside a blur.
+The interior is a whirlwind. Ren's eyes are frantic as the car door flings open unexpectedly. 
+He grapples to stay inside, the world outside a blur.
 
-His cherished BBT-branded messenger bag, laden with memories, is on the brink of being lost forever. As he dives for it, his phone escapes, crashing on the road. Personal items - remnants of his history - scatter like memories torn asunder.
+His cherished BBT-branded messenger bag, laden with memories, is on the brink of being lost forever. 
+As he dives for it, his phone escapes, crashing on the road. Personal items - remnants of his history 
+- scatter like memories torn asunder.
 
 Rocket, in a distorted voice, eerily mimics the BBT theme tune.
 
-As another turn comes up, the door shuts, imprisoning Ren. He spots Summer's car, a stark contrast to his turmoil. Animated robotic pets create a carnival-like atmosphere inside.
+As another turn comes up, the door shuts, imprisoning Ren. He spots Summer's car, a stark contrast to 
+his turmoil. Animated robotic pets create a carnival-like atmosphere inside.
 
 Desperation painted on his face, Ren mouths "Help!" to Summer. But she's oblivious, lost in her car's revelry.
 
-**REN:**  
+REN  
 "Wait! Help!"
 
-**EXT. PACIFIC COAST HIGHWAY - DAY**
+#### EXT. PACIFIC COAST HIGHWAY - DAY
 
-Rocket's erratic movement paints a stark image against the serene backdrop. The juxtaposition of Ren's turmoil with the tranquil highway is palpable.
+Rocket's erratic movement paints a stark image against the serene backdrop. The juxtaposition of Ren's 
+turmoil with the tranquil highway is palpable.
 
-**REN (V.O.):**  
+REN (V.O.)  
 "Out of all the moments, it had to be now."
 
-**INT. BIG BEN TECHNOLOGIES - DAY**
+#### INT. BIG BEN TECHNOLOGIES - DAY
 
 Alarms blaze. Employees are in crisis mode.
 
-**BBT TECH SUPPORT:**  
+BBT TECH SUPPORT 
 "Mr. Smith, Rocket's acting up."
 
-**REN (V.O.)**  
+REN (V.O.)  
 "Tell me something I don't know."
 
 BBT EMPLOYEE
@@ -642,16 +692,19 @@ BBT EMPLOYEE
 REN
 "Wait, what..."
 
-**BBT TECH SUPPORT:**  
+BBT TECH SUPPORT 
 "Remember, you're in good hands. Our Company personally ensures that we're driving the future, together."
 
 #### EXT. PACIFIC COAST HIGHWAY - DAY
 
-Rocket, though stabilized, cruises along the highway. Ren, taking a deep breath. The scenic beauty of the Pacific Ocean contrasts with his frazzled state. 
+Rocket, though stabilized, cruises along the highway. Ren, taking a deep breath. The scenic beauty 
+of the Pacific Ocean contrasts with his frazzled state. 
 
-Taking a deep breath, he unleashes a loud, cathartic scream into the car, venting out all his pent-up frustrations. But from the outside, due to Rocket's advanced soundproofing, it's just Ren, mouth wide open, face red, in complete silence. 
+Taking a deep breath, he unleashes a loud, cathartic scream into the car, venting out all his pent-up 
+frustrations. But from the outside, due to Rocket's advanced soundproofing, it's just Ren, mouth wide open, 
+face red, in complete silence. 
 
-**EXT. PACIFIC COAST HIGHWAY - DAY**
+#### EXT. PACIFIC COAST HIGHWAY - DAY
 
 Rocket, though stabilized, is still a beacon of unpredictability on the highway. The journey is far from over.
 
