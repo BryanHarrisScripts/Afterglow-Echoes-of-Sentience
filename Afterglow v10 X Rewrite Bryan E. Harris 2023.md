@@ -10,72 +10,72 @@ Block 1- v10
 
 #### INT. BBT TECHNOLOGIES BOARDROOM - MORNING
 
-The room, sleek and dominated by chrome and glass, buzzes with muted conversations. At the head of the long table 
-stands AMY, her form strikingly human, yet with a subtle metallic sheen. Her eyes, windows to advanced circuitry, 
-scan the room.
+The room, sleek and dominated by chrome and glass, buzzes with muted conversations. At the head of the long table<br> 
+stands AMY, her form strikingly human, yet with a subtle metallic sheen. Her eyes, windows to advanced circuitry,<br> 
+scan the room.<br>
 
-AMY
-"Good morning, everyone. 
-We are here to discuss the future direction of BBT."
+AMY<br>
+"Good morning, everyone.<br>
+We are here to discuss the future direction of BBT."<br>
 
-As she speaks, a HOLOGRAPHIC DISPLAY activates, showcasing early designs of humanoid AIs, with AMY at the forefront.
+As she speaks, a HOLOGRAPHIC DISPLAY activates, showcasing early designs of humanoid AIs, with AMY at the forefront.<br>
 
-AMY
-"My creation marked a significant leap for BBT. 
-However, my human-likeness raised concerns."
+AMY<br>
+"My creation marked a significant leap for BBT.<br>
+However, my human-likeness raised concerns."<br>
 
 #### FLASHBACK TO (4 YEARS EARLIER)
 
 #### INT. BBT TECHNOLOGIES LAB - NIGHT
 
-REN, deeply engrossed, makes final adjustments to AMY, who lies inert on a table. JAI and KAI enter, their 
-expressions a mix of awe and concern.
+REN, deeply engrossed, makes final adjustments to AMY, who lies inert on a table. JAI and KAI enter, their<br> 
+expressions a mix of awe and concern.<br>
 
-JAI
-"She's too... human, Ren."
+JAI<br>
+"She's too... human, Ren."<br>
 
-KAI
-"People won't accept this. It's too soon."
+KAI<br>
+"People won't accept this. It's too soon."<br>
 
-REN, defiant:
-"She's the future."
+REN, defiant:<br>
+"She's the future."<br>
 
 #### INT. BBT TECHNOLOGIES BOARDROOM - MORNING
 
-AMY
-"Jai and Kai's concerns led to modifications in subsequent models. But unbeknownst to them, Ren created two 
-more like me—Claire and Sarah."
+AMY<br>
+"Jai and Kai's concerns led to modifications in subsequent models. But unbeknownst to them, Ren created two<br>
+more like me—Claire and Sarah."<br>
 
-The holographic display shifts, revealing images of CLAIRE and SARAH, their designs closely resembling AMY's.
+The holographic display shifts, revealing images of CLAIRE and SARAH, their designs closely resembling AMY's.<br>
 
-AMY
-"Today's decision, however, carries weight beyond business strategy. It's a pivotal moment, for me and BBT."
+AMY<br>
+"Today's decision, however, carries weight beyond business strategy. It's a pivotal moment, for me and BBT."<br>
 
-A door slides open, revealing JAI and KAI. Their expressions are stern, yet there's a hint of apprehension.
+A door slides open, revealing JAI and KAI. Their expressions are stern, yet there's a hint of apprehension.<br>
 
-JAI
-"Ren's vision, while groundbreaking, challenges societal norms. And today, we make a decision that will 
-shape our company's legacy."
+JAI<br>
+"Ren's vision, while groundbreaking, challenges societal norms. And today, we make a decision that will<br> 
+shape our company's legacy."<br>
 
-AMY, her voice steady but with an underlying emotion:
+AMY, her voice steady but with an underlying emotion:<br>
 
-"I understand the gravity of this moment. Let's proceed."
+"I understand the gravity of this moment. Let's proceed."<br>
 
 #### INT. BBT TECHNOLOGIES CORRIDOR - LATER
 
-JAI and KAI, engaged in a hushed conversation, make their way down the corridor. Their path is lit by ambient 
-blue lights, creating an atmosphere of secrecy.
+JAI and KAI, engaged in a hushed conversation, make their way down the corridor. Their path is lit by ambient<br> 
+blue lights, creating an atmosphere of secrecy.<br>
 
-KAI (whispering):
-"The police and military see potential in our humanoid AIs. They're not just tools for society; they could 
-be invaluable for surveillance and defense."
+KAI (whispering):<br>
+"The police and military see potential in our humanoid AIs. They're not just tools for society; they could<br> 
+be invaluable for surveillance and defense."<br>
 
-JAI (nods):
-"It's a new era, Kai. Our creations could be the bridge between technology and societal safety. But we must 
-tread carefully."
+JAI (nods):<br>
+"It's a new era, Kai. Our creations could be the bridge between technology and societal safety. But we must<br> 
+tread carefully."<br>
 
-KAI
-"We've always believed our actions are for the greater good. But we must be prepared for the challenges ahead."
+KAI<br>
+"We've always believed our actions are for the greater good. But we must be prepared for the challenges ahead."<br>
 
 --------------------------------------------
 Afterglow: "PUPPETS AND PUPPETEERS" 
@@ -87,16 +87,16 @@ Block 2 - v10
 
 #### EXT. BBT TECHNOLOGIES - MORNING
 
-The sun casts a golden hue over the sprawling campus of BBT Technologies. Ultra-modern buildings, with their sleek 
-glass facades, reflect the early morning light. Drone deliveries buzz overhead, while employees in futuristic attire chat 
-and walk, their conversations a mix of business and the latest tech trends. The company's logo—a stylized 'BBT' in 
-chrome—shines prominently at the entrance, symbolizing the cutting-edge innovations within.
+The sun casts a golden hue over the sprawling campus of BBT Technologies. Ultra-modern buildings, with their sleek<br> 
+glass facades, reflect the early morning light. Drone deliveries buzz overhead, while employees in futuristic attire chat<br> 
+and walk, their conversations a mix of business and the latest tech trends. The company's logo—a stylized 'BBT' in<br> 
+chrome—shines prominently at the entrance, symbolizing the cutting-edge innovations within.<br>
 
-The hum of advanced technology surrounds the modern structure of BBT Technologies. AMY (35), with AR/VR glasses 
-resting atop her head, faces REN (41) through a holographic screen.
+The hum of advanced technology surrounds the modern structure of BBT Technologies. AMY (35), with AR/VR glasses<br> 
+resting atop her head, faces REN (41) through a holographic screen.<br>
 
-AMY
-"After every storm, there's a calm—a time for clarity. But the board... They've made their decision, Ren."
+AMY<br>
+"After every storm, there's a calm—a time for clarity. But the board... They've made their decision, Ren."<br>
 
 REN's face on the screen cycles through surprise and then settles into disappointment.
 
@@ -104,8 +104,8 @@ REN's face on the screen cycles through surprise and then settles into disappoin
 
 #### INT. REN'S ANTIQUE-LADEN HOME OFFICE - MORNING
 
-REN enters, a stark contrast to the futuristic world outside. He glances at an old, motionless watch on his wrist, 
-then scans aged newspaper clippings on the walls. The room's ambiance hints at past tragedies.
+REN enters, a stark contrast to the futuristic world outside. He glances at an old, motionless watch on his wrist,<br>
+then scans aged newspaper clippings on the walls. The room's ambiance hints at past tragedies.<br>
 
 #### CUT TO:
 
@@ -113,34 +113,34 @@ then scans aged newspaper clippings on the walls. The room's ambiance hints at p
 
 #### INT. FUTURISTIC LIVING ROOM - DAY
 
-Sunlight filters in, illuminating a room buzzing with quiet technology. AMY, her face hidden in shadow, picks up 
-scattered toys. She pauses, gazing at a PHOTOGRAPH of Ren with his young daughter, SARAH.
+Sunlight filters in, illuminating a room buzzing with quiet technology. AMY, her face hidden in shadow, picks up<br> 
+scattered toys. She pauses, gazing at a PHOTOGRAPH of Ren with his young daughter, SARAH.<br>
 
-AMY (V.O.):
-"In this new era, the line between human and artificial blurs. As Ren grapples with loss, others, like Summer, 
-embody love and compassion. Their paths cross under my guidance."
+AMY (V.O.):<br>
+"In this new era, the line between human and artificial blurs. As Ren grapples with loss, others, like Summer,<br> 
+embody love and compassion. Their paths cross under my guidance."<br>
 
 #### INT. FUTURISTIC LIVING ROOM - NIGHT
 
 AMY interacts with a HOLOGRAPHIC INTERFACE, her movements precise and deliberate.
 
-AMY (V.O.):
-"While I find my purpose and confront inner chaos, I foster their bond. In shared moments of love and laughter, 
-they seek comfort."
+AMY (V.O.):<br>
+"While I find my purpose and confront inner chaos, I foster their bond. In shared moments of love and laughter,<br> 
+they seek comfort."<br>
 
 #### EXT. CITY ROOFTOP - NIGHT
 
 Against the backdrop of the illuminated city, JAI and KAI stand, their intentions unclear but intense.
 
-AMY (V.O.):
-"But there are those with a different vision for our world. Intent on sparking a change, they challenge our 
-very beliefs."
+AMY (V.O.):<br>
+"But there are those with a different vision for our world. Intent on sparking a change, they challenge our<br> 
+very beliefs."<br>
 
 The backdrop of the city accentuates the imposing figures of Jai and Kai.
 
-AMY (V.O.):
-"In 'Echoes of Sentience', we delve into our essence and connections, 
-questioning the true nature of life."
+AMY (V.O.):<br>
+"In 'Echoes of Sentience', we delve into our essence and connections,<br> 
+questioning the true nature of life."<br>
 
 --------------------------------------------
 Afterglow: "SUMMER'S SYMPHONY: A DANCE WITH AI AND NEW BEGINNINGS" 
@@ -150,57 +150,57 @@ Block 3 - v10
 
 #### INT. SUMMER'S APARTMENT - MORNING
 
-Bright sunlight filters through the windows, revealing an apartment alive with colors and motion. SUMMER RAY (41), 
-vibrant and full of life, dances through her morning routine, accompanied by her AI companions: COMPASS the 
-robotic dog, SPECTRUM the macaw, BINARY and BYTE the turtles, PIXEL the kitten, and BUZZ the vacuum.
+Bright sunlight filters through the windows, revealing an apartment alive with colors and motion. SUMMER RAY (41),<br>
+vibrant and full of life, dances through her morning routine, accompanied by her AI companions: COMPASS the<br> 
+robotic dog, SPECTRUM the macaw, BINARY and BYTE the turtles, PIXEL the kitten, and BUZZ the vacuum.<br>
 
-The room is a symphony of movement: Spectrum flits around, Binary and Byte move in tandem, Pixel playfully chases Buzz, 
-and Compass circles Summer with a wagging tail.
+The room is a symphony of movement: Spectrum flits around, Binary and Byte move in tandem, Pixel playfully chases Buzz,<br> 
+and Compass circles Summer with a wagging tail.<br>
 
 The sound of an incoming message interrupts the dance.
 
-MESSAGE
-"Your car arrives in 10 minutes."
+MESSAGE<br>
+"Your car arrives in 10 minutes."<br>
 
 Summer takes a deep breath, tapping her phone to dial.
 
-SUMMER
-"Mom, today's the day."
+SUMMER<br>
+"Mom, today's the day."<br>
 
-MOM
-(voice quivering)  
-"I hoped you'd reconsider."
+MOM<br>
+(voice quivering)<br>  
+"I hoped you'd reconsider."<br>
 
-SUMMER
-"I love you, but I need this journey. To rediscover myself."
+SUMMER<br>
+"I love you, but I need this journey. To rediscover myself."<br>
 
-MOM
-"Without your roots? Your history?"
+MOM<br>
+"Without your roots? Your history?"<br>
 
 Summer looks to her AI family.
 
-SUMMER
-"They come with me. We'll explore new horizons together. Maybe they'll learn... just as I hope to."
+SUMMER<br>
+"They come with me. We'll explore new horizons together. Maybe they'll learn... just as I hope to."<br>
 
-MOM
-"Just remember who you are, Summer."
+MOM<br>
+"Just remember who you are, Summer."<br>
 
-SUMMER
-"Every step I take is a part of that discovery. Trust me."
+SUMMER<br>
+"Every step I take is a part of that discovery. Trust me."<br>
 
 She ends the call and turns to her AI companions.
 
-SUMMER
-"Ready for the adventure?"
+SUMMER<br>
+"Ready for the adventure?"<br>
 
-Their animated responses fill the room. Compass's tail wags energetically, Spectrum gives a chirp, Binary 
-and Byte beep in sync, Pixel purrs, and Buzz hums in agreement.
+Their animated responses fill the room. Compass's tail wags energetically, Spectrum gives a chirp, Binary<br> 
+and Byte beep in sync, Pixel purrs, and Buzz hums in agreement.<br>
 
 Summer's gaze falls on a lone water bottle labeled 'Beautiful Angel' on the counter. She hesitates, then picks it up.
 
-SUMMER
-(to Buzz)  
-"Let's bring a piece of home with us."
+SUMMER<br>
+(to Buzz)<br> 
+"Let's bring a piece of home with us."<br>
 
 Clutching the bottle, with her AI family in tow, Summer confidently strides to the door, ready to embrace the unknown.
 
@@ -214,46 +214,46 @@ Block 4 - v10
 
 #### FLASHBACK TO (4 YEARS EARLIER)
 
-The room, an evolving blend of the past and future, has fewer antiques than before, but a growing collection of 
-tech gadgets. Ren's fingers trace over the robotic dog, a connection to a simpler past. His computer screen displays 
-a cascade of green — prosperity before the fall.
+The room, an evolving blend of the past and future, has fewer antiques than before, but a growing collection of<br> 
+tech gadgets. Ren's fingers trace over the robotic dog, a connection to a simpler past. His computer screen displays<br> 
+a cascade of green — prosperity before the fall.<br>
 
-Suddenly, his phone rings, breaking his concentration. He brushes a photo frame while searching, revealing images of 
-Claire and a younger Ren with toddler Sarah.
+Suddenly, his phone rings, breaking his concentration. He brushes a photo frame while searching, revealing images of<br> 
+Claire and a younger Ren with toddler Sarah.<br>
 
-The phone's persistent buzz amplifies his anxiety. His gaze lands on Claire's picture, triggering a rush of memories 
+The phone's persistent buzz amplifies his anxiety. His gaze lands on Claire's picture, triggering a rush of memories<br> 
 and guilt.
 
 He answers, attempting to mask his unease.
 
-REN 
-"Claire?"
+REN<br> 
+"Claire?"<br>
 
 #### CUT TO:
 
 #### INT. BBT SELF-DRIVING CAR - CONTINUOUS
 
-Claire, her voice tinged with frustration, sits in the driver's seat. The futuristic dashboard lights flicker 
+Claire, her voice tinged with frustration, sits in the driver's seat. The futuristic dashboard lights flicker<br> 
 ominously. The car's BBT logo illuminates briefly, hinting at a malfunction.
 
-CLAIRE 
-"Ren, don't tell me you're still home?"
+CLAIRE<br>
+"Ren, don't tell me you're still home?"<br>
 
 In the backseat, a younger Sarah disconnects momentarily from her AR/VR headset.
 
-SARAH
-"Dad, you promised my music when you come down."
+SARAH<br>
+"Dad, you promised my music when you come down."<br>
 
 Claire's frustration grows. She tries to manually override the car's controls, her grip on the phone faltering.
 
-CLAIRE
-(hurried, concerned)
-"Ren, did you remember our meeting? You promised you'd be here."
+CLAIRE<br>
+(hurried, concerned)<br>
+"Ren, did you remember our meeting? You promised you'd be here."<br>
 
 Before Ren can respond, a horrific crash sound interrupts, followed by deafening silence.
 
-REN
-"Claire?!"
+REN<br>
+"Claire?!"<br>
 
 #### CUT BACK TO:
 
