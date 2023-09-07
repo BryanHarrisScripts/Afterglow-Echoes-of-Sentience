@@ -9,7 +9,7 @@
   
 <a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/discussions">Discussions</a> | <a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/Afterglow/README.md">Afterglow Menu</a> | <a href="https://docs.github.com/en/site-policy/github-terms/github-community-guidelines">Guidelines</a> | <a href="https://twitter.com/i/communities/1669222125591318528">CommunityX</a> | <a href="https://twitter.com/i/lists/1675490119095140352">ListX</a> | <a href="https://twitter.com/BryanRebooted" target="_blank">X</a> <br>
 
-<a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20v10%20X%20Rewrite%20Bryan%20E.%20Harris%202023.pdf">👉🏼 Afterglow v10: Working Through The Edit! </a><br><br>
+<a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20v10%20X%20Rewrite%20Bryan%20E.%20Harris%202023.pdf">🟡 Afterglow v10: Working Through The Edit! </a><br><br>
 
 </div>
 
@@ -17,34 +17,32 @@
   
   <table>
     <tr>
-        <td valign="top">
-            <h4>Read First: ☕️</h4>
-            <ol start="1">
-                <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Experiment%20Learnings.md">👉🏼 Why Innovate?</a></li>
-              <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/OpenSource/Open Source Collaboration.md">👉🏼 Why Open-source?</a></li>
-                <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/OpenSource/1%20Million%20Voices.md">👉🏼 Why Open Collaboration?</a></li>
-            </ol>
-            <h4>Collaboration:</h4>
-            <ol start="1">
-                <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/Afterglow/README.md">👉🏼 Afterglow - Menu**</a></li>
-                <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/Collaborators/README.md">Collaborators Guide**</a></li>   
-                <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/Blog/README.md">Blogs - How To's & Info</a></li>
-                <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/Images">Images - Images Used**</a></li>
-              <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/tree/main/">🌳 Github Tree</a></li>
-            </ol>
-        </td> 
+       <td valign="top">
+    <h4>Read First: ☕️</h4>
+    <a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Experiment%20Learnings.md">🟡 Why Innovate?</a><br>
+    <a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/OpenSource/Open Source Collaboration.md">🟡 Why Open-source?</a><br>
+    <a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/OpenSource/1%20Million%20Voices.md">🟡 Why Open Collaboration?</a><br>
+    <h4>Collaboration:</h4>
+    <div>&nbsp;&nbsp;<a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/Afterglow/README.md">🟡 Afterglow - Menu</a></div>
+    <ol start="1">
+        <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/Collaborators/README.md">Collaborators Guide</a></li>   
+        <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/Blog/README.md">Blogs - How To's & Info</a></li>
+        <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/Images">Images - Images Used</a></li>
+        <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/tree/main/">Github Tree</a></li>
+    </ol>
+</td>
     <td valign="top">
       <h4>This Page:</h4>
       <ol start="1">
         <li><a href="#a-new-way">A New Way?</a></li>
         <li><a href="#welcome-to-the-afterglow-journey">Welcome to the 'Afterglow' Journey</a></li>
         <li><a href="#about-afterglow-echoes-of-sentience">About 'Afterglow: Echoes of Sentience'</a></li>
-        <li><a href="#afterglow-files">👉🏼 'Afterglow' Script Files v8, v9</a></li>
+        <li><a href="#afterglow-files">'Afterglow' Script Files v8, v9</a></li>
         <li><a href="#the-unseen-editor">The Unseen Editor</a></li>
         <li><a href="#ai-in-screenwriting-a-new-tool-not-a-co-author">AI in Screenwriting</a></li>
         <li><a href="#ai-in-creativity-a-disclaimer">AI in Creativity: A Disclaimer</a></li>  
-        <li><a href="#licensing-and-attribution">👉🏼 Licensing and Attribution</a></li>  
-        <li><a href="#understanding-copyright">👉🏼 Copyright vs Open Source</a></li>   
+        <li><a href="#licensing-and-attribution">Licensing and Attribution</a></li>  
+        <li><a href="#understanding-copyright">Copyright vs Open Source</a></li>   
       </ol>
       </td>
     <td valign="top">
@@ -55,11 +53,11 @@
         <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Essentials/README.md">📚 Essentials - Tone, Pacing</a></li>
         <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/Character/README.md">📚 Character - Development</a></li>
         <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Dialogue/README.md">📚 Dialogue - Development</a></li>       
-        <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/Loglines/Loglines.md">👉🏼 Loglines - AI Prompt</a></li>
-        <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/AI%20Prompts/README.md">👉🏼 Editing - AI Prompts**</a></li>
+        <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/Loglines/Loglines.md">🟡 Loglines - AI Prompt</a></li>
+        <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/AI%20Prompts/README.md">🟡 Editing - AI Prompts**</a></li>
       </ol>
         <h4>About:</h4>
-        <li><a href="https://github.com/BryanHarrisScripts">👉🏼 About - Bryan's Mission</a></li>
+        <a href="https://github.com/BryanHarrisScripts">🟡 About - Bryan's Mission</a><br>
     </td>
     </tr>
   </table>
