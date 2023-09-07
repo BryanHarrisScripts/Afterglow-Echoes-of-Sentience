@@ -21,6 +21,8 @@
 | ![Alt text for image](URL-to-image9) | "FUTURISTIC LIVING ROOM - NIGHT AMY interacts with a HOLOGRAPHIC INTERFACE, her movements precise and..." | TBD | TBD | 9 |
 | ![Alt text for image](URL-to-image10) | "CITY ROOFTOP - NIGHT Against the backdrop of the illuminated city, JAI and KAI stand, their intentio..." | TBD | TBD | 10 |
 
+<a href="#top">Back to Top</a>
+
 # Afterglow Storyboard 
 
 | Image | Narrative | Shot Type | Notes | Scene Number |
@@ -35,6 +37,8 @@
 | ![Alt text for image](URL-to-image18) | "BBT TECHNOLOGIES - MORNING The hum of advanced technology surrounds the modern structure of BBT Tech..." | TBD | TBD | 18 |
 | ![Alt text for image](URL-to-image19) | "SUMMER'S APARTMENT - MORNING As dawn paints the sky, the sleek BTT Technologies shuttle stands poise..." | TBD | TBD | 19 |
 | ![Alt text for image](URL-to-image20) | "SAN FRANCISCO - MORNING - SUMMER'S PERSPECTIVE From Summer's vantage, the city is alive with promise..." | TBD | TBD | 20 |
+
+<a href="#top">Back to Top</a>
 
 # Afterglow Storyboard 
 
@@ -51,6 +55,8 @@
 | ![Alt text for image](URL-to-image29) | "REN'S CAR - DAY (PAST) Young SARAH, her face radiant with joy, sings in the backseat. SARAH "Dad, ou..." | TBD | TBD | 29 |
 | ![Alt text for image](URL-to-image30) | "REN'S CAR - DAY (PRESENT) Emotion chokes Ren's voice. REN "Sarah..." Suddenly, Ren notices an unfami..." | TBD | TBD | 30 |
 
+<a href="#top">Back to Top</a>
+
 # Afterglow Storyboard 
 
 | Image | Narrative | Shot Type | Notes | Scene Number |
@@ -66,6 +72,8 @@
 | ![Alt text for image](URL-to-image39) | "ROCKET - DAY The AI's lights flicker. ROCKET "Do I unsettle you, Ren?" REN "You sound... different."..." | TBD | TBD | 39 |
 | ![Alt text for image](URL-to-image40) | "REN'S CAR (FRONT PASSENGER SEAT) - DAY The interior is a whirlwind. Ren's eyes are frantic as the ca..." | TBD | TBD | 40 |
 
+<a href="#top">Back to Top</a>
+
 # Afterglow Storyboard 
 
 | Image | Narrative | Shot Type | Notes | Scene Number |
@@ -75,5 +83,7 @@
 | ![Alt text for image](URL-to-image43) | "PACIFIC COAST HIGHWAY - DAY Rocket, though stabilized, cruises along the highway. Ren, taking a deep..." | TBD | TBD | 43 |
 | ![Alt text for image](URL-to-image42) | "BIG BEN TECHNOLOGIES - DAY Alarms blaze. Employees are in crisis mode. BBT TECH SUPPORT "Mr. Smith, ..." | TBD | TBD | 42 |
 | ![Alt text for image](URL-to-image43) | "PACIFIC COAST HIGHWAY - DAY Rocket, though stabilized, cruises along the highway. Ren, taking a deep..." | TBD | TBD | 43 |
+
+<a href="#top">Back to Top</a>
 
 ---
