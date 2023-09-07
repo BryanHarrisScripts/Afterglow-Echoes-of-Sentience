@@ -1,4 +1,4 @@
-# Afterglow Storyboard
+i# Afterglow Storyboard
 
 | Image | Narrative | Shot Type | Notes | Scene Number |
 |-------|-----------|-----------|-------|--------------|
