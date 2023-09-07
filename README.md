@@ -23,7 +23,8 @@
     <a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/OpenSource/Open Source Collaboration.md">🟡 Why Open-source?</a><br>
     <a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/OpenSource/1%20Million%20Voices.md">🟡 Why Open Collaboration?</a><br>
     <h4>Collaboration:</h4>
-    <div>&nbsp;&nbsp;<a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/Afterglow/README.md">🟡 Afterglow - Menu</a></div>
+         <div><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/Afterglow/README.md">🟡 Afterglow - Menu</a></div>
+         <div><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard/Visual%20Storyboard.md">🟡 Afterglow - Storyboard</a></div>
     <ol start="1">
         <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/Collaborators/README.md">Collaborators Guide</a></li>   
         <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/Blog/README.md">Blogs - How To's & Info</a></li>
