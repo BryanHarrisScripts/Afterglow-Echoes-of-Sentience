@@ -11,7 +11,7 @@
 | Image | Narrative | Shot Type | Notes | Scene Number |
 |-------|-----------|-----------|-------|--------------|
 | ![Alt text for image](URL-to-image1) | "AFTERGLOW: "ECHOES OF SENTIENCE" Block 1- v10 FADE IN:..." | TBD | TBD | 1 |
-| ![Alt text for image](URL-to-image2) | "BBT TECHNOLOGIES BOARDROOM - MORNING The room, sleek and dominated by chrome and glass, buzzes with ..." | TBD | TBD | 2 |
+| ![Alt text for image](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard/Afterglow%20v10%20-%20Amy%201.png) | "BBT TECHNOLOGIES BOARDROOM - MORNING The room, sleek and dominated by chrome and glass, buzzes with ..." | TBD | TBD | 2 |
 | ![Alt text for image](URL-to-image3) | "BBT TECHNOLOGIES LAB - NIGHT REN, deeply engrossed, makes final adjustments to AMY, who lies inert o..." | TBD | TBD | 3 |
 | ![Alt text for image](URL-to-image4) | "BBT TECHNOLOGIES BOARDROOM - MORNING AMY "Jai and Kai's concerns led to modifications in subsequent ..." | TBD | TBD | 4 |
 | ![Alt text for image](URL-to-image5) | "BBT TECHNOLOGIES CORRIDOR - LATER JAI and KAI, engaged in a hushed conversation, make their way down..." | TBD | TBD | 5 |
