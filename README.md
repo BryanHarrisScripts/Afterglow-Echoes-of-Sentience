@@ -57,8 +57,9 @@
         <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/Loglines/Loglines.md">🟡 Loglines - AI Prompt</a></li>
         <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/AI%20Prompts/README.md">🟡 Editing - AI Prompts**</a></li>
       </ol>
-        <h4>About:</h4>
+        <h4>About & Video Challenge:</h4>
         <a href="https://github.com/BryanHarrisScripts">🟡 About - Bryan's Mission</a><br>
+        <a href="https://github.com/BryanHarrisScripts/BryanHarrisScripts/blob/main/Lost%20And%20Found.md">🔴 Video Challenge - Lost & Found</a><br>
     </td>
     </tr>
   </table>
