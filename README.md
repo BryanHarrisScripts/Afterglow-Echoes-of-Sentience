@@ -19,15 +19,10 @@
     <tr>
        <td valign="top">
     <h4>Read First: ☕️</h4>
-    <a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Experiment%20Learnings.md">🟡 Why Innovate?</a><br>
-    <a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/OpenSource/Open Source Collaboration.md">🟡 Why Open-source?</a><br>
-    <a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/OpenSource/1%20Million%20Voices.md">🟡 Why Open Collaboration?</a><br>
     <h4>Collaboration:</h4>
          <div><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/Afterglow/README.md">🟡 Afterglow - Menu</a></div>
          <div><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard/Visual%20Storyboard.md">🟡 Afterglow - Storyboard</a></div>
     <ol start="1">
-        <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/Collaborators/README.md">Collaborators Guide</a></li>   
-        <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/Blog/README.md">Blogs - How To's & Info</a></li>
         <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/Images">Images - Images Used</a></li>
         <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/tree/main/">Github Tree</a></li>
     </ol>
@@ -49,17 +44,8 @@
     <td valign="top">
       <h4>Screenplay Resources:</h4>
       <ol start="1">
-        <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/General/README.md">📚 Foundations - Storytelling</a></li>
-        <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/24%20Blocks/README.md">📚 Structure - 24 Blocks**</a></li>
-        <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Essentials/README.md">📚 Essentials - Tone, Pacing</a></li>
-        <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/Character/README.md">📚 Character - Development</a></li>
-        <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Dialogue/README.md">📚 Dialogue - Development</a></li>       
-        <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/Loglines/Loglines.md">🟡 Loglines - AI Prompt</a></li>
-        <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/AI%20Prompts/README.md">🟡 Editing - AI Prompts**</a></li>
       </ol>
         <h4>About & Video Challenge:</h4>
-        <a href="https://github.com/BryanHarrisScripts">🟡 About - Bryan's Mission</a><br>
-        <a href="https://github.com/BryanHarrisScripts/BryanHarrisScripts/blob/main/Lost%20And%20Found.md">🔴 Video Challenge - Lost & Found</a><br>
     </td>
     </tr>
   </table>
