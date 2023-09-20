@@ -9,7 +9,7 @@
   
 <a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/discussions">Discussions</a> | <a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/Afterglow/README.md">Afterglow Menu</a> | <a href="https://docs.github.com/en/site-policy/github-terms/github-community-guidelines">Guidelines</a> | <a href="https://twitter.com/i/communities/1669222125591318528">CommunityX</a> | <a href="https://twitter.com/i/lists/1675490119095140352">ListX</a> | <a href="https://twitter.com/BryanRebooted" target="_blank">X</a> <br>
 
-<a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20v10%20X%20Rewrite%20Bryan%20E.%20Harris%202023.pdf">🟡 Afterglow v10: Working Through The Edit! </a><br><br>
+<a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20v10%20X%20Rewrite%20Bryan%20E.%20Harris%202023.pdf">Afterglow v10: Working Through The Edit! </a><br><br>
 
 </div>
 
@@ -18,14 +18,13 @@
   <table>
     <tr>
        <td valign="top">
-    <h4>Read First: ☕️</h4>
-    <h4>Collaboration:</h4>
-         <div><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/Afterglow/README.md">🟡 Afterglow - Menu</a></div>
-         <div><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard/Visual%20Storyboard.md">🟡 Afterglow - Storyboard</a></div>
-    <ol start="1">
+    <h4>Afterglow: ☕️</h4>
+        <ol start="1">
+        <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/Afterglow/README.md">Afterglow - Menu</a></li>
+        <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard/Visual%20Storyboard.md">Afterglow - Storyboard</a></li>
         <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/Images">Images - Images Used</a></li>
         <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/tree/main/">Github Tree</a></li>
-    </ol>
+        </ol> 
 </td>
     <td valign="top">
       <h4>This Page:</h4>
@@ -41,19 +40,13 @@
         <li><a href="#understanding-copyright">Copyright vs Open Source</a></li>   
       </ol>
       </td>
-    <td valign="top">
-      <h4>Screenplay Resources:</h4>
-      <ol start="1">
-      </ol>
-        <h4>About & Video Challenge:</h4>
-    </td>
     </tr>
   </table>
 
 </div>
 
 <div align="center">
-  <a href="#licensing-and-attribution">**Developed by a Human: Bryan Harris (24 Blocks / Afterglow Screenplay / Prompts)</a>
+  <a href="#licensing-and-attribution">**Developed by a Human: Bryan Harris (Afterglow Screenplay)</a>
 </div><br>
 
 ---
