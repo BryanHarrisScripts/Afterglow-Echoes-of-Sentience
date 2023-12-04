@@ -1,30 +1,34 @@
+<a id="top"></a>
+
 <div align="right" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 1em; margin: 4em 0;">
 <a href="https://openstorytelling.com">Home</a>
 <div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 1em; margin: 4em 0;">
 <div align="center">
 
-<a id="top"></a>
-
 <h1>Table of Contents</h1><br>
-  
 </div>
-
 <div align="center">
   
   <table>
     <tr>
        <td valign="top">
-    <h4>Keyframe Description</h4>
-        <ol start="1">
-        <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_1%20Keyframes.md">Block 1</a></li>
+         <h4>Block Description</h4>
+         <ol start="1">
+         <li><a href="">PUPPETS AND PUPPETEERS</a></li>
     </ol> 
-</td>
-    <td valign="top">
-      <h4>Concept Images</h4>
-      <ol start="1">
-        <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_1%20Concept%20Images.md">Block 1</a></li>
-        </ol>
-      </td>
+       </td>
+         <td valign="top">
+         <h4>Keyframe Description</h4>
+         <ol start="1">
+         <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_1%20Keyframes.md">Block 1</a></li>
+    </ol> 
+       </td>
+         <td valign="top">
+         <h4>Concept Images</h4>
+         <ol start="1">
+         <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_1%20Concept%20Images.md">Block 1</a></li>
+    </ol>
+       </td>
     </tr>
   </table>
 
