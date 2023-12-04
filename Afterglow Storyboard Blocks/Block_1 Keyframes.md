@@ -6,7 +6,7 @@
 # AFTERGLOW: "ECHOES OF SENTIENCE"
 **PUPPETS AND PUPPETEERS: Block 1 - Version 10**
 
----
+----
 
 **FADE IN:**
 
