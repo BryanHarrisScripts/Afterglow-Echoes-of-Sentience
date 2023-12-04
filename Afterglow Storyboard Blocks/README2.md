@@ -14,15 +14,15 @@
   <table>
     <tr>
        <td valign="top">
-    <h4>Afterglow: </h4>
+    <h4>Keyframe Description</h4>
         <ol start="1">
-        <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/Afterglow/README.md">Afterglow - Menu</a></li>
+        <li><a href="https://github.com/BryanHarrisScripts/Afterglow Storyboard Blocks/Block_1 Keyframes.md">Block 1</a></li>
     </ol> 
 </td>
     <td valign="top">
-      <h4>This Page:</h4>
+      <h4>Concept Images</h4>
       <ol start="1">
-        <li><a href="#a-new-way">A New Way?</a></li>
+        <li><a href="https://github.com/BryanHarrisScripts/Afterglow Storyboard Blocks/Block_1 Concept Images.md">Block 1</a></li>
         </ol>
       </td>
     </tr>
