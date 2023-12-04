@@ -30,7 +30,7 @@
         <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard/AI%20Concept.md">Storyboard Concept</a></li>
         <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/Images">Images - Images Used</a></li>
         <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/tree/main/">Github Tree</a></li><br>
-        <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/tree/main/Storyboard">🎞️Storyboard</a></li><br>
+        <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/README.md">🎞️Storyboard</a></li><br>
         </ol> 
 </td>
     <td valign="top">
