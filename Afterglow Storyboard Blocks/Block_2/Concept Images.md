@@ -65,6 +65,16 @@
 <td><a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_2/AG26.png" alt="Image21" width="2500"/></a><p align="center"><a href="" target="_blank">Concept Image</a></p></td></td>
 <td><a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_2/AG27.png" alt="Image22" width="2500"/></a><p align="center"><a href="" target="_blank">Concept Image</a></p></td>
 <td><a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_2/AG28.png" alt="Image23" width="2500"/></a><p align="center"><a href="" target="_blank">Concept Image</a></p></td>
+<td><a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_2/AG29.png" alt="Image22" width="2500"/></a><p align="center"><a href="" target="_blank">Concept Image</a></p></td>
+<td><a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_2/AG30.png" alt="Image23" width="2500"/></a><p align="center"><a href="" target="_blank">Concept Image</a></p></td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td><a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_2/AG31.png" alt="Image21" width="2500"/></a><p align="center"><a href="" target="_blank">Concept Image</a></p></td></td>
+<td><a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_2/AG32.png" alt="Image22" width="2500"/></a><p align="center"><a href="" target="_blank">Concept Image</a></p></td>
+<td><a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_2/AG33.png" alt="Image23" width="2500"/></a><p align="center"><a href="" target="_blank">Concept Image</a></p></td>
 </tr>
 </table>
 
