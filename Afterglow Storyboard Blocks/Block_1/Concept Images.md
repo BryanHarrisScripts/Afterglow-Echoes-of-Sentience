@@ -54,5 +54,7 @@
 <td><a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_1/AG25.png" alt="Image1" width="2500"/></a><p align="center"><a href="" target="_blank">Concept Image</a></p></td>
 </tr>
 </table>
-<a href="#top">Back to Top</a>
 
+---
+
+<a href="#top">Back to Top</a>
