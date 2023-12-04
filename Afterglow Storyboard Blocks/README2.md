@@ -22,7 +22,7 @@
     <td valign="top">
       <h4>Concept Images</h4>
       <ol start="1">
-        <li><a href="https://github.com/BryanHarrisScripts/Afterglow Storyboard Blocks/Block_1 Concept Images.md">Block 1</a></li>
+        <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_1%20Concept%20Images.md">Block 1</a></li>
         </ol>
       </td>
     </tr>
