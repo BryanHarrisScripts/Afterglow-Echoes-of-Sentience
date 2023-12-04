@@ -4,9 +4,7 @@
 
 <table>
 <tr>
-<td><a href="https://twitter.com/BryanHarrisTech/status/1672587722127466496?s=20" target="_blank"><img src="../Images/Afterglow v9 Puppets.png" alt="Image1" width="2500"/></a><p align="center"><a href="https://twitter.com/BryanHarrisTech/status/1672587722127466496?s=20" target="_blank">Select this Block 1</a></p></td>
-<td><a href="https://twitter.com/BryanHarrisTech/status/1673468643030466561?s=20" target="_blank"><img src="../Images/BrokenNumbers v9.png" alt="Image2" width="2500"/></a><p align="center"><a href="https://twitter.com/BryanHarrisTech/status/1673468643030466561?s=20" target="_blank">Select this Block 2</a></p></td>
-<td><a href="https://twitter.com/BryanHarrisTech/status/1673839275505332224?s=20" target="_blank"><img src="../Images/Summers Symphony v9.png" alt="Image3" width="2500"/></a><p align="center"><a href="https://twitter.com/BryanHarrisTech/status/1673839275505332224?s=20" target="_blank">Select this Block 3</a></p></td>
+<td><a href="https://twitter.com/BryanRebooted" target="_blank"><img src="../Afterglow Storyboard Blocks/Block_1 AG1.png" alt="Image1" width="2500"/></a><p align="center"><a href="https://twitter.com/BryanHarrisTech/status/1672587722127466496?s=20" target="_blank">Select this Block 1</a></p></td>
 </tr>
 </table>
 
