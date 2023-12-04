@@ -14,8 +14,8 @@
        <td valign="top">
          <h4>Block Description</h4>
          <ol start="1">
-           <li><a href="">PUPPETS AND PUPPETEERS</a></li>
-           <li><a href="">BROKEN NUMBERS, SHATTERED HEARTS</a></li>
+           <li><a>PUPPETS AND PUPPETEERS PART 1</a></li>
+           <li><a>PUPPETS AND PUPPETEERS PART 2</a></li>
     </ol> 
        </td>
          <td valign="top">
