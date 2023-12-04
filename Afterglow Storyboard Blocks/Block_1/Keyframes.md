@@ -4,7 +4,7 @@
 <a id="top"></a> 
 
 # AFTERGLOW: "ECHOES OF SENTIENCE"
-**PUPPETS AND PUPPETEERS: Block 1 - Version 10**
+**PUPPETS AND PUPPETEERS Part 1: Block 1 - Version 10**
 
 ---
 
