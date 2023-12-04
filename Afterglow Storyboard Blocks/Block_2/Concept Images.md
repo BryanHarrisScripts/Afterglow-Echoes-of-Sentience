@@ -5,7 +5,7 @@
 
 # Afterglow Echoes of Sentience
 
-<h3 align="center">Concept Art for Storyboard Block 2</h3>
+<h3 align="center">Concept Art for Storyboard Block 1 (Part 2)</h3>
 
 <table>
 <tr>
