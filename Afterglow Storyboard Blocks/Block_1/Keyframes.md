@@ -115,6 +115,7 @@ JAI and KAI, engaged in a hushed conversation, make their way down the corridor.
 In line with our OpenStorytelling Plus commitment, these images and instructions are shared under the Creative Commons CC-BY-SA-4.0 license. 
 This acknowledgment reflects our collaborative and innovative approach to screenplay creation.
 
+---
+
 <a href="#top">Back to Top</a>
 
----
