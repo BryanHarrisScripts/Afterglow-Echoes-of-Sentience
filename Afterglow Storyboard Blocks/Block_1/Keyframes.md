@@ -88,19 +88,17 @@ JAI and KAI, engaged in a hushed conversation, make their way down the corridor.
 
 ---
 
-# The Storyboard Images:
+# Storyboard Images:
 
-### Scene 1: INT. BBT TECHNOLOGIES BOARDROOM - MORNING
-- **Image:** Depicts Amy in a futuristic boardroom with a holographic display.
-- **Instructions:** Wide shot of the boardroom, focusing on Amy and the holographic display of humanoid AIs.
+### Image Details:
+- **Scene**: 1
+- **Shot Type**: Establishing Shot
+- **Narrative Focus**: Futuristic and sleek boardroom, dominated by chrome and glass, embodying a high-tech corporate environment
+- **GEN ID**: 6M7PU4reSveWIIjQ
 
-### Scene 2: FLASHBACK TO INT. BBT TECHNOLOGIES LAB - NIGHT (4 YEARS EARLIER)
-- **Image:** Shows Ren making final adjustments to Amy, with Jai and Kai in the background.
-- **Instructions:** Medium shot in the lab, focusing on Ren's dedication and the mixed emotions of Jai and Kai.
+The image for Scene 1 has been created. It depicts the interior of BBT Technologies' boardroom in the morning, capturing a futuristic and sleek design with chrome and glass elements, aligned with the narrative of your script.
 
-### Scene 3: INT. BBT TECHNOLOGIES BOARDROOM - MORNING (PRESENT)
-- **Image:** Illustrates Jai and Kai entering the boardroom where Amy is presenting.
-- **Instructions:** Over-the-shoulder shot from Amy's perspective, highlighting Jai and Kai's entrance and their expressions.
+Shall we proceed with the next image?
 
 ---
 
