@@ -70,7 +70,7 @@ JAI and KAI, engaged in a hushed conversation, make their way down the corridor.
 
 ---
 
-# The Storyboard Scenes:
+# Storyboard:
 
 ### Shot List and Storyboard Summaries
 
