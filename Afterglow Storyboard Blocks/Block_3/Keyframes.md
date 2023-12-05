@@ -3,54 +3,58 @@
 <div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 1em; margin: 4em 0;">
 <a id="top"></a> 
 
+---
+
 # AFTERGLOW: "ECHOES OF SENTIENCE"
-**Summer's Symphony: A Dance with AI and New Beginnings: Block 3 - Version 10**
+## A Dance with AI and New Beginnings: Block 3 - Version 10
 
-#### INT. SUMMER'S APARTMENT - MORNING
-*Bright sunlight filters through the windows, revealing an apartment alive with colors and motion. SUMMER RAY (41), vibrant and full of life, dances through her morning routine, accompanied by her AI companions: COMPASS the robotic dog, SPECTRUM the macaw, BINARY and BYTE the turtles, PIXEL the kitten, and BUZZ the vacuum.*
+### INT. SUMMER'S APARTMENT - MORNING
+Bright sunlight filters through the windows, revealing an apartment alive with colors and motion. SUMMER RAY (41), vibrant and full of life, dances through her morning routine, accompanied by her AI companions: COMPASS the robotic dog, SPECTRUM the macaw, BINARY and BYTE the turtles, PIXEL the kitten, and BUZZ the vacuum.
 
-#### Scene Description
-*The room is a symphony of movement: Spectrum flits around, Binary and Byte move in tandem, Pixel playfully chases Buzz, and Compass circles Summer with a wagging tail. An incoming message interrupts the dance.*
+### Scene Description
+The room is a symphony of movement: Spectrum flits around, Binary and Byte move in tandem, Pixel playfully chases Buzz, and Compass circles Summer with a wagging tail. An incoming message interrupts the dance.
 
-**MESSAGE:**  
-"Your car arrives in 10 minutes."
+<br>
 
-*Summer takes a deep breath, tapping her phone to dial.*
+> **MESSAGE:**
+ "Your car arrives in 10 minutes."
 
-**SUMMER:**  
+<br>
+
+#### **SUMMER:**
 "Mom, today's the day."
 
-**MOM (voice quivering):**  
+#### **MOM (V.O.):**
 "I hoped you'd reconsider."
 
-**SUMMER:**  
+#### **SUMMER:**
 "I love you, but I need this journey. To rediscover myself."
 
-**MOM:**  
+#### **MOM (V.O.):**
 "Without your roots? Your history?"
 
-*Summer looks to her AI family.*
+Summer looks to her AI family.
 
-**SUMMER:**  
+#### **SUMMER:**
 "They come with me. We'll explore new horizons together. Maybe they'll learn... just as I hope to."
 
-**MOM:**  
+#### **MOM (V.O.):**
 "Just remember who you are, Summer."
 
-**SUMMER:**  
+#### **SUMMER:**
 "Every step I take is a part of that discovery. Trust me."
 
-*She ends the call and turns to her AI companions.*
+She ends the call and turns to her AI companions.
 
-**SUMMER (CONT'D):**  
+#### **SUMMER (CONT'D):**
 "Ready for the adventure?"
 
-*Their animated responses fill the room. Compass's tail wags energetically, Spectrum gives a chirp, Binary and Byte beep in sync, Pixel purrs, and Buzz hums in agreement. Summer's gaze falls on a lone water bottle labeled 'Beautiful Angel' on the counter. She hesitates, then picks it up.*
+Their animated responses fill the room. Compass's tail wags energetically, Spectrum gives a chirp, Binary and Byte beep in sync, Pixel purrs, and Buzz hums in agreement. Summer's gaze falls on a lone water bottle labeled 'Beautiful Angel' on the counter. She hesitates, then picks it up.
 
-**SUMMER (CONT'D) (to Buzz):**  
+#### **SUMMER (CONT'D) (to Buzz):**
 "Let's bring a piece of home with us."
 
-*Clutching the bottle, with her AI family in tow, Summer confidently strides to the door, ready to embrace the unknown.*
+Clutching the bottle, with her AI family in tow, Summer confidently strides to the door, ready to embrace the unknown.
 
 ---
 
