@@ -33,6 +33,8 @@
 
 <a href="#top">Back to Top</a>
 
+---
+
 ### Image Details:
 - **Scene**: 1
 - **Shot Type**: Establishing Shot
