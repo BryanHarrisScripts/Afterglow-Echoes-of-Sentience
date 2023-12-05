@@ -71,19 +71,28 @@
 
 ---
 
-# The Storyboard Images:
+---
 
-1. **EXT. BBT Technologies - Morning**: This scene will capture the ultra-modern campus of BBT Technologies at sunrise. The buildings' sleek glass facades will reflect the golden morning light, with the company's logo in chrome shining prominently. Employees in futuristic attire will be depicted engaging in conversations, surrounded by buzzing drone deliveries.
+# Storyboard Images:
 
-2. **Amy and Ren's Holographic Conversation**: Amy, with AR/VR glasses, is portrayed facing Ren through a holographic screen. Ren's face will show a transition from surprise to disappointment, capturing the emotional depth of their conversation.
+<div style="text-align: center;">
+    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_2/Scene1.png" alt="Scene 1" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_2/Scene2.png" alt="Scene 2" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_2/Scene3.png" alt="Scene 3" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_2/Scene4.png" alt="Scene 4" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_2/Scene5.png" alt="Scene 5" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_2/Scene6.png" alt="Scene 6" width="200" style="display: inline-block;"/></a>
+</div>
 
-3. **INT. Ren's Antique-laden Home Office - Morning**: Ren's entry into his home office, filled with antiques, will be contrasted against the futuristic world outside. A focus on an old, motionless watch and aged newspaper clippings will highlight the room's ambiance, hinting at past tragedies.
+### Image Details:
+- **Scene**: 1
+- **Shot Type**: Establishing Shot
+- **Narrative Focus**: Futuristic and sleek boardroom, dominated by chrome and glass, embodying a high-tech corporate environment
+- **GEN ID**: 6M7PU4reSveWIIjQ
 
-4. **INT. Futuristic Living Room - 4 Years Later**: The scene will show Amy in a room buzzing with quiet technology. A shaft of sunlight illuminating a photograph of Ren with his young daughter, Sarah, will be the focal point, reflecting Amy's contemplation and the passage of time.
+The image for Scene 1 has been created. It depicts the interior of BBT Technologies' boardroom in the morning, capturing a futuristic and sleek design with chrome and glass elements, aligned with the narrative of your script.
 
-5. **Amy's Interaction with Holographic Interface**: This night scene will depict Amy interacting with a holographic interface, her movements precise and deliberate, symbolizing her search for purpose amidst inner chaos.
 
-6. **EXT. City Rooftop - Night**: The final keyframe will showcase Jai and Kai standing against the illuminated city backdrop. Their imposing figures and intense expressions will convey their intentions to challenge the world's beliefs.
 
 ---
 
