@@ -116,7 +116,45 @@ The image for Scene 1 has been created. It depicts the interior of BBT Technolog
 
 The image for Scene 2 has been generated. It portrays AMY, the humanoid AI, at the head of the boardroom table in BBT Technologies. The focus is on her human-like appearance contrasted with subtle AI characteristics, set against the backdrop of the high-tech boardroom.
 
+### Image Details:
+- **Scene**: 3
+- **Shot Type**: Medium Shot
+- **Narrative Focus**: AMY speaking with a holographic display of humanoid AI designs in the background
+- **GEN ID**: XMbxzq89KRCadg7N
 
+The image for Scene 3 has been created, depicting AMY in the foreground, speaking about BBT's future, with a holographic display showcasing early humanoid AI designs in the background. The setting continues in the high-tech boardroom with other attendees present.
+
+### Image Details:
+- **Scene**: 4
+- **Shot Type**: Close-Up/Two Shot
+- **Narrative Focus**: REN making final adjustments to AMY in the lab, with JAI and KAI in the background
+- **GEN ID**: hFRuaHZ0tsH0wL7E
+
+The image for Scene 4 has been generated. It captures a flashback moment in the BBT Technologies Lab at night, where REN is deeply engrossed in making final adjustments to AMY, who is in an inert state on a table. The lab is portrayed as advanced, with high-tech equipment. JAI and KAI are seen in the background, their expressions reflecting a mix of awe and concern.
+
+### Image Details:
+- **Scene**: 5
+- **Shot Type**: Wide Shot
+- **Narrative Focus**: AMY discussing modifications and introducing CLAIRE and SARAH via a holographic display
+- **GEN ID**: 50CfY4YtLZHqoXeE
+
+The image for Scene 5 has been created. It features AMY in the BBT Technologies boardroom, discussing modifications and introducing CLAIRE and SARAH through a holographic display. The display and AMY are the focal points, with the boardroom's high-tech elements visible in the background.
+
+### Image Details:
+- **Scene**: 6
+- **Shot Type**: Over-the-Shoulder Shot
+- **Narrative Focus**: JAI and KAI entering the boardroom, viewed over AMY's shoulder
+- **GEN ID**: yVtyR1OxW8EKuYul
+
+The image for Scene 6 has been generated. It captures the moment JAI and KAI enter the BBT Technologies boardroom, as seen from over AMY's shoulder. The expressions of JAI and KAI convey sternness mixed with apprehension, set against the backdrop of the boardroom and other attendees.
+
+### Image Details:
+- **Scene**: 7
+- **Shot Type**: Tracking Shot
+- **Narrative Focus**: JAI and KAI having a hushed conversation in a corridor lit with ambient blue lights
+- **GEN ID**: GjG0yagFB3oTnNk1
+
+The image for Scene 7 has been created, showing JAI and KAI engaged in a serious conversation as they walk through a corridor in the BBT Technologies facility. The corridor is illuminated with ambient blue lights, adding to the secretive and advanced technological atmosphere of the scene.
 
 ---
 
