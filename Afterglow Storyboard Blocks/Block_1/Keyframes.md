@@ -90,13 +90,15 @@ JAI and KAI, engaged in a hushed conversation, make their way down the corridor.
 
 # Storyboard Images:
 
-<a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_1/AG1.png" alt="Image1" width="250"/></a><p align="left"><a href="" target="_blank">Scene 1</a>
-<a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_1/AG2.png" alt="Image1" width="250"/></a><p align="left"><a href="" target="_blank">Scene 2</a>
-<a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_1/AG3.png" alt="Image1" width="250"/></a><p align="left"><a href="" target="_blank">Scene 3</a>
-<a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_1/AG4.png" alt="Image1" width="250"/></a><p align="left"><a href="" target="_blank">Scene 4</a>
-<a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_1/AG5.png" alt="Image1" width="250"/></a><p align="left"><a href="" target="_blank">Scene 5</a>
-<a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_1/AG6.png" alt="Image1" width="250"/></a><p align="left"><a href="" target="_blank">Scene 6</a>
-<a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_1/AG7.png" alt="Image1" width="250"/></a><p align="left"><a href="" target="_blank">Scene 7</a>
+<div style="text-align: center;">
+    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_1/Scene1.png" alt="Scene 1" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_1/Scene2.png" alt="Scene 2" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_1/Scene3.png" alt="Scene 3" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_1/Scene4.png" alt="Scene 4" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_1/Scene5.png" alt="Scene 5" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_1/Scene6.png" alt="Scene 6" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_1/Scene7.png" alt="Scene 7" width="200" style="display: inline-block;"/></a>
+</div>
 
 ### Image Details:
 - **Scene**: 1
