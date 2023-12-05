@@ -121,7 +121,10 @@ _As she speaks, a HOLOGRAPHIC DISPLAY activates, showcasing early designs of hum
 **AMY (CONT'D)**  
 "My creation marked a significant leap for BBT. However, my humanlikeness raised concerns."
 
-### FLASHBACK TO (4 YEARS EARLIER) INT. BBT TECHNOLOGIES LAB - NIGHT
+### FLASHBACK TO (4 YEARS EARLIER) 
+
+### INT. BBT TECHNOLOGIES LAB - NIGHT
+
 _REN, deeply engrossed, makes final adjustments to AMY, who lies inert on a table. JAI and KAI enter, their expressions a mix of awe and concern._
 
 **JAI**  
