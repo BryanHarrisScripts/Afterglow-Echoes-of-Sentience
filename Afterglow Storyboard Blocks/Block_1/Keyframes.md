@@ -66,31 +66,23 @@ JAI and KAI, engaged in a hushed conversation, make their way down the corridor.
 **KAI**  
 "We've always believed our actions are for the greater good. But we must be prepared for the challenges ahead."
 
-*Continued in Block 2 - Version 10...*
-
 <a href="#top">Back to Top</a>
 
 ---
 
 # The Storyboard Scenes:
 
-**Scene 1: INT. BBT TECHNOLOGIES BOARDROOM - MORNING**
-- **Narrative:** Amy, a humanoid AI, stands at the head of a sleek, high-tech boardroom. She is discussing the future direction of BBT Technologies and activates a holographic display showing humanoid AIs.
-- **Shot Type:** Wide shot of the boardroom.
-- **Notes:** Capture the futuristic elements of the boardroom, emphasizing the chrome and glass, and the holographic display.
-- **Scene Number:** 1
+### Shot List and Storyboard Summaries
 
-**Scene 2: FLASHBACK TO INT. BBT TECHNOLOGIES LAB - NIGHT (4 YEARS EARLIER)**
-- **Narrative:** Ren is making final adjustments to Amy, who lies inert on a table. Jai and Kai enter the lab, showing a mix of awe and concern over Amy's human-like appearance.
-- **Shot Type:** Medium shot focusing on Ren working on Amy, with Jai and Kai in the background.
-- **Notes:** Highlight the contrast between the past and present technology, and the emotions of Jai and Kai.
-- **Scene Number:** 2
-
-**Scene 3: INT. BBT TECHNOLOGIES BOARDROOM - MORNING (PRESENT)**
-- **Narrative:** Jai and Kai enter the boardroom, where Amy continues her presentation. There is an air of tension as they discuss Ren's visionary yet controversial work.
-- **Shot Type:** Over-the-shoulder shot from Amy's perspective, capturing Jai and Kai's entrance.
-- **Notes:** Focus on the expressions of Jai and Kai to highlight the tension and the pivotal nature of the meeting.
-- **Scene Number:** 3
+| Scene | Narrative | Shot Type | Notes | Scene Number |
+|-------|-----------|-----------|-------|--------------|
+| INT. BBT TECHNOLOGIES BOARDROOM - MORNING | The sleek, chrome and glass-dominated boardroom with muted conversations. | Establishing Shot | Capture the futuristic and corporate atmosphere of the room. | 1 |
+| | AMY stands at the head of the table, her human-like form with a metallic sheen. | Medium Shot | Highlight AMY's unique appearance blending human and AI elements. | 2 |
+| | AMY speaks about the future of BBT, holographic display activates. | Medium Shot | Focus on AMY and the display to emphasize the advanced technology. | 3 |
+| FLASHBACK TO INT. BBT TECHNOLOGIES LAB - NIGHT | REN making adjustments to AMY, JAI and KAI express concerns. | Close-Up/Two Shot | Show the intricate details of AMY and the mixed emotions of JAI and KAI. | 4 |
+| INT. BBT TECHNOLOGIES BOARDROOM - MORNING | AMY discusses modifications and introduces CLAIRE and SARAH. | Wide Shot | Include AMY and the holographic display showing CLAIRE and SARAH. | 5 |
+| | JAI and KAI enter, showing apprehension. | Over-the-Shoulder Shot | Capture their entrance from AMY's perspective. | 6 |
+| INT. BBT TECHNOLOGIES CORRIDOR - LATER | JAI and KAI discussing the potential of their AIs. | Tracking Shot | Follow them down the corridor to emphasize the secretive atmosphere. | 7 |
 
 <a href="#top">Back to Top</a>
 
