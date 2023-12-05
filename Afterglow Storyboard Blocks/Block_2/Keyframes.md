@@ -71,8 +71,6 @@
 
 ---
 
----
-
 # Storyboard Images:
 
 <div style="text-align: center;">
@@ -90,9 +88,37 @@
 - **Narrative Focus**: Futuristic and sleek boardroom, dominated by chrome and glass, embodying a high-tech corporate environment
 - **GEN ID**: 6M7PU4reSveWIIjQ
 
-The image for Scene 1 has been created. It depicts the interior of BBT Technologies' boardroom in the morning, capturing a futuristic and sleek design with chrome and glass elements, aligned with the narrative of your script.
+It depicts the interior of BBT Technologies' boardroom in the morning, capturing a futuristic and sleek design with chrome and glass elements, aligned with the narrative of your script.
 
+### Image Details:
+- **Scene**: 2 Scene Description (AMY and REN through a holographic screen)
+- **Narrative Focus**: AMY's interaction with REN using futuristic technology
+- **Shot Type**: Medium Shot
+- **GEN ID**: NGDPsjK0EhYhSAMl
 
+### Image Details:
+- **Scene**: 3 INT. REN'S HOME OFFICE - MORNING
+- **Narrative Focus**: REN in his antique-laden office, reflecting on the past
+- **Shot Type**: Mid-Close Up
+- **GEN ID**: TSGnPAXu8cNToNLM
+
+### Image Details:
+- **Scene**: 4 YEARS LATER: INT. FUTURISTIC LIVING ROOM - DAY
+- **Narrative Focus**: AMY's introspective moment with a photograph in a futuristic setting
+- **Shot Type**: Close-Up
+- **GEN ID**: zr4loYaGp7lPjElT
+
+### Image Details:
+- **Scene**: 5 INT. FUTURISTIC LIVING ROOM - NIGHT
+- **Narrative Focus**: AMY engaging with a holographic interface in a futuristic setting
+- **Shot Type**: Over-the-Shoulder Shot
+- **GEN ID**: kB8Ts6q5IQDUMiPi
+
+### Image Details:
+- **Scene**: 6 EXT. CITY ROOFTOP - NIGHT
+- **Narrative Focus**: JAI and KAI's imposing presence against the city backdrop
+- **Shot Type**: Wide Shot
+- **GEN ID**: pzYw63X7JcDgmSzW
 
 ---
 
