@@ -8,7 +8,8 @@
 ## AFTERGLOW: "ECHOES OF SENTIENCE" 
 **_PUPPETS AND PUPPETEERS PART 2: Block 2 - Version 10_**
 
-**_EXT. BBT TECHNOLOGIES - MORNING_**  
+#### EXT. BBT TECHNOLOGIES - MORNING
+
 _The sun casts a golden hue over the sprawling campus of BBT Technologies. Ultra-modern buildings, with sleek glass facades, reflect the early morning light. Drone deliveries buzz overhead, while employees in futuristic attire chat and walk, discussing business and the latest tech trends. The company's logo—a stylized 'BBT' in chrome—shines prominently at the entrance._
 
 > Scene Description  
@@ -19,26 +20,30 @@ _The sun casts a golden hue over the sprawling campus of BBT Technologies. Ultra
 
 _REN's face on the screen cycles through surprise and then settles into disappointment._
 
-**_CUT TO:_**  
+#### CUT TO:
 
-**_INT. REN'S ANTIQUE-LADEN HOME OFFICE - MORNING_**  
+#### INT. REN'S ANTIQUE-LADEN HOME OFFICE - MORNING
+
 _REN enters, contrasting the futuristic world outside. He glances at an old, motionless watch on his wrist, then scans aged newspaper clippings on the walls. The room's ambiance hints at past tragedies._
 
-**_4 YEARS LATER_**  
+#### 4 YEARS LATER
 
-**_INT. FUTURISTIC LIVING ROOM - DAY_**  
+#### INT. FUTURISTIC LIVING ROOM - DAY
+
 _Sunlight filters in, illuminating a room buzzing with quiet technology. AMY, her face hidden in shadow, picks up scattered toys. She pauses, gazing at a photograph of Ren with his young daughter, SARAH._
 
 **AMY (V.O.):**  
 "In this new era, the line between human and artificial blurs."
 
-**_INT. FUTURISTIC LIVING ROOM - NIGHT_**  
+#### INT. FUTURISTIC LIVING ROOM - NIGHT
+
 _AMY interacts with a HOLOGRAPHIC INTERFACE, her movements precise and deliberate._
 
 **AMY (V.O.):**  
 "While I find my purpose and confront inner chaos, I foster their bond. In shared moments of love and laughter, they seek comfort."
 
-**_EXT. CITY ROOFTOP - NIGHT_**  
+#### EXT. CITY ROOFTOP - NIGHT
+
 _Against the backdrop of the illuminated city, JAI and KAI stand, their intentions unclear but intense._
 
 **AMY (V.O.):**  
