@@ -54,7 +54,9 @@
 
 ---
 
-# Shot List and Storyboard Summaries
+# Storyboard:
+
+### Shot List and Storyboard Summaries
 
 | Scene | Narrative | Shot Type | Notes | Scene Number |
 |-------|-----------|-----------|-------|--------------|
