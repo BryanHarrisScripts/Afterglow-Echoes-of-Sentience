@@ -91,6 +91,12 @@ JAI and KAI, engaged in a hushed conversation, make their way down the corridor.
 # Storyboard Images:
 
 <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_1/AG1.png" alt="Image1" width="250"/></a><p align="left"><a href="" target="_blank">Scene 1</a>
+<a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_1/AG2.png" alt="Image1" width="250"/></a><p align="left"><a href="" target="_blank">Scene 2</a>
+<a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_1/AG3.png" alt="Image1" width="250"/></a><p align="left"><a href="" target="_blank">Scene 3</a>
+<a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_1/AG4.png" alt="Image1" width="250"/></a><p align="left"><a href="" target="_blank">Scene 4</a>
+<a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_1/AG5.png" alt="Image1" width="250"/></a><p align="left"><a href="" target="_blank">Scene 5</a>
+<a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_1/AG6.png" alt="Image1" width="250"/></a><p align="left"><a href="" target="_blank">Scene 6</a>
+<a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_1/AG7.png" alt="Image1" width="250"/></a><p align="left"><a href="" target="_blank">Scene 7</a>
 
 ### Image Details:
 - **Scene**: 1
@@ -100,7 +106,15 @@ JAI and KAI, engaged in a hushed conversation, make their way down the corridor.
 
 The image for Scene 1 has been created. It depicts the interior of BBT Technologies' boardroom in the morning, capturing a futuristic and sleek design with chrome and glass elements, aligned with the narrative of your script.
 
-Shall we proceed with the next image?
+### Image Details:
+- **Scene**: 2
+- **Shot Type**: Medium Shot
+- **Narrative Focus**: AMY, a humanoid AI, at the head of the boardroom table, with human-like features and a subtle metallic sheen
+- **GEN ID**: zrIok2FHm2PJM8p5
+
+The image for Scene 2 has been generated. It portrays AMY, the humanoid AI, at the head of the boardroom table in BBT Technologies. The focus is on her human-like appearance contrasted with subtle AI characteristics, set against the backdrop of the high-tech boardroom.
+
+
 
 ---
 
