@@ -90,6 +90,8 @@ JAI and KAI, engaged in a hushed conversation, make their way down the corridor.
 
 # Storyboard Images:
 
+<a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_1/AG1.png" alt="Image1" width="250"/></a><p align="left"><a href="" target="_blank">Scene 1</a>
+
 ### Image Details:
 - **Scene**: 1
 - **Shot Type**: Establishing Shot
