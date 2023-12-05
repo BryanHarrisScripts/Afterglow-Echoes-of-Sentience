@@ -2,6 +2,8 @@
 <a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/README.md">Home</a>
 <div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 1em; margin: 4em 0;">
 <a id="top"></a> 
+    
+**_PUPPETS AND PUPPETEERS PART 1: Block 1 - Version 10_**
 
 ---
 
