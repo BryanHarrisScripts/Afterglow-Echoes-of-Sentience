@@ -54,35 +54,16 @@
 
 ---
 
-# The Storyboard Scenes:
+# Shot List and Storyboard Summaries
 
-**Scene 1: EXT. BBT TECHNOLOGIES - MORNING**
-- **Narrative:** The sun casts a golden hue over the sprawling campus of BBT Technologies. Ultra-modern buildings with sleek glass facades reflect the early morning light. Drone deliveries buzz overhead, and employees in futuristic attire chat and walk.
-- **Shot Type:** Wide shot of the BBT Technologies campus.
-- **Notes:** Emphasize the modernity and scale of the campus, the futuristic technology in use, and the chrome BBT logo at the entrance.
-- **Scene Number:** 1
-
-**Scene 2: INT. REN'S ANTIQUE-LADEN HOME OFFICE - MORNING**
-- **Narrative:** REN enters his home office, a stark contrast to the futuristic world outside. The room is filled with antiques and aged newspaper clippings, hinting at past tragedies.
-- **Shot Type:** Medium shot focusing on REN and the contrasting elements of his office.
-- **Notes:** Highlight the juxtaposition between the old and the new, focusing on the details like the old watch and newspaper clippings.
-- **Scene Number:** 2
-
-**Scene 3: INT. FUTURISTIC LIVING ROOM - DAY (4 YEARS LATER)**
-- **Narrative:** AMY, her face hidden in shadow, picks up scattered toys in a room buzzing with quiet technology. She pauses, gazing at a photograph of Ren with his young daughter, Sarah.
-- **Shot Type:** Close-up on AMY and the photograph.
-- **Notes:** Capture the emotional depth of the moment and the futuristic aspects of the living room.
-- **Scene Number:** 3
-
-**Scene 4: EXT. CITY ROOFTOP - NIGHT**
-- **Narrative:** Against the backdrop of the illuminated city, JAI and KAI stand with intense but unclear intentions.
-- **Shot Type:** Wide shot of the city rooftop with JAI and KAI silhouetted against the city lights.
-- **Notes:** Focus on the imposing figures of Jai and Kai, with the city lights providing a dramatic backdrop.
-- **Scene Number:** 4
-
----
-
-This format presents the script's scenes in a structured and visually descriptive manner, providing clear narrative, shot type, and notes for each scene. It's designed to assist in the visualization and planning of the storyboard for the screenplay. If you need any further modifications or additional scenes formatted, please let me know!
+| Scene | Narrative | Shot Type | Notes | Scene Number |
+|-------|-----------|-----------|-------|--------------|
+| EXT. BBT TECHNOLOGIES - MORNING | Sun illuminating the modern buildings of BBT Technologies. | Wide Shot | Capture the early morning ambiance and the futuristic setting. | 1 |
+| Scene Description | AMY discussing with REN through a holographic screen. | Medium Shot | Highlight the advanced technology and the characters' expressions. | 2 |
+| INT. REN'S HOME OFFICE - MORNING | REN in his antique-laden office, contrasting the futuristic setting outside. | Mid-Close Up | Focus on REN's actions and the room's details. | 3 |
+| 4 YEARS LATER: INT. FUTURISTIC LIVING ROOM - DAY | AMY in a shadowed room, holding a photograph. | Close-Up | Emphasize AMY's contemplative expression and the photograph. | 4 |
+| INT. FUTURISTIC LIVING ROOM - NIGHT | AMY interacting with a holographic interface. | Over-the-Shoulder Shot | Show the interface from AMY's perspective, highlighting her movements. | 5 |
+| EXT. CITY ROOFTOP - NIGHT | JAI and KAI against the city backdrop. | Wide Shot | Capture the imposing presence of JAI and KAI against the city lights. | 6 |
 
 <a href="#top">Back to Top</a>
 
