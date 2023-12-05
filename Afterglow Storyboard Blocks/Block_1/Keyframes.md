@@ -14,7 +14,7 @@
 
 _The room, sleek and dominated by chrome and glass, buzzes with muted conversations. At the head of the long table stands **AMY**, her form strikingly human, yet with a subtle metallic sheen. Her eyes, windows to advanced circuitry, scan the room._
 
-**AMY:** 
+**AMY:**<br> 
 "Good morning, everyone. We are here to discuss the future direction of BBT."
 
 _As she speaks, a **HOLOGRAPHIC DISPLAY** activates, showcasing early designs of humanoid AIs, with AMY at the forefront._
