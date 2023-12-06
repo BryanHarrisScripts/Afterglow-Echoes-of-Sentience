@@ -3,7 +3,40 @@
 <div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 1em; margin: 4em 0;">
 <a id="top"></a> 
 
+**_PUPPETS AND PUPPETEERS PART 2: Block 2 - Version 10_**
+
 ---
+
+# Storyboard Images:
+
+<div style="text-align: center;">
+    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_2/Scene1.png" alt="Scene 1" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_2/Scene2.png" alt="Scene 2" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_2/Scene3.png" alt="Scene 3" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_2/Scene4.png" alt="Scene 4" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_2/Scene5.png" alt="Scene 5" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_2/Scene6.png" alt="Scene 6" width="200" style="display: inline-block;"/></a>
+</div>
+
+# The Storyboard Images:
+
+1. INT. SUMMER'S APARTMENT - MORNING: The image captures Summer Ray dancing through her morning routine in a vibrant, colorful apartment, surrounded by her AI companions.
+
+2. SUMMER RECEIVES AN INCOMING MESSAGE: This scene shows Summer pausing her dance to receive an incoming message, with a close-up on her contemplative expression.
+
+3. PHONE CONVERSATION WITH MOM: The image depicts Summer having a heartfelt phone conversation with her mom, with AI companions in the background.
+
+4. SUMMER ANNOUNCES THE ADVENTURE: A wide shot showing Summer announcing to her AI companions that they are ready for the adventure, capturing their excitement and unity.
+
+5. SUMMER LEAVES WITH A PIECE OF HOME: This scene shows Summer picking up a water bottle labeled 'Beautiful Angel' and preparing to leave her apartment, symbolizing the start of her journey.
+
+In line with our OpenStorytelling Plus commitment, these images and instructions are shared under the Creative Commons CC-BY-SA-4.0 license. 
+This acknowledgment reflects our collaborative and innovative approach to screenplay creation.
+---
+
+# Storyboard:
+
+### Shot List and Storyboard Summaries
 
 | Narrative | Shot Type | Notes | Scene Number |
 |-----------|-----------|-------|--------------|
@@ -13,8 +46,6 @@
 | Dialogue between SUMMER and MOM (V.O.), discussing Summer's decision to leave. | Over-the-Shoulder Shot | Capture Summer from behind, focusing on her as she speaks to her mom, with a view of the AI companions in the background. | 4 |
 | Summer's contemplative moment looking at her AI family. | Close-Up | Show Summer's emotional connection with her AI family, emphasizing her resolve and affection. | 5 |
 | Summer's final decision and readiness to embrace the unknown, with her AI family. | Tracking Shot | Follow Summer as she moves through the apartment, showing her determination and the supportive presence of her AI companions. | 6 |
-
----
 
 ---
 
@@ -56,20 +87,7 @@
 
 <a href="#top">Back to Top</a>
 
-# The Storyboard Images:
 
-1. INT. SUMMER'S APARTMENT - MORNING: The image captures Summer Ray dancing through her morning routine in a vibrant, colorful apartment, surrounded by her AI companions.
-
-2. SUMMER RECEIVES AN INCOMING MESSAGE: This scene shows Summer pausing her dance to receive an incoming message, with a close-up on her contemplative expression.
-
-3. PHONE CONVERSATION WITH MOM: The image depicts Summer having a heartfelt phone conversation with her mom, with AI companions in the background.
-
-4. SUMMER ANNOUNCES THE ADVENTURE: A wide shot showing Summer announcing to her AI companions that they are ready for the adventure, capturing their excitement and unity.
-
-5. SUMMER LEAVES WITH A PIECE OF HOME: This scene shows Summer picking up a water bottle labeled 'Beautiful Angel' and preparing to leave her apartment, symbolizing the start of her journey.
-
-In line with our OpenStorytelling Plus commitment, these images and instructions are shared under the Creative Commons CC-BY-SA-4.0 license. 
-This acknowledgment reflects our collaborative and innovative approach to screenplay creation.
 
 
 Thank you for providing your script. Now, I'll format it according to the Markdown Style Guide for Script Formatting.
