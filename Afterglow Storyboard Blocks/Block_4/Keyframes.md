@@ -39,35 +39,47 @@
 
 ---
 
-**Scene 1: INT. SUMMER'S APARTMENT - MORNING**
-- **Narrative:** Summer Ray dances through her morning routine in an apartment alive with colors and motion, surrounded by her AI companions: Compass, Spectrum, Binary, Byte, Pixel, and Buzz.
-- **Shot Type:** Wide shot of the apartment, capturing the lively and colorful atmosphere.
-- **Notes:** Focus on the vibrant energy of Summer and her AI companions. Highlight the interactions between them and the dynamic, colorful environment.
-- **Scene Number:** 1
+- **Image Details**: Wide shot of a sleek, futuristic self-driving car with Falcon Wing doors open, positioned outside an apartment in the early morning. The car's AI, JOY, is displayed as a digital face on the car's interface.
+- **Scene**: 1
+- **Shot Type**: Wide Shot
+- **Narrative Focus**: Dawn breaks, revealing the sleek self-driving car with the AI JOY.
+- **GEN ID**: VzxlZQcdKzd9peDz
 
-**Scene 2: SUMMER RECEIVES A MESSAGE**
-- **Narrative:** The dance is interrupted by an incoming message, signaling the impending arrival of Summer's car. Summer pauses to take a deep breath before making a phone call.
-- **Shot Type:** Close-up of Summer as she reads the message and reacts.
-- **Notes:** Capture Summer's moment of contemplation and transition from the playful atmosphere to a more serious tone.
-- **Scene Number:** 2
+- **Image Details**: Medium close-up of the digital face named JOY, displayed on the interface of a sleek, futuristic self-driving car, showing subtle expressions of melancholy.
+- **Scene**: 2
+- **Shot Type**: Medium Close-Up
+- **Narrative Focus**: JOY introduces herself to SUMMER, showcasing her digital face.
+- **GEN ID**: Sf1RUP9PJaCT7IGC
 
-**Scene 3: PHONE CONVERSATION WITH MOM**
-- **Narrative:** Summer has a heartfelt phone conversation with her mom, expressing her need for the journey to rediscover herself.
-- **Shot Type:** Medium shot of Summer holding the phone, juxtaposed with cutaways to her AI companions reacting.
-- **Notes:** Emphasize the emotional weight of the conversation and Summer's determination. Show the AI companions symbolizing her 'new' family.
-- **Scene Number:** 3
+- **Image Details**: Over-the-shoulder shot from SUMMER's perspective, focusing on the car's AI interface, JOY, as it suggests a scenic detour to Santa Cruz Pier.
+- **Scene**: 4
+- **Shot Type**: Over-the-Shoulder Shot
+- **Narrative Focus**: JOY suggests a detour to SUMMER, with the route highlighted on the digital interface.
+- **GEN ID**: EAFRRmBgpbsvY4qN
 
-**Scene 4: SUMMER'S DECISION TO EMBARK**
-- **Narrative:** Summer, reassured and confident, announces to her AI companions that they are ready for the adventure, receiving enthusiastic responses from them.
-- **Shot Type:** Wide shot showing Summer with all her AI companions in the room.
-- **Notes:** Highlight the bonding and sense of unity between Summer and her AI companions. Capture the excitement and anticipation of the journey ahead.
-- **Scene Number:** 4
+- **Image Details**: Point of view shot capturing the vibrant city life of San Francisco in the morning, as seen from Summer's perspective inside the car.
+- **Scene**: 6
+- **Shot Type**: Point of View Shot
+- **Narrative Focus**: The liveliness and promise of the cityscape from Summer's viewpoint.
+- **GEN ID**: WRadlKcBKYN2Mb22
 
-**Scene 5: SUMMER LEAVES WITH A PIECE OF HOME**
-- **Narrative:** Summer picks up a water bottle labeled 'Beautiful Angel' and decides to bring it along, symbolizing a piece of home on her journey.
-- **Shot Type:** Close-up on the water bottle, then pulling back to show Summer leaving the apartment with her AI family.
-- **Notes:** Focus on the symbolic significance of the water bottle. Capture the moment of departure, filled with hope and a sense of adventure.
-- **Scene Number:** 5
+- **Image Details**: Close-up shot of REN gazing thoughtfully at a worn brown messenger bag, symbolizing his memories and loss.
+- **Scene**: 7
+- **Shot Type**: Close-Up
+- **Narrative Focus**: REN's reflective expression and emotional connection to the messenger bag.
+- **GEN ID**: zB6vJIotyD25dGDM
+
+- **Image Details**: Two-shot of AMY and REN in deep conversation, with AMY showing concern and REN holding the worn brown messenger bag.
+- **Scene**: 8
+- **Shot Type**: Two-Shot
+- **Narrative Focus**: The intimate and understanding conversation between AMY and REN.
+- **GEN ID**: 7Y8srBUBCLoZiz4Z
+
+- **Image Details**: Close-up shot of REN looking up with determination in his eyes, indicating his decision for a fresh start.
+- **Scene**: 9
+- **Shot Type**: Close-Up
+- **Narrative Focus**: REN's emotional shift and resolve for a new beginning.
+- **GEN ID**: TEt89uPx2lYIjOz1
 
 <a href="#top">Back to Top</a>
 
