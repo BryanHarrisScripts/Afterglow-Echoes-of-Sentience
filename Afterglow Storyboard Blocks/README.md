@@ -17,6 +17,7 @@
            <li><a>PUPPETS AND PUPPETEERS PART 1</a></li>
            <li><a>PUPPETS AND PUPPETEERS PART 2</a></li>
            <li><a>A DANCE WITH AI AND NEW BEGINNINGS</a></li>
+           <li><a>DAWN OF DEPARTURE AND REFLECTION</a></li>
     </ol> 
        </td>
          <td valign="top">
@@ -25,6 +26,7 @@
            <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_1/Keyframes.md">Block 1</a></li>
            <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_2/Keyframes.md">Block 2</a></li>
            <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_3/Keyframes.md">Block 3</a></li>
+           <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_4/Keyframes.md">Block 4</a></li>
     </ol> 
        </td>
          <td valign="top">
@@ -33,6 +35,7 @@
            <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_1/Concept%20Images.md">Block 1</a></li>
            <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_2/Concept%20Images.md">Block 2</a></li>
            <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_3/Concept%20Images.md">Block 3</a></li>
+           <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_4/Concept%20Images.md">Block 4</a></li>
     </ol>
        </td>
     </tr>
