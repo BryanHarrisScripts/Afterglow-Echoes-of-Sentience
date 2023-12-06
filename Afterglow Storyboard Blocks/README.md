@@ -40,8 +40,30 @@
        </td>
     </tr>
   </table>
-
 </div>
+
+# Afterglow: Echoes of Sentience
+
+1. Puppets and Puppeteers,
+2. Broken Numbers, Shattered Hearts,
+3. Summer’s Symphony: A Dance with AI and New Beginnings,
+4. Dawn of Departure and Reflection,
+5. Remnants of the Past and Echoes of the Future,
+6. The Long Road to Silence,
+7. From Dusk to Drive: AI Road Trip Rumble,
+8. A Dance with Summer's Intervention,
+9. The Irony of Connection,
+10. Echoes of Familiarity,
+11. Reflections and Revelations,
+12. Uncharted Territories,
+13. Joyride Into Consciousness,
+14. The Journey Within,
+15. Lost and Found in Venice Beach
+16. Waves of Connections
+17. Wheels of Destiny
+18. Surviving Singularity
+19. Coded Bonds
+20. Guiding Stars
 
 ---
 
