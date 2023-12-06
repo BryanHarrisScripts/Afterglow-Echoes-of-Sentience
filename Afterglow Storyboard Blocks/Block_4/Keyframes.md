@@ -39,7 +39,6 @@
 
 ---
 
-
 **Scene 1:**
 - **Image Details**: Wide shot of a sleek, futuristic self-driving car with Falcon Wing doors open, positioned outside an apartment in the early morning. The car's AI, JOY, is displayed as a digital face on the car's interface.
 - **Scene**: 1
