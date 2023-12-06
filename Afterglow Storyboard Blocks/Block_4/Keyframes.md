@@ -22,14 +22,17 @@
 
 ### Shot List and Storyboard Summaries
 
-| Narrative | Shot Type | Notes | Scene Number |
-|-----------|-----------|-------|--------------|
-| Bright sunlight in Summer's colorful apartment, introducing SUMMER RAY and her AI companions. | Wide Shot | Capture the vibrant and lively atmosphere of the apartment, focusing on the harmony between Summer and her AI companions. | 1 |
-| Summer interacting with COMPASS the dog, SPECTRUM the macaw, BINARY and BYTE the turtles, PIXEL the kitten, and BUZZ the vacuum. | Medium Shot | Highlight the unique characteristics of each AI companion and their interaction with Summer. | 2 |
-| An incoming message interrupts Summer's dance. | Close-Up | Focus on Summer's face to capture her reaction to the message, with a backdrop of her AI companions. | 3 |
-| Dialogue between SUMMER and MOM (V.O.), discussing Summer's decision to leave. | Over-the-Shoulder Shot | Capture Summer from behind, focusing on her as she speaks to her mom, with a view of the AI companions in the background. | 4 |
-| Summer's contemplative moment looking at her AI family. | Close-Up | Show Summer's emotional connection with her AI family, emphasizing her resolve and affection. | 5 |
-| Summer's final decision and readiness to embrace the unknown, with her AI family. | Tracking Shot | Follow Summer as she moves through the apartment, showing her determination and the supportive presence of her AI companions. | 6 |
+| Scene | Narrative | Shot Type | Notes | Scene Number |
+|-------|-----------|-----------|-------|--------------|
+| EXT. SUMMER'S APARTMENT - MORNING | Dawn breaks, revealing the BTT Technologies shuttle and JOY. | Wide Shot | Capture the early morning ambiance and the sleek design of the shuttle. | 1 |
+| JOY and SUMMER Interaction | JOY introduces herself to SUMMER, showcasing her digital face. | Medium Close-Up | Focus on JOY's digital face to capture the subtle expressions. | 2 |
+| SUMMER and Robots | SUMMER addressing the robots, showing her excitement and apprehension. | Full Shot | Include SUMMER and the diverse robots in the frame to show the interaction. | 3 |
+| JOY and SUMMER Dialogue | JOY suggests a detour to SUMMER. | Over-the-Shoulder Shot | From SUMMER's perspective, focusing on JOY's interface. | 4 |
+| Departure | The shuttle merges with the morning cityscape. | Tracking Shot | Follow the shuttle as it blends into the cityscape. | 5 |
+| EXT. SAN FRANCISCO - SUMMER'S PERSPECTIVE | View of San Francisco from Summer's perspective. | Point of View Shot | Show the vibrant city life from SUMMER's viewpoint. | 6 |
+| EXT. SAN FRANCISCO - REN'S PERSPECTIVE | REN looks at his messenger bag, reflecting on memories. | Close-Up | Close on the bag and REN's thoughtful expression. | 7 |
+| AMY and REN Conversation | AMY and REN discuss the significance of the bag. | Two-Shot | Both AMY and REN in the frame, capturing their interaction. | 8 |
+| REN's Decision | REN's moment of determination for a new start. | Close-Up | Focus on REN's determined expression. | 9 |
 
 <a href="#top">Back to Top</a>
 
