@@ -44,7 +44,7 @@
 
 # Afterglow: Echoes of Sentience
 
-1. Puppets and Puppeteers,
+1. Puppets and Puppeteers, Block 1a, 2b,
 2. Broken Numbers, Shattered Hearts,
 3. Summer’s Symphony: A Dance with AI and New Beginnings,
 4. Dawn of Departure and Reflection,
