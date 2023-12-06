@@ -5,56 +5,16 @@
 
 ---
 
-# AFTERGLOW: "ECHOES OF SENTIENCE"
-## A Dance with AI and New Beginnings: Block 3 - Version 10
+| Narrative | Shot Type | Notes | Scene Number |
+|-----------|-----------|-------|--------------|
+| Bright sunlight in Summer's colorful apartment, introducing SUMMER RAY and her AI companions. | Wide Shot | Capture the vibrant and lively atmosphere of the apartment, focusing on the harmony between Summer and her AI companions. | 1 |
+| Summer interacting with COMPASS the dog, SPECTRUM the macaw, BINARY and BYTE the turtles, PIXEL the kitten, and BUZZ the vacuum. | Medium Shot | Highlight the unique characteristics of each AI companion and their interaction with Summer. | 2 |
+| An incoming message interrupts Summer's dance. | Close-Up | Focus on Summer's face to capture her reaction to the message, with a backdrop of her AI companions. | 3 |
+| Dialogue between SUMMER and MOM (V.O.), discussing Summer's decision to leave. | Over-the-Shoulder Shot | Capture Summer from behind, focusing on her as she speaks to her mom, with a view of the AI companions in the background. | 4 |
+| Summer's contemplative moment looking at her AI family. | Close-Up | Show Summer's emotional connection with her AI family, emphasizing her resolve and affection. | 5 |
+| Summer's final decision and readiness to embrace the unknown, with her AI family. | Tracking Shot | Follow Summer as she moves through the apartment, showing her determination and the supportive presence of her AI companions. | 6 |
 
-### INT. SUMMER'S APARTMENT - MORNING
-Bright sunlight filters through the windows, revealing an apartment alive with colors and motion. SUMMER RAY (41), vibrant and full of life, dances through her morning routine, accompanied by her AI companions: COMPASS the robotic dog, SPECTRUM the macaw, BINARY and BYTE the turtles, PIXEL the kitten, and BUZZ the vacuum.
-
-### Scene Description
-The room is a symphony of movement: Spectrum flits around, Binary and Byte move in tandem, Pixel playfully chases Buzz, and Compass circles Summer with a wagging tail. An incoming message interrupts the dance.
-
-<br>
-
-> **MESSAGE:**
- "Your car arrives in 10 minutes."
-
-<br>
-
-#### **SUMMER:**
-"Mom, today's the day."
-
-#### **MOM (V.O.):**
-"I hoped you'd reconsider."
-
-#### **SUMMER:**
-"I love you, but I need this journey. To rediscover myself."
-
-#### **MOM (V.O.):**
-"Without your roots? Your history?"
-
-Summer looks to her AI family.
-
-#### **SUMMER:**
-"They come with me. We'll explore new horizons together. Maybe they'll learn... just as I hope to."
-
-#### **MOM (V.O.):**
-"Just remember who you are, Summer."
-
-#### **SUMMER:**
-"Every step I take is a part of that discovery. Trust me."
-
-She ends the call and turns to her AI companions.
-
-#### **SUMMER (CONT'D):**
-"Ready for the adventure?"
-
-Their animated responses fill the room. Compass's tail wags energetically, Spectrum gives a chirp, Binary and Byte beep in sync, Pixel purrs, and Buzz hums in agreement. Summer's gaze falls on a lone water bottle labeled 'Beautiful Angel' on the counter. She hesitates, then picks it up.
-
-#### **SUMMER (CONT'D) (to Buzz):**
-"Let's bring a piece of home with us."
-
-Clutching the bottle, with her AI family in tow, Summer confidently strides to the door, ready to embrace the unknown.
+---
 
 ---
 
@@ -111,6 +71,60 @@ Clutching the bottle, with her AI family in tow, Summer confidently strides to t
 In line with our OpenStorytelling Plus commitment, these images and instructions are shared under the Creative Commons CC-BY-SA-4.0 license. 
 This acknowledgment reflects our collaborative and innovative approach to screenplay creation.
 
+
+Thank you for providing your script. Now, I'll format it according to the Markdown Style Guide for Script Formatting.
+
+---
+
+## AFTERGLOW: "ECHOES OF SENTIENCE"
+**A Dance with AI and New Beginnings: Block 3 - Version 10**
+
+### **INT. SUMMER'S APARTMENT - MORNING**
+_Bright sunlight filters through the windows, revealing an apartment alive with colors and motion. SUMMER RAY (41), vibrant and full of life, dances through her morning routine, accompanied by her AI companions: COMPASS the robotic dog, SPECTRUM the macaw, BINARY and BYTE the turtles, PIXEL the kitten, and BUZZ the vacuum._
+
+#### Scene Description
+_The room is a symphony of movement: Spectrum flits around, Binary and Byte move in tandem, Pixel playfully chases Buzz, and Compass circles Summer with a wagging tail. An incoming message interrupts the dance._
+
+> MESSAGE: "Your car arrives in 10 minutes."
+
+**SUMMER:**  
+"Mom, today's the day."
+
+**MOM (V.O.):**  
+"I hoped you'd reconsider."
+
+**SUMMER:**  
+"I love you, but I need this journey. To rediscover myself."
+
+**MOM (V.O.):**  
+"Without your roots? Your history?"
+
+_Summer looks to her AI family._
+
+**SUMMER:**  
+"They come with me. We'll explore new horizons together. Maybe they'll learn... just as I hope to."
+
+**MOM (V.O.):**  
+"Just remember who you are, Summer."
+
+**SUMMER:**  
+"Every step I take is a part of that discovery. Trust me."
+
+_She ends the call and turns to her AI companions._
+
+**SUMMER (CONT'D):**  
+"Ready for the adventure?"
+
+_Their animated responses fill the room. Compass's tail wags energetically, Spectrum gives a chirp, Binary and Byte beep in sync, Pixel purrs, and Buzz hums in agreement. Summer's gaze falls on a lone water bottle labeled 'Beautiful Angel' on the counter. She hesitates, then picks it up._
+
+**SUMMER (CONT'D) (to Buzz):**  
+"Let's bring a piece of home with us."
+
+_Clutching the bottle, with her AI family in tow, Summer confidently strides to the door, ready to embrace the unknown._
+
+---
+
+This is the formatted script following the Markdown Style Guide. Would you like to proceed to Step 2 for the shot list and storyboard summaries?
 ---
 
 <a href="#top">Back to Top</a>
