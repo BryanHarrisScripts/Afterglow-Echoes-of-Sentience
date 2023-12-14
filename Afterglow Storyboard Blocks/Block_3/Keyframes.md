@@ -65,8 +65,6 @@
 - **Notes:** Focus on the symbolic significance of the water bottle. Capture the moment of departure, filled with hope and a sense of adventure.
 - **Scene Number:** 5
 
-<a href="#top">Back to Top</a>
-
 ---
 
 In line with our OpenStorytelling Plus commitment, these images and instructions are shared under the Creative Commons CC-BY-SA-4.0 license. This acknowledgment reflects our collaborative and innovative approach to screenplay creation.
