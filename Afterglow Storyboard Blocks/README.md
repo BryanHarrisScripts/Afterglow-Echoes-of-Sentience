@@ -65,7 +65,7 @@
       <td valign="top">
         <h4>Keyframes</h4>
         <ol start="1">
-          <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/tree/main/Afterglow%20Storyboard%20Blocks/Block_1/Keyframes">Block 1</a></li>
+          <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/tree/main/Afterglow%20Storyboard%20Blocks/Block_1/Keyframes.md">Block 1</a></li>
           <li><a href="URL_FOR_BLOCK_2_KEYFRAMES">Block 2</a></li>
           <li><a href="URL_FOR_BLOCK_3_KEYFRAMES">Block 3</a></li>
           <li><a href="URL_FOR_BLOCK_4_KEYFRAMES">Block 4</a></li>
@@ -90,7 +90,7 @@
     <td valign="top">
         <h4>Artwork</h4>
         <ol start="1">
-          <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/tree/main/Afterglow%20Storyboard%20Blocks/Block_1/Artwork">Block 1</a></li>
+          <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/tree/main/Afterglow%20Storyboard%20Blocks/Block_1/Artwork.md">Block 1</a></li>
           <li><a href="URL_FOR_BLOCK_2_KEYFRAMES">Block 2</a></li>
           <li><a href="URL_FOR_BLOCK_3_KEYFRAMES">Block 3</a></li>
           <li><a href="URL_FOR_BLOCK_4_KEYFRAMES">Block 4</a></li>
