@@ -10,11 +10,10 @@
 
 <table>
 <tr>
-<td><a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_4/AG1.png" alt="Image1" width="2500"/></a><p align="center"><a href="" target="_blank">Concept Image</a></p></td>
-<td><a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_4/AG2.png" alt="Image2" width="2500"/></a><p align="center"><a href="" target="_blank">Concept Image</a></p></td>
-<td><a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_4/AG3.png" alt="Image3" width="2500"/></a><p align="center"><a href="" target="_blank">Concept Image</a></p></td>
-<td><a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_4/AG4.png" alt="Image4" width="2500"/></a><p align="center"><a href="" target="_blank">Concept Image</a></p></td>
-
+<td><a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_4/Artwork/AG1.PNG" alt="Image1" width="2500"/></a><p align="center"><a href="" target="_blank">Concept Image</a></p></td>
+<td><a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_4/Artwork/AG2.PNG" alt="Image1" width="2500"/></a><p align="center"><a href="" target="_blank">Concept Image</a></p></td>
+<td><a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_4/Artwork/AG3.PNG" alt="Image1" width="2500"/></a><p align="center"><a href="" target="_blank">Concept Image</a></p></td>
+<td><a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_4/Artwork/AG4.PNG" alt="Image1" width="2500"/></a><p align="center"><a href="" target="_blank">Concept Image</a></p></td>
 <!-- 
 <td><a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_3/AG5.png" alt="Image5" width="2500"/></a><p align="center"><a href="" target="_blank">Concept Image</a></p></td>
 </tr>
