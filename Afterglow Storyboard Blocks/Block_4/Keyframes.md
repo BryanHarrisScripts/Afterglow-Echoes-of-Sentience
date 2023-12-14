@@ -23,25 +23,18 @@
 
 ### Shot List and Storyboard Summaries
 
-| Scene | Narrative | Shot Type | Notes | Scene Number |
-|-------|-----------|-----------|-------|--------------|
-| EXT. SUMMER'S APARTMENT - MORNING | Dawn breaks, revealing the BTT Technologies shuttle and JOY. | Wide Shot | Capture the early morning ambiance and the sleek design of the shuttle. | 1 |
-| JOY and SUMMER Interaction | JOY introduces herself to SUMMER, showcasing her digital face. | Medium Close-Up | Focus on JOY's digital face to capture the subtle expressions. | 2 |
-| SUMMER and Robots | SUMMER addressing the robots, showing her excitement and apprehension. | Full Shot | Include SUMMER and the diverse robots in the frame to show the interaction. | 3 |
-| JOY and SUMMER Dialogue | JOY suggests a detour to SUMMER. | Over-the-Shoulder Shot | From SUMMER's perspective, focusing on JOY's interface. | 4 |
-| Departure | The shuttle merges with the morning cityscape. | Tracking Shot | Follow the shuttle as it blends into the cityscape. | 5 |
-| EXT. SAN FRANCISCO - SUMMER'S PERSPECTIVE | View of San Francisco from Summer's perspective. | Point of View Shot | Show the vibrant city life from SUMMER's viewpoint. | 6 |
-| EXT. SAN FRANCISCO - REN'S PERSPECTIVE | REN looks at his messenger bag, reflecting on memories. | Close-Up | Close on the bag and REN's thoughtful expression. | 7 |
-| AMY and REN Conversation | AMY and REN discuss the significance of the bag. | Two-Shot | Both AMY and REN in the frame, capturing their interaction. | 8 |
-| REN's Decision | REN's moment of determination for a new start. | Close-Up | Focus on REN's determined expression. | 9 |
+| Scene | Location & Time | Narrative | Shot Type | Notes |
+|-------|-----------------|-----------|-----------|-------|
+| 1 | INT. REN'S HOME OFFICE - DAY (FLASHBACK) | Ren in his office, surrounded by a mix of antiques and modern tech. He's lost in thought, reflecting on the past. | Close-up of Ren's hands over the robotic dog, then a wide shot of the room. | Highlight the emotional connection with the robotic dog and contrast between old and new elements. |
+| 2 | INT. BBT SELF-DRIVING CAR - CONTINUOUS | Claire, frustrated, is in the self-driving car, talking to Ren. The car shows signs of malfunction. | Medium shot of Claire, then cut to Sarah in the backseat. | The interior should look futuristic. Subtly hint at the car's malfunction. |
+| 3 | INT. REN'S HOME OFFICE - CONTINUOUS | Ren reacts to a crash sound over the phone, transitioning from reminiscence to shock. | Close-up on Ren's face to capture his emotional shift. | Focus on Ren's expressions. The room reflects a sudden change in mood. |
+| 4 | EXT. BBT TECHNOLOGIES - MORNING (4 YEARS LATER) | Ren and Amy converse through a holographic screen outside BBT Technologies. | Wide shot of BBT Technologies, then medium shots of Amy and Ren. | Show the cold, impersonal environment. Ren's expressions should reflect his downfall and the weight of the past. |
 
 <a href="#top">Back to Top</a>
 
 ---
 
 Step 2: Storyboard and Shot List Creation
-
-For "BROKEN NUMBERS, SHATTERED HEARTS," we'll develop a storyboard and shot list. Here's an example layout:
 
 1. **Scene 1: INT. REN'S HOME OFFICE - DAY (FLASHBACK)**
    - **Narrative:** Ren reminiscing in his office, surrounded by technology and personal memorabilia.
