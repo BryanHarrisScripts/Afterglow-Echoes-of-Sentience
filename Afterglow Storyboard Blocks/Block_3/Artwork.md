@@ -8,33 +8,14 @@
 
 <table>
 <tr>
-<td><a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_3/Artwork/AG1.png" alt="Image1" width="2500"/></a><p align="center"><a href="" target="_blank">Concept Image</a></p></td>
-<td><a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_3/Artwork/AG2.png" alt="Image2" width="2500"/></a><p align="center"><a href="" target="_blank">Concept Image</a></p></td>
-<td><a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_3/Artwork/AG3.png" alt="Image3" width="2500"/></a><p align="center"><a href="" target="_blank">Concept Image</a></p></td>
-<td><a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_3/Artwork/AG4.png" alt="Image4" width="2500"/></a><p align="center"><a href="" target="_blank">Concept Image</a></p></td>
-<td><a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_3/Artwork/AG5.png" alt="Image5" width="2500"/></a><p align="center"><a href="" target="_blank">Concept Image</a></p></td>
+<td><a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_3/Artwork/AG1.PNG" alt="Image1" width="2500"/></a><p align="center"><a href="" target="_blank">Concept Image</a></p></td>
+<td><a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_3/Artwork/AG2.PNG" alt="Image2" width="2500"/></a><p align="center"><a href="" target="_blank">Concept Image</a></p></td>
+<td><a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_3/Artwork/AG3.PNG" alt="Image3" width="2500"/></a><p align="center"><a href="" target="_blank">Concept Image</a></p></td>
+<td><a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_3/Artwork/AG4.PNG" alt="Image4" width="2500"/></a><p align="center"><a href="" target="_blank">Concept Image</a></p></td>
+<td><a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_3/Artwork/AG5.PNG" alt="Image5" width="2500"/></a><p align="center"><a href="" target="_blank">Concept Image</a></p></td>
 </tr>
 </table>
 
-<table>
-<tr>
-<td><a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_3/Artwork/AG6.png" alt="Image6" width="2500"/></a><p align="center"><a href="" target="_blank">Concept Image</a></p></td></td>
-<td><a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_3/Artwork/AG7.png" alt="Image7" width="2500"/></a><p align="center"><a href="" target="_blank">Concept Image</a></p></td>
-<td><a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_3/Artwork/AG8.png" alt="Image8" width="2500"/></a><p align="center"><a href="" target="_blank">Concept Image</a></p></td>
-<td><a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_3/Artwork/AG9.png" alt="Image9" width="2500"/></a><p align="center"><a href="" target="_blank">Concept Image</a></p></td>
-<td><a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_3/Artwork/AG10.png" alt="Image10" width="2500"/></a><p align="center"><a href="" target="_blank">Concept Image</a></p></td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td><a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_3/Artwork/AG11.png" alt="Image11" width="2500"/></a><p align="center"><a href="" target="_blank">Concept Image</a></p></td></td>
-<td><a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_3/Artwork/AG12.png" alt="Image12" width="2500"/></a><p align="center"><a href="" target="_blank">Concept Image</a></p></td>
-<td><a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_3/Artwork/AG13.png" alt="Image13" width="2500"/></a><p align="center"><a href="" target="_blank">Concept Image</a></p></td>
-<td><a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_3/Artwork/AG14.png" alt="Image14" width="2500"/></a><p align="center"><a href="" target="_blank">Concept Image</a></p></td>
-<td><a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_3/Artwork/AG15.png" alt="Image15" width="2500"/></a><p align="center"><a href="" target="_blank">Concept Image</a></p></td>
-</tr>
-</table>
 
 ### Image Generation Plan
 
