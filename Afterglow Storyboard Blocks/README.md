@@ -53,64 +53,64 @@
           <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/tree/main/Afterglow%20Storyboard%20Blocks/Block_11/README.md">Block 11</a></li>
           <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/tree/main/Afterglow%20Storyboard%20Blocks/Block_12/README.md">Block 12</a></li>
           <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/tree/main/Afterglow%20Storyboard%20Blocks/Block_13/README.md">Block 13</a></li>
-          <li><a href="URL_FOR_BLOCK_14_MD_SCRIPT">Block 14</a></li>
-          <li><a href="URL_FOR_BLOCK_15_MD_SCRIPT">Block 15</a></li>
-          <li><a href="URL_FOR_BLOCK_16_MD_SCRIPT">Block 16</a></li>
-          <li><a href="URL_FOR_BLOCK_17_MD_SCRIPT">Block 17</a></li>
-          <li><a href="URL_FOR_BLOCK_18_MD_SCRIPT">Block 18</a></li>
-          <li><a href="URL_FOR_BLOCK_19_MD_SCRIPT">Block 19</a></li>
-          <li><a href="URL_FOR_BLOCK_20_MD_SCRIPT">Block 20</a></li>
+          <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/tree/main/Afterglow%20Storyboard%20Blocks/Block_14/README.md">Block 14</a></li>
+          <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/tree/main/Afterglow%20Storyboard%20Blocks/Block_15/README.md">Block 15</a></li>
+          <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/tree/main/Afterglow%20Storyboard%20Blocks/Block_16/README.md">Block 16</a></li>
+          <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/tree/main/Afterglow%20Storyboard%20Blocks/Block_17/README.md">Block 17</a></li>
+          <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/tree/main/Afterglow%20Storyboard%20Blocks/Block_18/README.md">Block 18</a></li>
+          <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/tree/main/Afterglow%20Storyboard%20Blocks/Block_19/README.md">Block 19</a></li>
+          <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/tree/main/Afterglow%20Storyboard%20Blocks/Block_20/README.md">Block 20</a></li>
         </ol> 
       </td>
       <td valign="top">
         <h4>Keyframes</h4>
         <ol start="1">
           <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/tree/main/Afterglow%20Storyboard%20Blocks/Block_1/Keyframes.md">Block 1</a></li>
-          <li><a href="URL_FOR_BLOCK_2_KEYFRAMES">Block 2</a></li>
-          <li><a href="URL_FOR_BLOCK_3_KEYFRAMES">Block 3</a></li>
-          <li><a href="URL_FOR_BLOCK_4_KEYFRAMES">Block 4</a></li>
-          <li><a href="URL_FOR_BLOCK_5_KEYFRAMES">Block 5</a></li>
-          <li><a href="URL_FOR_BLOCK_6_KEYFRAMES">Block 6</a></li>
-          <li><a href="URL_FOR_BLOCK_7_KEYFRAMES">Block 7</a></li>
-          <li><a href="URL_FOR_BLOCK_8_KEYFRAMES">Block 8</a></li>
-          <li><a href="URL_FOR_BLOCK_9_KEYFRAMES">Block 9</a></li>
-          <li><a href="URL_FOR_BLOCK_10_KEYFRAMES">Block 10</a></li>
-          <li><a href="URL_FOR_BLOCK_11_KEYFRAMES">Block 11</a></li>
-          <li><a href="URL_FOR_BLOCK_12_KEYFRAMES">Block 12</a></li>
-          <li><a href="URL_FOR_BLOCK_13_KEYFRAMES">Block 13</a></li>
-          <li><a href="URL_FOR_BLOCK_14_KEYFRAMES">Block 14</a></li>
-          <li><a href="URL_FOR_BLOCK_15_KEYFRAMES">Block 15</a></li>
-          <li><a href="URL_FOR_BLOCK_16_KEYFRAMES">Block 16</a></li>
-          <li><a href="URL_FOR_BLOCK_17_KEYFRAMES">Block 17</a></li>
-          <li><a href="URL_FOR_BLOCK_18_KEYFRAMES">Block 18</a></li>
-          <li><a href="URL_FOR_BLOCK_19_KEYFRAMES">Block 19</a></li>
-          <li><a href="URL_FOR_BLOCK_20_KEYFRAMES">Block 20</a></li>
+          <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/tree/main/Afterglow%20Storyboard%20Blocks/Block_2/Keyframes.md">Block 2</a></li>
+          <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/tree/main/Afterglow%20Storyboard%20Blocks/Block_3/Keyframes.md">Block 3</a></li>
+          <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/tree/main/Afterglow%20Storyboard%20Blocks/Block_4/Keyframes.md">Block 4</a></li>
+          <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/tree/main/Afterglow%20Storyboard%20Blocks/Block_5/Keyframes.md">Block 5</a></li>
+          <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/tree/main/Afterglow%20Storyboard%20Blocks/Block_6/Keyframes.md">Block 6</a></li>
+          <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/tree/main/Afterglow%20Storyboard%20Blocks/Block_7/Keyframes.md">Block 7</a></li>
+          <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/tree/main/Afterglow%20Storyboard%20Blocks/Block_8/Keyframes.md">Block 8</a></li>
+          <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/tree/main/Afterglow%20Storyboard%20Blocks/Block_9/Keyframes.md">Block 9</a></li>
+          <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/tree/main/Afterglow%20Storyboard%20Blocks/Block_10/Keyframes.md">Block 10</a></li>
+          <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/tree/main/Afterglow%20Storyboard%20Blocks/Block_11/Keyframes.md">Block 11</a></li>
+          <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/tree/main/Afterglow%20Storyboard%20Blocks/Block_12/Keyframes.md">Block 12</a></li>
+          <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/tree/main/Afterglow%20Storyboard%20Blocks/Block_13/Keyframes.md">Block 13</a></li>
+          <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/tree/main/Afterglow%20Storyboard%20Blocks/Block_14/Keyframes.md">Block 14</a></li>
+          <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/tree/main/Afterglow%20Storyboard%20Blocks/Block_15/Keyframes.md">Block 15</a></li>
+          <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/tree/main/Afterglow%20Storyboard%20Blocks/Block_16/Keyframes.md">Block 16</a></li>
+          <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/tree/main/Afterglow%20Storyboard%20Blocks/Block_17/Keyframes.md">Block 17</a></li>
+          <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/tree/main/Afterglow%20Storyboard%20Blocks/Block_18/Keyframes.md">Block 18</a></li>
+          <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/tree/main/Afterglow%20Storyboard%20Blocks/Block_19/Keyframes.md">Block 19</a></li>
+          <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/tree/main/Afterglow%20Storyboard%20Blocks/Block_20/Keyframes.md">Block 20</a></li>
         </ol>
       </td>
     <td valign="top">
         <h4>Artwork</h4>
         <ol start="1">
           <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/tree/main/Afterglow%20Storyboard%20Blocks/Block_1/Artwork.md">Block 1</a></li>
-          <li><a href="URL_FOR_BLOCK_2_KEYFRAMES">Block 2</a></li>
-          <li><a href="URL_FOR_BLOCK_3_KEYFRAMES">Block 3</a></li>
-          <li><a href="URL_FOR_BLOCK_4_KEYFRAMES">Block 4</a></li>
-          <li><a href="URL_FOR_BLOCK_5_KEYFRAMES">Block 5</a></li>
-          <li><a href="URL_FOR_BLOCK_6_KEYFRAMES">Block 6</a></li>
-          <li><a href="URL_FOR_BLOCK_7_KEYFRAMES">Block 7</a></li>
-          <li><a href="URL_FOR_BLOCK_8_KEYFRAMES">Block 8</a></li>
-          <li><a href="URL_FOR_BLOCK_9_KEYFRAMES">Block 9</a></li>
-          <li><a href="URL_FOR_BLOCK_10_KEYFRAMES">Block 10</a></li>
-          <li><a href="URL_FOR_BLOCK_11_KEYFRAMES">Block 11</a></li>
-          <li><a href="URL_FOR_BLOCK_12_KEYFRAMES">Block 12</a></li>
-          <li><a href="URL_FOR_BLOCK_13_KEYFRAMES">Block 13</a></li>
-          <li><a href="URL_FOR_BLOCK_14_KEYFRAMES">Block 14</a></li>
-          <li><a href="URL_FOR_BLOCK_15_KEYFRAMES">Block 15</a></li>
-          <li><a href="URL_FOR_BLOCK_16_KEYFRAMES">Block 16</a></li>
-          <li><a href="URL_FOR_BLOCK_17_KEYFRAMES">Block 17</a></li>
-          <li><a href="URL_FOR_BLOCK_18_KEYFRAMES">Block 18</a></li>
-          <li><a href="URL_FOR_BLOCK_19_KEYFRAMES">Block 19</a></li>
-          <li><a href="URL_FOR_BLOCK_20_KEYFRAMES">Block 20</a></li>
-        </ol>
+	  <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/tree/main/Afterglow%20Storyboard%20Blocks/Block_2/Artwork.md">Block 2</a></li>        
+          <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/tree/main/Afterglow%20Storyboard%20Blocks/Block_3/Artwork.md">Block 3</a></li>
+          <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/tree/main/Afterglow%20Storyboard%20Blocks/Block_4/Artwork.md">Block 4</a></li>
+          <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/tree/main/Afterglow%20Storyboard%20Blocks/Block_5/Artwork.md">Block 5</a></li>
+          <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/tree/main/Afterglow%20Storyboard%20Blocks/Block_6/Artwork.md">Block 6</a></li>
+          <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/tree/main/Afterglow%20Storyboard%20Blocks/Block_7/Artwork.md">Block 7</a></li>
+          <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/tree/main/Afterglow%20Storyboard%20Blocks/Block_8/Artwork.md">Block 8</a></li>
+          <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/tree/main/Afterglow%20Storyboard%20Blocks/Block_9/Artwork.md">Block 9</a></li>
+          <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/tree/main/Afterglow%20Storyboard%20Blocks/Block_10/Artwork.md">Block 10</a></li>
+          <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/tree/main/Afterglow%20Storyboard%20Blocks/Block_11/Artwork.md">Block 11</a></li>
+          <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/tree/main/Afterglow%20Storyboard%20Blocks/Block_12/Artwork.md">Block 12</a></li>
+          <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/tree/main/Afterglow%20Storyboard%20Blocks/Block_13/Artwork.md">Block 13</a></li>
+          <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/tree/main/Afterglow%20Storyboard%20Blocks/Block_14/Artwork.md">Block 14</a></li>
+          <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/tree/main/Afterglow%20Storyboard%20Blocks/Block_15/Artwork.md">Block 15</a></li>
+          <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/tree/main/Afterglow%20Storyboard%20Blocks/Block_16/Artwork.md">Block 16</a></li>
+          <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/tree/main/Afterglow%20Storyboard%20Blocks/Block_17/Artwork.md">Block 17</a></li>
+          <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/tree/main/Afterglow%20Storyboard%20Blocks/Block_18/Artwork.md">Block 18</a></li>
+          <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/tree/main/Afterglow%20Storyboard%20Blocks/Block_19/Artwork.md">Block 19</a></li>
+          <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/tree/main/Afterglow%20Storyboard%20Blocks/Block_20/Artwork.md">Block 20</a></li>
+       </ol>
       </td>
      </tr>
   </table>
