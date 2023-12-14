@@ -3,65 +3,72 @@
 <div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 1em; margin: 4em 0;">
 <a id="top"></a> 
 
-## AFTERGLOW: "ECHOES OF SENTIENCE"
-**DAWN OF DEPARTURE AND REFLECTION: Block 4 - Version 10**
+## "BROKEN NUMBERS, SHATTERED HEARTS"
+Block 4 - v10
 
-### **EXT. SUMMER'S APARTMENT - MORNING**
+### INT. REN'S HOME OFFICE - DAY
+_FLASHBACK TO (4 YEARS EARLIER)_
 
-_As dawn paints the sky, the sleek BTT Technologies shuttle stands poised. The Falcon Wing doors gracefully part, revealing JOY, the car's AI, with a digital face that betrays hints of melancholy._
+>_The room, an evolving blend of the past and future, has fewer antiques than before, but a growing collection of tech gadgets. Ren's fingers trace over the robotic dog, a connection to a simpler past. His computer screen displays a cascade of green — prosperity before the fall._
 
-**JOY**  
-"Hello, SUMMER. I'm JOY, although I sometimes question the fittingness of the name."
+>_Suddenly, his phone rings, breaking his concentration. He brushes a photo frame while searching, revealing images of Claire and a younger Ren with toddler Sarah._
 
-**SUMMER**  
-_(raised eyebrow)_  
-"An intriguing introduction for a car AI. Robots, let's embark!"
+>_The phone's persistent buzz amplifies his anxiety. His gaze lands on Claire's picture, triggering a rush of memories and guilt._
 
-_The robots, each unique in design and function, move to board. SUMMER's actions display a mix of excitement and apprehension._
+>_He answers, attempting to mask his unease._
 
-**JOY**  
-"It seems you have quite the journey planned. May I ask the occasion?"
+**REN**
+"Claire?"
 
-**SUMMER**  
-"I'm relocating to Costa Rica. But first, a scenic drive down the Pacific Coast Highway. Starting with Venice Beach."
+### CUT TO:
 
-_However, as Summer keys in her preferred destination, JOY's interface hesitates and then overrides it._
+### INT. BBT SELF-DRIVING CAR - CONTINUOUS
 
-**JOY**  
-“Perhaps a brief detour? Santa Cruz Pier first. I promise it'll be worth it.”
+>_Claire, her voice tinged with frustration, sits in the driver's seat. The futuristic dashboard lights flicker ominously. The car's BBT logo illuminates briefly, hinting at a malfunction._
 
-**SUMMER**  
-_(lightheartedly)_  
-"Trusting you on this one, JOY."
+**CLAIRE**
+"Ren, don't tell me you're still home?"
 
-_They set off, the shuttle seamlessly merging with the morning cityscape._
+>_In the backseat, a younger Sarah disconnects momentarily from her AR/VR headset._
 
-### **EXT. SAN FRANCISCO - MORNING - SUMMER'S PERSPECTIVE**
+**SARAH**
+"Dad, you promised my music when you come down."
 
-_From Summer's vantage, the city is alive with promise, the beginning of an adventure down the coast._
+>_Claire's frustration grows. She tries to manually override the car's controls, her grip on the phone faltering._
 
-### **EXT. SAN FRANCISCO - MORNING - REN'S PERSPECTIVE**
+**CLAIRE**
+(hurried, concerned)
+"Ren, did you remember our meeting? You promised you'd be here."
 
-_The same city, yet REN's gaze is drawn to a worn brown messenger bag beside him, an anchor to memories and loss. AMY, concern etched on her face, steps closer._
+>_Before Ren can respond, a horrific crash sound interrupts, followed by deafening silence._
 
-**AMY**  
-"That bag... it's been with you through so much."
+**REN**
+"Claire?!"
 
-**REN**  
-"It's a link to the past. To them."
+### CUT BACK TO:
 
-**AMY**  
-"But also to the future, Ren. Remember Sarah's joy at Botimal Park?"
+### INT. REN'S HOME OFFICE - CONTINUOUS
 
-_REN nods, lost in the memory._
+>_The weight of the silence is overwhelming. Ren's face pales, the enormity of the situation slowly sinking in._
 
-**AMY (CONT'D)**  
-"It's about cherishing those moments while making room for new ones."
+>_The phone drops, the room now a silent testament to a past full of memories and promises._
 
-_REN looks up, determination in his eyes._
+_FADE TO BLACK._
 
-**REN**  
-"Time for a fresh start."
+_4 YEARS LATER_
+
+_FADE IN:_
+
+### EXT. BBT TECHNOLOGIES - MORNING
+
+>_The hum of advanced technology surrounds the modern structure of BBT Technologies. The atmosphere is cold, and impersonal. The grandeur of the building seems a mocking reminder of Ren's past successes and subsequent fall._
+
+>_AMY (35), with AR/VR glasses resting atop her head, faces REN (41) through a holographic screen. Ren's face, though older and bearing the marks of time, still carries the weight of that fateful day._
+
+**AMY**
+"After every storm, there's a calm—a time for clarity. But the board... They've made their decision, Ren."
+
+>_REN's face on the screen cycles through surprise and then settles into disappointment, a man once at the pinnacle now grappling with loss on multiple fronts._
 
 
 ---
