@@ -4,9 +4,10 @@
 
 # Afterglow Echoes of Sentience
 
+<!--
+
 <h3 align="center">Concept Art for Storyboard Block 6</h3>
 
-<!--
 <table>
 <tr>
 <td><a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_3/Artwork/AG1.PNG" alt="Image1" width="2500"/></a><p align="center"><a href="" target="_blank">Concept Image</a></p></td>
@@ -16,7 +17,6 @@
 <td><a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_3/Artwork/AG5.PNG" alt="Image5" width="2500"/></a><p align="center"><a href="" target="_blank">Concept Image</a></p></td>
 </tr>
 </table>
--->
 
 ### Image Generation Plan
 
@@ -63,3 +63,4 @@ Create a realistic image of a modern apartment interior with a wide shot showing
   
 <a id="top"></a> 
 
+-->
