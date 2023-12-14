@@ -22,14 +22,17 @@
 
 ### Shot List and Storyboard Summaries
 
-| Narrative | Shot Type | Notes | Scene Number |
-|-----------|-----------|-------|--------------|
-| Bright sunlight in Summer's colorful apartment, introducing SUMMER RAY and her AI companions. | Wide Shot | Capture the vibrant and lively atmosphere of the apartment, focusing on the harmony between Summer and her AI companions. | 1 |
-| Summer interacting with COMPASS the dog, SPECTRUM the macaw, BINARY and BYTE the turtles, PIXEL the kitten, and BUZZ the vacuum. | Medium Shot | Highlight the unique characteristics of each AI companion and their interaction with Summer. | 2 |
-| An incoming message interrupts Summer's dance. | Close-Up | Focus on Summer's face to capture her reaction to the message, with a backdrop of her AI companions. | 3 |
-| Dialogue between SUMMER and MOM (V.O.), discussing Summer's decision to leave. | Over-the-Shoulder Shot | Capture Summer from behind, focusing on her as she speaks to her mom, with a view of the AI companions in the background. | 4 |
-| Summer's contemplative moment looking at her AI family. | Close-Up | Show Summer's emotional connection with her AI family, emphasizing her resolve and affection. | 5 |
-| Summer's final decision and readiness to embrace the unknown, with her AI family. | Tracking Shot | Follow Summer as she moves through the apartment, showing her determination and the supportive presence of her AI companions. | 6 |
+| Scene Number | Narrative | Shot Type | Notes |
+| ------------ | --------- | --------- | ----- |
+| 1 | INT. REN’S CAR (BACK SEAT) - DAY. Ren retrieves items from a bag, revealing an iPod, newspaper clipping, flip phone, and watch. | Close-up | Focus on Ren's contemplative expression and the items symbolizing past memories. |
+| 2 | REN (V.O.) contemplating stars and destiny. | Voice-over | Emphasize the philosophical tone of Ren's thoughts. |
+| 3 | INT. FAMILY CARAVAN (IPOD VIDEO) - DAY. Young Sarah dancing joyfully. | Flashback on iPod | Capture Sarah's free-spirited nature in the video. |
+| 4 | INT. REN’S CAR (BACK SEAT) - DAY. Ren tears up, receives a notification about an AI vehicle accident. | Cut back to present | Show Ren's emotional reaction and the notification that snaps him back to reality. |
+| 5 | INT. JAI & KAI'S SHED - NIGHT. Jai and Kai surrounded by blueprints and tech gadgets. | Mid-shot | Highlight the cluttered and busy environment, indicating their tech involvement. |
+| 6 | Dialogue exchange between Jai and Kai about past injuries and intentions. | Two-shot | Capture the emotional tension and camaraderie between Jai and Kai. |
+| 7 | INT. REN’S CAR (BACK SEAT) - DAY. BBT jingle plays, Ren reacts. | Close-up on Ren | Show Ren's changing expression, illustrating his internal conflict. |
+| 8 | Dialogue between Ren and Rocket (AI) discussing a trip to Santa Cruz. | Cut between Ren and the car’s interior | Portray the playful interaction between Ren and the AI, Rocket. |
+| 9 | Ren's journey continues, horizon in view. | Wide shot | End the scene with a sense of journey and anticipation towards the future. |
 
 <a href="#top">Back to Top</a>
 
