@@ -15,9 +15,9 @@
       <td valign="top">
         <h4>Block Description</h4>
         <ol start="1">
-          <li><a>PUPPETS AND PUPPETEERS PART 1</a></li>
-          <li><a>PUPPETS AND PUPPETEERS PART 2</a></li>
-          <li><a>A DANCE WITH AI AND NEW BEGINNINGS</a></li>
+          <li><a>💯PUPPETS AND PUPPETEERS PART 1</a></li>
+          <li><a>💯PUPPETS AND PUPPETEERS PART 2</a></li>
+          <li><a>💯A DANCE WITH AI AND NEW BEGINNINGS</a></li>
           <li><a>DAWN OF DEPARTURE AND REFLECTION</a></li>
           <li><a>REMNANTS OF THE PAST AND ECHOES OF THE FUTURE</a></li>
           <li><a>THE LONG ROAD TO SILENCE</a></li>
