@@ -31,7 +31,9 @@
 
 ---
 
-Step 2: Storyboard and Shot List Creation
+### Step 2: Storyboard and Shot List Creation
+
+For "BROKEN NUMBERS, SHATTERED HEARTS," we'll develop a storyboard and shot list. Here's an example layout:
 
 1. **Scene 1: INT. REN'S HOME OFFICE - DAY (FLASHBACK)**
    - **Narrative:** Ren reminiscing in his office, surrounded by technology and personal memorabilia.
@@ -56,9 +58,6 @@ Step 2: Storyboard and Shot List Creation
    - **Shot Type:** Wide shot showing the modern structure of BBT Technologies; cut to medium shots of Amy and Ren.
    - **Notes:** Convey the cold, impersonal atmosphere; Ren's expressions should reflect his downfall.
    - **Scene Number:** 4
-
-Would you like to proceed with the image generation for these scenes, or are there any changes or specific details you'd like to add?
-
 
 ---
 
