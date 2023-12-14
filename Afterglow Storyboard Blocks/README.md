@@ -38,7 +38,7 @@
         </ol> 
       </td>
       <td valign="top">
-        <h4>MD Script</h4>
+        <h4>Script</h4>
         <ol start="1">
           <li><a href="URL_FOR_BLOCK_1_MD_SCRIPT">Block 1</a></li>
           <li><a href="URL_FOR_BLOCK_2_MD_SCRIPT">Block 2</a></li>
@@ -88,7 +88,7 @@
         </ol>
       </td>
     <td valign="top">
-        <h4>Concept Art</h4>
+        <h4>Artwork</h4>
         <ol start="1">
           <li><a href="URL_FOR_BLOCK_1_KEYFRAMES">Block 1</a></li>
           <li><a href="URL_FOR_BLOCK_2_KEYFRAMES">Block 2</a></li>
