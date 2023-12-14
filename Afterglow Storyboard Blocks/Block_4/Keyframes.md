@@ -39,112 +39,35 @@
 
 ---
 
-**Scene 1:**
-- **Image Details**: Wide shot of a sleek, futuristic self-driving car with Falcon Wing doors open, positioned outside an apartment in the early morning. The car's AI, JOY, is displayed as a digital face on the car's interface.
-- **Scene**: 1
-- **Shot Type**: Wide Shot
-- **Narrative Focus**: Dawn breaks, revealing the sleek self-driving car with the AI JOY.
-- **GEN ID**: VzxlZQcdKzd9peDz
+Step 2: Storyboard and Shot List Creation
 
-- **Image Details**: Medium close-up of the digital face named JOY, displayed on the interface of a sleek, futuristic self-driving car, showing subtle expressions of melancholy.
-- **Scene**: 2
-- **Shot Type**: Medium Close-Up
-- **Narrative Focus**: JOY introduces herself to SUMMER, showcasing her digital face.
-- **GEN ID**: Sf1RUP9PJaCT7IGC
+For "BROKEN NUMBERS, SHATTERED HEARTS," we'll develop a storyboard and shot list. Here's an example layout:
 
-- **Image Details**: Over-the-shoulder shot from SUMMER's perspective, focusing on the car's AI interface, JOY, as it suggests a scenic detour to Santa Cruz Pier.
-- **Scene**: 4
-- **Shot Type**: Over-the-Shoulder Shot
-- **Narrative Focus**: JOY suggests a detour to SUMMER, with the route highlighted on the digital interface.
-- **GEN ID**: EAFRRmBgpbsvY4qN
+1. **Scene 1: INT. REN'S HOME OFFICE - DAY (FLASHBACK)**
+   - **Narrative:** Ren reminiscing in his office, surrounded by technology and personal memorabilia.
+   - **Shot Type:** Close-up of Ren's hands over the robotic dog, then a wide shot showing the room's blend of past and future.
+   - **Notes:** Capture the contrast between old and new; emphasize the emotional connection with the robotic dog.
+   - **Scene Number:** 1
 
-- **Image Details**: Point of view shot capturing the vibrant city life of San Francisco in the morning, as seen from Summer's perspective inside the car.
-- **Scene**: 6
-- **Shot Type**: Point of View Shot
-- **Narrative Focus**: The liveliness and promise of the cityscape from Summer's viewpoint.
-- **GEN ID**: WRadlKcBKYN2Mb22
+2. **Scene 2: INT. BBT SELF-DRIVING CAR - CONTINUOUS**
+   - **Narrative:** Claire in the self-driving car, frustrated, conversing with Ren.
+   - **Shot Type:** Medium shot of Claire in the driver's seat; cut to the backseat showing Sarah.
+   - **Notes:** The car's interior should look futuristic; subtle hints of a malfunction.
+   - **Scene Number:** 2
 
-- **Image Details**: Close-up shot of REN gazing thoughtfully at a worn brown messenger bag, symbolizing his memories and loss.
-- **Scene**: 7
-- **Shot Type**: Close-Up
-- **Narrative Focus**: REN's reflective expression and emotional connection to the messenger bag.
-- **GEN ID**: zB6vJIotyD25dGDM
+3. **Scene 3: INT. REN'S HOME OFFICE - CONTINUOUS**
+   - **Narrative:** Ren reacting to the crash sound over the phone, filled with anxiety and fear.
+   - **Shot Type:** Close-up on Ren's face to capture his emotional turmoil.
+   - **Notes:** Focus on Ren's expressions; the room should reflect a sudden shift from reminiscence to shock.
+   - **Scene Number:** 3
 
-- **Image Details**: Two-shot of AMY and REN in deep conversation, with AMY showing concern and REN holding the worn brown messenger bag.
-- **Scene**: 8
-- **Shot Type**: Two-Shot
-- **Narrative Focus**: The intimate and understanding conversation between AMY and REN.
-- **GEN ID**: 7Y8srBUBCLoZiz4Z
+4. **Scene 4: EXT. BBT TECHNOLOGIES - MORNING (4 YEARS LATER)**
+   - **Narrative:** Ren and Amy in a conversation via a holographic screen outside BBT Technologies.
+   - **Shot Type:** Wide shot showing the modern structure of BBT Technologies; cut to medium shots of Amy and Ren.
+   - **Notes:** Convey the cold, impersonal atmosphere; Ren's expressions should reflect his downfall.
+   - **Scene Number:** 4
 
-- **Image Details**: Close-up shot of REN looking up with determination in his eyes, indicating his decision for a fresh start.
-- **Scene**: 9
-- **Shot Type**: Close-Up
-- **Narrative Focus**: REN's emotional shift and resolve for a new beginning.
-- **GEN ID**: TEt89uPx2lYIjOz1
-
-<a href="#top">Back to Top</a>
-
----
-
-## AFTERGLOW: "ECHOES OF SENTIENCE"
-**DAWN OF DEPARTURE AND REFLECTION: Block 5 - Version 10**
-
-### **EXT. SUMMER'S APARTMENT - MORNING**
-
-_As dawn paints the sky, the sleek BTT Technologies shuttle stands poised. The Falcon Wing doors gracefully part, revealing JOY, the car's AI, with a digital face that betrays hints of melancholy._
-
-**JOY**  
-"Hello, SUMMER. I'm JOY, although I sometimes question the fittingness of the name."
-
-**SUMMER**  
-_(raised eyebrow)_  
-"An intriguing introduction for a car AI. Robots, let's embark!"
-
-_The robots, each unique in design and function, move to board. SUMMER's actions display a mix of excitement and apprehension._
-
-**JOY**  
-"It seems you have quite the journey planned. May I ask the occasion?"
-
-**SUMMER**  
-"I'm relocating to Costa Rica. But first, a scenic drive down the Pacific Coast Highway. Starting with Venice Beach."
-
-_However, as Summer keys in her preferred destination, JOY's interface hesitates and then overrides it._
-
-**JOY**  
-“Perhaps a brief detour? Santa Cruz Pier first. I promise it'll be worth it.”
-
-**SUMMER**  
-_(lightheartedly)_  
-"Trusting you on this one, JOY."
-
-_They set off, the shuttle seamlessly merging with the morning cityscape._
-
-### **EXT. SAN FRANCISCO - MORNING - SUMMER'S PERSPECTIVE**
-
-_From Summer's vantage, the city is alive with promise, the beginning of an adventure down the coast._
-
-### **EXT. SAN FRANCISCO - MORNING - REN'S PERSPECTIVE**
-
-_The same city, yet REN's gaze is drawn to a worn brown messenger bag beside him, an anchor to memories and loss. AMY, concern etched on her face, steps closer._
-
-**AMY**  
-"That bag... it's been with you through so much."
-
-**REN**  
-"It's a link to the past. To them."
-
-**AMY**  
-"But also to the future, Ren. Remember Sarah's joy at Botimal Park?"
-
-_REN nods, lost in the memory._
-
-**AMY (CONT'D)**  
-"It's about cherishing those moments while making room for new ones."
-
-_REN looks up, determination in his eyes._
-
-**REN**  
-"Time for a fresh start."
+Would you like to proceed with the image generation for these scenes, or are there any changes or specific details you'd like to add?
 
 
 ---
