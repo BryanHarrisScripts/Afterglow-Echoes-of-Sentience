@@ -15,8 +15,6 @@
     <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_5/AG3.png" alt="Scene 3" width="200" style="display: inline-block;"/></a>
     <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_5/AG4.png" alt="Scene 4" width="200" style="display: inline-block;"/></a>
     <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_5/AG5.png" alt="Scene 4" width="200" style="display: inline-block;"/></a>
-    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_5/AG6.png" alt="Scene 4" width="200" style="display: inline-block;"/></a>
-    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_5/AG7.png" alt="Scene 4" width="200" style="display: inline-block;"/></a>
 </div>
 
 # Storyboard:
