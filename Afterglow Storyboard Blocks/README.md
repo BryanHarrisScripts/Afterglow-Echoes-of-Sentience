@@ -95,8 +95,7 @@
 	  <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/tree/main/Afterglow%20Storyboard%20Blocks/Block_2/Artwork.md">Block 2</a></li>        
           <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/tree/main/Afterglow%20Storyboard%20Blocks/Block_3/Artwork.md">Block 3</a></li>
           <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/tree/main/Afterglow%20Storyboard%20Blocks/Block_4/Artwork.md">Block 4</a></li>
-          <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/tree/main/Afterglow%20Storyboard%20Blocks/Block_5/Artwork.md">Block 5</a></li>
-         </ol>
+        </ol>
       </td>
      </tr>
   </table>
