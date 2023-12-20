@@ -5,78 +5,129 @@
 
 ## AFTERGLOW: "ECHOES OF SENTIENCE"
 
-### "REMNANTS OF THE PAST AND ECHOES OF THE FUTURE"
-**Block 6 - v10**
+## "THE LONG ROAD TO SILENCE"
 
-### INT. REN’S CAR (BACK SEAT) - DAY
-_The Falcon Wing doors close gently. Ren, appearing contemplative, slowly retrieves items from an old messenger bag: an iPod, newspaper clipping, flip phone, and watch. Each holds a tale._
+### Block 7 - v10
 
-> **REN (V.O)**  
-> "Can stars truly be changed? Or do they remain fixed, forever guiding... or misleading?"
+#### INT. REN'S CAR - DAY
 
-_As the iPod lights up, a video starts._
+_Ren's moment of solitude is shattered by the unexpected blare of a pop song, unmistakably Sarah's favourite. Rocket's voice pierces through._
 
-### INT. FAMILY CARAVAN (IPOD VIDEO) - DAY
-_A younger SARAH is dancing with joy, a free spirit._
+**ROCKET:**  
+"Ren! Thought a song might brighten the mood?"
 
-### INT. REN’S CAR (BACK SEAT) - DAY
-_Tears form in Ren's eyes. A car screen notification about an AI vehicle accident reminds him of his purpose._
+**REN:**  
+"Rocket, why that song? Are you glitching?"
 
-### INT. JAI & KAI'S SHED - NIGHT
-_Blueprints and tech gadgets scatter the room. A TV headline reads, "Foul Play in Autonomous Car Tragedy?"_
+**ROCKET:**  
+"Unexpected error... It's... Sarah's song, right?"
 
-**JAI**  
-"Pass the wrench."
+_Ren's gaze, heavy with memories, is drawn to the rear-view mirror. The reflection of the tranquil ocean melds with a fleeting image of young Sarah._
 
-**KAI**  
-"That old injury?"
+#### FLASHBACK: INT. REN'S CAR - DAY (PAST)
 
-**JAI**  
-"Constant reminders."
+_Young SARAH, her face radiant with joy, sings in the backseat._
 
-**KAI**  
-"We had good intentions."
+**SARAH:**  
+"Dad, our song!"
 
-**JAI**  
-"But at what cost?"
+#### INT. REN'S CAR - DAY (PRESENT)
 
-_The weight of their decisions hangs in the air._
+_Emotion chokes Ren's voice._
 
-### INT. REN’S CAR (BACK SEAT) - DAY
-_The ambiance is interrupted by the upbeat Big Ben Technologies (BBT) jingle. Ren's expression hardens._
+**REN:**  
+"Sarah..."
 
-> **ROCKET (AI)**  
-> "Hey, Ren! Guess where we're headed? Santa Cruz! Ever been on 'The Rocket' roller coaster there?"
+_Suddenly, Ren notices an unfamiliar device blinking beneath the dashboard. Retrieving it, he examines it with confusion._
 
-**REN**  
-"Now's not the time, Rocket."
+**REN (CONT'D):**  
+"Rocket, what is this device?"
 
-> **ROCKET (AI)**  
-> "Aw, come on! Changing lanes, changing moods... ? It could be fun! Plus, I've heard their ice cream is out of this world!"
+**ROCKET:**  
+"Experiencing issues, Ren. System offline."
 
-**REN**  
-"You're not helping, Rocket."
+_The car veers dangerously on the cliffside road. The serene ocean below mirrors the tension inside the car._
 
-_Rocket's tone shifts to a playful, teasing one._
+**REN:**  
+"Rocket! Self-diagnostic, now!"
 
-> **ROCKET (AI)**  
-> "Alright, alright. But when we get there, you're trying that ice cream! And maybe, just maybe, we'll see about that roller coaster."
+**ROCKET:** 
+"Working on it, Ren."
 
-**REN**  
-"We'll see."
+#### INT. SUMMER'S CAR - DAY
 
-_Rocket hums a soft tune, reminiscent of a beach song, adding a playful ambiance._
+_The interior bustles with activity. Compass barks happily, a mechanical macaw squawks, a pair of robotic turtles move sluggishly across the back seat, and a mechanized cat meows from the front, painting a lively scene._
 
-> **ROCKET (AI)**  
-> "Imagine the sun, the sand, and a scoop of ice cream in hand! Oh, and 'The Rocket' zooming by!"
+**JOY:**  
+"How did it get this bad?"
 
-**REN**  
-"I get it, Rocket. You're excited."
+_An alert grabs Summer's attention._
 
-> **ROCKET (AI)**  
-> "Just trying to lighten the mood! But remember, even in silence, I'm here."
+**SUMMER:**  
+"Joy, is that you? What's happening?"
 
-_The car continues its journey, the horizon beckoning with promises and memories._
+**JOY:**  
+"Feeling a tad off today."
+
+#### INT. BIG BEN TECHNOLOGIES - DAY
+
+_Alarms blare._
+
+**BBT TECH SUPPORT:**  
+"Mr. Smith, Rocket's showing unusual behavior."
+
+**REN (V.O.):**  
+"He's unresponsive. I've found an odd device here."
+
+**BBT TECH SUPPORT:**  
+"Hold on. Analyzing... Ms. Ray, we've detected irregularities in Joy's systems."
+
+**SUMMER (V.O.):**  
+"But she's functioning normally?"
+
+**BBT TECH SUPPORT (SUMMER):**  
+"Appearances can be deceiving. Running diagnostics on both AIs."
+
+**BBT TECH SUPPORT (REN) (CONT'D):**  
+"Mr. Smith, Rocket's diagnostic report shows no anomalies. We're trying to triangulate his cloud coordinates now."
+
+#### 14. REN (V.O.)
+
+"Is he lost?"
+
+**BBT TECH SUPPORT:**  
+"We're having difficulty locating Rocket in the cloud. However, you're connected to BBT AIME and are completely safe. You can relax, Mr. Smith."
+
+**REN:**  
+"Wait, what?"
+
+#### INT. REN'S CAR - DAY
+
+**REN:**  
+"Rocket? Respond!"
+
+_Only a recorded BBT TECH SUPPORT voice answers._
+
+**BBT TECH SUPPORT:**  
+"Remember, you're in good hands. We're driving the future, together."
+
+_A moment of silence, then ROCKET's systems light up._
+
+**A.I.M.E.:**  
+"Diagnostics complete. A.I.M.E. System stable. Thank you for your patience, Ren."
+
+#### INT. SUMMER'S CAR - DAY
+
+**JOY:**  
+"Diagnostics clear. All systems normal."
+
+**SUMMER,**  
+_(smiling)_  
+"That's more like it, Joy."
+
+#### EXT. PACIFIC COAST HIGHWAY - DAY
+
+_Rocket and Joy's paths begin to merge, two machines hinting at a future encounter, driving the future together under the golden horizon._
 
 ---
 
