@@ -19,9 +19,9 @@
           <li><a>💯PUPPETS AND PUPPETEERS PART 2</a></li>
           <li><a>💯A DANCE WITH AI AND NEW BEGINNINGS</a></li>
 	  <li><a>💯BROKEN NUMBERS, SHATTERED HEARTS</a></li>
-          <li><a>DAWN OF DEPARTURE AND REFLECTION</a></li>
+          <li><a>💯DAWN OF DEPARTURE AND REFLECTION</a></li>
           <li><a>💯REMNANTS OF THE PAST AND ECHOES OF THE FUTURE</a></li>
-          <li><a>THE LONG ROAD TO SILENCE</a></li>
+          <li><a>💯THE LONG ROAD TO SILENCE</a></li>
           <li><a>FROM DUSK TO DRIVE: AI ROAD TRIP RUMBLE</a></li>
           <li><a>A DANCE WITH SUMMER'S INTERVENTION</a></li>
           <li><a>THE IRONY OF CONNECTION</a></li>
