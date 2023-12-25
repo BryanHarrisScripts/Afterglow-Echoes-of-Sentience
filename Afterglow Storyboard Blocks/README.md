@@ -108,36 +108,36 @@
 <div style="text-align: center;">
 <table>
 <tr>
-<td><a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Storyboard%20Selected%20Images/B1/AG1.png" alt="Image1" width="2500"/></a><p align="center"><a href="" target="_blank">B1</a></p></td>
-<td><a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Storyboard%20Selected%20Images/B1/AG2.png" alt="Image1" width="2500"/></a><p align="center"><a href="" target="_blank">B1</a></p></td>
-<td><a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Storyboard%20Selected%20Images/B1/AG3.png" alt="Image1" width="2500"/></a><p align="center"><a href="" target="_blank">B1</a></p></td>
-<td><a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Storyboard%20Selected%20Images/B1/AG4.png" alt="Image1" width="2500"/></a><p align="center"><a href="" target="_blank">B1</a></p></td>
-<td><a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Storyboard%20Selected%20Images/B1/AG5.png" alt="Image1" width="2500"/></a><p align="center"><a href="" target="_blank">B1</a></p></td>
-<td><a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Storyboard%20Selected%20Images/B1/AG6.png" alt="Image1" width="2500"/></a><p align="center"><a href="" target="_blank">B1</a></p></td>
+<td><a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Storyboard%20Selected%20Images/B1/AG1.png" alt="Image1" width="2500"/></a><p align="center"><a href="" target="_blank">B1ag1</a></p></td>
+<td><a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Storyboard%20Selected%20Images/B1/AG2.png" alt="Image1" width="2500"/></a><p align="center"><a href="" target="_blank">B1ag2</a></p></td>
+<td><a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Storyboard%20Selected%20Images/B1/AG3.png" alt="Image1" width="2500"/></a><p align="center"><a href="" target="_blank">B1ag3</a></p></td>
+<td><a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Storyboard%20Selected%20Images/B1/AG4.png" alt="Image1" width="2500"/></a><p align="center"><a href="" target="_blank">B1ag4</a></p></td>
+<td><a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Storyboard%20Selected%20Images/B1/AG5.png" alt="Image1" width="2500"/></a><p align="center"><a href="" target="_blank">B1ag5</a></p></td>
+<td><a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Storyboard%20Selected%20Images/B1/AG6.png" alt="Image1" width="2500"/></a><p align="center"><a href="" target="_blank">B1ag6</a></p></td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td><a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Storyboard%20Selected%20Images/B1/AG7.png" alt="Image1" width="2500"/></a><p align="center"><a href="" target="_blank">B1</a></p></td>
-<td><a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Storyboard%20Selected%20Images/B1/AG8.png" alt="Image1" width="2500"/></a><p align="center"><a href="" target="_blank">B1</a></p></td>
-<td><a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Storyboard%20Selected%20Images/B1/AG9.png" alt="Image1" width="2500"/></a><p align="center"><a href="" target="_blank">B1</a></p></td>
-<td><a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Storyboard%20Selected%20Images/B1/AG10.png" alt="Image1" width="2500"/></a><p align="center"><a href="" target="_blank">B1</a></p></td>
-<td><a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Storyboard%20Selected%20Images/B1/AG11.png" alt="Image1" width="2500"/></a><p align="center"><a href="" target="_blank">B1</a></p></td>
-<td><a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Storyboard%20Selected%20Images/B1/AG12.png" alt="Image1" width="2500"/></a><p align="center"><a href="" target="_blank">B1</a></p></td>
+<td><a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Storyboard%20Selected%20Images/B1/AG7.png" alt="Image1" width="2500"/></a><p align="center"><a href="" target="_blank">B1ag7</a></p></td>
+<td><a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Storyboard%20Selected%20Images/B1/AG8.png" alt="Image1" width="2500"/></a><p align="center"><a href="" target="_blank">B1ag8</a></p></td>
+<td><a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Storyboard%20Selected%20Images/B1/AG9.png" alt="Image1" width="2500"/></a><p align="center"><a href="" target="_blank">B1ag9</a></p></td>
+<td><a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Storyboard%20Selected%20Images/B1/AG10.png" alt="Image1" width="2500"/></a><p align="center"><a href="" target="_blank">B1ag10</a></p></td>
+<td><a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Storyboard%20Selected%20Images/B1/AG11.png" alt="Image1" width="2500"/></a><p align="center"><a href="" target="_blank">B1ag11</a></p></td>
+<td><a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Storyboard%20Selected%20Images/B1/AG12.png" alt="Image1" width="2500"/></a><p align="center"><a href="" target="_blank">B1ag12</a></p></td>
 </tr>
 </table>
 
 
 <table>
 <tr>
-<td><a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Storyboard%20Selected%20Images/B1/AG13.png" alt="Image1" width="2500"/></a><p align="center"><a href="" target="_blank">B1</a></p></td>
-<td><a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Storyboard%20Selected%20Images/B1/AG14.png" alt="Image1" width="2500"/></a><p align="center"><a href="" target="_blank">B1</a></p></td>
-<td><a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Storyboard%20Selected%20Images/B1/AG15.png" alt="Image1" width="2500"/></a><p align="center"><a href="" target="_blank">B1</a></p></td>
-<td><a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Storyboard%20Selected%20Images/B1/AG16.png" alt="Image1" width="2500"/></a><p align="center"><a href="" target="_blank">B1</a></p></td>
-<td><a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Storyboard%20Selected%20Images/B1/AG17.png" alt="Image1" width="2500"/></a><p align="center"><a href="" target="_blank">B1</a></p></td>
-<td><a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Storyboard%20Selected%20Images/B1/AG18.png" alt="Image1" width="2500"/></a><p align="center"><a href="" target="_blank">B1</a></p></td>
-<td><a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Storyboard%20Selected%20Images/B1/AG19.png" alt="Image1" width="2500"/></a><p align="center"><a href="" target="_blank">B1</a></p></td>
+<td><a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Storyboard%20Selected%20Images/B1/AG13.png" alt="Image1" width="2500"/></a><p align="center"><a href="" target="_blank">B1ag13</a></p></td>
+<td><a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Storyboard%20Selected%20Images/B1/AG14.png" alt="Image1" width="2500"/></a><p align="center"><a href="" target="_blank">B1ag14</a></p></td>
+<td><a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Storyboard%20Selected%20Images/B1/AG15.png" alt="Image1" width="2500"/></a><p align="center"><a href="" target="_blank">B1ag15</a></p></td>
+<td><a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Storyboard%20Selected%20Images/B1/AG16.png" alt="Image1" width="2500"/></a><p align="center"><a href="" target="_blank">B1ag16</a></p></td>
+<td><a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Storyboard%20Selected%20Images/B1/AG17.png" alt="Image1" width="2500"/></a><p align="center"><a href="" target="_blank">B1ag17</a></p></td>
+<td><a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Storyboard%20Selected%20Images/B1/AG18.png" alt="Image1" width="2500"/></a><p align="center"><a href="" target="_blank">B1ag18</a></p></td>
+<td><a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Storyboard%20Selected%20Images/B1/AG19.png" alt="Image1" width="2500"/></a><p align="center"><a href="" target="_blank">B1ag19</a></p></td>
 </tr>
 </table>
 </div>
