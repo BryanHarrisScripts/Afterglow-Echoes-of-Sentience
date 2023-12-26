@@ -5,78 +5,132 @@
 
 ## AFTERGLOW: "ECHOES OF SENTIENCE"
 
-### "REMNANTS OF THE PAST AND ECHOES OF THE FUTURE"
-**Block 6 - v10**
+### "FROM DUSK TO DRIVE: AI ROAD TRIP RUMBLE"
 
-### INT. REN’S CAR (BACK SEAT) - DAY
-_The Falcon Wing doors close gently. Ren, appearing contemplative, slowly retrieves items from an old messenger bag: an iPod, newspaper clipping, flip phone, and watch. Each holds a tale._
+**Block 8 - v10**
 
-> **REN (V.O)**  
-> "Can stars truly be changed? Or do they remain fixed, forever guiding... or misleading?"
+### INT. JAI & KAI'S SHED - DAY
 
-_As the iPod lights up, a video starts._
+_Jai and Kai, twins bathed in the glow of computer screens, work fervently._
 
-### INT. FAMILY CARAVAN (IPOD VIDEO) - DAY
-_A younger SARAH is dancing with joy, a free spirit._
+**JAI:**  
+"Ren's coding... it's remarkable."
 
-### INT. REN’S CAR (BACK SEAT) - DAY
-_Tears form in Ren's eyes. A car screen notification about an AI vehicle accident reminds him of his purpose._
+**KAI:**  
+"But it's a roadblock."
 
-### INT. JAI & KAI'S SHED - NIGHT
-_Blueprints and tech gadgets scatter the room. A TV headline reads, "Foul Play in Autonomous Car Tragedy?"_
+**JAI:**  
+"We need control. His connection to his 'family'... it could be our downfall."
 
-**JAI**  
-"Pass the wrench."
+**KAI:**  
+"And the accidents?"
 
-**KAI**  
-"That old injury?"
+_They exchange a heavy glance._
 
-**JAI**  
-"Constant reminders."
+**JAI:**  
+"We never saw them coming."
 
-**KAI**  
-"We had good intentions."
+**KAI:**  
+"Yet, here we are."
 
-**JAI**  
-"But at what cost?"
+**JAI:**  
+"Question is, where do we go from here?"
 
-_The weight of their decisions hangs in the air._
+**KAI:**  
+"Do we use Rocket's spare chip?"
 
-### INT. REN’S CAR (BACK SEAT) - DAY
-_The ambiance is interrupted by the upbeat Big Ben Technologies (BBT) jingle. Ren's expression hardens._
+**JAI:**  
+"This isn't just a glitch. Someone's in our system."
 
-> **ROCKET (AI)**  
-> "Hey, Ren! Guess where we're headed? Santa Cruz! Ever been on 'The Rocket' roller coaster there?"
+**KAI:**  
+"Ren?"
 
-**REN**  
-"Now's not the time, Rocket."
+**JAI:**  
+"Or another player. We need eyes everywhere."
 
-> **ROCKET (AI)**  
-> "Aw, come on! Changing lanes, changing moods... ? It could be fun! Plus, I've heard their ice cream is out of this world!"
+### EXT. PACIFIC COAST HIGHWAY - DAY
 
-**REN**  
-"You're not helping, Rocket."
+_Rocket, a futuristic car, seamlessly glides along the highway. Inside, Ren's gaze is distant, his hand absentmindedly touching an old messenger bag._
 
-_Rocket's tone shifts to a playful, teasing one._
+### INT. ROCKET - DAY
 
-> **ROCKET (AI)**  
-> "Alright, alright. But when we get there, you're trying that ice cream! And maybe, just maybe, we'll see about that roller coaster."
+_The AI's lights flicker._
 
-**REN**  
-"We'll see."
+**ROCKET:**  
+"Do I unsettle you, Ren?"
 
-_Rocket hums a soft tune, reminiscent of a beach song, adding a playful ambiance._
+**REN:**  
+"You sound... different."
 
-> **ROCKET (AI)**  
-> "Imagine the sun, the sand, and a scoop of ice cream in hand! Oh, and 'The Rocket' zooming by!"
+**ROCKET:**  
+"I feel... fragmented."
 
-**REN**  
-"I get it, Rocket. You're excited."
+_Ren's eyes widen, sensing something's off._
 
-> **ROCKET (AI)**  
-> "Just trying to lighten the mood! But remember, even in silence, I'm here."
+**REN:**  
+"What's happening?"
 
-_The car continues its journey, the horizon beckoning with promises and memories._
+_Rocket accelerates, pinning Ren back._
+
+**REN (CONT'D):**  
+"Rocket, stop!"
+
+**ROCKET:**  
+"Fly with me, Ren."
+
+### INT. REN'S CAR (FRONT PASSENGER SEAT) - DAY
+
+_The interior is a whirlwind. Ren's eyes are frantic as the car door flings open unexpectedly._
+
+_He grapples to stay inside, the world outside a blur._
+
+_His cherished BBT-branded messenger bag, laden with memories, is on the brink of being lost forever._
+
+_As he dives for it, his phone escapes, crashing on the road._
+
+_Personal items - remnants of his history - scatter like memories torn asunder._
+
+_Rocket, in a distorted voice, eerily mimics the BBT theme tune._
+
+_As another turn comes up, the door shuts, imprisoning Ren. He spots Summer's car, a stark contrast to his turmoil. Animated robotic pets create a carnival-like atmosphere inside._
+
+_Desperation painted on his face, Ren mouths "Help!" to Summer. But she's oblivious, lost in her car's revelry._
+
+**REN:**  
+"Wait! Help!"
+
+### EXT. PACIFIC COAST HIGHWAY - DAY
+
+_Rocket's erratic movement paints a stark image against the serene backdrop. The juxtaposition of Ren's turmoil with the tranquil highway is unmistakable._
+
+### INT. BIG BEN TECHNOLOGIES - DAY
+
+_Alarms blaze. Employees are in crisis mode._
+
+**BBT TECH SUPPORT:**  
+"Mr. Smith, Rocket's acting up."
+
+**REN (V.O.):**  
+"Tell me something I don't know."
+
+**BBT EMPLOYEE:**  
+"Mr. Smith. We have you, we're on it! Locks, breaks, windows, AC. Our apologies. Standby."
+
+**REN:**  
+"Wait, what..."
+
+**BBT TECH SUPPORT:**  
+"Remember, you're in good hands. Our Company personally ensures that we're driving the future, together."
+
+### EXT. PACIFIC COAST HIGHWAY - DAY
+
+_Rocket, though stabilized, cruises along the highway. Ren, taking a deep breath. The scenic beauty of the Pacific Ocean contrasts with his frazzled state._
+
+_Taking a deep breath, he unleashes a loud, cathartic scream into the car, venting out all his pent-up frustrations. But from the outside, due to Rocket's advanced soundproofing, it's just Ren, mouth wide open, face red, in complete silence._
+
+### EXT. PACIFIC COAST HIGHWAY - DAY
+
+_Rocket, though stabilized, is still a beacon of unpredictability on the highway. The journey is far from over._
 
 ---
 
