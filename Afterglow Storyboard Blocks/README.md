@@ -63,7 +63,11 @@
           <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/tree/main/Afterglow%20Storyboard%20Blocks/Block_20/README.md">Block 20</a></li>
         </ol> 
       </td>
-     </tr>
+      <td valign="top">
+        <h4>Afterglow</h4>
+          <li><a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Poster%202023.png" alt="" width="300" style="display: inline-block;"/></a></li>
+     </td>
+    </tr>
   </table>
 </div>
 
