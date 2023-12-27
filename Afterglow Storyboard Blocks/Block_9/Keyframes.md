@@ -13,7 +13,6 @@
     <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_9/Frames/AG3.PNG" alt="Scene 3" width="200" style="display: inline-block;"/></a>
     <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_9/Frames/AG4.PNG" alt="Scene 4" width="200" style="display: inline-block;"/></a>
     <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_9/Frames/AG5.PNG" alt="Scene 4" width="200" style="display: inline-block;"/></a>
-    <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_9/Frames/AG6.PNG" alt="Scene 4" width="200" style="display: inline-block;"/></a>
 </div>
 
 # Storyboard:
