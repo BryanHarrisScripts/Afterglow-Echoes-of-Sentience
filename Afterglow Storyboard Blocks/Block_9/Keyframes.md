@@ -135,6 +135,15 @@ Please confirm if this shot list aligns with your vision for the scenes before w
 - Introducing more detailed expressions on Ren's face or adding elements that further emphasize the car's interior, such as specific dashboard features or unique design elements, could increase the scene's intensity.
 - Playing with lighting and shadows inside the car could also enhance the feeling of heat and discomfort.
 
+### Scene 5: Ren Collapses Outside Rocket
+- **Shot Type:** Wide shot
+- **Mood:** Overwhelmed, dramatic
+- **Color Palette:** Harsh, contrasting
+- **Details for DALL-E Prompt:** 
+  - Depict Ren stumbling out of Rocket, collapsing onto the asphalt. 
+  - The scene should capture the dramatic moment of Ren's collapse, emphasizing his overwhelmed state against the backdrop of the car and the city environment. 
+  - The car doors should be snapping shut, trapping his messenger bag inside, adding to the drama. 
+  - The surrounding should contrast Ren's condition, possibly with people or elements of Santa Cruz visible in the background.
 
 ---
 
