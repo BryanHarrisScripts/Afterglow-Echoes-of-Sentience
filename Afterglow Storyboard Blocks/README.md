@@ -85,6 +85,15 @@
     <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_1/Keyframes/Scene7.png" alt="Scene 7" width="200" style="display: inline-block;"/></a>
 </div>
 
+<div style="text-align: left;">
+    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_1/Keyframes/Scene1a.png" alt="Scene 1" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_1/Keyframes/Scene2b.png" alt="Scene 2" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_1/Keyframes/Scene3c.png" alt="Scene 3" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_1/Keyframes/Scene4d.png" alt="Scene 4" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_1/Keyframes/Scene5e.png" alt="Scene 5" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_1/Keyframes/Scene6f.png" alt="Scene 6" width="200" style="display: inline-block;"/></a>
+    </div>
+
 ### Theme:
 - **Humanoid AI and Ethical Dilemmas**: The story delves into the complexities of creating highly human-like artificial intelligence (AI), exploring the ethical, societal, and business implications.
 - **Technological Evolution vs Societal Norms**: It questions the pace at which technology should evolve and its alignment with societal acceptance and norms.
@@ -105,14 +114,7 @@
 
 In summary, "Afterglow: Echoes of Sentience" explores the intersection of advanced technology and human ethics through its characters and plot, set against the backdrop of a high-tech corporation grappling with the implications of their groundbreaking creations. This analysis aligns with our commitment to OpenStorytelling Plus, reflecting a collaborative and innovative approach to screenplay creation, shared under the Creative Commons CC-BY-SA-4.0 license.
 
-<div style="text-align: left;">
-    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_1/Keyframes/Scene1a.png" alt="Scene 1" width="200" style="display: inline-block;"/></a>
-    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_1/Keyframes/Scene2b.png" alt="Scene 2" width="200" style="display: inline-block;"/></a>
-    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_1/Keyframes/Scene3c.png" alt="Scene 3" width="200" style="display: inline-block;"/></a>
-    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_1/Keyframes/Scene4d.png" alt="Scene 4" width="200" style="display: inline-block;"/></a>
-    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_1/Keyframes/Scene5e.png" alt="Scene 5" width="200" style="display: inline-block;"/></a>
-    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_1/Keyframes/Scene6f.png" alt="Scene 6" width="200" style="display: inline-block;"/></a>
-    </div>
+
 
 <a href="#top">Back to Top</a>
 
@@ -160,6 +162,26 @@ In summary, Part 2 of "Afterglow: Echoes of Sentience" builds upon the establish
     <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_3/Keyframes/Scene5.png" alt="Scene 4" width="200" style="display: inline-block;"/></a>
     <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_3/Keyframes/Scene6.png" alt="Scene 4" width="200" style="display: inline-block;"/></a>
 </div>
+
+"Block 3 - Version 10" of "Afterglow: Echoes of Sentience" introduces a new dimension to the narrative, focusing on the character of Summer Ray and her unique relationship with her AI companions:
+
+### Theme:
+- **Human and AI Coexistence**: This part emphasizes the harmonious coexistence of humans and AI, showcasing a future where AI companions are integral to daily life.
+- **Journey of Self-Discovery**: Summer's decision to embark on a journey for self-discovery highlights themes of identity, exploration, and the quest for personal meaning.
+- **Connection to Roots and Heritage**: The conversation with her mother suggests a tension between seeking new experiences and staying connected to one’s roots and history.
+
+### Characters:
+1. **Summer Ray**: A vibrant and lively character, Summer is shown interacting seamlessly with her AI companions. Her actions and decisions indicate a strong desire for exploration and self-discovery.
+2. **AI Companions**: Compass (robotic dog), Spectrum (macaw), Binary and Byte (turtles), Pixel (kitten), and Buzz (vacuum). These characters add a playful and futuristic element to the story, each with its unique way of interacting with Summer.
+3. **Summer's Mother (Voice-Over)**: Her dialogue reveals concern for Summer’s journey and a desire for her to stay connected to her roots, adding emotional depth to Summer's decision.
+
+### Plot Elements:
+- **Setting**: Summer's apartment, a vibrant and dynamic environment reflecting her personality and her deep connection with her AI companions.
+- **Conflict and Resolution**: The internal conflict Summer faces between embarking on a new journey and staying connected to her roots. The decision to take a piece of home (the water bottle) with her symbolizes her resolve to maintain a connection to her past while exploring new horizons.
+- **Symbolism**: The water bottle labeled 'Beautiful Angel' serves as a symbolic link to Summer's past and the values she carries with her.
+- **Narrative Progression**: Summer's conversation with her mother and her interaction with her AI companions set the stage for her upcoming journey, suggesting a future filled with discovery and growth.
+
+In summary, this section of "Afterglow: Echoes of Sentience" expands the narrative universe, introducing themes of self-discovery, human-AI coexistence, and the importance of roots and heritage, all personified through the character of Summer Ray and her interactions. This analysis is in line with our OpenStorytelling Plus commitment, demonstrating a collaborative and innovative approach to screenplay creation, shared under the Creative Commons CC-BY-SA-4.0 license.
 
 <a href="#top">Back to Top</a>
 
