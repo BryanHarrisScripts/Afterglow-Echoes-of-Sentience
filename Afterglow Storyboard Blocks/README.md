@@ -22,7 +22,7 @@
           <li><a>💯DAWN OF DEPARTURE AND REFLECTION</a></li>
           <li><a>💯REMNANTS OF THE PAST AND ECHOES OF THE FUTURE</a></li>
           <li><a>💯THE LONG ROAD TO SILENCE</a></li>
-          <li><a>FROM DUSK TO DRIVE: AI ROAD TRIP RUMBLE</a></li>
+          <li><a>💯FROM DUSK TO DRIVE: AI ROAD TRIP RUMBLE</a></li>
           <li><a>A DANCE WITH SUMMER'S INTERVENTION</a></li>
           <li><a>THE IRONY OF CONNECTION</a></li>
           <li><a>ECHOES OF FAMILIARITY</a></li>
@@ -167,7 +167,7 @@
     <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_7/Keyframes/AG15.png" width="200" style="display: inline-block;"/></a>    
 </div>
 
-# REMNANTS OF THE PAST AND ECHOES OF THE FUTURE
+# FROM DUSK TO DRIVE: AI ROAD TRIP RUMBLE
 
 <div style="text-align: center;">
     <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_8/Frames/AG1.png" alt="Scene 1" width="200" style="display: inline-block;"/></a>
