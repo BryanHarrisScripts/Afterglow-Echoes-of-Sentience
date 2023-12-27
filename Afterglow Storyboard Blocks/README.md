@@ -69,7 +69,7 @@
 
 ---
 
-# Storyboard Images:
+# Storyboard Images: PUPPETS AND PUPPETEERS PART 1
 
 <div style="text-align: left;">
     <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_1/Keyframes/Scene1.png" alt="Scene 1" width="200" style="display: inline-block;"/></a>
@@ -90,6 +90,16 @@
     <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_1/Keyframes/Scene6f.png" alt="Scene 6" width="200" style="display: inline-block;"/></a>
     </div>
 
+# Storyboard Images: PUPPETS AND PUPPETEERS PART 2
+
+<div style="text-align: center;">
+    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_2/Keyframes/Scene1.png" alt="Scene 1" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_2/Keyframes/Scene2.png" alt="Scene 2" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_2/Keyframes/Scene3.png" alt="Scene 3" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_2/Keyframes/Scene4.png" alt="Scene 4" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_2/Keyframes/Scene5.png" alt="Scene 5" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_2/Keyframes/Scene6.png" alt="Scene 6" width="200" style="display: inline-block;"/></a>
+</div>
 ---
 
 **Disclaimer:** This content has been generated using an AI language model. It may include information, phrases, or ideas that could resemble existing copyrighted material, even though the specific sources are unknown. The AI is used for creative and informational purposes. Any resemblance to other works is coincidental, and this content is not intended to infringe upon the rights of any copyright holders.
