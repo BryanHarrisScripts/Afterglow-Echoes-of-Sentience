@@ -6,7 +6,7 @@
 ## AFTERGLOW: "ECHOES OF SENTIENCE"
 
 ### A DANCE WITH SUMMER'S INTERVENTION
-**Block 8 - v9**
+**Block 9 - v9**
 
 ### SANTA CRUZ
 
