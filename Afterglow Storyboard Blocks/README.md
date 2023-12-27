@@ -73,7 +73,7 @@
 
 ---
 
-# PUPPETS AND PUPPETEERS PART 1
+# 1. PUPPETS AND PUPPETEERS PART 1
 
 <div style="text-align: left;">
     <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_1/Keyframes/Scene1.png" alt="Scene 1" width="200" style="display: inline-block;"/></a>
@@ -94,7 +94,7 @@
     <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_1/Keyframes/Scene6f.png" alt="Scene 6" width="200" style="display: inline-block;"/></a>
     </div>
 
-# PUPPETS AND PUPPETEERS PART 2
+# 2. PUPPETS AND PUPPETEERS PART 2
 
 <div style="text-align: left;">
     <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_2/Keyframes/Scene1.png" alt="Scene 1" width="200" style="display: inline-block;"/></a>
@@ -105,7 +105,7 @@
     <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_2/Keyframes/Scene6.png" alt="Scene 6" width="200" style="display: inline-block;"/></a>
 </div>
 
-# A DANCE WITH AI AND NEW BEGINNING 
+# 3. A DANCE WITH AI AND NEW BEGINNING 
 
 <div style="text-align: left;">
     <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_3/Keyframes/Scene1.png" alt="Scene 1" width="200" style="display: inline-block;"/></a>
@@ -116,7 +116,7 @@
     <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_3/Keyframes/Scene6.png" alt="Scene 4" width="200" style="display: inline-block;"/></a>
 </div>
 
-# BROKEN NUMBERS, SHATTERED HEARTS
+# 4. BROKEN NUMBERS, SHATTERED HEARTS
 
 <div style="text-align: left;">
     <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_4/Keyframes/AG1.PNG" alt="Scene 1" width="200" style="display: inline-block;"/></a>
@@ -125,7 +125,7 @@
     <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_4/Keyframes/AG4.PNG" alt="Scene 1" width="200" style="display: inline-block;"/></a>
 </div>
 
-# DAWN OF DEPARTURE AND REFLECTION
+# 5. DAWN OF DEPARTURE AND REFLECTION
 
 <div style="text-align: left;">
     <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_5/Keyframes/AG1.png" width="200" style="display: inline-block;"/></a>
@@ -137,7 +137,7 @@
     <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_5/Keyframes/AG7.png" width="200" style="display: inline-block;"/></a>
 </div>
 
-# REMNANTS OF THE PAST AND ECHOES OF THE FUTURE
+# 6. REMNANTS OF THE PAST AND ECHOES OF THE FUTURE
 
 <div style="text-align: left;">
     <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_6/Keyframes/AG1.PNG" alt="Scene 1" width="200" style="display: inline-block;"/></a>
@@ -151,7 +151,7 @@
     <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_6/Keyframes/AG9.PNG" alt="Scene 4" width="200" style="display: inline-block;"/></a>
 </div>
 
-# THE LONG ROAD TO SILENCE
+# 7. THE LONG ROAD TO SILENCE
 
 <div style="text-align: left;">
     <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_7/Keyframes/AG1.png" width="200" style="display: inline-block;"/></a>
@@ -171,7 +171,7 @@
     <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_7/Keyframes/AG15.png" width="200" style="display: inline-block;"/></a>    
 </div>
 
-# FROM DUSK TO DRIVE: AI ROAD TRIP RUMBLE
+# 8. FROM DUSK TO DRIVE: AI ROAD TRIP RUMBLE
 
 <div style="text-align: left;">
     <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_8/Frames/AG1.png" alt="Scene 1" width="200" style="display: inline-block;"/></a>
