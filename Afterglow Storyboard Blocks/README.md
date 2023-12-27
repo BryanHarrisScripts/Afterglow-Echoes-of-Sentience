@@ -114,6 +114,8 @@ In summary, "Afterglow: Echoes of Sentience" explores the intersection of advanc
     <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_1/Keyframes/Scene6f.png" alt="Scene 6" width="200" style="display: inline-block;"/></a>
     </div>
 
+    <a href="#top">Back to Top</a>
+
 # 2. PUPPETS AND PUPPETEERS PART 2
 
 <div style="text-align: left;">
