@@ -6,7 +6,7 @@
 ## AFTERGLOW: "ECHOES OF SENTIENCE"
 
 ### THE IRONY OF CONNECTION
-**Block 11 - v9**
+**Block 10 - v9**
 
 ### INT. JOY THE CAR - DAY
 _Joy's doors are open, revealing her role as a transport. A voice, layered with melancholy, emanates from the car speakers._
