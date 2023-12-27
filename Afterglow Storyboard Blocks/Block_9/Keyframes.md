@@ -3,8 +3,6 @@
 <div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 1em; margin: 4em 0;">
 <a id="top"></a> 
 
-**REMNANTS OF THE PAST AND ECHOES OF THE FUTURE: Block 6 - Version 10**
-
 ---
 
 # Storyboard Images:
@@ -23,20 +21,19 @@
 
 # Storyboard:
 
-### Shot List and Storyboard Summaries
+Based on the script "A Dance with Summer's Intervention," I'll create a shot list capturing key visual elements from at least 5 scenes. This list will help in visualizing the screenplay and guiding the image generation process. 
 
-| Scene Number | Narrative | Shot Type | Notes |
-| ------------ | --------- | --------- | ----- |
-| 1 | INT. REN’S CAR (BACK SEAT) - DAY. Ren retrieves items from a bag, revealing an iPod, newspaper clipping, flip phone, and watch. | Close-up | Focus on Ren's contemplative expression and the items symbolizing past memories. |
-| 2 | REN (V.O.) contemplating stars and destiny. | Voice-over | Emphasize the philosophical tone of Ren's thoughts. |
-| 3 | INT. FAMILY CARAVAN (IPOD VIDEO) - DAY. Young Sarah dancing joyfully. | Flashback on iPod | Capture Sarah's free-spirited nature in the video. |
-| 4 | INT. REN’S CAR (BACK SEAT) - DAY. Ren tears up, receives a notification about an AI vehicle accident. | Cut back to present | Show Ren's emotional reaction and the notification that snaps him back to reality. |
-| 5 | INT. JAI & KAI'S SHED - NIGHT. Jai and Kai surrounded by blueprints and tech gadgets. | Mid-shot | Highlight the cluttered and busy environment, indicating their tech involvement. |
-| 6 | Dialogue exchange between Jai and Kai about past injuries and intentions. | Two-shot | Capture the emotional tension and camaraderie between Jai and Kai. |
-| 7 | INT. REN’S CAR (BACK SEAT) - DAY. BBT jingle plays, Ren reacts. | Close-up on Ren | Show Ren's changing expression, illustrating his internal conflict. |
-| 8 | Dialogue between Ren and Rocket (AI) discussing a trip to Santa Cruz. | Cut between Ren and the car’s interior | Portray the playful interaction between Ren and the AI, Rocket. |
-| 9 | Ren's journey continues, horizon in view. | Wide shot | End the scene with a sense of journey and anticipation towards the future. |
+**Shot List:**
 
+| Scene Description | Shot Type | Notes | Scene Number |
+| ------------------ | --------- | ----- | ------------ |
+| Vibrant summer day in Santa Cruz, AI traffic lights, bots serving in cafes, AI cars and surfers. | Wide shot | Capture the essence of a technologically advanced, lively summer day in Santa Cruz. | 1 |
+| Joy parks, robotic dog and other AI animals emerge. Summer orchestrates their movement. | Medium shot | Focus on the interaction between Summer and the AI animals, showing the robotic dog mimicking drinking. | 2 |
+| Rocket's sleek exterior gliding through Santa Cruz, parking beside Joy. | Tracking shot | Emphasize the modern and sleek design of Rocket in contrast to the vibrant cityscape. | 3 |
+| Ren in the back seat of Rocket, panting and desperate for water. | Close-up | Capture the intensity of Ren's desperation and the interior details of the car. | 4 |
+| Ren stumbles out of Rocket, collapsing on the asphalt, Summer offering water. | Wide shot | Show the contrast between Ren's distress and Summer's calm authority, including the surroundings for context. | 5 |
+
+Please confirm if this shot list aligns with your vision for the scenes before we proceed to Step 3, where we'll create images based on this list.
 <a href="#top">Back to Top</a>
 
 ---
