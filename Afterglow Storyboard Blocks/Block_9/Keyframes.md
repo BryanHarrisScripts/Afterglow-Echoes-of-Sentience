@@ -35,7 +35,7 @@ Please confirm if this shot list aligns with your vision for the scenes before w
 
 ---
 
-### Scene 1: Vibrant Summer Day in Santa Cruz
+## Scene 1: Vibrant Summer Day in Santa Cruz
 - **Shot Type:** Wide shot
 - **Mood:** Lively, technologically advanced
 - **Color Palette:** Bright, summery colors with a mix of natural and artificial tones
@@ -60,7 +60,7 @@ Please confirm if this shot list aligns with your vision for the scenes before w
 - To further enhance the scene, we could incorporate more detailed depictions of the interactions between people and the AI elements, such as close-ups of AI serving in cafes or detailed designs of the AI sports cars.
 - Adding more distinct elements that reflect Santa Cruz's unique character, like specific landmarks or culturally significant symbols, could deepen the sense of place.
 
-### Scene 2: Joy Parks with Robotic Dog and AI Animals
+## Scene 2: Joy Parks with Robotic Dog and AI Animals
 - **Shot Type:** Medium shot
 - **Mood:** Playful and harmonious
 - **Color Palette:** Natural tones with metallic accents
@@ -85,7 +85,7 @@ Please confirm if this shot list aligns with your vision for the scenes before w
 - Enhancing the interaction between Summer and the AI animals could be explored, perhaps by showing more dynamic movements or expressions from the animals to emphasize their AI nature.
 - Adding more detailed elements specific to the car Joy could further contextualize the scene, such as unique design features that set it apart as an integral part of the story.
 
-### Scene 3: Rocket's Journey Through Santa Cruz
+## Scene 3: Rocket's Journey Through Santa Cruz
 - **Shot Type:** Tracking shot
 - **Mood:** Sleek and dynamic
 - **Color Palette:** Vibrant with sunlight reflections
@@ -110,7 +110,7 @@ Please confirm if this shot list aligns with your vision for the scenes before w
 - To enhance the dynamic feel of the scene, we could incorporate more motion blur or other visual effects that emphasize Rocket's speed and sleekness.
 - Adding more recognizable Santa Cruz landmarks or specific street scenes in the background could provide a stronger sense of place and context.
 
-### Scene 4: Ren's Desperation Inside Rocket
+## Scene 4: Ren's Desperation Inside Rocket
 - **Shot Type:** Close-up
 - **Mood:** Intense, desperate
 - **Color Palette:** Warm, emphasizing discomfort
@@ -135,7 +135,7 @@ Please confirm if this shot list aligns with your vision for the scenes before w
 - Introducing more detailed expressions on Ren's face or adding elements that further emphasize the car's interior, such as specific dashboard features or unique design elements, could increase the scene's intensity.
 - Playing with lighting and shadows inside the car could also enhance the feeling of heat and discomfort.
 
-### Scene 5: Ren Collapses Outside Rocket
+## Scene 5: Ren Collapses Outside Rocket
 - **Shot Type:** Wide shot
 - **Mood:** Overwhelmed, dramatic
 - **Color Palette:** Harsh, contrasting
