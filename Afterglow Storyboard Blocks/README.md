@@ -114,7 +114,7 @@ In summary, "Afterglow: Echoes of Sentience" explores the intersection of advanc
     <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_1/Keyframes/Scene6f.png" alt="Scene 6" width="200" style="display: inline-block;"/></a>
     </div>
 
-    <a href="#top">Back to Top</a>
+<a href="#top">Back to Top</a>
 
 # 2. PUPPETS AND PUPPETEERS PART 2
 
@@ -127,6 +127,8 @@ In summary, "Afterglow: Echoes of Sentience" explores the intersection of advanc
     <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_2/Keyframes/Scene6.png" alt="Scene 6" width="200" style="display: inline-block;"/></a>
 </div>
 
+<a href="#top">Back to Top</a>
+
 # 3. A DANCE WITH AI AND NEW BEGINNING 
 
 <div style="text-align: left;">
@@ -138,6 +140,8 @@ In summary, "Afterglow: Echoes of Sentience" explores the intersection of advanc
     <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_3/Keyframes/Scene6.png" alt="Scene 4" width="200" style="display: inline-block;"/></a>
 </div>
 
+<a href="#top">Back to Top</a>
+
 # 4. BROKEN NUMBERS, SHATTERED HEARTS
 
 <div style="text-align: left;">
@@ -146,6 +150,8 @@ In summary, "Afterglow: Echoes of Sentience" explores the intersection of advanc
     <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_4/Keyframes/AG3.PNG" alt="Scene 1" width="200" style="display: inline-block;"/></a>
     <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_4/Keyframes/AG4.PNG" alt="Scene 1" width="200" style="display: inline-block;"/></a>
 </div>
+
+<a href="#top">Back to Top</a>
 
 # 5. DAWN OF DEPARTURE AND REFLECTION
 
@@ -158,6 +164,8 @@ In summary, "Afterglow: Echoes of Sentience" explores the intersection of advanc
     <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_5/Keyframes/AG6.png" width="200" style="display: inline-block;"/></a>
     <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_5/Keyframes/AG7.png" width="200" style="display: inline-block;"/></a>
 </div>
+
+<a href="#top">Back to Top</a>
 
 # 6. REMNANTS OF THE PAST AND ECHOES OF THE FUTURE
 
@@ -172,6 +180,8 @@ In summary, "Afterglow: Echoes of Sentience" explores the intersection of advanc
     <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_6/Keyframes/AG8.PNG" alt="Scene 4" width="200" style="display: inline-block;"/></a>
     <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_6/Keyframes/AG9.PNG" alt="Scene 4" width="200" style="display: inline-block;"/></a>
 </div>
+
+<a href="#top">Back to Top</a>
 
 # 7. THE LONG ROAD TO SILENCE
 
@@ -193,6 +203,8 @@ In summary, "Afterglow: Echoes of Sentience" explores the intersection of advanc
     <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_7/Keyframes/AG15.png" width="200" style="display: inline-block;"/></a>    
 </div>
 
+<a href="#top">Back to Top</a>
+
 # 8. FROM DUSK TO DRIVE: AI ROAD TRIP RUMBLE
 
 <div style="text-align: left;">
@@ -202,6 +214,8 @@ In summary, "Afterglow: Echoes of Sentience" explores the intersection of advanc
     <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_8/Frames/AG4.PNG" alt="Scene 4" width="200" style="display: inline-block;"/></a>
     <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_8/Frames/AG5.PNG" alt="Scene 5" width="200" style="display: inline-block;"/></a>
     <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_8/Frames/AG6.PNG" alt="Scene 6" width="200" style="display: inline-block;"/></a>
+
+<a href="#top">Back to Top</a>
     
 # 9. A DANCE WITH SUMMER'S INTERVENTION
 
@@ -212,6 +226,8 @@ In summary, "Afterglow: Echoes of Sentience" explores the intersection of advanc
     <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_9/Frames/AG4.PNG" alt="Scene 4" width="200" style="display: inline-block;"/></a>
     <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_9/Frames/AG5.PNG" alt="Scene 4" width="200" style="display: inline-block;"/></a>
 </div>
+
+<a href="#top">Back to Top</a>
 
 ---
 
