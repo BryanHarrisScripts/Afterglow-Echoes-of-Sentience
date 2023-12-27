@@ -65,7 +65,7 @@
       </td>
       <td valign="top">
         <h4>Afterglow</h4>
-          <li><a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Poster%202023.png" alt="" width="300" style="display: inline-block;"/></a></li>
+          <li style="list-style-type: none;"><a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Poster%202023.png" alt="" width="300" style="display: inline-block;"/></a></li>
      </td>
     </tr>
   </table>
