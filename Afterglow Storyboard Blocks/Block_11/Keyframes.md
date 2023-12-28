@@ -164,6 +164,23 @@ Details for DALL-E Prompt: **A close-up of Ren's face, capturing his emotional s
 **Key Elements:** The key elements are Ren's expressive face, especially his eyes and the unshed tears, along with the lighting that accentuates his emotional expression.  
 **Prompt:** "A close-up of a character named Ren, showing his emotional state with unshed tears in his eyes. The scene is introspective and deeply emotional. The color palette includes soft greys and blues with subtle highlights, focusing on his eyes and the unshed tears. The lighting accentuates his emotional expression, adding depth to the scene. The style is modern and slightly futuristic, with a focus on the character's expressive face and eyes."
 
+### Image Generation from the Scene Markdown Table with DALL-E: Scene 8
+
+Scene: **8** (Jai closing the truck door with the mysterious device)  
+Shot Type: **Mid shot**  
+Mood: **Mysterious, suspenseful**  
+Color Palette: **Dark tones with hints of neon**  
+Details for DALL-E Prompt: **A mid shot of Jai closing a truck door, hiding a mysterious device inside. This scene should convey a sense of mystery and suspense. The color palette will include dark tones, with hints of neon to accentuate the secretive nature of the action. The lighting should be subdued, creating shadows and adding to the suspense. The style remains modern and slightly futuristic, focusing on Jai's actions and the obscured view of the mysterious device.**
+
+### Image Generated for Scene 8
+
+**GEN ID:** OETlzJJkM2phHDoo  
+**Character:** Jai  
+**Latent Space Manipulation:** This image captures Jai closing the truck door, with a mysterious device partially visible, conveying a sense of mystery and suspense.  
+**Sampling Methods:** The process focused on creating a secretive atmosphere, with subdued lighting and dark tones, complemented by hints of neon to enhance the mysterious mood.  
+**Color Palette:** The scene uses dark tones with hints of neon, effectively creating a secretive and suspenseful atmosphere.  
+**Key Elements:** Key elements include Jai's actions of closing the truck door, the partially visible mysterious device, and the shadows that add to the suspense of the scene.  
+**Prompt:** "A mid shot of a character named Jai closing a truck door, with a mysterious device partially visible inside. The scene is mysterious and suspenseful. The color palette includes dark tones with hints of neon, creating a secretive atmosphere. The lighting is subdued, casting shadows and adding to the suspense. The style is modern and slightly futuristic, focusing on Jai's actions and the obscured view of the mysterious device."
 
 ---
 
