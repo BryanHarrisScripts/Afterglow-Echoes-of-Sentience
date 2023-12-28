@@ -25,7 +25,7 @@
           <li><a>💯FROM DUSK TO DRIVE: AI ROAD TRIP RUMBLE</a></li>
           <li><a>💯A DANCE WITH SUMMER'S INTERVENTION</a></li>
           <li><a>💯THE IRONY OF CONNECTION</a></li>
-          <li><a>ECHOES OF FAMILIARITY</a></li>
+          <li><a>💯ECHOES OF FAMILIARITY</a></li>
           <li><a>REFLECTIONS AND REVELATIONS</a></li>
           <li><a>UNCHARTED TERRITORIES</a></li>
           <li><a>JOYRIDE INTO CONSCIOUSNESS</a></li>
@@ -435,6 +435,19 @@ In summary, this section of "Afterglow: Echoes of Sentience" artfully combines t
 - **Narrative Progression**: The plot moves from a focus on technological challenges to an exploration of human connections and the pursuit of happiness amidst AI-influenced lives.
 
 In summary, this section of "Afterglow: Echoes of Sentience" weaves together themes of human-AI dynamics, the pursuit of normalcy in a technologically advanced world, and the formation of unexpected bonds. It showcases how technology can both complicate and enrich human experiences. This analysis aligns with our commitment to OpenStorytelling Plus, reflecting a collaborative and innovative approach to screenplay creation, shared under the Creative Commons CC-BY-SA-4.0 license.
+
+# 11. ECHOES OF FAMILIARITY
+
+<div style="text-align: center;">
+    <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_11/Frames/AG1.png" alt="Scene 1" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_11/Frames/AG2.PNG" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_11/Frames/AG3.PNG" alt="Scene 3" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_11/Frames/AG4.PNG" alt="Scene 4" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_11/Frames/AG5.PNG" alt="Scene 4" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_11/Frames/AG6.PNG" alt="Scene 4" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_11/Frames/AG7.PNG" alt="Scene 4" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_11/Frames/AG8.PNG" alt="Scene 4" width="200" style="display: inline-block;"/></a>
+</div>
 
 ---
 
