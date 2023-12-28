@@ -5,78 +5,110 @@
 
 ## AFTERGLOW: "ECHOES OF SENTIENCE"
 
-### "REMNANTS OF THE PAST AND ECHOES OF THE FUTURE"
-**Block 6 - v10**
+### ECHOES OF FAMILIARITY
+**Block 11 - v9**
 
-### INT. REN’S CAR (BACK SEAT) - DAY
-_The Falcon Wing doors close gently. Ren, appearing contemplative, slowly retrieves items from an old messenger bag: an iPod, newspaper clipping, flip phone, and watch. Each holds a tale._
+### EXT. SANTA CRUZ BOARDWALK - DAY
+_Ren and Summer walk rhythmically towards the enticing roller coaster. Unseen in the crowd, Amy watches._
 
-> **REN (V.O)**  
-> "Can stars truly be changed? Or do they remain fixed, forever guiding... or misleading?"
+**AMY (V.O):**  
+"Ren, do not be nervous. Remember, fear is only temporary, but regret can last forever."
 
-_As the iPod lights up, a video starts._
+### EXT. SANTA CRUZ ROLLER COASTER - DAY
+_At the entrance, Ren drums his jittery fingers on the barrier. He sneaks a glance at the broken timepiece in his bag, then turns to Summer's infectious smile._
 
-### INT. FAMILY CARAVAN (IPOD VIDEO) - DAY
-_A younger SARAH is dancing with joy, a free spirit._
+**REN:**  
+"So, straight from the ground to 'The Rocket,' huh?"
 
-### INT. REN’S CAR (BACK SEAT) - DAY
-_Tears form in Ren's eyes. A car screen notification about an AI vehicle accident reminds him of his purpose._
+_Her eyes sparkle with anticipation._
 
-### INT. JAI & KAI'S SHED - NIGHT
-_Blueprints and tech gadgets scatter the room. A TV headline reads, "Foul Play in Autonomous Car Tragedy?"_
+**SUMMER:**  
+"Wait till you surf a wave with me. That's the ultimate high."
 
-**JAI**  
-"Pass the wrench."
+**REN:**  
+"I've had my share of thrills, believe me."
 
-**KAI**  
-"That old injury?"
+**SUMMER:**  
+"What's one more then?"
 
-**JAI**  
-"Constant reminders."
+**REN:**  
+"Well, it's the unknown that follows, that concerns me."
 
-**KAI**  
-"We had good intentions."
+_Ren takes a heavy sigh, looking at Summer._
 
-**JAI**  
-"But at what cost?"
+**REN:**  
+"Alright, let's do this."
 
-_The weight of their decisions hangs in the air._
+### EXT. SANTA CRUZ ROLLER COASTER (FRONT CAR) - DAY
+_With a deep breath, Ren follows Summer into the front car of the roller coaster. As the safety bar locks into place, Ren grips it tightly. She casts him a reassuring smile._
 
-### INT. REN’S CAR (BACK SEAT) - DAY
-_The ambiance is interrupted by the upbeat Big Ben Technologies (BBT) jingle. Ren's expression hardens._
+**SUMMER:**  
+"Ren! Embrace the unexpected!"
 
-> **ROCKET (AI)**  
-> "Hey, Ren! Guess where we're headed? Santa Cruz! Ever been on 'The Rocket' roller coaster there?"
+_Her words echo in his mind. The roller coaster starts to move. He closes his eyes, tightening his grip._
 
-**REN**  
-"Now's not the time, Rocket."
+_As the ride begins to ascend, he grips the safety bar tighter, a wave of trepidation washing over him._
 
-> **ROCKET (AI)**  
-> "Aw, come on! Changing lanes, changing moods... ? It could be fun! Plus, I've heard their ice cream is out of this world!"
+**REN:**  
+"Summer, there's... something unique about you."
 
-**REN**  
-"You're not helping, Rocket."
+**SUMMER:**  
+""Oh, is there now?"
 
-_Rocket's tone shifts to a playful, teasing one._
+**REN:**  
+"Yes. A spark...a refreshing change."
 
-> **ROCKET (AI)**  
-> "Alright, alright. But when we get there, you're trying that ice cream! And maybe, just maybe, we'll see about that roller coaster."
+_As the coaster plunges, their laughter is swept away by the rush of the wind. When the ride halts, Ren appears contemplative, a hint of melancholy in his eyes._
 
-**REN**  
-"We'll see."
+### EXT. SANTA CRUZ BOARDWALK - DAY
+_They disembark, laughter echoing in the air. Ren looks at Summer, his eyes gleaming with unshed tears. His color returns, he meets her gaze, his smile more relaxed._
 
-_Rocket hums a soft tune, reminiscent of a beach song, adding a playful ambiance._
+**SUMMER:**  
+"How was that? Intense, huh?"
 
-> **ROCKET (AI)**  
-> "Imagine the sun, the sand, and a scoop of ice cream in hand! Oh, and 'The Rocket' zooming by!"
+**REN:**  
+"It was a wake-up call…"
 
-**REN**  
-"I get it, Rocket. You're excited."
+**SUMMER:**  
+"You kept your eyes shut most of the time!"
 
-> **ROCKET (AI)**  
-> "Just trying to lighten the mood! But remember, even in silence, I'm here."
+**REN:**  
+"They're open now."
 
-_The car continues its journey, the horizon beckoning with promises and memories._
+**SUMMER:**  
+"What's this, Ren? The ride get to you?"
+
+**REN:**  
+"No, just... your laughter, it's familiar."
+
+**SUMMER:**  
+"Familiar?"
+
+**REN:**  
+"You bring to mind someone... someone I once knew."
+
+_Ren's gaze becomes distant, his mind wandering to his past. A moment later, he shakes his head, regaining his composure._
+
+**REN:**  
+"Today, I feel like I've rediscovered a part of myself. Your joy... it's infectious."
+
+_Taken aback by his newfound openness, she smiles warmly. Their chuckles blend with the lively energy of the boardwalk._
+
+### EXT. SANTA CRUZ BEACH - DAY
+_As they navigate through the crowd, Ren's laughter fades. Noticing his sudden quietness, she gently touches his arm._
+
+**SUMMER:**  
+"Sometimes, the past can feel comforting."
+
+**REN:**  
+"Summer, you take me back to... happier times."
+
+**REN (V.O):**  
+"My past haunts me...today feels rejuvenating, a fresh start."
+
+_She offers a supportive nod._
+
+_In the distance, Jai closes a truck door, hiding a mysterious device inside. He walks away, leaving the bustling pier behind._
 
 ---
 
