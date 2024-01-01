@@ -26,7 +26,7 @@
           <li><a>💯A DANCE WITH SUMMER'S INTERVENTION</a></li>
           <li><a>💯THE IRONY OF CONNECTION</a></li>
           <li><a>💯ECHOES OF FAMILIARITY</a></li>
-          <li><a>REFLECTIONS AND REVELATIONS</a></li>
+          <li><a>💯REFLECTIONS AND REVELATIONS</a></li>
           <li><a>UNCHARTED TERRITORIES</a></li>
           <li><a>JOYRIDE INTO CONSCIOUSNESS</a></li>
           <li><a>THE JOURNEY WITHIN</a></li>
@@ -292,21 +292,21 @@ In summary, this section of "Afterglow: Echoes of Sentience" captures the nuance
 # 7. THE LONG ROAD TO SILENCE
 
 <div style="text-align: left;">
-    <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_7/Keyframes/AG1.png" width="200" style="display: inline-block;"/></a>
-    <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_7/Keyframes/AG2.png" width="200" style="display: inline-block;"/></a>
-    <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_7/Keyframes/AG3.png" width="200" style="display: inline-block;"/></a>
-    <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_7/Keyframes/AG4.png" width="200" style="display: inline-block;"/></a>
-    <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_7/Keyframes/AG5.png" width="200" style="display: inline-block;"/></a>
-    <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_7/Keyframes/AG6.png" width="200" style="display: inline-block;"/></a>
-    <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_7/Keyframes/AG7.png" width="200" style="display: inline-block;"/></a>
-    <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_7/Keyframes/AG8.png" width="200" style="display: inline-block;"/></a>
-    <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_7/Keyframes/AG9.png" width="200" style="display: inline-block;"/></a>
-    <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_7/Keyframes/AG10.png" width="200" style="display: inline-block;"/></a>
-    <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_7/Keyframes/AG11.png" width="200" style="display: inline-block;"/></a>
-    <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_7/Keyframes/AG12.png" width="200" style="display: inline-block;"/></a>
-    <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_7/Keyframes/AG13.png" width="200" style="display: inline-block;"/></a>
-    <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_7/Keyframes/AG14.png" width="200" style="display: inline-block;"/></a>
-    <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_7/Keyframes/AG15.png" width="200" style="display: inline-block;"/></a>    
+    <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_7/Frames/AG1.png" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_7/Frames/AG2.png" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_7/Frames/AG3.png" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_7/Frames/AG4.png" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_7/Frames/AG5.png" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_7/Frames/AG6.png" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_7/Frames/AG7.png" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_7/Frames/AG8.png" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_7/Frames/AG9.png" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_7/Frames/AG10.png" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_7/Frames/AG11.png" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_7/Frames/AG12.png" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_7/Frames/AG13.png" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_7/Frames/AG14.png" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_7/Frames/AG15.png" width="200" style="display: inline-block;"/></a>    
 </div>
 
 "Block 7 - v10" of "Afterglow: Echoes of Sentience," titled "The Long Road to Silence," introduces a blend of tension, nostalgia, and technological intrigue:
@@ -468,6 +468,16 @@ In summary, this section of "Afterglow: Echoes of Sentience" weaves together the
 - **Narrative Development**: The story subtly weaves in hints of deeper plots and connections, as seen through Amy's observations and Jai's actions, suggesting more complex developments to come.
 
 In summary, this section of "Afterglow: Echoes of Sentience" beautifully balances thrilling experiences with introspective moments, showcasing the characters' emotional growth and hinting at deeper underlying narratives. This analysis aligns with our commitment to OpenStorytelling Plus, reflecting a collaborative and innovative approach to screenplay creation, shared under the Creative Commons CC-BY-SA-4.0 license.
+
+# 12. REFLECTIONS AND REVELATIONS
+
+<div style="text-align: center;">
+    <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_12/Frames/AG1.png" alt="Scene 1" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_12/Frames/AG2.PNG" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_12/Frames/AG3.PNG" alt="Scene 3" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_12/Frames/AG4.PNG" alt="Scene 4" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_12/Frames/AG5.PNG" alt="Scene 4" width="200" style="display: inline-block;"/></a>
+</div>
 
 ---
 
