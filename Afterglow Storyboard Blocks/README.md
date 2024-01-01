@@ -76,22 +76,22 @@
 # 1. PUPPETS AND PUPPETEERS PART 1
 
 <div style="text-align: left;">
-    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_1/Keyframes/Scene1.png" alt="Scene 1" width="200" style="display: inline-block;"/></a>
-    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_1/Keyframes/Scene2.png" alt="Scene 2" width="200" style="display: inline-block;"/></a>
-    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_1/Keyframes/Scene3.png" alt="Scene 3" width="200" style="display: inline-block;"/></a>
-    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_1/Keyframes/Scene4.png" alt="Scene 4" width="200" style="display: inline-block;"/></a>
-    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_1/Keyframes/Scene5.png" alt="Scene 5" width="200" style="display: inline-block;"/></a>
-    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_1/Keyframes/Scene6.png" alt="Scene 6" width="200" style="display: inline-block;"/></a>
-    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_1/Keyframes/Scene7.png" alt="Scene 7" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_1/Frames/Scene1.png" alt="Scene 1" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_1/Frames/Scene2.png" alt="Scene 2" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_1/Frames/Scene3.png" alt="Scene 3" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_1/Frames/Scene4.png" alt="Scene 4" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_1/Frames/Scene5.png" alt="Scene 5" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_1/Frames/Scene6.png" alt="Scene 6" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_1/Frames/Scene7.png" alt="Scene 7" width="200" style="display: inline-block;"/></a>
 </div>
 
 <div style="text-align: left;">
-    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_1/Keyframes/Scene1a.png" alt="Scene 1" width="200" style="display: inline-block;"/></a>
-    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_1/Keyframes/Scene2b.png" alt="Scene 2" width="200" style="display: inline-block;"/></a>
-    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_1/Keyframes/Scene3c.png" alt="Scene 3" width="200" style="display: inline-block;"/></a>
-    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_1/Keyframes/Scene4d.png" alt="Scene 4" width="200" style="display: inline-block;"/></a>
-    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_1/Keyframes/Scene5e.png" alt="Scene 5" width="200" style="display: inline-block;"/></a>
-    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_1/Keyframes/Scene6f.png" alt="Scene 6" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_1/Frames/Scene1a.png" alt="Scene 1" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_1/Frames/Scene2b.png" alt="Scene 2" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_1/Frames/Scene3c.png" alt="Scene 3" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_1/Frames/Scene4d.png" alt="Scene 4" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_1/Frames/Scene5e.png" alt="Scene 5" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_1/Frames/Scene6f.png" alt="Scene 6" width="200" style="display: inline-block;"/></a>
     </div>
 
 ### Theme:
@@ -121,12 +121,12 @@ In summary, "Afterglow: Echoes of Sentience" explores the intersection of advanc
 # 2. PUPPETS AND PUPPETEERS PART 2
 
 <div style="text-align: left;">
-    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_2/Keyframes/Scene1.png" alt="Scene 1" width="200" style="display: inline-block;"/></a>
-    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_2/Keyframes/Scene2.png" alt="Scene 2" width="200" style="display: inline-block;"/></a>
-    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_2/Keyframes/Scene3.png" alt="Scene 3" width="200" style="display: inline-block;"/></a>
-    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_2/Keyframes/Scene4.png" alt="Scene 4" width="200" style="display: inline-block;"/></a>
-    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_2/Keyframes/Scene5.png" alt="Scene 5" width="200" style="display: inline-block;"/></a>
-    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_2/Keyframes/Scene6.png" alt="Scene 6" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_2/Frames/Scene1.png" alt="Scene 1" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_2/Frames/Scene2.png" alt="Scene 2" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_2/Frames/Scene3.png" alt="Scene 3" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_2/Frames/Scene4.png" alt="Scene 4" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_2/Frames/Scene5.png" alt="Scene 5" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_2/Frames/Scene6.png" alt="Scene 6" width="200" style="display: inline-block;"/></a>
 </div>
 
 The second part of "Afterglow: Echoes of Sentience," titled "Puppets and Puppeteers Part 2," continues to explore complex themes and characters, deepening the narrative introduced in the first part:
@@ -155,12 +155,12 @@ In summary, Part 2 of "Afterglow: Echoes of Sentience" builds upon the establish
 # 3. A DANCE WITH AI AND NEW BEGINNING 
 
 <div style="text-align: left;">
-    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_3/Keyframes/Scene1.png" alt="Scene 1" width="200" style="display: inline-block;"/></a>
-    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_3/Keyframes/Scene2.png" alt="Scene 2" width="200" style="display: inline-block;"/></a>
-    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_3/Keyframes/Scene3.png" alt="Scene 3" width="200" style="display: inline-block;"/></a>
-    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_3/Keyframes/Scene4.png" alt="Scene 4" width="200" style="display: inline-block;"/></a>
-    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_3/Keyframes/Scene5.png" alt="Scene 4" width="200" style="display: inline-block;"/></a>
-    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_3/Keyframes/Scene6.png" alt="Scene 4" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_3/Frames/Scene1.png" alt="Scene 1" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_3/Frames/Scene2.png" alt="Scene 2" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_3/Frames/Scene3.png" alt="Scene 3" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_3/Frames/Scene4.png" alt="Scene 4" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_3/Frames/Scene5.png" alt="Scene 4" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_3/Frames/Scene6.png" alt="Scene 4" width="200" style="display: inline-block;"/></a>
 </div>
 
 "Block 3 - Version 10" of "Afterglow: Echoes of Sentience" introduces a new dimension to the narrative, focusing on the character of Summer Ray and her unique relationship with her AI companions:
@@ -188,10 +188,10 @@ In summary, this section of "Afterglow: Echoes of Sentience" expands the narrati
 # 4. BROKEN NUMBERS, SHATTERED HEARTS
 
 <div style="text-align: left;">
-    <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_4/Keyframes/AG1.PNG" alt="Scene 1" width="200" style="display: inline-block;"/></a>
-    <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_4/Keyframes/AG2.PNG" alt="Scene 1" width="200" style="display: inline-block;"/></a>
-    <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_4/Keyframes/AG3.PNG" alt="Scene 1" width="200" style="display: inline-block;"/></a>
-    <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_4/Keyframes/AG4.PNG" alt="Scene 1" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_4/Frames/AG1.PNG" alt="Scene 1" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_4/Frames/AG2.PNG" alt="Scene 1" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_4/Frames/AG3.PNG" alt="Scene 1" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_4/Frames/AG4.PNG" alt="Scene 1" width="200" style="display: inline-block;"/></a>
 </div>
 
 "Block 4 - v10" of "Afterglow: Echoes of Sentience," titled "Broken Numbers, Shattered Hearts," delves into a poignant and emotionally charged narrative segment, focusing on Ren and his past:
@@ -220,13 +220,13 @@ In summary, this section of "Afterglow: Echoes of Sentience" is a deep explorati
 # 5. DAWN OF DEPARTURE AND REFLECTION
 
 <div style="text-align: left;">
-    <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_5/Keyframes/AG1.png" width="200" style="display: inline-block;"/></a>
-    <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_5/Keyframes/AG2.png" width="200" style="display: inline-block;"/></a>
-    <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_5/Keyframes/AG3.png" width="200" style="display: inline-block;"/></a>
-    <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_5/Keyframes/AG4.png" width="200" style="display: inline-block;"/></a>
-    <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_5/Keyframes/AG5.png" width="200" style="display: inline-block;"/></a>
-    <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_5/Keyframes/AG6.png" width="200" style="display: inline-block;"/></a>
-    <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_5/Keyframes/AG7.png" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_5/Frames/AG1.png" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_5/Frames/AG2.png" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_5/Frames/AG3.png" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_5/Frames/AG4.png" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_5/Frames/AG5.png" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_5/Frames/AG6.png" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_5/Frames/AG7.png" width="200" style="display: inline-block;"/></a>
 </div>
 
 "Block 5 - v10" of "Afterglow: Echoes of Sentience," titled "Dawn of Departure and Reflection," presents parallel narratives of Summer and Ren, each embarking on journeys marked by different motivations and emotional landscapes:
@@ -397,6 +397,7 @@ In summary, this section of "Afterglow: Echoes of Sentience" ramps up the action
 - **Narrative Progression**: The meeting between Ren and Summer sets the stage for their collaborative journey, suggesting a shift in the story's direction.
 
 In summary, this section of "Afterglow: Echoes of Sentience" artfully combines the themes of human-AI coexistence, compassion, and the onset of a new partnership, set against a technologically vibrant backdrop. This analysis aligns with our commitment to OpenStorytelling Plus, reflecting a collaborative and innovative approach to screenplay creation, shared under the Creative Commons CC-BY-SA-4.0 license.
+
 <a href="#top">Back to Top</a>
 
 # 10. THE IRONY OF CONNECTION
@@ -436,6 +437,8 @@ In summary, this section of "Afterglow: Echoes of Sentience" artfully combines t
 
 In summary, this section of "Afterglow: Echoes of Sentience" weaves together themes of human-AI dynamics, the pursuit of normalcy in a technologically advanced world, and the formation of unexpected bonds. It showcases how technology can both complicate and enrich human experiences. This analysis aligns with our commitment to OpenStorytelling Plus, reflecting a collaborative and innovative approach to screenplay creation, shared under the Creative Commons CC-BY-SA-4.0 license.
 
+<a href="#top">Back to Top</a>
+
 # 11. ECHOES OF FAMILIARITY
 
 <div style="text-align: center;">
@@ -469,6 +472,8 @@ In summary, this section of "Afterglow: Echoes of Sentience" weaves together the
 
 In summary, this section of "Afterglow: Echoes of Sentience" beautifully balances thrilling experiences with introspective moments, showcasing the characters' emotional growth and hinting at deeper underlying narratives. This analysis aligns with our commitment to OpenStorytelling Plus, reflecting a collaborative and innovative approach to screenplay creation, shared under the Creative Commons CC-BY-SA-4.0 license.
 
+<a href="#top">Back to Top</a>
+
 # 12. REFLECTIONS AND REVELATIONS
 
 <div style="text-align: center;">
@@ -498,6 +503,8 @@ In summary, this section of "Afterglow: Echoes of Sentience" beautifully balance
 - **Contrasting Perspectives**: The dialogue between Ren and Summer reveals their differing views on life, change, and the role of AI, adding depth to their characters.
 
 In summary, this section of "Afterglow: Echoes of Sentience" artfully blends emotional depth with philosophical musings, showcasing the characters' journeys towards understanding themselves and each other. The narrative skillfully juxtaposes the complexities of the human psyche with the serene backdrop of Santa Cruz. This analysis aligns with our commitment to OpenStorytelling Plus, reflecting a collaborative and innovative approach to screenplay creation, shared under the Creative Commons CC-BY-SA-4.0 license.
+
+<a href="#top">Back to Top</a>
 
 # 13. UNCHARTED TERRITORIES
 
