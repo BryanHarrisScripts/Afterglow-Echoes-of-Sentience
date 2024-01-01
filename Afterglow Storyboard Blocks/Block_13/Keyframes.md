@@ -3,39 +3,35 @@
 <div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 1em; margin: 4em 0;">
 <a id="top"></a> 
 
-**REMNANTS OF THE PAST AND ECHOES OF THE FUTURE: Block 6 - Version 10**
+**REMNANTS OF THE PAST AND ECHOES OF THE FUTURE: Block 13 - Version 9**
 
 ---
 
 # Storyboard Images:
 
 <div style="text-align: center;">
-    <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_6/Keyframes/AG1.PNG" alt="Scene 1" width="200" style="display: inline-block;"/></a>
-    <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_6/Keyframes/AG2.PNG" width="200" style="display: inline-block;"/></a>
-    <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_6/Keyframes/AG3.PNG" alt="Scene 3" width="200" style="display: inline-block;"/></a>
-    <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_6/Keyframes/AG4.PNG" alt="Scene 4" width="200" style="display: inline-block;"/></a>
-    <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_6/Keyframes/AG5.PNG" alt="Scene 4" width="200" style="display: inline-block;"/></a>
-    <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_6/Keyframes/AG6.PNG" alt="Scene 4" width="200" style="display: inline-block;"/></a>
-    <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_6/Keyframes/AG7.PNG" alt="Scene 4" width="200" style="display: inline-block;"/></a>
-    <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_6/Keyframes/AG8.PNG" alt="Scene 4" width="200" style="display: inline-block;"/></a>
-    <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_6/Keyframes/AG9.PNG" alt="Scene 4" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_13/Frames/AG1.png" alt="Scene 1" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_13/Frames/AG2.PNG" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_13/Frames/AG3.PNG" alt="Scene 3" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_13/Frames/AG4.PNG" alt="Scene 4" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_13/Frames/AG5.PNG" alt="Scene 4" width="200" style="display: inline-block;"/></a>
 </div>
 
 # Storyboard:
 
-### Shot List and Storyboard Summaries
+### Markdown Table Shot List with Aesthetic Guidelines
 
-| Scene Number | Narrative | Shot Type | Notes |
-| ------------ | --------- | --------- | ----- |
-| 1 | INT. REN’S CAR (BACK SEAT) - DAY. Ren retrieves items from a bag, revealing an iPod, newspaper clipping, flip phone, and watch. | Close-up | Focus on Ren's contemplative expression and the items symbolizing past memories. |
-| 2 | REN (V.O.) contemplating stars and destiny. | Voice-over | Emphasize the philosophical tone of Ren's thoughts. |
-| 3 | INT. FAMILY CARAVAN (IPOD VIDEO) - DAY. Young Sarah dancing joyfully. | Flashback on iPod | Capture Sarah's free-spirited nature in the video. |
-| 4 | INT. REN’S CAR (BACK SEAT) - DAY. Ren tears up, receives a notification about an AI vehicle accident. | Cut back to present | Show Ren's emotional reaction and the notification that snaps him back to reality. |
-| 5 | INT. JAI & KAI'S SHED - NIGHT. Jai and Kai surrounded by blueprints and tech gadgets. | Mid-shot | Highlight the cluttered and busy environment, indicating their tech involvement. |
-| 6 | Dialogue exchange between Jai and Kai about past injuries and intentions. | Two-shot | Capture the emotional tension and camaraderie between Jai and Kai. |
-| 7 | INT. REN’S CAR (BACK SEAT) - DAY. BBT jingle plays, Ren reacts. | Close-up on Ren | Show Ren's changing expression, illustrating his internal conflict. |
-| 8 | Dialogue between Ren and Rocket (AI) discussing a trip to Santa Cruz. | Cut between Ren and the car’s interior | Portray the playful interaction between Ren and the AI, Rocket. |
-| 9 | Ren's journey continues, horizon in view. | Wide shot | End the scene with a sense of journey and anticipation towards the future. |
+To ensure a consistent aesthetic, style, and color palette across all images for "Afterglow," I have incorporated specific guidelines into the shot list. Here's the table with consideration for color palette consistency, lighting and shadow play, cinematic composition, style consistency, texture and detailing, emotional tone, use of technology, and visual effects:
+
+| Scene Description | Shot Type | Notes | Scene Number |
+|-------------------|-----------|-------|--------------|
+| **Beach with bonfire** | Wide shot | Emphasize the blend of cool and warm tones with blues, greys, and neon highlights. Focus on natural and artificial light interplay. | Scene 1 |
+| **Amy watching the couple** | Close-up | Capture Amy's contemplative expression. Use soft lighting to highlight emotional depth and introspection. | Scene 1 |
+| **Boardwalk with Ren and Summer** | Tracking shot | Vibrant scene with dynamic lighting. Maintain the cinematic 16:9 aspect ratio with futuristic elements subtly present. | Scene 2 |
+| **Hackers' Loft** | Wide shot | Sleek, modern, and slightly futuristic style. Use a mix of natural and artificial light to cast dynamic shadows. | Scene 3 |
+| **Beach - Aerial View** | Aerial shot | A broad view in cinematic 16:9 format. Blend cool and warm tones to highlight the contrast between natural and urban environments. | Scene 4 |
+
+Please confirm if this shot list aligns with your vision for "Afterglow," or if there are any adjustments you would like to make before we proceed to image generation in Step 3.
 
 <a href="#top">Back to Top</a>
 
