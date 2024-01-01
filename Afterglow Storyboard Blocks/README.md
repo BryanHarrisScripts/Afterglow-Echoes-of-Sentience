@@ -27,7 +27,7 @@
           <li><a>💯THE IRONY OF CONNECTION</a></li>
           <li><a>💯ECHOES OF FAMILIARITY</a></li>
           <li><a>💯REFLECTIONS AND REVELATIONS</a></li>
-          <li><a>UNCHARTED TERRITORIES</a></li>
+          <li><a>💯UNCHARTED TERRITORIES</a></li>
           <li><a>JOYRIDE INTO CONSCIOUSNESS</a></li>
           <li><a>THE JOURNEY WITHIN</a></li>
           <li><a>LOST AND FOUND IN VENICE BEACH</a></li>
@@ -498,6 +498,16 @@ In summary, this section of "Afterglow: Echoes of Sentience" beautifully balance
 - **Contrasting Perspectives**: The dialogue between Ren and Summer reveals their differing views on life, change, and the role of AI, adding depth to their characters.
 
 In summary, this section of "Afterglow: Echoes of Sentience" artfully blends emotional depth with philosophical musings, showcasing the characters' journeys towards understanding themselves and each other. The narrative skillfully juxtaposes the complexities of the human psyche with the serene backdrop of Santa Cruz. This analysis aligns with our commitment to OpenStorytelling Plus, reflecting a collaborative and innovative approach to screenplay creation, shared under the Creative Commons CC-BY-SA-4.0 license.
+
+# 13. UNCHARTED TERRITORIES
+
+<div style="text-align: center;">
+    <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_13/Frames/AG1.png" alt="Scene 1" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_13/Frames/AG2.PNG" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_13/Frames/AG3.PNG" alt="Scene 3" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_13/Frames/AG4.PNG" alt="Scene 4" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_13/Frames/AG5.PNG" alt="Scene 4" width="200" style="display: inline-block;"/></a>
+</div>
 
 ---
 
