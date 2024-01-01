@@ -10,21 +10,21 @@
 # Storyboard Images:
 
 <div style="text-align: center;">
-    <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_7/Keyframes/AG1.png" width="200" style="display: inline-block;"/></a>
-    <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_7/Keyframes/AG2.png" width="200" style="display: inline-block;"/></a>
-    <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_7/Keyframes/AG3.png" width="200" style="display: inline-block;"/></a>
-    <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_7/Keyframes/AG4.png" width="200" style="display: inline-block;"/></a>
-    <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_7/Keyframes/AG5.png" width="200" style="display: inline-block;"/></a>
-    <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_7/Keyframes/AG6.png" width="200" style="display: inline-block;"/></a>
-    <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_7/Keyframes/AG7.png" width="200" style="display: inline-block;"/></a>
-    <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_7/Keyframes/AG8.png" width="200" style="display: inline-block;"/></a>
-    <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_7/Keyframes/AG9.png" width="200" style="display: inline-block;"/></a>
-    <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_7/Keyframes/AG10.png" width="200" style="display: inline-block;"/></a>
-    <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_7/Keyframes/AG11.png" width="200" style="display: inline-block;"/></a>
-    <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_7/Keyframes/AG12.png" width="200" style="display: inline-block;"/></a>
-    <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_7/Keyframes/AG13.png" width="200" style="display: inline-block;"/></a>
-    <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_7/Keyframes/AG14.png" width="200" style="display: inline-block;"/></a>
-    <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_7/Keyframes/AG15.png" width="200" style="display: inline-block;"/></a>    
+    <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_7/Frames/AG1.png" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_7/Frames/AG2.png" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_7/Frames/AG3.png" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_7/Frames/AG4.png" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_7/Frames/AG5.png" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_7/Frames/AG6.png" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_7/Frames/AG7.png" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_7/Frames/AG8.png" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_7/Frames/AG9.png" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_7/Frames/AG10.png" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_7/Frames/AG11.png" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_7/Frames/AG12.png" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_7/Frames/AG13.png" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_7/Frames/AG14.png" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_7/Frames/AG15.png" width="200" style="display: inline-block;"/></a>    
 </div>
 
 # Storyboard:
