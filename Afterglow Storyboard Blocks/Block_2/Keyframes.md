@@ -3,7 +3,7 @@
 <div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 1em; margin: 4em 0;">
 <a id="top"></a> 
 
-**_PUPPETS AND PUPPETEERS PART 2: Block 2 - Version 10_**
+## PUPPETS AND PUPPETEERS PART 2: Block 2 - Version 10
 
 ---
 
