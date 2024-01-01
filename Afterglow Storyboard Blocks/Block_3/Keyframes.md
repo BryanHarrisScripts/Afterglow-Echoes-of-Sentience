@@ -3,7 +3,7 @@
 <div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 1em; margin: 4em 0;">
 <a id="top"></a> 
 
-**A Dance with AI and New Beginnings: Block 3 - Version 10**
+## A Dance with AI and New Beginnings: Block 3 - Version 10
 
 ---
 
