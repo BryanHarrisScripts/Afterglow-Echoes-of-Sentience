@@ -5,8 +5,8 @@
 
 ## AFTERGLOW: "ECHOES OF SENTIENCE"
 
-### "REMNANTS OF THE PAST AND ECHOES OF THE FUTURE"
-**Block 6 - v10**
+### "GUIDING STARS"
+**Block 21 - v9**
 
 ### INT. REN’S CAR (BACK SEAT) - DAY
 _The Falcon Wing doors close gently. Ren, appearing contemplative, slowly retrieves items from an old messenger bag: an iPod, newspaper clipping, flip phone, and watch. Each holds a tale._
