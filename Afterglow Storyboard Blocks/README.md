@@ -606,7 +606,7 @@ In summary, this section of "Afterglow: Echoes of Sentience" provides a rich ble
 In summary, this section of "Afterglow: Echoes of Sentience" effectively captures the essence of a journey within, both literal and metaphorical, highlighting the emotional and psychological aspects of human-AI interactions. This analysis aligns with our commitment to OpenStorytelling Plus, reflecting a collaborative and innovative approach to screenplay creation, shared under the Creative Commons CC-BY-SA-4.0 license.
 
 ---
-# 16. Lost and Found in Venice Beach
+# 16. LOST AND FOUND IN VENICE BEACH
 
 <div style="text-align: center;">
     <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_16/Frames/AG1.png" alt="Scene 1" width="200" style="display: inline-block;"/></a>
