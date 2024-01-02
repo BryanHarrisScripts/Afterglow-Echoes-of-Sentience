@@ -61,6 +61,7 @@
           <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/tree/main/Afterglow%20Storyboard%20Blocks/Block_18/README.md">Block 18</a></li>
           <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/tree/main/Afterglow%20Storyboard%20Blocks/Block_19/README.md">Block 19</a></li>
           <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/tree/main/Afterglow%20Storyboard%20Blocks/Block_20/README.md">Block 20</a></li>
+          <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/tree/main/Afterglow%20Storyboard%20Blocks/Block_21/README.md">Block 21</a></li>
         </ol> 
       </td>
       <td valign="top">
