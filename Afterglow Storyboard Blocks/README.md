@@ -28,7 +28,7 @@
           <li><a>💯ECHOES OF FAMILIARITY</a></li>
           <li><a>💯REFLECTIONS AND REVELATIONS</a></li>
           <li><a>💯UNCHARTED TERRITORIES</a></li>
-          <li><a>JOYRIDE INTO CONSCIOUSNESS</a></li>
+          <li><a>💯JOYRIDE INTO CONSCIOUSNESS</a></li>
           <li><a>THE JOURNEY WITHIN</a></li>
           <li><a>LOST AND FOUND IN VENICE BEACH</a></li>
           <li><a>WAVES OF CONNECTIONS</a></li>
