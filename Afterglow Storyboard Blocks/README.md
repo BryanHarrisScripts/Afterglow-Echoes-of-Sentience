@@ -15,22 +15,22 @@
       <td valign="top">
         <h4>Block Description</h4>
         <ol start="1">
-          <li><a>💯PUPPETS AND PUPPETEERS PART 1</a></li>
-          <li><a>💯PUPPETS AND PUPPETEERS PART 2</a></li>
-          <li><a>💯A DANCE WITH AI AND NEW BEGINNINGS</a></li>
+          <li><a>💯PUPPETS & PUPPETEERS PART 1</a></li>
+          <li><a>💯PUPPETS & PUPPETEERS PART 2</a></li>
+          <li><a>💯A DANCE WITH AI & NEW BEGINNINGS</a></li>
 	  <li><a>💯BROKEN NUMBERS, SHATTERED HEARTS</a></li>
-          <li><a>💯DAWN OF DEPARTURE AND REFLECTION</a></li>
-          <li><a>💯REMNANTS OF THE PAST AND ECHOES OF THE FUTURE</a></li>
+          <li><a>💯DAWN OF DEPARTURE & REFLECTION</a></li>
+          <li><a>💯REMNANTS OF THE PAST & ECHOES OF THE FUTURE</a></li>
           <li><a>💯THE LONG ROAD TO SILENCE</a></li>
           <li><a>💯FROM DUSK TO DRIVE: AI ROAD TRIP RUMBLE</a></li>
           <li><a>💯A DANCE WITH SUMMER'S INTERVENTION</a></li>
           <li><a>💯THE IRONY OF CONNECTION</a></li>
           <li><a>💯ECHOES OF FAMILIARITY</a></li>
-          <li><a>💯REFLECTIONS AND REVELATIONS</a></li>
+          <li><a>💯REFLECTIONS & REVELATIONS</a></li>
           <li><a>💯UNCHARTED TERRITORIES</a></li>
           <li><a>💯JOYRIDE INTO CONSCIOUSNESS</a></li>
           <li><a>💯THE JOURNEY WITHIN</a></li>
-          <li><a>💯LOST AND FOUND IN VENICE BEACH</a></li>
+          <li><a>💯LOST & FOUND IN VENICE BEACH</a></li>
           <li><a>💯WAVES OF CONNECTIONS</a></li>
           <li><a>WHEELS OF DESTINY</a></li>
           <li><a>SURVIVING SINGULARITY</a></li>
