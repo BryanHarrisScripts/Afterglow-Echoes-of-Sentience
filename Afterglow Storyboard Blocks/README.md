@@ -143,8 +143,6 @@
 
 In summary, "Afterglow: Echoes of Sentience" explores the intersection of advanced technology and human ethics through its characters and plot, set against the backdrop of a high-tech corporation grappling with the implications of their groundbreaking creations. This analysis aligns with our commitment to OpenStorytelling Plus, reflecting a collaborative and innovative approach to screenplay creation, shared under the Creative Commons CC-BY-SA-4.0 license.
 
-
-
 <a href="#top">Back to Top</a>
 
 ### 2. PUPPETS AND PUPPETEERS PART 2
@@ -282,7 +280,6 @@ In summary, this section of "Afterglow: Echoes of Sentience" contrasts the theme
 <a href="#top">Back to Top</a>
 
 ### 6. REMNANTS OF THE PAST AND ECHOES OF THE FUTURE
-
 
 <div style="text-align: center;">
     <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_6/Frames/AG1.PNG" alt="Scene 1" width="200" style="display: inline-block;"/></a>
@@ -604,6 +601,8 @@ In summary, this section of "Afterglow: Echoes of Sentience" provides a rich exp
 
 In summary, this section of "Afterglow: Echoes of Sentience" provides a rich blend of AI introspection and human-AI interactions, set against a journey that explores emotions, relationships, and the search for understanding and happiness. This analysis aligns with our commitment to OpenStorytelling Plus, reflecting a collaborative and innovative approach to screenplay creation, shared under the Creative Commons CC-BY-SA-4.0 license.
 
+<a href="#top">Back to Top</a>
+
 ### 15. THE JOURNEY WITHIN
 
 <div style="text-align: center;">
@@ -634,7 +633,8 @@ In summary, this section of "Afterglow: Echoes of Sentience" provides a rich ble
 
 In summary, this section of "Afterglow: Echoes of Sentience" effectively captures the essence of a journey within, both literal and metaphorical, highlighting the emotional and psychological aspects of human-AI interactions. This analysis aligns with our commitment to OpenStorytelling Plus, reflecting a collaborative and innovative approach to screenplay creation, shared under the Creative Commons CC-BY-SA-4.0 license.
 
----
+<a href="#top">Back to Top</a>
+
 ### 16. LOST AND FOUND IN VENICE BEACH
 
 <div style="text-align: center;">
@@ -665,6 +665,8 @@ In summary, this section of "Afterglow: Echoes of Sentience" effectively capture
 - **Narrative Tension**: The presence of Jai and Kai, following the protagonists, adds a layer of intrigue and foreshadows potential conflicts.
 
 In summary, this section of "Afterglow: Echoes of Sentience" captures the essence of discovery and connection, both in human relationships and AI interactions, set against the picturesque backdrop of Venice Beach. The narrative intertwines introspection, revelation, and the joy of shared experiences, hinting at deeper complexities and upcoming challenges. This analysis aligns with our commitment to OpenStorytelling Plus, reflecting a collaborative and innovative approach to screenplay creation, shared under the Creative Commons CC-BY-SA-4.0 license.
+
+<a href="#top">Back to Top</a>
 
 ### 17. WAVES OF CONNECTIONS
 
