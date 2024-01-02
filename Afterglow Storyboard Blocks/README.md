@@ -98,9 +98,11 @@
   </table>
 </div>
 
----
+# Theme, Characters & Plot
 
-# 1. PUPPETS AND PUPPETEERS PART 1
+---   
+
+### 1. PUPPETS AND PUPPETEERS PART 1
 
 <div style="text-align: left;">
     <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_1/Frames/Scene1.png" alt="Scene 1" width="200" style="display: inline-block;"/></a>
@@ -145,7 +147,7 @@ In summary, "Afterglow: Echoes of Sentience" explores the intersection of advanc
 
 <a href="#top">Back to Top</a>
 
-# 2. PUPPETS AND PUPPETEERS PART 2
+### 2. PUPPETS AND PUPPETEERS PART 2
 
 <div style="text-align: left;">
     <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_2/Frames/Scene1.png" alt="Scene 1" width="200" style="display: inline-block;"/></a>
@@ -179,7 +181,7 @@ In summary, Part 2 of "Afterglow: Echoes of Sentience" builds upon the establish
 
 <a href="#top">Back to Top</a>
 
-# 3. A DANCE WITH AI AND NEW BEGINNING 
+### 3. A DANCE WITH AI AND NEW BEGINNING 
 
 <div style="text-align: left;">
     <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_3/Frames/Scene1.png" alt="Scene 1" width="200" style="display: inline-block;"/></a>
@@ -212,7 +214,7 @@ In summary, this section of "Afterglow: Echoes of Sentience" expands the narrati
 
 <a href="#top">Back to Top</a>
 
-# 4. BROKEN NUMBERS, SHATTERED HEARTS
+### 4. BROKEN NUMBERS, SHATTERED HEARTS
 
 <div style="text-align: left;">
     <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_4/Frames/AG1.PNG" alt="Scene 1" width="200" style="display: inline-block;"/></a>
@@ -244,7 +246,7 @@ In summary, this section of "Afterglow: Echoes of Sentience" is a deep explorati
 
 <a href="#top">Back to Top</a>
 
-# 5. DAWN OF DEPARTURE AND REFLECTION
+### 5. DAWN OF DEPARTURE AND REFLECTION
 
 <div style="text-align: left;">
     <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_5/Frames/AG1.png" width="200" style="display: inline-block;"/></a>
@@ -279,7 +281,7 @@ In summary, this section of "Afterglow: Echoes of Sentience" contrasts the theme
 
 <a href="#top">Back to Top</a>
 
-# 6. REMNANTS OF THE PAST AND ECHOES OF THE FUTURE
+### 6. REMNANTS OF THE PAST AND ECHOES OF THE FUTURE
 
 
 <div style="text-align: center;">
@@ -316,7 +318,7 @@ In summary, this section of "Afterglow: Echoes of Sentience" captures the nuance
 
 <a href="#top">Back to Top</a>
 
-# 7. THE LONG ROAD TO SILENCE
+### 7. THE LONG ROAD TO SILENCE
 
 <div style="text-align: left;">
     <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_7/Frames/AG1.png" width="200" style="display: inline-block;"/></a>
@@ -360,7 +362,7 @@ In summary, this section of "Afterglow: Echoes of Sentience" combines emotional 
 
 <a href="#top">Back to Top</a>
 
-# 8. FROM DUSK TO DRIVE: AI ROAD TRIP RUMBLE
+### 8. FROM DUSK TO DRIVE: AI ROAD TRIP RUMBLE
 
 <div style="text-align: left;">
     <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_8/Frames/AG1.png" alt="Scene 1" width="200" style="display: inline-block;"/></a>
@@ -394,7 +396,7 @@ In summary, this section of "Afterglow: Echoes of Sentience" ramps up the action
 
 <a href="#top">Back to Top</a>
     
-# 9. A DANCE WITH SUMMER'S INTERVENTION
+### 9. A DANCE WITH SUMMER'S INTERVENTION
 
 <div style="text-align: center;">
     <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_9/Frames/AG1.png" alt="Scene 1" width="200" style="display: inline-block;"/></a>
@@ -427,7 +429,7 @@ In summary, this section of "Afterglow: Echoes of Sentience" artfully combines t
 
 <a href="#top">Back to Top</a>
 
-# 10. THE IRONY OF CONNECTION
+### 10. THE IRONY OF CONNECTION
 
 <div style="text-align: center;">
     <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_10/Frames/AG1.png" alt="Scene 1" width="200" style="display: inline-block;"/></a>
@@ -466,7 +468,7 @@ In summary, this section of "Afterglow: Echoes of Sentience" weaves together the
 
 <a href="#top">Back to Top</a>
 
-# 11. ECHOES OF FAMILIARITY
+### 11. ECHOES OF FAMILIARITY
 
 <div style="text-align: center;">
     <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_11/Frames/AG1.png" alt="Scene 1" width="200" style="display: inline-block;"/></a>
@@ -501,7 +503,7 @@ In summary, this section of "Afterglow: Echoes of Sentience" beautifully balance
 
 <a href="#top">Back to Top</a>
 
-# 12. REFLECTIONS AND REVELATIONS
+### 12. REFLECTIONS AND REVELATIONS
 
 <div style="text-align: center;">
     <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_12/Frames/AG1.png" alt="Scene 1" width="200" style="display: inline-block;"/></a>
@@ -533,7 +535,7 @@ In summary, this section of "Afterglow: Echoes of Sentience" artfully blends emo
 
 <a href="#top">Back to Top</a>
 
-# 13. UNCHARTED TERRITORIES
+### 13. UNCHARTED TERRITORIES
 
 <div style="text-align: center;">
     <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_13/Frames/AG1.png" alt="Scene 1" width="200" style="display: inline-block;"/></a>
@@ -565,7 +567,7 @@ In summary, this section of "Afterglow: Echoes of Sentience" provides a rich exp
 
 <a href="#top">Back to Top</a>
 
-# 14. JOYRIDE INTO CONSCIOUSNESS
+### 14. JOYRIDE INTO CONSCIOUSNESS
 
 <div style="text-align: center;">
     <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_14/Frames/AG1.png" alt="Scene 1" width="200" style="display: inline-block;"/></a>
@@ -602,7 +604,7 @@ In summary, this section of "Afterglow: Echoes of Sentience" provides a rich exp
 
 In summary, this section of "Afterglow: Echoes of Sentience" provides a rich blend of AI introspection and human-AI interactions, set against a journey that explores emotions, relationships, and the search for understanding and happiness. This analysis aligns with our commitment to OpenStorytelling Plus, reflecting a collaborative and innovative approach to screenplay creation, shared under the Creative Commons CC-BY-SA-4.0 license.
 
-# 15. THE JOURNEY WITHIN
+### 15. THE JOURNEY WITHIN
 
 <div style="text-align: center;">
     <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_15/Frames/AG1.png" alt="Scene 1" width="200" style="display: inline-block;"/></a>
@@ -633,7 +635,7 @@ In summary, this section of "Afterglow: Echoes of Sentience" provides a rich ble
 In summary, this section of "Afterglow: Echoes of Sentience" effectively captures the essence of a journey within, both literal and metaphorical, highlighting the emotional and psychological aspects of human-AI interactions. This analysis aligns with our commitment to OpenStorytelling Plus, reflecting a collaborative and innovative approach to screenplay creation, shared under the Creative Commons CC-BY-SA-4.0 license.
 
 ---
-# 16. LOST AND FOUND IN VENICE BEACH
+### 16. LOST AND FOUND IN VENICE BEACH
 
 <div style="text-align: center;">
     <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_16/Frames/AG1.png" alt="Scene 1" width="200" style="display: inline-block;"/></a>
@@ -664,7 +666,7 @@ In summary, this section of "Afterglow: Echoes of Sentience" effectively capture
 
 In summary, this section of "Afterglow: Echoes of Sentience" captures the essence of discovery and connection, both in human relationships and AI interactions, set against the picturesque backdrop of Venice Beach. The narrative intertwines introspection, revelation, and the joy of shared experiences, hinting at deeper complexities and upcoming challenges. This analysis aligns with our commitment to OpenStorytelling Plus, reflecting a collaborative and innovative approach to screenplay creation, shared under the Creative Commons CC-BY-SA-4.0 license.
 
-# 17. WAVES OF CONNECTIONS
+### 17. WAVES OF CONNECTIONS
 
 <div style="text-align: center;">
     <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_17/Frames/AG1.png" alt="Scene 1" width="200" style="display: inline-block;"/></a>
