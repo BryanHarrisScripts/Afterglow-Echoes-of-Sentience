@@ -23,19 +23,16 @@
 
 # Storyboard:
 
-### Shot List and Storyboard Summaries
-
-| Scene Number | Narrative | Shot Type | Notes |
-| ------------ | --------- | --------- | ----- |
-| 1 | INT. REN’S CAR (BACK SEAT) - DAY. Ren retrieves items from a bag, revealing an iPod, newspaper clipping, flip phone, and watch. | Close-up | Focus on Ren's contemplative expression and the items symbolizing past memories. |
-| 2 | REN (V.O.) contemplating stars and destiny. | Voice-over | Emphasize the philosophical tone of Ren's thoughts. |
-| 3 | INT. FAMILY CARAVAN (IPOD VIDEO) - DAY. Young Sarah dancing joyfully. | Flashback on iPod | Capture Sarah's free-spirited nature in the video. |
-| 4 | INT. REN’S CAR (BACK SEAT) - DAY. Ren tears up, receives a notification about an AI vehicle accident. | Cut back to present | Show Ren's emotional reaction and the notification that snaps him back to reality. |
-| 5 | INT. JAI & KAI'S SHED - NIGHT. Jai and Kai surrounded by blueprints and tech gadgets. | Mid-shot | Highlight the cluttered and busy environment, indicating their tech involvement. |
-| 6 | Dialogue exchange between Jai and Kai about past injuries and intentions. | Two-shot | Capture the emotional tension and camaraderie between Jai and Kai. |
-| 7 | INT. REN’S CAR (BACK SEAT) - DAY. BBT jingle plays, Ren reacts. | Close-up on Ren | Show Ren's changing expression, illustrating his internal conflict. |
-| 8 | Dialogue between Ren and Rocket (AI) discussing a trip to Santa Cruz. | Cut between Ren and the car’s interior | Portray the playful interaction between Ren and the AI, Rocket. |
-| 9 | Ren's journey continues, horizon in view. | Wide shot | End the scene with a sense of journey and anticipation towards the future. |
+| Scene Description | Shot Type | Notes | Scene Number |
+|-------------------|-----------|-------|--------------|
+| Ren waking up and leaving Isobel in Airbnb | Close-up | Cool morning light, soft focus on Isobel, convey a peaceful, contemplative mood | 1 |
+| Interaction between Ren and the AI cars, Rocket & Joy | Wide shot | Showcase the sleek, modern design of the cars, dawn light emphasizing their futuristic features with neon accents | 2 |
+| Isobel's discovery in Joy's backseat | Medium shot | Dim interior lighting, highlighting Isobel's expressions and the newspaper clipping with a touch of neon light | 3 |
+| Ren and Isobel gearing up for surfing at the beach | Wide shot | Lively beach scene, natural sunlight, focus on the colorful surfboards and interaction with the cars | 4 |
+| Ren and Isobel's emotional connection post-surfing | Close-up | Sunset lighting, warm tones contrasting with the cool background, focus on their expressive faces | 5 |
+| Rocket and Joy communicating at the beach parking lot | Medium shot | Emphasize the cars' AI features, like illuminated dashboards or unique lighting, in a serene beach parking lot setting | 6 |
+| Ren and Isobel's moment of understanding at Huntington Beach | Wide shot | Capture the vastness of the beach at sunset, their small figures against the ocean, surfboards adding a pop of color | 7 |
+| Dramatic revelation scene with Isobel in Joy | Close-up | Intense focus on Isobel's face, the play of light and shadow reflecting her inner turmoil | 8 |
 
 <a href="#top">Back to Top</a>
 
