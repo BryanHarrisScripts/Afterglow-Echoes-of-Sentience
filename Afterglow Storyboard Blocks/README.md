@@ -64,9 +64,35 @@
           <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/tree/main/Afterglow%20Storyboard%20Blocks/Block_21/README.md">B21</a></li>
         </ol> 
       </td>
+	     <td valign="top">
+        <h4>Images</h4>
+        <ol start="1">
+          <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/tree/main/Afterglow%20Storyboard%20Blocks/Block_1/README.md">B1</a></li>
+          <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/tree/main/Afterglow%20Storyboard%20Blocks/Block_2/README.md">B2</a></li>
+          <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/tree/main/Afterglow%20Storyboard%20Blocks/Block_3/README.md">B3</a></li>
+          <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/tree/main/Afterglow%20Storyboard%20Blocks/Block_4/README.md">B4</a></li>
+          <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/tree/main/Afterglow%20Storyboard%20Blocks/Block_5/README.md">B5</a></li>
+          <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/tree/main/Afterglow%20Storyboard%20Blocks/Block_6/README.md">B6</a></li>
+          <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/tree/main/Afterglow%20Storyboard%20Blocks/Block_7/README.md">B7</a></li>
+          <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/tree/main/Afterglow%20Storyboard%20Blocks/Block_8/README.md">B8</a></li>
+          <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/tree/main/Afterglow%20Storyboard%20Blocks/Block_9/README.md">B9</a></li>
+          <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/tree/main/Afterglow%20Storyboard%20Blocks/Block_10/README.md">B10</a></li>
+          <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/tree/main/Afterglow%20Storyboard%20Blocks/Block_11/README.md">B11</a></li>
+          <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/tree/main/Afterglow%20Storyboard%20Blocks/Block_12/README.md">B12</a></li>
+          <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/tree/main/Afterglow%20Storyboard%20Blocks/Block_13/README.md">B13</a></li>
+          <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/tree/main/Afterglow%20Storyboard%20Blocks/Block_14/README.md">B14</a></li>
+          <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/tree/main/Afterglow%20Storyboard%20Blocks/Block_15/README.md">B15</a></li>
+          <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/tree/main/Afterglow%20Storyboard%20Blocks/Block_16/README.md">B16</a></li>
+          <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/tree/main/Afterglow%20Storyboard%20Blocks/Block_17/README.md">B17</a></li>
+          <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/tree/main/Afterglow%20Storyboard%20Blocks/Block_18/README.md">B18</a></li>
+          <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/tree/main/Afterglow%20Storyboard%20Blocks/Block_19/README.md">B19</a></li>
+          <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/tree/main/Afterglow%20Storyboard%20Blocks/Block_20/README.md">B20</a></li>
+          <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/tree/main/Afterglow%20Storyboard%20Blocks/Block_21/README.md">B21</a></li>
+        </ol> 
+      </td>
       <td valign="top">
         <h4>Afterglow</h4>
-          <a style="list-style-type: none;"><a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Poster%202023.png" alt="" width="300" style="display: inline-block;"/></a>
+          <a style="list-style-type: none;"><a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Poster%202023.png" alt="" width="450" style="display: inline-block;"/></a>
      </td>
     </tr>
   </table>
