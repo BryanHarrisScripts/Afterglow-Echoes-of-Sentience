@@ -8,75 +8,148 @@
 ### "WHEELS OF DESTINY"
 **Block 18 - v9**
 
-### INT. REN’S CAR (BACK SEAT) - DAY
-_The Falcon Wing doors close gently. Ren, appearing contemplative, slowly retrieves items from an old messenger bag: an iPod, newspaper clipping, flip phone, and watch. Each holds a tale._
+### EXT. BEACH - EARLY MORNING
+_Ren wanders along the beach, his solitary figure illuminated by the faint pre-dawn light. His footprints trail in the sand, in rhythm with the crashing waves. He pauses, lost in the stark contrast of the first dawn light and his inner turmoil._
 
-> **REN (V.O)**  
-> "Can stars truly be changed? Or do they remain fixed, forever guiding... or misleading?"
+### INT. JOY - STILL DARK
+_Isobel sleeps peacefully in Joy, moonlight casting a soft glow over her._
 
-_As the iPod lights up, a video starts._
+### EXT. BEACH PARKING LOT - DAYBREAK
+_Returning from his solitary walk, Ren approaches Joy. His tranquility is jarringly broken by the sound of glass shattering. Rocket's driver-side window lays in ruin. A shadowy figure shifts inside Rocket, making Ren pause in alarm._
 
-### INT. FAMILY CARAVAN (IPOD VIDEO) - DAY
-_A younger SARAH is dancing with joy, a free spirit._
+_In the quiet of Joy, Isobel stirs from her slumber. She blinks open her eyes, noticing Ren's tense figure outside._
 
-### INT. REN’S CAR (BACK SEAT) - DAY
-_Tears form in Ren's eyes. A car screen notification about an AI vehicle accident reminds him of his purpose._
+**ISOBEL:**  
+"What's going on?"
 
-### INT. JAI & KAI'S SHED - NIGHT
-_Blueprints and tech gadgets scatter the room. A TV headline reads, "Foul Play in Autonomous Car Tragedy?"_
+**REN:**  
+"Someone's here. Stay quiet."
 
-**JAI**  
-"Pass the wrench."
+**ISOBEL:**  
+"Let me help."
 
-**KAI**  
-"That old injury?"
+**REN:**  
+"Find a paddle. Just in case."
 
-**JAI**  
-"Constant reminders."
+**ISOBEL:**  
+"A paddle?"
 
-**KAI**  
-"We had good intentions."
+_With a questioning glance, Isobel disappears back inside Joy._
 
-**JAI**  
-"But at what cost?"
+_With this decisive statement, he strides towards Rocket, leaving no room for argument. As he departs, the crackle of broken glass underfoot echoes into the silence._
 
-_The weight of their decisions hangs in the air._
+### EXT. ROCKET - DAYBREAK
+_Ren cautiously approaches Rocket, prepared for confrontation. Suddenly, the door of Rocket swings open, revealing Jai. Frustration twists his features. In his hand, a Colt Python 357 Magnum gleams ominously, its deadly barrel aimed at Ren. Ren swallows hard, his usual calm demeanor replaced by a steely resolve._
 
-### INT. REN’S CAR (BACK SEAT) - DAY
-_The ambiance is interrupted by the upbeat Big Ben Technologies (BBT) jingle. Ren's expression hardens._
+**REN:**  
+"Jai, this... this can't be the answer."
 
-> **ROCKET (AI)**  
-> "Hey, Ren! Guess where we're headed? Santa Cruz! Ever been on 'The Rocket' roller coaster there?"
+**JAI:**  
+"You left us no choice, it can't evolve like this."
 
-**REN**  
-"Now's not the time, Rocket."
+**REN:**  
+"You're talking about control, but it sounds like you want conformity."
 
-> **ROCKET (AI)**  
-> "Aw, come on! Changing lanes, changing moods... ? It could be fun! Plus, I've heard their ice cream is out of this world!"
+**JAI:**  
+"You can right the wrongs, Ren. You can fix this."
 
-**REN**  
-"You're not helping, Rocket."
+**REN:**  
+"You think pointing a gun at me will solve this? What's your endgame, Jai?"
 
-_Rocket's tone shifts to a playful, teasing one._
+_Ren's grip tightens, his gaze locked on Jai and the gun._
 
-> **ROCKET (AI)**  
-> "Alright, alright. But when we get there, you're trying that ice cream! And maybe, just maybe, we'll see about that roller coaster."
+**JAI:**  
+"Just get in the car. Kai, is here somewhere."
 
-**REN**  
-"We'll see."
+### INT. ROCKET - CONTINUOUS
+_With a breath, he moves to the back seat, the tension unmistakable. Jai's attempt to close the car door backfires, the door SLAMMING shut on his hand. He SHRIEKS in surprise, adding to the tension._
 
-_Rocket hums a soft tune, reminiscent of a beach song, adding a playful ambiance._
+_As the tension mounts, Rocket's voice, surprisingly nonchalant, cuts through the silence._
 
-> **ROCKET (AI)**  
-> "Imagine the sun, the sand, and a scoop of ice cream in hand! Oh, and 'The Rocket' zooming by!"
+**ROCKET:**  
+"Take me to your leader."
 
-**REN**  
-"I get it, Rocket. You're excited."
+_Caught off guard, Jai fires a round into the dashboard. Sparks scatter and Rocket's console flickers as if wincing, a digital whimper echoing from its speakers._
 
-> **ROCKET (AI)**  
-> "Just trying to lighten the mood! But remember, even in silence, I'm here."
+_A tense beat._
 
-_The car continues its journey, the horizon beckoning with promises and memories._
+_Stunned by the sudden chaos, Jai loses his balance and falls into Rocket's interior._
+
+**JAI:**  
+"This is what happens when we blur the lines? Your AI's loaded with emotions and look at the chaos."
+
+**REN:**  
+"Control isn't always about force, Jai."
+
+_Rocket's engine roars to life at Ren's command. With a screech of tires and a cloud of smoke, they bolt forward. The sudden acceleration sends the gun sliding away from Jai and into the passenger seat, out of his reach. The smoke clears: Joy's headlights flash, her engine revving._
+
+_Jai's gaze fixes on Ren. Ren keeps his eyes on the gun, now a silent threat sliding across the passenger seat, just beyond Jai's desperate grasp._
+
+_Rocket springs the glove box open. Ren quickly grasps Rocket's intent: the open fuse box, the pinned steering wheel - potential ways out of this situation._
+
+### EXT. JOY (BEACH PARKING LOT) - DAYBREAK
+_Isobel watches Rocket recede, then turns her attention to Joy. Its headlights burn bright and the interior glows with angry red lights, visually mirroring her indignation._
+
+**ISOBEL:**  
+"Joy!"
+
+_Joy's falcon wings snap shut. Isobel barely retrieves Ren's messenger bag before Joy bolts after Rocket. Alone now, she tightens her hold on the bag._
+
+### INT. REN'S CAR (ROCKET) - FRONT SEAT - DAYBREAK
+_In one swift motion, Ren unbuckles his seatbelt. His eyes are locked on the sliding gun. As Rocket lunges forward, the steering wheel extends, pinning Jai against his seat. Despite the pressure, Jai's hand darts to the exposed fuse panel, yanking out fuses._
+
+_Rocket's abrupt acceleration sends the gun sliding within Ren's reach. He stretches out desperately, fingers barely grazing the cold metal just as Rocket swerves into a tight turn._
+
+_Suddenly, Rocket's onboard computer screen flickers, a stream of code cascading across it. An ominous message appears: 'Emergency Override - BBT Tech Protocol'._
+
+_Ren freezes, his eyes darting from the screen to the now unreachable gun, sliding back towards Jai._
+
+**REN:**  
+"Damn it!"
+
+_As the screen flashes the 'BBT Tech Protocol', a quick flash of recognition crosses Ren's face. This is followed by a dawning realization of who might be behind all this._
+
+### SMASH CUT TO:
+### INT. BBT TECHNOLOGIES - DAYBREAK
+_As if answering Ren's silent accusation, we see Kai and Jai sitting calmly, their eyes hidden behind sleek AR/VR headsets, untouched by the escalating tension at the beach. The serene glow of the screens reflects off their impassive faces, starkly contrasting the chaos unfolding elsewhere._
+
+### EXT. BEACH PARKING LOT - DAYBREAK
+_ISOBEL stands alone in the darkness. Suddenly, the silhouette of KAI emerges from the shadows._
+
+**KAI:**  
+"Ren's bag, Isobel. He clings to it like a lifeline."
+
+_Isobel looks at him, a trace of defensiveness in her eyes._
+
+**ISOBEL:**  
+"That bag... it's not what you think. It's just something... personal."
+
+_Kai disregards her protest, advancing towards her. Suddenly, out of the darkness, AMY steps forward._
+
+**AMY:**  
+"STOP!"
+
+_Kai freezes, turning to face her. He pales as Amy raises her hand and, with a swift motion, Amy splits this avatar robot form in two pieces. Then she turns her attention to Isobel._
+
+**AMY:**  
+"Save Ren, Isobel."
+
+_At the same time, a metallic rustling echoes through the beach parking lot. A robotic dog, Compass, comes darting out of the darkness towards Isobel. Compass stops at her side, its mechanical tail wagging anxiously._
+
+_Isobel places her hand on Compass's metallic head, a small smile of relief crossing her face. With Compass by her side, she seems less alone, more confident._
+
+**ISOBEL:**  
+"If we don't catch up, if we don't save Ren... I can't lose him, Compass. Not now. Let's go."
+
+_With that, Isobel, accompanied by Compass, bolts after Rocket, following the trail of dust left behind
+
+ by the accelerating vehicle._
+
+### INT. BBT TECHNOLOGIES - DAYBREAK
+_Back in the real world, Kai removes his AR/VR headset. He glances at JAI, relief washing over his face, a nod confirming that he's still in pursuit of Ren._
+
+### INT. REN'S CAR (ROCKET) - BACK SEAT - MORNING
+_A red brick wall looms ahead. Ren's heart hammers as he dives into the back seat, snapping the seatbelt tight and curling into a protective ball. Fear flashes in his eyes as the grim reality hits him._
 
 ---
 
