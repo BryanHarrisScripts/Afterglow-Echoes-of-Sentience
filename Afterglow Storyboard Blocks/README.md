@@ -17,13 +17,13 @@
         <ol start="1">
           <li><a>💯PUPPETS & PUPPETEERS PART 1</a></li>
           <li><a>💯PUPPETS & PUPPETEERS PART 2</a></li>
-          <li><a>💯A DANCE WITH AI & NEW BEGINNINGS</a></li>
-	  <li><a>💯BROKEN NUMBERS, SHATTERED HEARTS</a></li>
+          <li><a>💯A DANCE WITH AI</a></li>
+	  <li><a>💯BROKEN NUMBERS & HEARTS</a></li>
           <li><a>💯DAWN OF DEPARTURE & REFLECTION</a></li>
-          <li><a>💯REMNANTS OF THE PAST & ECHOES OF THE FUTURE</a></li>
+          <li><a>💯REMNANTS OF THE PAST</a></li>
           <li><a>💯THE LONG ROAD TO SILENCE</a></li>
-          <li><a>💯FROM DUSK TO DRIVE: AI ROAD TRIP RUMBLE</a></li>
-          <li><a>💯A DANCE WITH SUMMER'S INTERVENTION</a></li>
+          <li><a>💯AI ROAD TRIP RUMBLE</a></li>
+          <li><a>💯A DANCE WITH SUMMER</a></li>
           <li><a>💯THE IRONY OF CONNECTION</a></li>
           <li><a>💯ECHOES OF FAMILIARITY</a></li>
           <li><a>💯REFLECTIONS & REVELATIONS</a></li>
