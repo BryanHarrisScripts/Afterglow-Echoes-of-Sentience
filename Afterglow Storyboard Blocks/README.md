@@ -181,13 +181,13 @@ In summary, Part 2 of "Afterglow: Echoes of Sentience" builds upon the establish
 
 ### 3. A DANCE WITH AI AND NEW BEGINNING 
 
-<div style="text-align: left;">
-    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_3/Frames/Scene1.png" alt="Scene 1" width="200" style="display: inline-block;"/></a>
-    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_3/Frames/Scene2.png" alt="Scene 2" width="200" style="display: inline-block;"/></a>
-    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_3/Frames/Scene3.png" alt="Scene 3" width="200" style="display: inline-block;"/></a>
-    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_3/Frames/Scene4.png" alt="Scene 4" width="200" style="display: inline-block;"/></a>
-    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_3/Frames/Scene5.png" alt="Scene 4" width="200" style="display: inline-block;"/></a>
-    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_3/Frames/Scene6.png" alt="Scene 4" width="200" style="display: inline-block;"/></a>
+<div style="text-align: center;">
+    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_3/Frames/AG1.png" alt="Scene 1" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_3/Frames/AG2.png" alt="Scene 2" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_3/Frames/AG3.png" alt="Scene 3" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_3/Frames/AG4.PNG" alt="Scene 4" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_3/Frames/AG5.png" alt="Scene 4" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_3/Frames/AG6.png" alt="Scene 4" width="200" style="display: inline-block;"/></a>
 </div>
 
 "Block 3 - Version 10" of "Afterglow: Echoes of Sentience" introduces a new dimension to the narrative, focusing on the character of Summer Ray and her unique relationship with her AI companions:
