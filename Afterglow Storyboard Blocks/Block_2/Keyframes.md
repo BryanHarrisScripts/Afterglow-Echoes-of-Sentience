@@ -10,12 +10,12 @@
 # Storyboard Images:
 
 <div style="text-align: center;">
-    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_2/Frames/Scene1.png" alt="Scene 1" width="200" style="display: inline-block;"/></a>
-    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_2/Frames/Scene2.png" alt="Scene 2" width="200" style="display: inline-block;"/></a>
-    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_2/Frames/Scene3.png" alt="Scene 3" width="200" style="display: inline-block;"/></a>
-    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_2/Frames/Scene4.png" alt="Scene 4" width="200" style="display: inline-block;"/></a>
-    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_2/Frames/Scene5.png" alt="Scene 5" width="200" style="display: inline-block;"/></a>
-    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_2/Frames/Scene6.png" alt="Scene 6" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_2/Frames/AG1.png" alt="Scene 1" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_2/Frames/AG2.png" alt="Scene 2" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_2/Frames/AG3.png" alt="Scene 3" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_2/Frames/AG4.png" alt="Scene 4" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_2/Frames/AG5.png" alt="Scene 5" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_2/Frames/AG6.png" alt="Scene 6" width="200" style="display: inline-block;"/></a>
 </div>
 
 ---
