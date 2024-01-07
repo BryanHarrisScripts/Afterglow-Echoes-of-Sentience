@@ -211,6 +211,9 @@ In summary, Part 2 of "Afterglow: Echoes of Sentience" builds upon the establish
     <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_3/Frames/AG4.PNG" alt="Scene 4" width="200" style="display: inline-block;"/></a>
     <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_3/Frames/AG5.png" alt="Scene 4" width="200" style="display: inline-block;"/></a>
     <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_3/Frames/AG6.png" alt="Scene 4" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_3/Frames/AG7.PNG" alt="Scene 4" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_3/Frames/AG8.png" alt="Scene 4" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_3/Frames/AG9.png" alt="Scene 4" width="200" style="display: inline-block;"/></a>
 </div>
 
 "Block 3 - Version 10" of "Afterglow: Echoes of Sentience" introduces a new dimension to the narrative, focusing on the character of Summer Ray and her unique relationship with her AI companions:
