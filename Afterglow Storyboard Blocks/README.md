@@ -163,6 +163,20 @@ In summary, "Afterglow: Echoes of Sentience" explores the intersection of advanc
     <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_2/Frames/AG4.png" alt="Scene 4" width="200" style="display: inline-block;"/></a>
     <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_2/Frames/AG5.png" alt="Scene 5" width="200" style="display: inline-block;"/></a>
     <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_2/Frames/AG6.png" alt="Scene 6" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_2/Frames/AG7.png" alt="Scene 1" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_2/Frames/AG8.png" alt="Scene 2" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_2/Frames/AG9.png" alt="Scene 3" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_2/Frames/AG10.png" alt="Scene 4" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_2/Frames/AG11.png" alt="Scene 5" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_2/Frames/AG12.png" alt="Scene 6" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_2/Frames/AG13.png" alt="Scene 2" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_2/Frames/AG14.png" alt="Scene 3" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_2/Frames/AG15.png" alt="Scene 4" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_2/Frames/AG16.png" alt="Scene 5" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_2/Frames/AG17.png" alt="Scene 6" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_2/Frames/AG18.png" alt="Scene 2" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_2/Frames/AG19.png" alt="Scene 3" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_2/Frames/AG20.png" alt="Scene 4" width="200" style="display: inline-block;"/></a>
 </div>
 
 The second part of "Afterglow: Echoes of Sentience," titled "Puppets and Puppeteers Part 2," continues to explore complex themes and characters, deepening the narrative introduced in the first part:
