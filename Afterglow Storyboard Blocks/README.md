@@ -125,7 +125,7 @@
     <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_1/Frames/AG18.png" alt="Scene 5" width="200" style="display: inline-block;"/></a>
     <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_1/Frames/AG19.png" alt="Scene 6" width="200" style="display: inline-block;"/></a>
     <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_1/Frames/AG26.png" alt="Scene 1" width="200" style="display: inline-block;"/></a>
-    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_1/Frames/AG21.png" alt="Scene 2" width="200" style="display: inline-block;"/></a>
+    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_1/Frames/AG30.png" alt="Scene 2" width="200" style="display: inline-block;"/></a>
     <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_1/Frames/AG22.png" alt="Scene 3" width="200" style="display: inline-block;"/></a>
     <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_1/Frames/AG23.png" alt="Scene 4" width="200" style="display: inline-block;"/></a>
     <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_1/Frames/AG24.png" alt="Scene 5" width="200" style="display: inline-block;"/></a>
