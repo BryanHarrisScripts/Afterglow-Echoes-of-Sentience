@@ -7,10 +7,6 @@
 <a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/README.md">Home</a>
 </div>
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 1em; margin: 4em 0;">
-<a href="https://docs.github.com/en/site-policy/github-terms/github-community-guidelines">Guidelines</a> | <a href="https://twitter.com/i/communities/1669222125591318528">Community 𝕏</a> | <a href="https://twitter.com/i/lists/1675490119095140352">List 𝕏</a> | <a href="https://twitter.com/BryanRebooted/bio" target="_blank">@BryanRebooted 𝕏</a><br><br>
-</div>
-
 <div align="left">
   <h1>Table of Contents</h1>
   <table>
@@ -100,6 +96,10 @@
      </td>
     </tr>
   </table>
+</div>
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 1em; margin: 4em 0;">
+<a href="https://docs.github.com/en/site-policy/github-terms/github-community-guidelines">Guidelines</a> | <a href="https://twitter.com/i/communities/1669222125591318528">Community 𝕏</a> | <a href="https://twitter.com/i/lists/1675490119095140352">List 𝕏</a> | <a href="https://twitter.com/BryanRebooted/bio" target="_blank">@BryanRebooted 𝕏</a><br><br>
 </div>
 
 # Theme, Characters & Plot
@@ -212,18 +212,6 @@ In summary, Part 2 of "Afterglow: Echoes of Sentience" builds upon the establish
     <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_3/Frames/AG6.png" alt="Scene 4" width="200" style="display: inline-block;"/></a>
     <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_3/Frames/AG7.PNG" alt="Scene 4" width="200" style="display: inline-block;"/></a>
     <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_3/Frames/AG8.png" alt="Scene 4" width="200" style="display: inline-block;"/></a>
-    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_3/Frames/AG9.png" alt="Scene 4" width="200" style="display: inline-block;"/></a>
-    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_3/Frames/AG10.png" alt="Scene 1" width="200" style="display: inline-block;"/></a>
-    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_3/Frames/AG11.png" alt="Scene 2" width="200" style="display: inline-block;"/></a>
-    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_3/Frames/AG12.png" alt="Scene 3" width="200" style="display: inline-block;"/></a>
-    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_3/Frames/AG13.PNG" alt="Scene 4" width="200" style="display: inline-block;"/></a>
-    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_3/Frames/AG14.png" alt="Scene 4" width="200" style="display: inline-block;"/></a>
-    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_3/Frames/AG15.png" alt="Scene 4" width="200" style="display: inline-block;"/></a>
-    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_3/Frames/AG16.PNG" alt="Scene 4" width="200" style="display: inline-block;"/></a>
-    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_3/Frames/AG17.png" alt="Scene 4" width="200" style="display: inline-block;"/></a>
-    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_3/Frames/AG18.png" alt="Scene 4" width="200" style="display: inline-block;"/></a>
-    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_3/Frames/AG19.png" alt="Scene 4" width="200" style="display: inline-block;"/></a>
-    <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_3/Frames/AG20.png" alt="Scene 4" width="200" style="display: inline-block;"/></a>
 </div>
 
 "Block 3 - Version 10" of "Afterglow: Echoes of Sentience" introduces a new dimension to the narrative, focusing on the character of Summer Ray and her unique relationship with her AI companions:
@@ -259,18 +247,6 @@ In summary, this section of "Afterglow: Echoes of Sentience" expands the narrati
     <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_4/Frames/AG6.PNG" alt="Scene 1" width="200" style="display: inline-block;"/></a>
     <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_4/Frames/AG7.PNG" alt="Scene 1" width="200" style="display: inline-block;"/></a>
     <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_4/Frames/AG8.PNG" alt="Scene 1" width="200" style="display: inline-block;"/></a>
-    <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_4/Frames/AG9.PNG" alt="Scene 1" width="200" style="display: inline-block;"/></a>
-    <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_4/Frames/AG10.PNG" alt="Scene 1" width="200" style="display: inline-block;"/></a>
-    <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_4/Frames/AG11.PNG" alt="Scene 1" width="200" style="display: inline-block;"/></a>
-    <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_4/Frames/AG12.PNG" alt="Scene 1" width="200" style="display: inline-block;"/></a>
-    <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_4/Frames/AG13.PNG" alt="Scene 1" width="200" style="display: inline-block;"/></a>
-    <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_4/Frames/AG14.PNG" alt="Scene 1" width="200" style="display: inline-block;"/></a>
-    <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_4/Frames/AG15.PNG" alt="Scene 1" width="200" style="display: inline-block;"/></a>
-    <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_4/Frames/AG16.PNG" alt="Scene 1" width="200" style="display: inline-block;"/></a>
-    <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_4/Frames/AG17.PNG" alt="Scene 1" width="200" style="display: inline-block;"/></a>
-    <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_4/Frames/A18.PNG" alt="Scene 1" width="200" style="display: inline-block;"/></a>
-    <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_4/Frames/A19.PNG" alt="Scene 1" width="200" style="display: inline-block;"/></a>
-    <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_4/Frames/AG20.PNG" alt="Scene 1" width="200" style="display: inline-block;"/></a>
 </div>
 
 "Block 4 - v10" of "Afterglow: Echoes of Sentience," titled "Broken Numbers, Shattered Hearts," delves into a poignant and emotionally charged narrative segment, focusing on Ren and his past:
