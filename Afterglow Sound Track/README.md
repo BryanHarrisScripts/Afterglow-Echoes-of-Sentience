@@ -7,7 +7,10 @@ https://github.com/Fannovel16/ComfyUI-Video-Matting/assets/16047777/aa545ace-efd
 
 ![](./ScriptToScreens.png)
 
-https://api.github.com/repos/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/contents/Afterglow%20Sound%20Track/Broken%20Promises.mp4?ref=main
+https://raw.githubusercontent.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/main/Afterglow%20Sound%20Track/Broken%20Promises.mp4
+
+![Video](https://raw.githubusercontent.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/main/Afterglow%20Sound%20Track/Broken%20Promises.mp4)
+
 
 <a id="top"></a>
 
