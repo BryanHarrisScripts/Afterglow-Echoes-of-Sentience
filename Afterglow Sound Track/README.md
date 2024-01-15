@@ -5,8 +5,9 @@
 https://github.com/Fannovel16/ComfyUI-Video-Matting/assets/16047777/aa545ace-efdd-425b-b8b3-940274d1f851
 -->
 
-[Listen to EverAfterG.mp3](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Sound%20Track/BrokenPromisesG.mp3)
+![](./ScriptToScreens.png)
 
+https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Sound%20Track/BrokenPromisesG.mp3
 
 <a id="top"></a>
 
