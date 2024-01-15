@@ -2,7 +2,7 @@
 <!-- ... -->
 
 
-![Demo Video](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Sound%20Track/BROKENPROMISES.mp4)
+![Demo Video 2](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/Afterglow-Sound-Track/EVERAFTER.mp4)
 
 <video controls>
   <source src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Sound%20Track/BROKENPROMISES.mp4" type="video/mp4">
