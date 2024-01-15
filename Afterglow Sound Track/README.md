@@ -1,9 +1,9 @@
 <!-- Storyboard: Bryan Harris -->
 <!-- ... -->
 
-![](./example_matting_workflow.png)
-
+<!--![](./example_matting_workflow.png)
 https://github.com/Fannovel16/ComfyUI-Video-Matting/assets/16047777/aa545ace-efdd-425b-b8b3-940274d1f851
+-->
 
 <a id="top"></a>
 
