@@ -1,6 +1,9 @@
 <!-- Storyboard: Bryan Harris -->
 <!-- ... -->
 
+
+![Demo Video](https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Sound%20Track/BROKENPROMISES.mp4)
+
 <video controls>
   <source src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Sound%20Track/BROKENPROMISES.mp4" type="video/mp4">
   Your browser does not support the video tag.
