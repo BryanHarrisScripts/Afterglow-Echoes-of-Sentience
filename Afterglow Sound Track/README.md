@@ -1,6 +1,10 @@
 <!-- Storyboard: Bryan Harris -->
 <!-- ... -->
 
+![](./example_matting_workflow.png)
+
+https://github.com/Fannovel16/ComfyUI-Video-Matting/assets/16047777/aa545ace-efdd-425b-b8b3-940274d1f851
+
 <a id="top"></a>
 
 <div align="right" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 1em; margin: 4em 0;">
