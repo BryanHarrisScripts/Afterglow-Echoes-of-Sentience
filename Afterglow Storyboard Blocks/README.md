@@ -13,7 +13,7 @@
     <!-- First Row -->
     <tr>
       <td valign="top">
-        <h4>Block Description</h4>
+        <h4>Theme, Characters & Plot</h4>
         <ol start="1">
           <li><a>💯PUPPETS & PUPPETEERS PART 1</a></li>
           <li><a>💯PUPPETS & PUPPETEERS PART 2</a></li>
