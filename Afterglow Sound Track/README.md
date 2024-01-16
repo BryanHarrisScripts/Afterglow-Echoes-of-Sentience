@@ -6,9 +6,6 @@ https://github.com/Fannovel16/ComfyUI-Video-Matting/assets/16047777/aa545ace-efd
 -->
 
 
-
-![]()
-	
 https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/assets/91784044/e235502a-85cd-4e19-8c30-603bb3438f54
 
 
@@ -33,7 +30,7 @@ https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/assets/91784
       <td valign="top">
         <h4>MP3</h4>
         <ol start="1">
-          <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Sound%20Track/BROKENPROMISES.mp4">B1</a></li>
+          <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/assets/91784044/e235502a-85cd-4e19-8c30-603bb3438f54">B1</a></li>
           </ol> 
       </td>
 	<td valign="top">
