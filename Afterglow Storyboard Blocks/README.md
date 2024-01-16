@@ -65,7 +65,7 @@
         </ol> 
       </td>
 	     <td valign="top">
-        <h4>Images</h4>
+        <h4>Keyframes</h4>
         <ol start="1">
           <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/tree/main/Afterglow%20Storyboard%20Blocks/Block_1/Keyframes.md">B1</a></li>
           <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/tree/main/Afterglow%20Storyboard%20Blocks/Block_2/Keyframes.md">B2</a></li>
