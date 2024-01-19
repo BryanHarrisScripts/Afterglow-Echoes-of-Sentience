@@ -23,3 +23,7 @@ https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/assets/91784
 https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/assets/91784044/7e3dc544-94e5-4ee2-b1ed-45de0e1f529d
 
 
+
+https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/assets/91784044/74228de8-da0d-4508-ba3b-d285c0cb91db
+
+
