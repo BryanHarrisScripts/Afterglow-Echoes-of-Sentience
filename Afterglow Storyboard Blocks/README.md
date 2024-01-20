@@ -24,6 +24,7 @@
         <h4>Theme, Characters & Plot</h4>
         <ol start="1">
 	  <li><a href="#puppets-and-puppeteers-part-1">💯PUPPETS & PUPPETEERS PART 1</a></li>
+	  <li><a href="#puppets-and-puppeteers-part-2">💯PUPPETS & PUPPETEERS PART 2</a></li>
           <li><a>💯PUPPETS & PUPPETEERS PART 1</a></li>
           <li><a>💯PUPPETS & PUPPETEERS PART 2</a></li>
           <li><a>💯A DANCE WITH AI</a></li>
@@ -117,8 +118,6 @@
 
 # PUPPETS AND PUPPETEERS PART 1
 
-### 1. PUPPETS AND PUPPETEERS PART 1
-
 <div style="text-align: center;">
     <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_1/Frames/AG1.png" alt="Scene 1" width="200" style="display: inline-block;"/></a>
     <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_1/Frames/AG2.png" alt="Scene 2" width="200" style="display: inline-block;"/></a>
@@ -164,7 +163,7 @@ In summary, "Afterglow: Echoes of Sentience" explores the intersection of advanc
 
 <a href="#top">Back to Top</a>
 
-### 2. PUPPETS AND PUPPETEERS PART 2
+# PUPPETS AND PUPPETEERS PART 2
 
 <div style="text-align: center;">
     <a href="" target="_blank"><img src="/Afterglow Storyboard Blocks/Block_2/Frames/AG1.png" alt="Scene 1" width="200" style="display: inline-block;"/></a>
