@@ -25,8 +25,8 @@
         <ol start="1">
 	  <li><a href="#puppets-and-puppeteers-part-1">💯PUPPETS & PUPPETEERS PART 1</a></li>
 	  <li><a href="#puppets-and-puppeteers-part-2">💯PUPPETS & PUPPETEERS PART 2</a></li>
-          <li><a href="#a-dance-with-ai">💯A DANCE WITH AI</a></li>
-	  <li><a href="#broken-numbers-&-hearts">💯BROKEN NUMBERS & HEARTS</a></li>
+          <li><a href="#a-dance-with-ai-and-new-beginning">💯A DANCE WITH AI</a></li>
+	  <li><a href="#broken-numbers-shattered-hearts">💯BROKEN NUMBERS & HEARTS</a></li>
           <li><a>💯DAWN OF DEPARTURE & REFLECTION</a></li>
           <li><a>💯REMNANTS OF THE PAST</a></li>
           <li><a>💯THE LONG ROAD TO SILENCE</a></li>
@@ -244,7 +244,7 @@ In summary, this section of "Afterglow: Echoes of Sentience" expands the narrati
 
 <a href="#top">Back to Top</a>
 
-# BROKEN NUMBERS, SHATTERED HEARTS
+# BROKEN NUMBERS SHATTERED HEARTS
 
 <div style="text-align: left;">
     <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_4/Frames/AG1.PNG" alt="Scene 1" width="200" style="display: inline-block;"/></a>
