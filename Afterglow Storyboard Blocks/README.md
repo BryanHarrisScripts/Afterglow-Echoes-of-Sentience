@@ -23,7 +23,7 @@
       <td valign="top">
         <h4>Theme, Characters & Plot</h4>
         <ol start="1">
-	  <li><a href="#1.-puppets-and-puppeteers-part-1">Welcome to Afterglow </a></li>
+	  <li><a href="#puppets-and-puppeteers-part-1">Welcome to Afterglow </a></li>
           <li><a>💯PUPPETS & PUPPETEERS PART 1</a></li>
           <li><a>💯PUPPETS & PUPPETEERS PART 2</a></li>
           <li><a>💯A DANCE WITH AI</a></li>
