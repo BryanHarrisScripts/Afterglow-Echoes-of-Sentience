@@ -1,9 +1,9 @@
 <!-- Main container with right alignment -->
 <div style="margin: 0; padding: 0;"></div>
-<div align="right" style="display: flex; flex-wrap: wrap; justify-content: right; align-items: right; gap: 1em; margin: 4em 0;">
+<div align="right" style="display: flex; flex-wrap: wrap; justify-content: right; align-items: right; gap: 1em; margin: 1em 0;">
     <a href="https://openstorytelling.com">Home</a>
     <!-- Video container, centered -->
-    <div align="center" style="margin: 4em 0;">
+    <div align="center" style="margin: 1em 0;">
         <video width="980" height="551.25" controls>
             <source src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/assets/91784044/a830058d-2938-43ef-9fbf-9cc6346e4d07" type="video/mp4">
             Your browser does not support the video tag.
@@ -15,7 +15,7 @@
 <a id="top"></a>
 
 <!-- Table of Contents and additional links, centered -->
-<div align="center" style="margin: 4em 0;">
+<div align="center" style="margin: 1em 0;">
     <h1>Table of Contents</h1>
     <p>
         <a href="https://docs.github.com/en/site-policy/github-terms/github-community-guidelines">Guidelines</a> | 
@@ -64,7 +64,7 @@
   </div>
 </div>  
 
-<div align="center" style="margin: 4em 0;">
+<div align="center" style="margin: 1em 0;">
     <p><a href="#licensing-and-attribution">Developed by a Human: Bryan Harris (Afterglow Screenplay)</a></p>
 </div>
 
