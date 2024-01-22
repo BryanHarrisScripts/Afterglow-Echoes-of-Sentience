@@ -4,7 +4,7 @@
 
 </div>
 
-<video width="320" height="240" controls>
+<video width="640" height="480" controls>
   <source src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/assets/91784044/a830058d-2938-43ef-9fbf-9cc6346e4d07" type="video/mp4">
   Your browser does not support the video tag.
 </video>
