@@ -8,7 +8,7 @@ https://github.com/Fannovel16/ComfyUI-Video-Matting/assets/16047777/aa545ace-efd
 <a id="top"></a>
 
 <div align="right" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 1em; margin: 4em 0;">
-<a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/README.md">Home</a>
+<a href="https://afterglow.openstorytelling.com">Home</a>
 </div>
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 1em; margin: 4em 0;">
