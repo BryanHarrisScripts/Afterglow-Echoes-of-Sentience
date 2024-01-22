@@ -59,8 +59,10 @@ https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/assets/91784
 <div align="center">
   <a href="#licensing-and-attribution">**Developed by a Human: Bryan Harris (Afterglow Screenplay)</a>
 </div><br>
+</div>
+</div>
 
----
+--- 
 
 ### Disclaimer
 
