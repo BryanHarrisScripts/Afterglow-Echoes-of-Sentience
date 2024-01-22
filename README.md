@@ -24,8 +24,8 @@
     </p>
     <a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20v10%20X%20Rewrite%20Bryan%20E.%20Harris%202023.pdf">Afterglow v10: Working Through The Edit!</a>
     <!-- Content Tables, centered -->
-    <div style="width: 100%; display: flex; justify-content: center;">
-    <table style="width: 50%;"><!-- Adjust the width as needed -->
+    <div style="width: 0%; display: flex; justify-content: center;">
+    <table style="width: 0%;"><!-- Adjust the width as needed -->
         <tr>
     <table>
         <tr>
@@ -60,10 +60,12 @@
     </table>
         </tr>
     </table>
-</div>
+  </div>
 </div>  
-</div>
+
+<div align="center" style="margin: 4em 0;">
     <p><a href="#licensing-and-attribution">Developed by a Human: Bryan Harris (Afterglow Screenplay)</a></p>
+</div>
 
 --- 
 
