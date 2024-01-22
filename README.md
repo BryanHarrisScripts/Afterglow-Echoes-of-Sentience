@@ -1,7 +1,5 @@
 <div align="right" style="display: flex; flex-wrap: wrap; justify-content: right; align-items: right; gap: 1em; margin: 4em 0;">
-
-<a href="https://openstorytelling.com">Home</a>
-
+<a href="https://openstorytelling.com">Home</a><br>
 </div>
 
 <video width="640" height="480" controls>
@@ -9,15 +7,13 @@
   Your browser does not support the video tag.
 </video>
 
-https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/assets/91784044/a830058d-2938-43ef-9fbf-9cc6346e4d07
-
 <div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 1em; margin: 4em 0;">
-
 <img src="./Images/Afterglow Menu v9.png" />
-
-<div align="center">
+</div>  
 
 <a id="top"></a>
+
+<div align="center">
 
 <h1>Table of Contents</h1><br>
   
@@ -27,8 +23,7 @@ https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/assets/91784
 
 </div>
 
-<div align="center">
-  
+<div align="center">  
   <table>
     <tr>
        <td valign="top">
@@ -58,12 +53,10 @@ https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/assets/91784
       </td>
     </tr>
   </table>
-
 </div>
 
 <div align="center">
   <a href="#licensing-and-attribution">**Developed by a Human: Bryan Harris (Afterglow Screenplay)</a>
-</div>
 </div>
 
 --- 
