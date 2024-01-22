@@ -1,56 +1,67 @@
+<!-- Main container with right alignment -->
 <div align="right" style="display: flex; flex-wrap: wrap; justify-content: right; align-items: right; gap: 1em; margin: 4em 0;">
-<a href="https://openstorytelling.com">Home</a>
-<div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 1em; margin: 4em 0;">
-<!-- <img src="./Images/Afterglow Menu v9.png" /> -->
-  <video width="980" height="551.25" controls>
-  <source src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/assets/91784044/a830058d-2938-43ef-9fbf-9cc6346e4d07" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-</div>
+    <a href="https://openstorytelling.com">Home</a>
+    <!-- Video container, centered -->
+    <div align="center" style="margin: 4em 0;">
+        <video width="980" height="551.25" controls>
+            <source src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/assets/91784044/a830058d-2938-43ef-9fbf-9cc6346e4d07" type="video/mp4">
+            Your browser does not support the video tag.
+        </video>
+    </div>
 </div>
 
+<!-- Anchor for top navigation -->
 <a id="top"></a>
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 1em; margin: 4em 0;">
-
-<h1>Table of Contents</h1><br>
-  
-<a href="https://docs.github.com/en/site-policy/github-terms/github-community-guidelines">Guidelines</a> | <a href="https://twitter.com/i/communities/1669222125591318528">Community 𝕏</a> | <a href="https://twitter.com/i/lists/1675490119095140352">List 𝕏</a> | <a href="https://twitter.com/BryanRebooted/bio" target="_blank">@BryanRebooted 𝕏</a><br>
-
-<a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20v10%20X%20Rewrite%20Bryan%20E.%20Harris%202023.pdf">Afterglow v10: Working Through The Edit! </a>
- 
-  <table>
-    <tr>
-       <td valign="top">
-    <h4>Afterglow: </h4>
-        <ol start="1">
-        <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/Afterglow/README.md">Afterglow - Menu</a></li>
-        <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/Images">Images - X Images Used</a></li>
-        <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/tree/main/">Github Tree</a></li>
-        <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard/AI%20Concept.md">Movie Guide with AI</a></li><br>
-        <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/README.md">🎞️Storyboard</a></li>
-        <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Sound%20Track/README.md">🎶Soundtrack</a></li><br>
-    </ol> 
-</td>
-    <td valign="top">
-      <h4>This Page:</h4>
-      <ol start="1">
-        <li><a href="#a-new-way">A New Way?</a></li>
-        <li><a href="#welcome-to-the-afterglow-journey">Welcome to Afterglow </a></li>
-        <li><a href="#about-afterglow-echoes-of-sentience">About Afterglow: Echoes of Sentience</a></li>
-        <li><a href="#afterglow-files">Afterglow Script Files v8, v9</a></li>
-        <li><a href="#the-unseen-editor">The Unseen Editor</a></li>
-        <li><a href="#ai-in-screenwriting-a-new-tool-not-a-co-author">AI in Screenwriting</a></li>
-        <li><a href="#ai-in-creativity-a-disclaimer">AI in Creativity: A Disclaimer</a></li>  
-        <li><a href="#licensing-and-attribution">Licensing and Attribution</a></li>  
-        <li><a href="#understanding-copyright">Copyright vs Open Source</a></li>   
-      </ol>
-      </td>
-    </tr>
-  </table>
-
-  <a href="#licensing-and-attribution">**Developed by a Human: Bryan Harris (Afterglow Screenplay)</a>
-</div>
+<!-- Table of Contents and additional links, centered -->
+<div align="center" style="margin: 4em 0;">
+    <h1>Table of Contents</h1>
+    <p>
+        <a href="https://docs.github.com/en/site-policy/github-terms/github-community-guidelines">Guidelines</a> | 
+        <a href="https://twitter.com/i/communities/1669222125591318528">Community 𝕏</a> | 
+        <a href="https://twitter.com/i/lists/1675490119095140352">List 𝕏</a> | 
+        <a href="https://twitter.com/BryanRebooted/bio" target="_blank">@BryanRebooted 𝕏</a>
+    </p>
+    <a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20v10%20X%20Rewrite%20Bryan%20E.%20Harris%202023.pdf">Afterglow v10: Working Through The Edit!</a>
+    <!-- Content Tables, centered -->
+    <table style="margin: auto;">
+        <tr>
+            <!-- Table cells with content -->
+            <!-- Content Tables -->
+    <table>
+        <tr>
+            <!-- Afterglow Section -->
+            <td valign="top">
+                <h4>Afterglow:</h4>
+                <ol start="1">
+                    <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/blob/main/Afterglow/README.md">Afterglow - Menu</a></li>
+                    <li><a href="https://github.com/BryanHarrisScripts/AI-ScreenCraft-Hub/tree/main/Images">Images - X Images Used</a></li>
+                    <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/tree/main/">Github Tree</a></li>
+                    <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard/AI%20Concept.md">Movie Guide with AI</a></li>
+                    <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/README.md">Storyboard</a></li>
+                    <li><a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Sound%20Track/README.md">Soundtrack</a></li>
+                </ol> 
+            </td>
+            <!-- This Page Section -->
+            <td valign="top">
+                <h4>This Page:</h4>
+                <ol start="1">
+                    <li><a href="#a-new-way">A New Way?</a></li>
+                    <li><a href="#welcome-to-the-afterglow-journey">Welcome to Afterglow</a></li>
+                    <li><a href="#about-afterglow-echoes-of-sentience">About Afterglow: Echoes of Sentience</a></li>
+                    <li><a href="#afterglow-files">Afterglow Script Files v8, v9</a></li>
+                    <li><a href="#the-unseen-editor">The Unseen Editor</a></li>
+                    <li><a href="#ai-in-screenwriting-a-new-tool-not-a-co-author">AI in Screenwriting</a></li>
+                    <li><a href="#ai-in-creativity-a-disclaimer">AI in Creativity: A Disclaimer</a></li>  
+                    <li><a href="#licensing-and-attribution">Licensing and Attribution</a></li>  
+                    <li><a href="#understanding-copyright">Copyright vs Open Source</a></li>   
+                </ol>
+            </td>
+        </tr>
+    </table>
+        </tr>
+    </table>
+    <p><a href="#licensing-and-attribution">Developed by a Human: Bryan Harris (Afterglow Screenplay)</a></p>
 </div>
 
 --- 
