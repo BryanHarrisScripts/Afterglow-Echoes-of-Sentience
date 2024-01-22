@@ -1,17 +1,15 @@
-<div align="right" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 1em; margin: 4em 0;">
+<div align="right" style="display: flex; flex-wrap: wrap; justify-content: right; align-items: right; gap: 1em; margin: 4em 0;">
 
 <a href="https://openstorytelling.com">Home</a>
+
+</div>
 
 <video width="320" height="240" controls>
   <source src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/assets/91784044/a830058d-2938-43ef-9fbf-9cc6346e4d07" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
-</div>
-
 https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/assets/91784044/a830058d-2938-43ef-9fbf-9cc6346e4d07
-
-<img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/assets/91784044/a830058d-2938-43ef-9fbf-9cc6346e4d07" />
 
 <div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 1em; margin: 4em 0;">
 
