@@ -2,14 +2,13 @@
 <a href="https://openstorytelling.com">Home</a><br>
 </div>
 
-<video width="640" height="480" controls>
+<div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 1em; margin: 4em 0;">
+  <img src="./Images/Afterglow Menu v9.png" />
+  <video width="640" height="480" controls>
   <source src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/assets/91784044/a830058d-2938-43ef-9fbf-9cc6346e4d07" type="video/mp4">
   Your browser does not support the video tag.
 </video>
-
-<div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 1em; margin: 4em 0;">
-<img src="./Images/Afterglow Menu v9.png" />
-</div>  
+</div>
 
 <a id="top"></a>
 
@@ -17,9 +16,9 @@
 
 <h1>Table of Contents</h1><br>
   
-<a href="https://docs.github.com/en/site-policy/github-terms/github-community-guidelines">Guidelines</a> | <a href="https://twitter.com/i/communities/1669222125591318528">Community 𝕏</a> | <a href="https://twitter.com/i/lists/1675490119095140352">List 𝕏</a> | <a href="https://twitter.com/BryanRebooted/bio" target="_blank">@BryanRebooted 𝕏</a><br><br>
+<a href="https://docs.github.com/en/site-policy/github-terms/github-community-guidelines">Guidelines</a> | <a href="https://twitter.com/i/communities/1669222125591318528">Community 𝕏</a> | <a href="https://twitter.com/i/lists/1675490119095140352">List 𝕏</a> | <a href="https://twitter.com/BryanRebooted/bio" target="_blank">@BryanRebooted 𝕏</a><br>
 
-<a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20v10%20X%20Rewrite%20Bryan%20E.%20Harris%202023.pdf">Afterglow v10: Working Through The Edit! </a><br><br>
+<a href="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20v10%20X%20Rewrite%20Bryan%20E.%20Harris%202023.pdf">Afterglow v10: Working Through The Edit! </a><br>
 
 </div>
 
