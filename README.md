@@ -1,4 +1,5 @@
 <!-- Main container with right alignment -->
+<div style="margin: 0; padding: 0;"></div>
 <div align="right" style="display: flex; flex-wrap: wrap; justify-content: right; align-items: right; gap: 1em; margin: 4em 0;">
     <a href="https://openstorytelling.com">Home</a>
     <!-- Video container, centered -->
