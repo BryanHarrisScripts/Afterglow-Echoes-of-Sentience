@@ -1,3 +1,9 @@
+<a id="top"></a>
+
+<div align="right" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 1em; margin: 4em 0;">
+<a href="https://afterglow.openstorytelling.com">Home</a><br><br>
+</div>
+
 Blending the character analysis of "Afterglow" with "Star Wars" archetypes and adding fun captions for potential NFTs, we get a structured guide that offers a detailed representation of each character, making them relatable and exciting for a wide audience. Here's how each character fits into the story roles and a suggested caption for their NFT:
 
 1. **Protagonist (Hero)**
