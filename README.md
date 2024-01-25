@@ -1,7 +1,9 @@
 <!-- Main container with right alignment -->
 <div style="margin: 0; padding: 0;"></div>
 <div align="right" style="display: flex; flex-wrap: wrap; justify-content: right; align-items: right; gap: 1em; margin: 1em 0;">
-    <a href="https://openstorytelling.com">Home</a>
+    <a href="https://openstorytelling.com">Home</a><br><br>
+<div align="left" style="display: flex; flex-wrap: wrap; justify-content: right; align-items: right; gap: 1em; margin: 1em 0;">
+It is in our world that we've seen the true afterglow – a metaphor for hope, understanding, and the eternal power of love. This afterglow is not just a fleeting moment of beauty; it's a lasting testament to what we can create and experience when we live in a world guided by our hearts and imaginations.
     <!-- Video container, centered -->
     <div align="center" style="margin: 1em 0;">
         <video width="980" height="551.25" controls>
@@ -9,6 +11,7 @@
             Your browser does not support the video tag.
         </video>
     </div>
+</div>
 </div>
 
 <!-- Anchor for top navigation -->
