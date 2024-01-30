@@ -317,7 +317,7 @@ In summary, this section of "Afterglow: Echoes of Sentience" contrasts the theme
 
 <a href="#top">Back to Top</a>
 
-# REMNANTS OF THE PAST AND ECHOES OF THE FUTURE
+# REMNANTS OF THE PAST
 
 <div style="text-align: center;">
     <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_6/Frames/AG1.PNG" alt="Scene 1" width="200" style="display: inline-block;"/></a>
@@ -397,7 +397,7 @@ In summary, this section of "Afterglow: Echoes of Sentience" combines emotional 
 
 <a href="#top">Back to Top</a>
 
-# FROM DUSK TO DRIVE: AI ROAD TRIP RUMBLE
+# AI ROAD TRIP RUMBLE
 
 <div style="text-align: left;">
     <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_8/Frames/AG1.png" alt="Scene 1" width="200" style="display: inline-block;"/></a>
