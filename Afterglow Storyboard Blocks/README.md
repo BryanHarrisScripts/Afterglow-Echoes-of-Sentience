@@ -29,23 +29,23 @@
 	  <li><a href="#puppets-and-puppeteers-part-2">💯PUPPETS & PUPPETEERS PART 2</a></li>
           <li><a href="#a-dance-with-ai-and-new-beginning">💯A DANCE WITH AI</a></li>
 	  <li><a href="#broken-numbers-shattered-hearts">💯BROKEN NUMBERS & HEARTS</a></li>
-          <li><a>💯DAWN OF DEPARTURE & REFLECTION</a></li>
-          <li><a>💯REMNANTS OF THE PAST</a></li>
-          <li><a>💯THE LONG ROAD TO SILENCE</a></li>
-          <li><a>💯AI ROAD TRIP RUMBLE</a></li>
-          <li><a>💯A DANCE WITH SUMMER</a></li>
-          <li><a>💯THE IRONY OF CONNECTION</a></li>
-          <li><a>💯ECHOES OF FAMILIARITY</a></li>
-          <li><a>💯REFLECTIONS & REVELATIONS</a></li>
-          <li><a>💯UNCHARTED TERRITORIES</a></li>
-          <li><a>💯JOYRIDE INTO CONSCIOUSNESS</a></li>
-          <li><a>💯THE JOURNEY WITHIN</a></li>
-          <li><a>💯LOST & FOUND IN VENICE BEACH</a></li>
-          <li><a>💯WAVES OF CONNECTIONS</a></li>
-          <li><a>💯WHEELS OF DESTINY</a></li>
-          <li><a>💯SURVIVING SINGULARITY</a></li>
-          <li><a>💯CODED BONDS</a></li>
-          <li><a>💯GUIDING STARS</a></li>
+          <li><a href="#dawn-of-departure-and-reflection">💯DAWN OF DEPARTURE & REFLECTION</a></li>
+         <li><a href="#dawn-of-departure-and-reflection">💯REMNANTS OF THE PAST</a></li>
+         <li><a href="#dawn-of-departure-and-reflection">💯THE LONG ROAD TO SILENCE</a></li>
+         <li><a href="#dawn-of-departure-and-reflection">💯AI ROAD TRIP RUMBLE</a></li>
+         <li><a href="#dawn-of-departure-and-reflection">💯A DANCE WITH SUMMER</a></li>
+         <li><a href="#dawn-of-departure-and-reflection">💯THE IRONY OF CONNECTION</a></li>
+         <li><a href="#dawn-of-departure-and-reflection">💯ECHOES OF FAMILIARITY</a></li>
+         <li><a href="#dawn-of-departure-and-reflection">💯REFLECTIONS & REVELATIONS</a></li>
+         <li><a href="#dawn-of-departure-and-reflection">💯UNCHARTED TERRITORIES</a></li>
+         <li><a href="#dawn-of-departure-and-reflection">💯JOYRIDE INTO CONSCIOUSNESS</a></li>
+         <li><a href="#dawn-of-departure-and-reflection">💯THE JOURNEY WITHIN</a></li>
+         <li><a href="#dawn-of-departure-and-reflection">💯LOST & FOUND IN VENICE BEACH</a></li>
+         <li><a href="#dawn-of-departure-and-reflection">💯WAVES OF CONNECTIONS</a></li>
+         <li><a href="#dawn-of-departure-and-reflection">💯WHEELS OF DESTINY</a></li>
+         <li><a href="#dawn-of-departure-and-reflection">💯SURVIVING SINGULARITY</a></li>
+         <li><a href="#dawn-of-departure-and-reflection">💯CODED BONDS</a></li>
+         <li><a href="#dawn-of-departure-and-reflection">💯GUIDING STARS</a></li>
         </ol> 
       </td>
       <td valign="top">
