@@ -431,7 +431,7 @@ In summary, this section of "Afterglow: Echoes of Sentience" ramps up the action
 
 <a href="#top">Back to Top</a>
     
-# 9. A DANCE WITH SUMMER'S INTERVENTION
+# 9. A DANCE WITH SUMMER
 
 <div style="text-align: center;">
     <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_9/Frames/AG1.png" alt="Scene 1" width="200" style="display: inline-block;"/></a>
@@ -820,7 +820,7 @@ In summary, this section of "Afterglow: Echoes of Sentience" poignantly captures
 
 <a href="#top">Back to Top</a>
 
-# 20. CODED BONDS
+# CODED BONDS
 
 <div style="text-align: center;">
     <a href="" target="_blank"><img src="https://github.com/BryanHarrisScripts/Afterglow-Echoes-of-Sentience/blob/main/Afterglow%20Storyboard%20Blocks/Block_20/Frames/AG1.png" alt="Scene 1" width="200" style="display: inline-block;"/></a>
