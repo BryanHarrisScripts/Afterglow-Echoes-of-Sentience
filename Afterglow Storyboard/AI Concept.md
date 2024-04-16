@@ -1,7 +1,7 @@
 <a id="top"></a>
 
 <div align="right" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 1em; margin: 4em 0;">
-<a href="https://afterglow.openstorytelling.com">Home</a>
+<a href="https://afterglow.openstorystudio.com">Home</a>
 <div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 1em; margin: 4em 0;">
 <div align="left">
 
